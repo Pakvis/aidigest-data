@@ -3,17 +3,17 @@
     {
       "consolidation" : {
         "latest_source_at" : "2026-07-14T23:54:07Z",
-        "message_count" : 46,
+        "message_count" : 80,
         "reason" : "Multiple sources reported the same story.",
-        "source_count" : 7
+        "source_count" : 6
       },
       "created_at" : "2026-07-14T23:54:07Z",
       "id" : "2026-07-16-3aa5d4c2e4aa",
       "importance" : "high",
       "key_insights" : [
-        "Why it matters: The increased demand for OpenAI's agent products, including Codex and ChatGPT Work, highlights the growing importance of AI in business operations.",
-        "What changed: OpenAI has enhanced its ChatGPT Desktop with Work and Codex, and the demand for GPT-5.6 is significantly higher than anticipated.",
-        "What to watch: The scaling challenges OpenAI is facing due to the high demand for GPT-5.6 will be closely monitored."
+        "Why it matters: OpenAI's agent products are seeing unusually strong pull, with usage of Codex + ChatGPT Work growing 2.5x in a week and GPT-5.6 Sol demand being \"insane.",
+        "What changed: GPT-5.6 Sol demand is \"insane\" and may cause scaling hiccups while infra catches up.",
+        "What to watch: OpenAI's agent products are seeing unusually strong pull, with usage of Codex + ChatGPT Work growing 2.5x in a week and GPT-5.6 Sol demand being \"insane."
       ],
       "sources" : [
         {
@@ -32,17 +32,17 @@
           "url" : "https:\/\/openai.com\/academy\/codex-for-work\/how-data-science-teams-use-codex"
         },
         {
-          "source_name" : "The AI Report",
-          "title" : "️ ChatGPT Work goes live",
-          "url" : "https:\/\/newsletter.theaireport.ai\/p\/chatgpt-work-goes-live"
+          "source_name" : "TLDR AI",
+          "title" : "Claude Code browser 🌍, Cursor general agent 🤖, Claude Fable extension ⏳",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-07-13"
         },
         {
-          "source_name" : "TLDR AI",
-          "title" : "GPT-5.6 Thursday ⭐️, Claude Cowork mobile 📱, Gemini API agents 🤖",
-          "url" : "https:\/\/tldr.tech\/ai\/2026-07-08"
+          "source_name" : "Google AI Blog",
+          "title" : "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
+          "url" : "https:\/\/blog.google\/innovation-and-ai\/technology\/developers-tools\/expanding-managed-agents-gemini-api\/"
         }
       ],
-      "summary" : "OpenAI has launched GPT-5.6 and rebuilt ChatGPT Desktop around Work and Codex, while Meta cut model prices and $130B in data centers faced local resistance.",
+      "summary" : "OpenAI launched GPT-5.6 and rebuilt ChatGPT Desktop around Work and Codex, while Meta cut model prices and $130B in data centers faced local resistance.",
       "title" : "OpenAI Turns ChatGPT Into a Work Agen",
       "topics" : [
         "ChatGPT",
@@ -234,28 +234,6 @@
       ]
     },
     {
-      "created_at" : "2026-07-14T11:01:00Z",
-      "id" : "2026-07-16-f99c7820c24e",
-      "importance" : "low",
-      "key_insights" : [
-        "Why it matters: These price cuts could make AI more accessible to businesses and researchers, potentially accelerating the adoption of AI technologies.",
-        "What changed: OpenAI, Meta, and xAI have all announced price reductions for their AI services.",
-        "What to watch: It will be interesting to see how these price reductions impact the competition and the overall market for AI services."
-      ],
-      "sources" : [
-        {
-          "source_name" : "The AI Report",
-          "title" : "️ OpenAI, Meta, xAI slash pricing",
-          "url" : "https:\/\/newsletter.theaireport.ai\/p\/openai-meta-xai-slash-pricing"
-        }
-      ],
-      "summary" : "OpenAI, Meta, and xAI have all announced price reductions for their AI services.",
-      "title" : "OpenAI, Meta, xAI slash pricing",
-      "topics" : [
-        "Pricing"
-      ]
-    },
-    {
       "created_at" : "2026-07-15T13:09:07Z",
       "id" : "2026-07-16-2c17f35fc647",
       "importance" : "low",
@@ -278,55 +256,69 @@
       ]
     },
     {
-      "created_at" : "2026-07-15T11:01:30Z",
-      "id" : "2026-07-16-eba53dcab26a",
+      "created_at" : "2026-07-14T00:00:00Z",
+      "id" : "2026-07-16-e406f5f57714",
       "importance" : "low",
       "key_insights" : [
-        "Why it matters: OpenAI's device leaks, plus two major breakthroughs.",
-        "What changed: OpenAI's device leaks, plus two major breakthroughs.",
-        "What to watch: OpenAI's device leaks, plus two major breakthroughs."
+        "Why it matters: This move could indicate a significant advancement in AI technology and its potential applications.",
+        "What changed: xAI has expanded its technological capabilities by uploading new codebases and smart bricks.",
+        "What to watch: The development of these technologies will likely have a profound impact on the AI industry and its future."
       ],
       "sources" : [
         {
-          "source_name" : "Superhuman AI",
-          "title" : "OpenAI's device leaks, plus two major breakthroughs",
-          "url" : "https:\/\/www.superhuman.ai\/p\/openai-s-device-leaks-plus-two-major-breakthroughs"
+          "source_name" : "TLDR AI",
+          "title" : "xAI uploads codebases 👨‍💻, Prime Intellect verifiers 🧠, Sakana smart bricks 🧱",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-07-14"
         }
       ],
-      "summary" : "ALSO: How to turn ChatGPT into your inbox assistant.",
-      "title" : "OpenAI's device leaks, plus two major breakthroughs",
+      "summary" : "This move could indicate a significant advancement in AI technology and its potential applications.",
+      "title" : "xAI uploads codebases 👨‍💻, Prime Intellect verifiers 🧠, Sakana smart bricks 🧱",
       "topics" : [
-        "ChatGPT"
+        "AI"
+      ]
+    },
+    {
+      "created_at" : "2026-07-10T07:00:00Z",
+      "id" : "2026-07-16-a3a15f7ed8ee",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: This integration could significantly improve efficiency and innovation in the telecommunications sector.",
+        "What changed: The company is adopting AI-driven solutions to streamline processes and improve service delivery.",
+        "What to watch: The impact of these changes on customer satisfaction and operational efficiency will be closely monitored."
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "How Deutsche Telekom is rewiring telecommunications with AI",
+          "url" : "https:\/\/openai.com\/index\/deutsche-telekom"
+        }
+      ],
+      "summary" : "This integration could significantly improve efficiency and innovation in the telecommunications sector.",
+      "title" : "Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+      "topics" : [
+        "Workflows"
       ]
     }
   ],
   "count" : 12,
   "date" : "2026-07-16",
-  "generated_at" : "2026-07-16T04:01:00Z",
+  "generated_at" : "2026-07-16T06:01:00Z",
   "processing_report" : {
-    "generated_at" : "2026-07-16T04:01:04Z",
+    "generated_at" : "2026-07-16T06:01:09Z",
     "source_reports" : [
       {
-        "article_count" : 11,
+        "article_count" : 1,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-07-15T13:09:07Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-07-16T04:01:04Z",
+        "processed_at" : "2026-07-16T06:01:07Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 1,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-07-16T04:01:02Z",
-        "state" : "processed"
-      },
-      {
-        "article_count" : 5,
-        "id" : "aireport-nl",
-        "latest_article_at" : "2026-07-14T10:00:00Z",
-        "name" : "AI Report (NL)",
-        "processed_at" : "2026-07-16T04:01:02Z",
+        "processed_at" : "2026-07-16T06:01:09Z",
         "state" : "processed"
       },
       {
@@ -334,7 +326,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-07-14T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-07-16T04:01:00Z",
+        "processed_at" : "2026-07-16T06:01:00Z",
         "state" : "processed"
       },
       {
@@ -342,7 +334,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-07-15T17:29:41Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-07-16T04:01:00Z",
+        "processed_at" : "2026-07-16T06:01:00Z",
         "state" : "processed"
       },
       {
@@ -350,7 +342,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-07-14T23:54:07Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-07-16T04:01:01Z",
+        "processed_at" : "2026-07-16T06:01:01Z",
         "state" : "processed"
       },
       {
@@ -358,15 +350,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-07-15T12:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-07-16T04:01:01Z",
+        "processed_at" : "2026-07-16T06:01:01Z",
         "state" : "processed"
       },
       {
-        "article_count" : 8,
+        "article_count" : 1,
         "id" : "superhuman-ai",
-        "latest_article_at" : "2026-07-15T11:01:30Z",
+        "latest_article_at" : "2026-07-08T11:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-07-16T04:01:03Z",
+        "processed_at" : "2026-07-16T06:01:06Z",
         "state" : "processed"
       },
       {
@@ -374,30 +366,38 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-07-15T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-07-16T04:01:00Z",
+        "processed_at" : "2026-07-16T06:01:00Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
-        "id" : "the-ai-report",
-        "latest_article_at" : "2026-07-14T11:01:00Z",
-        "name" : "The AI Report",
-        "processed_at" : "2026-07-16T04:01:03Z",
-        "state" : "processed"
-      },
-      {
-        "article_count" : 11,
+        "article_count" : 5,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-07-16T04:01:02Z",
+        "processed_at" : "2026-07-16T06:01:07Z",
         "state" : "processed"
+      },
+      {
+        "article_count" : 0,
+        "id" : "aireport-nl",
+        "message" : "Source returned no usable AI articles.",
+        "name" : "AI Report (NL)",
+        "processed_at" : "2026-07-16T06:01:04Z",
+        "state" : "empty"
+      },
+      {
+        "article_count" : 0,
+        "id" : "the-ai-report",
+        "message" : "Source returned no usable AI articles.",
+        "name" : "The AI Report",
+        "processed_at" : "2026-07-16T06:01:06Z",
+        "state" : "empty"
       },
       {
         "article_count" : 0,
         "id" : "ai-news",
         "message" : "The operation couldn’t be completed. (NSXMLParserErrorDomain error 111.)",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-07-16T04:01:00Z",
+        "processed_at" : "2026-07-16T06:01:00Z",
         "state" : "failed"
       }
     ],
