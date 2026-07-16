@@ -2,13 +2,18 @@
   "cards" : [
     {
       "date" : "2026-07-16",
-      "id" : "2026-07-16-3aa5d4c2e4aa",
+      "id" : "2026-07-16-414c1674d73f",
       "importance" : "high",
       "sources" : [
         {
           "source_name" : "The Neuron Daily",
-          "title" : "OpenAI Turns ChatGPT Into a Work Agent",
-          "url" : "https:\/\/www.theneurondaily.com\/p\/openai-s-super-thursday"
+          "title" : "Microsoft, OpenAI, and AI's Memory Crunch",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/july-13-monday"
+        },
+        {
+          "source_name" : "AI News (Swyx)",
+          "title" : "not much happened today",
+          "url" : "https:\/\/news.smol.ai\/issues\/26-07-15-thinky-inkling\/"
         },
         {
           "source_name" : "Latent Space",
@@ -16,33 +21,28 @@
           "url" : "https:\/\/www.latent.space\/p\/ainews-not-much-happened-today-c72"
         },
         {
-          "source_name" : "OpenAI News",
-          "title" : "How data science teams use ChatGPT Work",
-          "url" : "https:\/\/openai.com\/academy\/codex-for-work\/how-data-science-teams-use-codex"
+          "source_name" : "The AI Report",
+          "title" : "️ OpenAI, Meta, xAI slash pricing",
+          "url" : "https:\/\/newsletter.theaireport.ai\/p\/openai-meta-xai-slash-pricing"
         },
         {
-          "source_name" : "TLDR AI",
-          "title" : "Claude Code browser 🌍, Cursor general agent 🤖, Claude Fable extension ⏳",
-          "url" : "https:\/\/tldr.tech\/ai\/2026-07-13"
-        },
-        {
-          "source_name" : "Google AI Blog",
-          "title" : "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
-          "url" : "https:\/\/blog.google\/innovation-and-ai\/technology\/developers-tools\/expanding-managed-agents-gemini-api\/"
+          "source_name" : "AI Report (NL)",
+          "title" : "Je oude ChatGPT-prompts werken nu tegen je",
+          "url" : "https:\/\/www.aireport.nl\/p\/waarom-je-deze-fable-prompts-moet-testen-voor-zaterdag-1"
         }
       ],
-      "summary" : "OpenAI launched GPT-5.6 and rebuilt ChatGPT Desktop around Work and Codex, while Meta cut model prices and $130B in data centers faced local resistance.",
-      "title" : "OpenAI Turns ChatGPT Into a Work Agen",
+      "summary" : "The potential memory crunch could significantly impact AI development and deployment.",
+      "title" : "Microsoft, OpenAI, and AI's Memory Crunch",
       "topics" : [
-        "ChatGPT",
+        "GPT",
         "Agents",
-        "GPT"
+        "Claude"
       ]
     },
     {
       "date" : "2026-07-16",
-      "id" : "2026-07-16-a81502c0bfb9",
-      "importance" : "high",
+      "id" : "2026-07-16-705d063c6c5d",
+      "importance" : "medium",
       "sources" : [
         {
           "source_name" : "OpenAI News",
@@ -50,8 +50,8 @@
           "url" : "https:\/\/openai.com\/index\/advancing-ai-safety-through-state-and-federal-action"
         }
       ],
-      "summary" : "OpenAI proposes a federal framework for safety, resilience, and national security.",
-      "title" : "OpenAI outlines a blueprint for U.S. governance of frontier AI",
+      "summary" : "This approach aims to enhance AI safety and democratic governance by leveraging state-level expertise and innovation.",
+      "title" : "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
       "topics" : [
         "Safety"
       ]
@@ -110,6 +110,25 @@
     },
     {
       "date" : "2026-07-16",
+      "id" : "2026-07-16-af5d295c437a",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Thinky's Inkling: 975B-A41B multimodal, new best American Apache 2.0 open model (with Inkling-Small, 276B-A12B)",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-thinkys-inkling-975b-a41b"
+        }
+      ],
+      "summary" : "Thinky has released a new multimodal model, Inkling, with 975B parameters and a context window of up to 1M tokens, pretrained on 45 trillion tokens of text, images, audio, and video.",
+      "title" : "Thinky's Inkling: 975B-A41B multimodal, new best American Apache 2.0 open model (with Inkling-Small, 276B-A12B)",
+      "topics" : [
+        "Agents",
+        "Anthropic",
+        "APIs"
+      ]
+    },
+    {
+      "date" : "2026-07-16",
       "id" : "2026-07-16-22f5bbf0306c",
       "importance" : "low",
       "sources" : [
@@ -123,57 +142,6 @@
       "title" : "DeepSeek IPO plans 📈, Kalshi compute markets ⚡, Bonsai phone model 📱",
       "topics" : [
         "DeepSeek"
-      ]
-    },
-    {
-      "date" : "2026-07-16",
-      "id" : "2026-07-16-5d8439368dcb",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "Hugging Face Blog",
-          "title" : "Model Routing Is Simple. Until It Isn’t.",
-          "url" : "https:\/\/huggingface.co\/blog\/ibm-research\/model-routing-is-simple-until-it-isnt"
-        }
-      ],
-      "summary" : "Model routing is a technique used to optimize the flow of data through a network of models, but it can become complex and challenging to implement.",
-      "title" : "Model Routing Is Simple. Until It Isn’t.",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "date" : "2026-07-16",
-      "id" : "2026-07-16-a9072a03b889",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "Hugging Face Blog",
-          "title" : "Welcome Inkling by Thinking Machines",
-          "url" : "https:\/\/huggingface.co\/blog\/thinkingmachines-inkling"
-        }
-      ],
-      "summary" : "Thinking Machines has introduced Welcome Inkling, an AI-driven writing assistant designed to enhance productivity and creativity.",
-      "title" : "Thinking Machines Unveils Welcome Inkling, an AI-Powered Writing Assistan",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "date" : "2026-07-16",
-      "id" : "2026-07-16-43c995c1d8e3",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "Hugging Face Blog",
-          "title" : "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-          "url" : "https:\/\/huggingface.co\/blog\/real-world-voiceeq"
-        }
-      ],
-      "summary" : "This tool is crucial for evaluating the performance of voice AI in real-world applications, ensuring that it meets the standards of human-like speech.",
-      "title" : "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-      "topics" : [
-        "AI"
       ]
     },
     {
@@ -195,6 +163,41 @@
     },
     {
       "date" : "2026-07-16",
+      "id" : "2026-07-16-eba53dcab26a",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "Superhuman AI",
+          "title" : "OpenAI's device leaks, plus two major breakthroughs",
+          "url" : "https:\/\/www.superhuman.ai\/p\/openai-s-device-leaks-plus-two-major-breakthroughs"
+        }
+      ],
+      "summary" : "ALSO: How to turn ChatGPT into your inbox assistant.",
+      "title" : "OpenAI's device leaks, plus two major breakthroughs",
+      "topics" : [
+        "ChatGPT"
+      ]
+    },
+    {
+      "date" : "2026-07-16",
+      "id" : "2026-07-16-ebbf5ed87072",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "Superhuman AI",
+          "title" : "AI execs confirm demand isn't slowing, just shifting",
+          "url" : "https:\/\/www.superhuman.ai\/p\/ai-execs-confirm-demand-isn-t-slowing-just-shifting"
+        }
+      ],
+      "summary" : "AI executives have confirmed that the demand for AI is not slowing down, but rather shifting towards more specialized applications.",
+      "title" : "AI execs confirm demand isn't slowing, just shifting",
+      "topics" : [
+        "Claude",
+        "Design"
+      ]
+    },
+    {
+      "date" : "2026-07-16",
       "id" : "2026-07-16-e406f5f57714",
       "importance" : "low",
       "sources" : [
@@ -212,19 +215,19 @@
     },
     {
       "date" : "2026-07-16",
-      "id" : "2026-07-16-a3a15f7ed8ee",
-      "importance" : "medium",
+      "id" : "2026-07-16-044a9bb2ca61",
+      "importance" : "low",
       "sources" : [
         {
-          "source_name" : "OpenAI News",
-          "title" : "How Deutsche Telekom is rewiring telecommunications with AI",
-          "url" : "https:\/\/openai.com\/index\/deutsche-telekom"
+          "source_name" : "AI Breakfast",
+          "title" : "OpenAI lifts usage caps as Apple sues",
+          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/openai-lifts-usage-caps-as-apple-sues"
         }
       ],
-      "summary" : "This integration could significantly improve efficiency and innovation in the telecommunications sector.",
-      "title" : "Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+      "summary" : "OpenAI has increased its usage caps for its ChatGPT service following a lawsuit filed by Apple.",
+      "title" : "OpenAI lifts usage caps as Apple sues",
       "topics" : [
-        "Workflows"
+        "AI"
       ]
     },
     {
