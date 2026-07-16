@@ -2,13 +2,13 @@
   "cards" : [
     {
       "date" : "2026-07-16",
-      "id" : "2026-07-16-414c1674d73f",
+      "id" : "2026-07-16-ebcce17dccba",
       "importance" : "high",
       "sources" : [
         {
           "source_name" : "The Neuron Daily",
-          "title" : "Microsoft, OpenAI, and AI's Memory Crunch",
-          "url" : "https:\/\/www.theneurondaily.com\/p\/july-13-monday"
+          "title" : "Anthropic found Claude’s hidden workspace",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/anthropic-found-claude-s-hidden-workspace"
         },
         {
           "source_name" : "AI News (Swyx)",
@@ -26,16 +26,16 @@
           "url" : "https:\/\/newsletter.theaireport.ai\/p\/openai-meta-xai-slash-pricing"
         },
         {
-          "source_name" : "AI Report (NL)",
-          "title" : "Je oude ChatGPT-prompts werken nu tegen je",
-          "url" : "https:\/\/www.aireport.nl\/p\/waarom-je-deze-fable-prompts-moet-testen-voor-zaterdag-1"
+          "source_name" : "OpenAI News",
+          "title" : "How data science teams use ChatGPT Work",
+          "url" : "https:\/\/openai.com\/academy\/codex-for-work\/how-data-science-teams-use-codex"
         }
       ],
-      "summary" : "The potential memory crunch could significantly impact AI development and deployment.",
-      "title" : "Microsoft, OpenAI, and AI's Memory Crunch",
+      "summary" : "This discovery highlights the potential for hidden functionalities within AI models, which could impact their usability and security.",
+      "title" : "Anthropic found Claude’s hidden workspace",
       "topics" : [
-        "GPT",
         "Agents",
+        "GPT",
         "Claude"
       ]
     },
@@ -89,6 +89,25 @@
       "title" : "Google Images celebrates 25 years of visual search innovation",
       "topics" : [
         "Image Models"
+      ]
+    },
+    {
+      "date" : "2026-07-16",
+      "id" : "2026-07-16-4f883151eb41",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "The Lab of the Future Should Feel Like a Data Center — Andy Beam & Rafa Gómez-Bombarelli, Lila Sciences",
+          "url" : "https:\/\/www.latent.space\/p\/the-lab-of-the-future-should-feel"
+        }
+      ],
+      "summary" : "Lila Sciences is developing a futuristic lab that uses AI-guided robotics and automated equipment to generate a massive library of scientific reasoning tokens, aiming to create a scientific superintelligence.",
+      "title" : "The Lab of the Future Should Feel Like a Data Center",
+      "topics" : [
+        "APIs",
+        "Data",
+        "Compute"
       ]
     },
     {
@@ -180,23 +199,6 @@
     },
     {
       "date" : "2026-07-16",
-      "id" : "2026-07-16-43c995c1d8e3",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "Hugging Face Blog",
-          "title" : "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-          "url" : "https:\/\/huggingface.co\/blog\/real-world-voiceeq"
-        }
-      ],
-      "summary" : "This tool is crucial for evaluating the performance of voice AI in real-world applications, ensuring that it meets the standards of human-like speech.",
-      "title" : "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "date" : "2026-07-16",
       "id" : "2026-07-16-a9072a03b889",
       "importance" : "low",
       "sources" : [
@@ -214,20 +216,19 @@
     },
     {
       "date" : "2026-07-16",
-      "id" : "2026-07-16-d30172c2e8a9",
+      "id" : "2026-07-16-43c995c1d8e3",
       "importance" : "low",
       "sources" : [
         {
-          "source_name" : "The AI Report",
-          "title" : "️ OpenAI launches a physical keypad",
-          "url" : "https:\/\/newsletter.theaireport.ai\/p\/openai-launches-a-physical-keypad"
+          "source_name" : "Hugging Face Blog",
+          "title" : "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+          "url" : "https:\/\/huggingface.co\/blog\/real-world-voiceeq"
         }
       ],
-      "summary" : "This development could revolutionize how AI agents interact with users, making them more accessible and user-friendly.",
-      "title" : "OpenAI launches a physical keypad",
+      "summary" : "This tool is crucial for evaluating the performance of voice AI in real-world applications, ensuring that it meets the standards of human-like speech.",
+      "title" : "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
       "topics" : [
-        "Agents",
-        "Enterprise"
+        "AI"
       ]
     },
     {
