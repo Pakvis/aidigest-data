@@ -3,9 +3,9 @@
     {
       "consolidation" : {
         "latest_source_at" : "2026-07-15T05:44:39Z",
-        "message_count" : 179,
+        "message_count" : 180,
         "reason" : "Multiple sources reported the same story.",
-        "source_count" : 10
+        "source_count" : 11
       },
       "created_at" : "2026-07-15T05:44:39Z",
       "id" : "2026-07-16-414c1674d73f",
@@ -96,28 +96,6 @@
       ]
     },
     {
-      "created_at" : "2026-07-14T10:00:00Z",
-      "id" : "2026-07-16-2639b004019c",
-      "importance" : "medium",
-      "key_insights" : [
-        "Why it matters: This approach will help enterprises optimize their AI investments and maximize their return on investment.",
-        "What changed: The agentic era requires a new approach to managing AI investments, focusing on measuring useful work per dollar and scaling high-value workflows.",
-        "What to watch: Enterprises should closely monitor the implementation of this approach to ensure that it is effective and sustainable."
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "How to manage AI investments in the agentic era",
-          "url" : "https:\/\/openai.com\/index\/managing-ai-investments-in-agentic-era"
-        }
-      ],
-      "summary" : "This approach will help enterprises optimize their AI investments and maximize their return on investment.",
-      "title" : "How to manage AI investments in the agentic era",
-      "topics" : [
-        "Workflows"
-      ]
-    },
-    {
       "created_at" : "2026-07-14T16:00:00Z",
       "id" : "2026-07-16-32db51cb7ddf",
       "importance" : "medium",
@@ -186,6 +164,72 @@
       ]
     },
     {
+      "created_at" : "2026-07-15T17:27:01Z",
+      "id" : "2026-07-16-5d8439368dcb",
+      "importance" : "low",
+      "key_insights" : [
+        "Why it matters: Understanding and effectively implementing model routing is crucial for improving the performance and efficiency of AI systems.",
+        "What changed: The complexity of model routing has increased, making it more difficult to optimize the flow of data through a network of models.",
+        "What to watch: Researchers and developers are exploring new approaches to model routing to improve its efficiency and effectiveness."
+      ],
+      "sources" : [
+        {
+          "source_name" : "Hugging Face Blog",
+          "title" : "Model Routing Is Simple. Until It Isn’t.",
+          "url" : "https:\/\/huggingface.co\/blog\/ibm-research\/model-routing-is-simple-until-it-isnt"
+        }
+      ],
+      "summary" : "Model routing is a technique used to optimize the flow of data through a network of models, but it can become complex and challenging to implement.",
+      "title" : "Model Routing Is Simple. Until It Isn’t.",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "created_at" : "2026-07-15T00:00:00Z",
+      "id" : "2026-07-16-43c995c1d8e3",
+      "importance" : "low",
+      "key_insights" : [
+        "Why it matters: This tool is crucial for evaluating the performance of voice AI in real-world applications, ensuring that it meets the standards of human-like speech.",
+        "What changed: Real World VoiceEQ introduces a new method for measuring the quality of voice AI, providing a more comprehensive evaluation than previous tools.",
+        "What to watch: Users should closely monitor the development and implementation of Real World VoiceEQ to understand its impact on the voice AI industry."
+      ],
+      "sources" : [
+        {
+          "source_name" : "Hugging Face Blog",
+          "title" : "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+          "url" : "https:\/\/huggingface.co\/blog\/real-world-voiceeq"
+        }
+      ],
+      "summary" : "This tool is crucial for evaluating the performance of voice AI in real-world applications, ensuring that it meets the standards of human-like speech.",
+      "title" : "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "created_at" : "2026-07-15T00:00:00Z",
+      "id" : "2026-07-16-a9072a03b889",
+      "importance" : "low",
+      "key_insights" : [
+        "Why it matters: This tool could revolutionize the way writers and content creators collaborate, offering personalized suggestions and streamlining the writing process.",
+        "What changed: Welcome Inkling integrates with existing writing platforms, providing real-time feedback and suggestions to improve content quality.",
+        "What to watch: Users should monitor the tool's performance and integration capabilities to determine its potential impact on the writing industry."
+      ],
+      "sources" : [
+        {
+          "source_name" : "Hugging Face Blog",
+          "title" : "Welcome Inkling by Thinking Machines",
+          "url" : "https:\/\/huggingface.co\/blog\/thinkingmachines-inkling"
+        }
+      ],
+      "summary" : "Thinking Machines has introduced Welcome Inkling, an AI-driven writing assistant designed to enhance productivity and creativity.",
+      "title" : "Thinking Machines Unveils Welcome Inkling, an AI-Powered Writing Assistan",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
       "created_at" : "2026-07-15T13:09:07Z",
       "id" : "2026-07-16-2c17f35fc647",
       "importance" : "low",
@@ -251,71 +295,27 @@
         "Claude",
         "Design"
       ]
-    },
-    {
-      "created_at" : "2026-07-14T00:00:00Z",
-      "id" : "2026-07-16-e406f5f57714",
-      "importance" : "low",
-      "key_insights" : [
-        "Why it matters: This move could indicate a significant advancement in AI technology and its potential applications.",
-        "What changed: xAI has expanded its technological capabilities by uploading new codebases and smart bricks.",
-        "What to watch: The development of these technologies will likely have a profound impact on the AI industry and its future."
-      ],
-      "sources" : [
-        {
-          "source_name" : "TLDR AI",
-          "title" : "xAI uploads codebases 👨‍💻, Prime Intellect verifiers 🧠, Sakana smart bricks 🧱",
-          "url" : "https:\/\/tldr.tech\/ai\/2026-07-14"
-        }
-      ],
-      "summary" : "This move could indicate a significant advancement in AI technology and its potential applications.",
-      "title" : "xAI uploads codebases 👨‍💻, Prime Intellect verifiers 🧠, Sakana smart bricks 🧱",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "created_at" : "2026-07-13T14:51:34Z",
-      "id" : "2026-07-16-044a9bb2ca61",
-      "importance" : "low",
-      "key_insights" : [
-        "Why it matters: The increase in usage caps is likely a response to Apple's legal action, which could impact OpenAI's business model and its ability to scale its operations.",
-        "What changed: OpenAI has raised its usage caps for ChatGPT, allowing users to access the service more frequently.",
-        "What to watch: It will be interesting to see how this development affects OpenAI's relationship with Apple and its ability to continue to innovate and expand its services."
-      ],
-      "sources" : [
-        {
-          "source_name" : "AI Breakfast",
-          "title" : "OpenAI lifts usage caps as Apple sues",
-          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/openai-lifts-usage-caps-as-apple-sues"
-        }
-      ],
-      "summary" : "OpenAI has increased its usage caps for its ChatGPT service following a lawsuit filed by Apple.",
-      "title" : "OpenAI lifts usage caps as Apple sues",
-      "topics" : [
-        "AI"
-      ]
     }
   ],
   "count" : 12,
   "date" : "2026-07-16",
-  "generated_at" : "2026-07-16T08:01:00Z",
+  "generated_at" : "2026-07-16T10:01:00Z",
   "processing_report" : {
-    "generated_at" : "2026-07-16T08:01:13Z",
+    "generated_at" : "2026-07-16T10:01:04Z",
     "source_reports" : [
       {
-        "article_count" : 11,
+        "article_count" : 10,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-07-15T13:09:07Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-07-16T08:01:04Z",
+        "processed_at" : "2026-07-16T10:01:04Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-07-16T08:01:03Z",
+        "processed_at" : "2026-07-16T10:01:03Z",
         "state" : "processed"
       },
       {
@@ -323,15 +323,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-07-15T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-07-16T08:01:01Z",
+        "processed_at" : "2026-07-16T10:01:01Z",
         "state" : "processed"
       },
       {
-        "article_count" : 5,
+        "article_count" : 6,
         "id" : "aireport-nl",
-        "latest_article_at" : "2026-07-14T10:00:00Z",
+        "latest_article_at" : "2026-07-16T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-07-16T08:01:02Z",
+        "processed_at" : "2026-07-16T10:01:03Z",
         "state" : "processed"
       },
       {
@@ -339,7 +339,15 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-07-14T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-07-16T08:01:00Z",
+        "processed_at" : "2026-07-16T10:01:00Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 80,
+        "id" : "huggingface-blog",
+        "latest_article_at" : "2026-07-15T17:29:41Z",
+        "name" : "Hugging Face Blog",
+        "processed_at" : "2026-07-16T10:01:00Z",
         "state" : "processed"
       },
       {
@@ -347,7 +355,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-07-16T06:18:05Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-07-16T08:01:01Z",
+        "processed_at" : "2026-07-16T10:01:01Z",
         "state" : "processed"
       },
       {
@@ -355,7 +363,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-07-15T12:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-07-16T08:01:01Z",
+        "processed_at" : "2026-07-16T10:01:01Z",
         "state" : "processed"
       },
       {
@@ -363,7 +371,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-07-15T11:01:30Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-07-16T08:01:02Z",
+        "processed_at" : "2026-07-16T10:01:03Z",
         "state" : "processed"
       },
       {
@@ -371,33 +379,25 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-07-15T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-07-16T08:01:00Z",
+        "processed_at" : "2026-07-16T10:01:00Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 10,
+        "id" : "the-ai-report",
+        "latest_article_at" : "2026-07-14T11:01:00Z",
+        "name" : "The AI Report",
+        "processed_at" : "2026-07-16T10:01:04Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
-        "id" : "the-ai-report",
-        "latest_article_at" : "2026-07-14T11:01:00Z",
-        "name" : "The AI Report",
-        "processed_at" : "2026-07-16T08:01:03Z",
-        "state" : "processed"
-      },
-      {
-        "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-07-16T08:01:02Z",
+        "processed_at" : "2026-07-16T10:01:02Z",
         "state" : "processed"
-      },
-      {
-        "article_count" : 0,
-        "id" : "huggingface-blog",
-        "message" : "Did not finish before the startup source budget.",
-        "name" : "Hugging Face Blog",
-        "processed_at" : "2026-07-16T08:01:13Z",
-        "state" : "timedOut"
       }
     ],
-    "state" : "timedOut"
+    "state" : "complete"
   }
 }
