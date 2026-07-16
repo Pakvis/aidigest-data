@@ -3,23 +3,23 @@
     {
       "consolidation" : {
         "latest_source_at" : "2026-07-15T05:44:39Z",
-        "message_count" : 177,
+        "message_count" : 178,
         "reason" : "Multiple sources reported the same story.",
         "source_count" : 11
       },
       "created_at" : "2026-07-15T05:44:39Z",
-      "id" : "2026-07-16-ebcce17dccba",
+      "id" : "2026-07-16-2a8b12ed265e",
       "importance" : "high",
       "key_insights" : [
-        "Why it matters: This discovery highlights the potential for hidden functionalities within AI models, which could impact their usability and security.",
-        "What changed: Anthropic's discovery of Claude's hidden workspace suggests that there may be more to the model than meets the eye, potentially affecting its performance and reliability.",
-        "What to watch: AI developers should closely monitor the implications of this discovery and consider how it might affect the development and deployment of AI models."
+        "Why it matters: OpenAI's agent products are seeing unusually strong pull.",
+        "What changed: OpenAI's agent products are seeing unusually strong pull.",
+        "What to watch: OpenAI's agent products are seeing unusually strong pull."
       ],
       "sources" : [
         {
           "source_name" : "The Neuron Daily",
-          "title" : "Anthropic found Claude’s hidden workspace",
-          "url" : "https:\/\/www.theneurondaily.com\/p\/anthropic-found-claude-s-hidden-workspace"
+          "title" : "ChatGPT may get a body",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/chatgpt-may-get-a-body"
         },
         {
           "source_name" : "AI News (Swyx)",
@@ -37,16 +37,16 @@
           "url" : "https:\/\/newsletter.theaireport.ai\/p\/openai-meta-xai-slash-pricing"
         },
         {
-          "source_name" : "OpenAI News",
-          "title" : "How data science teams use ChatGPT Work",
-          "url" : "https:\/\/openai.com\/academy\/codex-for-work\/how-data-science-teams-use-codex"
+          "source_name" : "AI Report (NL)",
+          "title" : "Je oude ChatGPT-prompts werken nu tegen je",
+          "url" : "https:\/\/www.aireport.nl\/p\/waarom-je-deze-fable-prompts-moet-testen-voor-zaterdag-1"
         }
       ],
-      "summary" : "This discovery highlights the potential for hidden functionalities within AI models, which could impact their usability and security.",
-      "title" : "Anthropic found Claude’s hidden workspace",
+      "summary" : "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "title" : "OpenAI's agent products are seeing unusually strong pull",
       "topics" : [
-        "Agents",
         "GPT",
+        "Agents",
         "Claude"
       ]
     },
@@ -93,28 +93,6 @@
       "topics" : [
         "GPT",
         "Safety"
-      ]
-    },
-    {
-      "created_at" : "2026-07-14T16:00:00Z",
-      "id" : "2026-07-16-32db51cb7ddf",
-      "importance" : "medium",
-      "key_insights" : [
-        "Why it matters: The continuous improvement of Google Images reflects the growing importance of visual search in digital marketing and user experience.",
-        "What changed: Google Images has introduced advanced features such as object recognition, semantic search, and improved image quality to enhance its functionality.",
-        "What to watch: Users should stay updated on Google's latest updates and features to fully utilize the enhanced capabilities of Google Images."
-      ],
-      "sources" : [
-        {
-          "source_name" : "Google AI Blog",
-          "title" : "Celebrating 25 years of visual search innovation",
-          "url" : "https:\/\/blog.google\/products-and-platforms\/products\/search\/google-images-25th-anniversary\/"
-        }
-      ],
-      "summary" : "Google Images has evolved significantly over the past 25 years, enhancing its capabilities to provide users with more accurate and relevant visual search results.",
-      "title" : "Google Images celebrates 25 years of visual search innovation",
-      "topics" : [
-        "Image Models"
       ]
     },
     {
@@ -255,6 +233,28 @@
     },
     {
       "created_at" : "2026-07-15T00:00:00Z",
+      "id" : "2026-07-16-43c995c1d8e3",
+      "importance" : "low",
+      "key_insights" : [
+        "Why it matters: This tool is crucial for evaluating the performance of voice AI in real-world applications, ensuring that it meets the standards of human-like speech.",
+        "What changed: Real World VoiceEQ introduces a new method for measuring the quality of voice AI, providing a more comprehensive evaluation than previous tools.",
+        "What to watch: Users should closely monitor the development and implementation of Real World VoiceEQ to understand its impact on the voice AI industry."
+      ],
+      "sources" : [
+        {
+          "source_name" : "Hugging Face Blog",
+          "title" : "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+          "url" : "https:\/\/huggingface.co\/blog\/real-world-voiceeq"
+        }
+      ],
+      "summary" : "This tool is crucial for evaluating the performance of voice AI in real-world applications, ensuring that it meets the standards of human-like speech.",
+      "title" : "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "created_at" : "2026-07-15T00:00:00Z",
       "id" : "2026-07-16-a9072a03b889",
       "importance" : "low",
       "key_insights" : [
@@ -276,47 +276,48 @@
       ]
     },
     {
-      "created_at" : "2026-07-15T00:00:00Z",
-      "id" : "2026-07-16-43c995c1d8e3",
+      "created_at" : "2026-07-16T11:01:00Z",
+      "id" : "2026-07-16-d30172c2e8a9",
       "importance" : "low",
       "key_insights" : [
-        "Why it matters: This tool is crucial for evaluating the performance of voice AI in real-world applications, ensuring that it meets the standards of human-like speech.",
-        "What changed: Real World VoiceEQ introduces a new method for measuring the quality of voice AI, providing a more comprehensive evaluation than previous tools.",
-        "What to watch: Users should closely monitor the development and implementation of Real World VoiceEQ to understand its impact on the voice AI industry."
+        "Why it matters: This development could revolutionize how AI agents interact with users, making them more accessible and user-friendly.",
+        "What changed: OpenAI's physical keypad is a significant step forward in the evolution of AI agents, providing a new way for users to interact with these systems.",
+        "What to watch: The adoption of OpenAI's physical keypad by enterprise users will be closely monitored to see how it impacts the overall landscape of AI agents."
       ],
       "sources" : [
         {
-          "source_name" : "Hugging Face Blog",
-          "title" : "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-          "url" : "https:\/\/huggingface.co\/blog\/real-world-voiceeq"
+          "source_name" : "The AI Report",
+          "title" : "️ OpenAI launches a physical keypad",
+          "url" : "https:\/\/newsletter.theaireport.ai\/p\/openai-launches-a-physical-keypad"
         }
       ],
-      "summary" : "This tool is crucial for evaluating the performance of voice AI in real-world applications, ensuring that it meets the standards of human-like speech.",
-      "title" : "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "summary" : "This development could revolutionize how AI agents interact with users, making them more accessible and user-friendly.",
+      "title" : "OpenAI launches a physical keypad",
       "topics" : [
-        "AI"
+        "Agents",
+        "Enterprise"
       ]
     }
   ],
   "count" : 12,
   "date" : "2026-07-16",
-  "generated_at" : "2026-07-16T14:01:00Z",
+  "generated_at" : "2026-07-16T16:00:51Z",
   "processing_report" : {
-    "generated_at" : "2026-07-16T14:01:05Z",
+    "generated_at" : "2026-07-16T16:00:55Z",
     "source_reports" : [
       {
-        "article_count" : 7,
+        "article_count" : 11,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-07-15T13:09:07Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-07-16T14:01:05Z",
+        "processed_at" : "2026-07-16T16:00:55Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-07-16T14:01:04Z",
+        "processed_at" : "2026-07-16T16:00:54Z",
         "state" : "processed"
       },
       {
@@ -324,15 +325,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-07-15T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-07-16T14:01:01Z",
+        "processed_at" : "2026-07-16T16:00:52Z",
         "state" : "processed"
       },
       {
-        "article_count" : 4,
+        "article_count" : 6,
         "id" : "aireport-nl",
         "latest_article_at" : "2026-07-16T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-07-16T14:01:03Z",
+        "processed_at" : "2026-07-16T16:00:53Z",
         "state" : "processed"
       },
       {
@@ -340,7 +341,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-07-14T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-07-16T14:01:00Z",
+        "processed_at" : "2026-07-16T16:00:52Z",
         "state" : "processed"
       },
       {
@@ -348,7 +349,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-07-16T11:49:48Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-07-16T14:01:00Z",
+        "processed_at" : "2026-07-16T16:00:52Z",
         "state" : "processed"
       },
       {
@@ -356,7 +357,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-07-16T13:30:44Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-07-16T14:01:01Z",
+        "processed_at" : "2026-07-16T16:00:52Z",
         "state" : "processed"
       },
       {
@@ -364,7 +365,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-07-15T12:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-07-16T14:01:01Z",
+        "processed_at" : "2026-07-16T16:00:52Z",
         "state" : "processed"
       },
       {
@@ -372,30 +373,30 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-07-16T11:01:45Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-07-16T14:01:03Z",
+        "processed_at" : "2026-07-16T16:00:54Z",
         "state" : "processed"
       },
       {
         "article_count" : 19,
         "id" : "tldr-ai",
-        "latest_article_at" : "2026-07-15T00:00:00Z",
+        "latest_article_at" : "2026-07-16T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-07-16T14:01:00Z",
+        "processed_at" : "2026-07-16T16:00:52Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 12,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-07-16T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-07-16T14:01:05Z",
+        "processed_at" : "2026-07-16T16:00:55Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 12,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-07-16T14:01:04Z",
+        "processed_at" : "2026-07-16T16:00:54Z",
         "state" : "processed"
       }
     ],
