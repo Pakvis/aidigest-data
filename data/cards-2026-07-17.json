@@ -2,18 +2,63 @@
   "cards" : [
     {
       "consolidation" : {
-        "latest_source_at" : "2026-07-17T01:46:36Z",
-        "message_count" : 104,
+        "latest_source_at" : "2026-07-16T05:44:39Z",
+        "message_count" : 8,
         "reason" : "Multiple sources reported the same story.",
-        "source_count" : 5
+        "source_count" : 4
       },
-      "created_at" : "2026-07-17T01:46:36Z",
-      "id" : "2026-07-17-4e7bacd1c370",
+      "created_at" : "2026-07-16T05:44:39Z",
+      "id" : "2026-07-17-476db7d5191f",
       "importance" : "high",
       "key_insights" : [
-        "Why it matters: The release of Kimi K3 highlights the growing competition in the open-weights AI space and its potential impact on the industry.",
-        "What changed: Kimi K3 is the largest open model ever released, with 2.8T total parameters and 1M-token context, setting a new benchmark for open-weights models.",
-        "What to watch: Keep an eye on the developments in the open-weights AI space as Kimi K3 continues to evolve and compete with other models."
+        "Why it matters: This approach could enhance AI safety and democratic governance by leveraging state-level expertise and regulations.",
+        "What changed: OpenAI is shifting its strategy to integrate state laws into a national AI governance framework.",
+        "What to watch: The implementation of this approach will be crucial in shaping the future of AI safety and governance."
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Neuron Daily",
+          "title" : "One rogue agent could hijack enterprise chatbots",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/july-8-wednesday"
+        },
+        {
+          "source_name" : "AI News (Swyx)",
+          "title" : "not much happened today",
+          "url" : "https:\/\/news.smol.ai\/issues\/26-07-16-kimi-k30\/"
+        },
+        {
+          "source_name" : "OpenAI News",
+          "title" : "How Cars24 scales conversations and builds faster with OpenAI",
+          "url" : "https:\/\/openai.com\/index\/cars24"
+        },
+        {
+          "source_name" : "AI Breakfast",
+          "title" : "OpenAI prepares a rapid GPT-5.6 drop to steal Anthropic users",
+          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/openai-prepares-a-rapid-gpt-5-6-drop-to-steal-anthropic-users"
+        }
+      ],
+      "summary" : "This approach could enhance AI safety and democratic governance by leveraging state-level expertise and regulations.",
+      "title" : "OpenAI outlines a “reverse federalism” approach to AI governance",
+      "topics" : [
+        "GPT",
+        "Safety",
+        "Agents"
+      ]
+    },
+    {
+      "consolidation" : {
+        "latest_source_at" : "2026-07-17T01:46:36Z",
+        "message_count" : 4,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 3
+      },
+      "created_at" : "2026-07-17T01:46:36Z",
+      "id" : "2026-07-17-8d4b6a701351",
+      "importance" : "high",
+      "key_insights" : [
+        "Why it matters: These updates could significantly enhance the user experience by making video creation more intuitive and personalized.",
+        "What changed: Google has added Gemini Omni, a new AI-powered feature that allows users to create and edit videos more easily.",
+        "What to watch: Users should keep an eye on how these updates are received and how they impact the overall user experience of Google Vids."
       ],
       "sources" : [
         {
@@ -30,24 +75,14 @@
           "source_name" : "Google AI Blog",
           "title" : "Create, edit and star in videos with two Google Vids updates",
           "url" : "https:\/\/blog.google\/products-and-platforms\/products\/workspace\/gemini-omni-personal-avatars\/"
-        },
-        {
-          "source_name" : "AI News (Swyx)",
-          "title" : "not much happened today",
-          "url" : "https:\/\/news.smol.ai\/issues\/26-07-16-kimi-k30\/"
-        },
-        {
-          "source_name" : "OpenAI News",
-          "title" : "How sales teams use ChatGPT Work",
-          "url" : "https:\/\/openai.com\/academy\/codex-for-work\/how-sales-teams-use-codex"
         }
       ],
-      "summary" : "Moonshot AI launched Kimi K3 as a frontier-class open-weights model, with official claims that place it near top closed models and above prior open competitors.",
-      "title" : "Kimi K3 2.8T-A50B: the largest open model ever released; Opus 4.8-class at Sonnet 5 pricing",
+      "summary" : "Google has released two updates to its video-creation platform, Google Vids, which include Gemini Omni and personal avatars.",
+      "title" : "Google AI Blog: Create, edit and star in videos with two Google Vids updates",
       "topics" : [
-        "Agents",
-        "Claude",
-        "Anthropic"
+        "Gemini",
+        "Pricing",
+        "Claude"
       ]
     },
     {
@@ -70,29 +105,6 @@
       "title" : "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
       "topics" : [
         "AI"
-      ]
-    },
-    {
-      "created_at" : "2026-07-16T00:00:00Z",
-      "id" : "2026-07-17-d90248862ebe",
-      "importance" : "medium",
-      "key_insights" : [
-        "Why it matters: This integration demonstrates the potential of AI in enhancing customer service and operational efficiency.",
-        "What changed: Cars24 has adopted AI-driven agents to streamline its customer interactions and improve lead recovery.",
-        "What to watch: The success of this implementation could set a precedent for other companies looking to leverage AI for similar purposes."
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "How Cars24 scales conversations and builds faster with OpenAI",
-          "url" : "https:\/\/openai.com\/index\/cars24"
-        }
-      ],
-      "summary" : "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
-      "title" : "Cars24 scales conversations and builds faster with OpenAI",
-      "topics" : [
-        "Agents",
-        "Workflows"
       ]
     },
     {
@@ -164,25 +176,25 @@
       ]
     },
     {
-      "created_at" : "2026-07-16T16:01:21Z",
-      "id" : "2026-07-17-ae51646c4670",
+      "created_at" : "2026-07-17T15:57:54Z",
+      "id" : "2026-07-17-448608adcea5",
       "importance" : "low",
       "key_insights" : [
-        "Why it matters: This achievement highlights the potential of AI in enhancing retrieval capabilities, which could lead to more efficient and effective information retrieval systems.",
-        "What changed: The Nemotron 3 Embed has improved its performance compared to previous models, demonstrating its capability to handle complex retrieval tasks.",
-        "What to watch: Future developments in AI and its applications in various industries will be closely monitored to assess the broader impact of this advancement."
+        "Why it matters: This advancement allows for more efficient and effective model training, which can lead to improved performance and reduced computational costs.",
+        "What changed: The integration of these tools enables users to fine-tune models more easily and quickly, making it accessible to a broader range of users.",
+        "What to watch: Users should monitor the development and updates of these tools to stay informed about the latest advancements and potential applications."
       ],
       "sources" : [
         {
           "source_name" : "Hugging Face Blog",
-          "title" : "NVIDIA Nemotron 3 Embed Ranks 1 Overall on RTEB, Advancing Agentic Retrieval",
-          "url" : "https:\/\/huggingface.co\/blog\/nvidia\/nemotron-3-embed-wins-rteb"
+          "title" : "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+          "url" : "https:\/\/huggingface.co\/blog\/nvidia\/scale-diffusers-finetuning-nemo-automodel"
         }
       ],
-      "summary" : "NVIDIA Nemotron 3 Embed has achieved a top-ranking position on the RTEB, showcasing significant advancements in agentic retrieval.",
-      "title" : "NVIDIA Nemotron 3 Embed Ranks 1 Overall on RTEB, Advancing Agentic Retrieval",
+      "summary" : "This advancement allows for more efficient and effective model training, which can lead to improved performance and reduced computational costs.",
+      "title" : "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
       "topics" : [
-        "AI"
+        "Image Models"
       ]
     },
     {
@@ -298,23 +310,23 @@
   ],
   "count" : 12,
   "date" : "2026-07-17",
-  "generated_at" : "2026-07-17T14:01:00Z",
+  "generated_at" : "2026-07-17T16:00:58Z",
   "processing_report" : {
-    "generated_at" : "2026-07-17T14:01:05Z",
+    "generated_at" : "2026-07-17T16:01:04Z",
     "source_reports" : [
       {
-        "article_count" : 9,
+        "article_count" : 12,
         "id" : "ai-breakfast",
-        "latest_article_at" : "2026-07-15T13:09:07Z",
+        "latest_article_at" : "2026-07-17T14:07:18Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-07-17T14:01:05Z",
+        "processed_at" : "2026-07-17T16:01:02Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-07-17T14:01:03Z",
+        "processed_at" : "2026-07-17T16:01:01Z",
         "state" : "processed"
       },
       {
@@ -322,15 +334,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-07-16T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-07-17T14:01:01Z",
+        "processed_at" : "2026-07-17T16:00:59Z",
         "state" : "processed"
       },
       {
-        "article_count" : 3,
+        "article_count" : 6,
         "id" : "aireport-nl",
-        "latest_article_at" : "2026-07-14T10:00:00Z",
+        "latest_article_at" : "2026-07-16T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-07-17T14:01:03Z",
+        "processed_at" : "2026-07-17T16:01:00Z",
         "state" : "processed"
       },
       {
@@ -338,15 +350,15 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-07-16T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-07-17T14:01:00Z",
+        "processed_at" : "2026-07-17T16:00:58Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "huggingface-blog",
-        "latest_article_at" : "2026-07-16T16:01:21Z",
+        "latest_article_at" : "2026-07-17T15:57:54Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-07-17T14:01:00Z",
+        "processed_at" : "2026-07-17T16:00:58Z",
         "state" : "processed"
       },
       {
@@ -354,7 +366,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-07-17T01:46:36Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-07-17T14:01:01Z",
+        "processed_at" : "2026-07-17T16:00:59Z",
         "state" : "processed"
       },
       {
@@ -362,7 +374,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-07-17T10:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-07-17T14:01:01Z",
+        "processed_at" : "2026-07-17T16:00:59Z",
         "state" : "processed"
       },
       {
@@ -370,7 +382,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-07-17T11:01:52Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-07-17T14:01:03Z",
+        "processed_at" : "2026-07-17T16:01:01Z",
         "state" : "processed"
       },
       {
@@ -378,22 +390,22 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-07-17T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-07-17T14:01:00Z",
+        "processed_at" : "2026-07-17T16:00:58Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 7,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-07-17T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-07-17T14:01:04Z",
+        "processed_at" : "2026-07-17T16:01:04Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-07-17T14:01:02Z",
+        "processed_at" : "2026-07-17T16:01:00Z",
         "state" : "processed"
       }
     ],

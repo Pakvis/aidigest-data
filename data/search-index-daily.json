@@ -2,7 +2,41 @@
   "cards" : [
     {
       "date" : "2026-07-17",
-      "id" : "2026-07-17-4e7bacd1c370",
+      "id" : "2026-07-17-476db7d5191f",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "The Neuron Daily",
+          "title" : "One rogue agent could hijack enterprise chatbots",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/july-8-wednesday"
+        },
+        {
+          "source_name" : "AI News (Swyx)",
+          "title" : "not much happened today",
+          "url" : "https:\/\/news.smol.ai\/issues\/26-07-16-kimi-k30\/"
+        },
+        {
+          "source_name" : "OpenAI News",
+          "title" : "How Cars24 scales conversations and builds faster with OpenAI",
+          "url" : "https:\/\/openai.com\/index\/cars24"
+        },
+        {
+          "source_name" : "AI Breakfast",
+          "title" : "OpenAI prepares a rapid GPT-5.6 drop to steal Anthropic users",
+          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/openai-prepares-a-rapid-gpt-5-6-drop-to-steal-anthropic-users"
+        }
+      ],
+      "summary" : "This approach could enhance AI safety and democratic governance by leveraging state-level expertise and regulations.",
+      "title" : "OpenAI outlines a “reverse federalism” approach to AI governance",
+      "topics" : [
+        "GPT",
+        "Safety",
+        "Agents"
+      ]
+    },
+    {
+      "date" : "2026-07-17",
+      "id" : "2026-07-17-8d4b6a701351",
       "importance" : "high",
       "sources" : [
         {
@@ -19,24 +53,14 @@
           "source_name" : "Google AI Blog",
           "title" : "Create, edit and star in videos with two Google Vids updates",
           "url" : "https:\/\/blog.google\/products-and-platforms\/products\/workspace\/gemini-omni-personal-avatars\/"
-        },
-        {
-          "source_name" : "AI News (Swyx)",
-          "title" : "not much happened today",
-          "url" : "https:\/\/news.smol.ai\/issues\/26-07-16-kimi-k30\/"
-        },
-        {
-          "source_name" : "OpenAI News",
-          "title" : "How sales teams use ChatGPT Work",
-          "url" : "https:\/\/openai.com\/academy\/codex-for-work\/how-sales-teams-use-codex"
         }
       ],
-      "summary" : "Moonshot AI launched Kimi K3 as a frontier-class open-weights model, with official claims that place it near top closed models and above prior open competitors.",
-      "title" : "Kimi K3 2.8T-A50B: the largest open model ever released; Opus 4.8-class at Sonnet 5 pricing",
+      "summary" : "Google has released two updates to its video-creation platform, Google Vids, which include Gemini Omni and personal avatars.",
+      "title" : "Google AI Blog: Create, edit and star in videos with two Google Vids updates",
       "topics" : [
-        "Agents",
-        "Claude",
-        "Anthropic"
+        "Gemini",
+        "Pricing",
+        "Claude"
       ]
     },
     {
@@ -54,24 +78,6 @@
       "title" : "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
       "topics" : [
         "AI"
-      ]
-    },
-    {
-      "date" : "2026-07-17",
-      "id" : "2026-07-17-d90248862ebe",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "How Cars24 scales conversations and builds faster with OpenAI",
-          "url" : "https:\/\/openai.com\/index\/cars24"
-        }
-      ],
-      "summary" : "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
-      "title" : "Cars24 scales conversations and builds faster with OpenAI",
-      "topics" : [
-        "Agents",
-        "Workflows"
       ]
     },
     {
@@ -129,19 +135,19 @@
     },
     {
       "date" : "2026-07-17",
-      "id" : "2026-07-17-ae51646c4670",
+      "id" : "2026-07-17-448608adcea5",
       "importance" : "low",
       "sources" : [
         {
           "source_name" : "Hugging Face Blog",
-          "title" : "NVIDIA Nemotron 3 Embed Ranks 1 Overall on RTEB, Advancing Agentic Retrieval",
-          "url" : "https:\/\/huggingface.co\/blog\/nvidia\/nemotron-3-embed-wins-rteb"
+          "title" : "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+          "url" : "https:\/\/huggingface.co\/blog\/nvidia\/scale-diffusers-finetuning-nemo-automodel"
         }
       ],
-      "summary" : "NVIDIA Nemotron 3 Embed has achieved a top-ranking position on the RTEB, showcasing significant advancements in agentic retrieval.",
-      "title" : "NVIDIA Nemotron 3 Embed Ranks 1 Overall on RTEB, Advancing Agentic Retrieval",
+      "summary" : "This advancement allows for more efficient and effective model training, which can lead to improved performance and reduced computational costs.",
+      "title" : "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
       "topics" : [
-        "AI"
+        "Image Models"
       ]
     },
     {
