@@ -3,23 +3,23 @@
     {
       "consolidation" : {
         "latest_source_at" : "2026-07-16T05:44:39Z",
-        "message_count" : 8,
+        "message_count" : 39,
         "reason" : "Multiple sources reported the same story.",
-        "source_count" : 4
+        "source_count" : 8
       },
       "created_at" : "2026-07-16T05:44:39Z",
-      "id" : "2026-07-17-476db7d5191f",
+      "id" : "2026-07-17-5a10e98c3941",
       "importance" : "high",
       "key_insights" : [
-        "Why it matters: This approach could enhance AI safety and democratic governance by leveraging state-level expertise and regulations.",
-        "What changed: OpenAI is shifting its strategy to integrate state laws into a national AI governance framework.",
-        "What to watch: The implementation of this approach will be crucial in shaping the future of AI safety and governance."
+        "Why it matters: This development highlights OpenAI's commitment to integrating AI into professional workflows, potentially transforming how businesses operate and collaborate.",
+        "What changed: OpenAI has enhanced ChatGPT with new features and capabilities, making it more suitable for work-related tasks.",
+        "What to watch: The integration of ChatGPT into work environments will likely lead to increased adoption and experimentation with AI in professional settings."
       ],
       "sources" : [
         {
           "source_name" : "The Neuron Daily",
-          "title" : "One rogue agent could hijack enterprise chatbots",
-          "url" : "https:\/\/www.theneurondaily.com\/p\/july-8-wednesday"
+          "title" : "OpenAI Turns ChatGPT Into a Work Agent",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/openai-s-super-thursday"
         },
         {
           "source_name" : "AI News (Swyx)",
@@ -32,17 +32,22 @@
           "url" : "https:\/\/openai.com\/index\/cars24"
         },
         {
-          "source_name" : "AI Breakfast",
-          "title" : "OpenAI prepares a rapid GPT-5.6 drop to steal Anthropic users",
-          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/openai-prepares-a-rapid-gpt-5-6-drop-to-steal-anthropic-users"
+          "source_name" : "Latent Space",
+          "title" : "not much happened today",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-not-much-happened-today-c72"
+        },
+        {
+          "source_name" : "TLDR AI",
+          "title" : "Claude Code browser 🌍, Cursor general agent 🤖, Claude Fable extension ⏳",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-07-13"
         }
       ],
-      "summary" : "This approach could enhance AI safety and democratic governance by leveraging state-level expertise and regulations.",
-      "title" : "OpenAI outlines a “reverse federalism” approach to AI governance",
+      "summary" : "OpenAI has launched GPT-5.6 and rebuilt ChatGPT Desktop around Work and Codex, while Meta cut model prices and $130B in data centers faced local resistance.",
+      "title" : "OpenAI Turns ChatGPT Into a Work Agen",
       "topics" : [
-        "GPT",
         "Safety",
-        "Agents"
+        "ChatGPT",
+        "GPT"
       ]
     },
     {
@@ -242,28 +247,6 @@
       ]
     },
     {
-      "created_at" : "2026-07-15T17:27:01Z",
-      "id" : "2026-07-17-c62ce2535b52",
-      "importance" : "low",
-      "key_insights" : [
-        "Why it matters: Understanding and effectively implementing model routing is crucial for improving the performance and efficiency of AI systems.",
-        "What changed: The complexity of model routing has increased, making it more difficult to optimize the flow of data through a network of models.",
-        "What to watch: Researchers and developers are exploring new approaches to model routing to improve its efficiency and effectiveness."
-      ],
-      "sources" : [
-        {
-          "source_name" : "Hugging Face Blog",
-          "title" : "Model Routing Is Simple. Until It Isn’t.",
-          "url" : "https:\/\/huggingface.co\/blog\/ibm-research\/model-routing-is-simple-until-it-isnt"
-        }
-      ],
-      "summary" : "Model routing is a technique used to optimize the flow of data through a network of models, but it can become complex and challenging to implement.",
-      "title" : "Model Routing Is Simple. Until It Isn’t.",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
       "created_at" : "2026-07-17T11:01:00Z",
       "id" : "2026-07-17-2138e97fea8c",
       "importance" : "low",
@@ -306,27 +289,50 @@
       "topics" : [
         "AI"
       ]
+    },
+    {
+      "created_at" : "2026-07-16T11:01:00Z",
+      "id" : "2026-07-17-ad18d0efafbc",
+      "importance" : "low",
+      "key_insights" : [
+        "Why it matters: This development could revolutionize how AI agents interact with users, making them more accessible and user-friendly.",
+        "What changed: OpenAI's physical keypad is a significant step forward in the evolution of AI agents, providing a new way for users to interact with these systems.",
+        "What to watch: The adoption of OpenAI's physical keypad by enterprise users will be closely monitored to see how it impacts the overall landscape of AI agents."
+      ],
+      "sources" : [
+        {
+          "source_name" : "The AI Report",
+          "title" : "️ OpenAI launches a physical keypad",
+          "url" : "https:\/\/newsletter.theaireport.ai\/p\/openai-launches-a-physical-keypad"
+        }
+      ],
+      "summary" : "This development could revolutionize how AI agents interact with users, making them more accessible and user-friendly.",
+      "title" : "OpenAI launches a physical keypad",
+      "topics" : [
+        "Agents",
+        "Enterprise"
+      ]
     }
   ],
   "count" : 12,
   "date" : "2026-07-17",
-  "generated_at" : "2026-07-17T16:00:58Z",
+  "generated_at" : "2026-07-17T18:01:00Z",
   "processing_report" : {
-    "generated_at" : "2026-07-17T16:01:04Z",
+    "generated_at" : "2026-07-17T18:01:05Z",
     "source_reports" : [
       {
-        "article_count" : 12,
+        "article_count" : 9,
         "id" : "ai-breakfast",
-        "latest_article_at" : "2026-07-17T14:07:18Z",
+        "latest_article_at" : "2026-07-15T13:09:07Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-07-17T16:01:02Z",
+        "processed_at" : "2026-07-17T18:01:05Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 10,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-07-17T16:01:01Z",
+        "processed_at" : "2026-07-17T18:01:03Z",
         "state" : "processed"
       },
       {
@@ -334,7 +340,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-07-16T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-07-17T16:00:59Z",
+        "processed_at" : "2026-07-17T18:01:01Z",
         "state" : "processed"
       },
       {
@@ -342,7 +348,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-07-16T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-07-17T16:01:00Z",
+        "processed_at" : "2026-07-17T18:01:02Z",
         "state" : "processed"
       },
       {
@@ -350,7 +356,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-07-16T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-07-17T16:00:58Z",
+        "processed_at" : "2026-07-17T18:01:00Z",
         "state" : "processed"
       },
       {
@@ -358,7 +364,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-07-17T15:57:54Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-07-17T16:00:58Z",
+        "processed_at" : "2026-07-17T18:01:00Z",
         "state" : "processed"
       },
       {
@@ -366,7 +372,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-07-17T01:46:36Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-07-17T16:00:59Z",
+        "processed_at" : "2026-07-17T18:01:00Z",
         "state" : "processed"
       },
       {
@@ -374,7 +380,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-07-17T10:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-07-17T16:00:59Z",
+        "processed_at" : "2026-07-17T18:01:01Z",
         "state" : "processed"
       },
       {
@@ -382,7 +388,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-07-17T11:01:52Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-07-17T16:01:01Z",
+        "processed_at" : "2026-07-17T18:01:03Z",
         "state" : "processed"
       },
       {
@@ -390,22 +396,22 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-07-17T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-07-17T16:00:58Z",
+        "processed_at" : "2026-07-17T18:01:00Z",
         "state" : "processed"
       },
       {
-        "article_count" : 7,
+        "article_count" : 11,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-07-17T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-07-17T16:01:04Z",
+        "processed_at" : "2026-07-17T18:01:05Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-07-17T16:01:00Z",
+        "processed_at" : "2026-07-17T18:01:02Z",
         "state" : "processed"
       }
     ],
