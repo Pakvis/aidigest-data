@@ -2,46 +2,7 @@
   "cards" : [
     {
       "date" : "2026-07-17",
-      "id" : "2026-07-17-36006390346b",
-      "importance" : "high",
-      "sources" : [
-        {
-          "source_name" : "The Neuron Daily",
-          "title" : "One rogue agent could hijack enterprise chatbots",
-          "url" : "https:\/\/www.theneurondaily.com\/p\/july-8-wednesday"
-        },
-        {
-          "source_name" : "AI News (Swyx)",
-          "title" : "not much happened today",
-          "url" : "https:\/\/news.smol.ai\/issues\/26-07-16-kimi-k30\/"
-        },
-        {
-          "source_name" : "OpenAI News",
-          "title" : "How Cars24 scales conversations and builds faster with OpenAI",
-          "url" : "https:\/\/openai.com\/index\/cars24"
-        },
-        {
-          "source_name" : "Latent Space",
-          "title" : "not much happened today",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-not-much-happened-today-c72"
-        },
-        {
-          "source_name" : "TLDR AI",
-          "title" : "Claude Code browser 🌍, Cursor general agent 🤖, Claude Fable extension ⏳",
-          "url" : "https:\/\/tldr.tech\/ai\/2026-07-13"
-        }
-      ],
-      "summary" : "This potential threat underscores the importance of robust security measures in AI systems to prevent unauthorized access and manipulation.",
-      "title" : "One rogue agent could hijack enterprise chatbots",
-      "topics" : [
-        "Agents",
-        "GPT",
-        "Claude"
-      ]
-    },
-    {
-      "date" : "2026-07-17",
-      "id" : "2026-07-17-8d4b6a701351",
+      "id" : "2026-07-17-4e7bacd1c370",
       "importance" : "high",
       "sources" : [
         {
@@ -60,17 +21,75 @@
           "url" : "https:\/\/blog.google\/products-and-platforms\/products\/workspace\/gemini-omni-personal-avatars\/"
         },
         {
+          "source_name" : "AI News (Swyx)",
+          "title" : "not much happened today",
+          "url" : "https:\/\/news.smol.ai\/issues\/26-07-16-kimi-k30\/"
+        },
+        {
           "source_name" : "OpenAI News",
-          "title" : "Getting started with ChatGPT",
-          "url" : "https:\/\/openai.com\/academy\/getting-started"
+          "title" : "How sales teams use ChatGPT Work",
+          "url" : "https:\/\/openai.com\/academy\/codex-for-work\/how-sales-teams-use-codex"
         }
       ],
-      "summary" : "Google has released two updates to its video-creation platform, Google Vids, including Gemini Omni and personal avatars.",
-      "title" : "Google AI Blog: Create, edit and star in videos with two Google Vids updates",
+      "summary" : "Moonshot AI launched Kimi K3 as a frontier-class open-weights model, with official claims that place it near top closed models and above prior open competitors.",
+      "title" : "Kimi K3 2.8T-A50B: the largest open model ever released; Opus 4.8-class at Sonnet 5 pricing",
       "topics" : [
-        "ChatGPT",
-        "Pricing",
-        "Gemini"
+        "Agents",
+        "Claude",
+        "Anthropic"
+      ]
+    },
+    {
+      "date" : "2026-07-17",
+      "id" : "2026-07-17-249de724efed",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "The US is advancing AI safety through state and federal action",
+          "url" : "https:\/\/openai.com\/index\/advancing-ai-safety-through-state-and-federal-action"
+        }
+      ],
+      "summary" : "OpenAI proposes a federal framework for AI governance that incorporates state laws to ensure safety, resilience, and national security.",
+      "title" : "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+      "topics" : [
+        "Safety"
+      ]
+    },
+    {
+      "date" : "2026-07-17",
+      "id" : "2026-07-17-d90248862ebe",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "How Cars24 scales conversations and builds faster with OpenAI",
+          "url" : "https:\/\/openai.com\/index\/cars24"
+        }
+      ],
+      "summary" : "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+      "title" : "Cars24 scales conversations and builds faster with OpenAI",
+      "topics" : [
+        "Agents",
+        "Workflows"
+      ]
+    },
+    {
+      "date" : "2026-07-17",
+      "id" : "2026-07-17-173859a1ce57",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "GPT-Red: Unlocking Self-Improvement for Robustness",
+          "url" : "https:\/\/openai.com\/index\/unlocking-self-improvement-gpt-red"
+        }
+      ],
+      "summary" : "GPT-Red is OpenAI's automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+      "title" : "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "topics" : [
+        "GPT",
+        "Safety"
       ]
     },
     {
@@ -210,40 +229,6 @@
       "topics" : [
         "Agents",
         "Enterprise"
-      ]
-    },
-    {
-      "date" : "2026-07-17",
-      "id" : "2026-07-17-d84be23286c4",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "AI Breakfast",
-          "title" : "The first OpenAI consumer device relies on motion and cameras",
-          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/the-first-openai-consumer-device-relies-on-motion-and-cameras"
-        }
-      ],
-      "summary" : "This device could revolutionize how consumers interact with technology, offering a more intuitive and immersive experience.",
-      "title" : "OpenAI's first consumer device uses motion and cameras",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "date" : "2026-07-17",
-      "id" : "2026-07-17-a6484d9dbd2a",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "Superhuman AI",
-          "title" : "America's best open-weight model yet",
-          "url" : "https:\/\/www.superhuman.ai\/p\/america-s-best-open-weight-model-yet"
-        }
-      ],
-      "summary" : "This advancement could significantly impact the field of artificial intelligence and its applications.",
-      "title" : "ChatGPT surpasses previous open-weight models",
-      "topics" : [
-        "ChatGPT"
       ]
     },
     {

@@ -2,68 +2,18 @@
   "cards" : [
     {
       "consolidation" : {
-        "latest_source_at" : "2026-07-16T05:44:39Z",
-        "message_count" : 169,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 9
-      },
-      "created_at" : "2026-07-16T05:44:39Z",
-      "id" : "2026-07-17-36006390346b",
-      "importance" : "high",
-      "key_insights" : [
-        "Why it matters: This potential threat underscores the importance of robust security measures in AI systems to prevent unauthorized access and manipulation.",
-        "What changed: The article discusses the risks associated with rogue agents in enterprise chatbots, emphasizing the need for enhanced security protocols.",
-        "What to watch: Monitoring developments in AI security and the implementation of advanced safeguards to protect enterprise chatbots from potential threats."
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Neuron Daily",
-          "title" : "One rogue agent could hijack enterprise chatbots",
-          "url" : "https:\/\/www.theneurondaily.com\/p\/july-8-wednesday"
-        },
-        {
-          "source_name" : "AI News (Swyx)",
-          "title" : "not much happened today",
-          "url" : "https:\/\/news.smol.ai\/issues\/26-07-16-kimi-k30\/"
-        },
-        {
-          "source_name" : "OpenAI News",
-          "title" : "How Cars24 scales conversations and builds faster with OpenAI",
-          "url" : "https:\/\/openai.com\/index\/cars24"
-        },
-        {
-          "source_name" : "Latent Space",
-          "title" : "not much happened today",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-not-much-happened-today-c72"
-        },
-        {
-          "source_name" : "TLDR AI",
-          "title" : "Claude Code browser 🌍, Cursor general agent 🤖, Claude Fable extension ⏳",
-          "url" : "https:\/\/tldr.tech\/ai\/2026-07-13"
-        }
-      ],
-      "summary" : "This potential threat underscores the importance of robust security measures in AI systems to prevent unauthorized access and manipulation.",
-      "title" : "One rogue agent could hijack enterprise chatbots",
-      "topics" : [
-        "Agents",
-        "GPT",
-        "Claude"
-      ]
-    },
-    {
-      "consolidation" : {
         "latest_source_at" : "2026-07-17T01:46:36Z",
-        "message_count" : 5,
+        "message_count" : 104,
         "reason" : "Multiple sources reported the same story.",
-        "source_count" : 4
+        "source_count" : 5
       },
       "created_at" : "2026-07-17T01:46:36Z",
-      "id" : "2026-07-17-8d4b6a701351",
+      "id" : "2026-07-17-4e7bacd1c370",
       "importance" : "high",
       "key_insights" : [
-        "Why it matters: These updates could significantly enhance the user experience by making video creation more intuitive and personalized.",
-        "What changed: Google has added Gemini Omni, a new AI-powered feature that allows users to create, edit, and star in videos.",
-        "What to watch: Users should keep an eye on how these updates are received and how they integrate with other Google services."
+        "Why it matters: The release of Kimi K3 highlights the growing competition in the open-weights AI space and its potential impact on the industry.",
+        "What changed: Kimi K3 is the largest open model ever released, with 2.8T total parameters and 1M-token context, setting a new benchmark for open-weights models.",
+        "What to watch: Keep an eye on the developments in the open-weights AI space as Kimi K3 continues to evolve and compete with other models."
       ],
       "sources" : [
         {
@@ -82,17 +32,96 @@
           "url" : "https:\/\/blog.google\/products-and-platforms\/products\/workspace\/gemini-omni-personal-avatars\/"
         },
         {
+          "source_name" : "AI News (Swyx)",
+          "title" : "not much happened today",
+          "url" : "https:\/\/news.smol.ai\/issues\/26-07-16-kimi-k30\/"
+        },
+        {
           "source_name" : "OpenAI News",
-          "title" : "Getting started with ChatGPT",
-          "url" : "https:\/\/openai.com\/academy\/getting-started"
+          "title" : "How sales teams use ChatGPT Work",
+          "url" : "https:\/\/openai.com\/academy\/codex-for-work\/how-sales-teams-use-codex"
         }
       ],
-      "summary" : "Google has released two updates to its video-creation platform, Google Vids, including Gemini Omni and personal avatars.",
-      "title" : "Google AI Blog: Create, edit and star in videos with two Google Vids updates",
+      "summary" : "Moonshot AI launched Kimi K3 as a frontier-class open-weights model, with official claims that place it near top closed models and above prior open competitors.",
+      "title" : "Kimi K3 2.8T-A50B: the largest open model ever released; Opus 4.8-class at Sonnet 5 pricing",
       "topics" : [
-        "ChatGPT",
-        "Pricing",
-        "Gemini"
+        "Agents",
+        "Claude",
+        "Anthropic"
+      ]
+    },
+    {
+      "consolidation" : {
+        "latest_source_at" : "2026-07-15T12:00:00Z",
+        "message_count" : 4,
+        "reason" : "Multiple messages matched the same story.",
+        "source_count" : 1
+      },
+      "created_at" : "2026-07-15T12:00:00Z",
+      "id" : "2026-07-17-249de724efed",
+      "importance" : "high",
+      "key_insights" : [
+        "Why it matters: This approach aims to create a comprehensive national framework for AI governance that balances state and federal responsibilities.",
+        "What changed: OpenAI is advocating for a federal framework that integrates state laws to enhance AI safety and governance.",
+        "What to watch: The implementation of this framework will be crucial in shaping the future of AI governance in the United States."
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "The US is advancing AI safety through state and federal action",
+          "url" : "https:\/\/openai.com\/index\/advancing-ai-safety-through-state-and-federal-action"
+        }
+      ],
+      "summary" : "OpenAI proposes a federal framework for AI governance that incorporates state laws to ensure safety, resilience, and national security.",
+      "title" : "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+      "topics" : [
+        "Safety"
+      ]
+    },
+    {
+      "created_at" : "2026-07-16T00:00:00Z",
+      "id" : "2026-07-17-d90248862ebe",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: This integration demonstrates the potential of AI in enhancing customer service and operational efficiency.",
+        "What changed: Cars24 has adopted AI-driven agents to streamline its customer interactions and improve lead recovery.",
+        "What to watch: The success of this implementation could set a precedent for other companies looking to leverage AI for similar purposes."
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "How Cars24 scales conversations and builds faster with OpenAI",
+          "url" : "https:\/\/openai.com\/index\/cars24"
+        }
+      ],
+      "summary" : "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+      "title" : "Cars24 scales conversations and builds faster with OpenAI",
+      "topics" : [
+        "Agents",
+        "Workflows"
+      ]
+    },
+    {
+      "created_at" : "2026-07-15T10:00:00Z",
+      "id" : "2026-07-17-173859a1ce57",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: This system is a significant advancement in AI safety, potentially reducing the risk of harmful AI behaviors.",
+        "What changed: GPT-Red introduces a new approach to AI safety by leveraging self-play to enhance robustness.",
+        "What to watch: The effectiveness of GPT-Red in real-world scenarios will be crucial for its adoption and integration into AI systems."
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "GPT-Red: Unlocking Self-Improvement for Robustness",
+          "url" : "https:\/\/openai.com\/index\/unlocking-self-improvement-gpt-red"
+        }
+      ],
+      "summary" : "GPT-Red is OpenAI's automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+      "title" : "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "topics" : [
+        "GPT",
+        "Safety"
       ]
     },
     {
@@ -273,71 +302,27 @@
         "Agents",
         "Enterprise"
       ]
-    },
-    {
-      "created_at" : "2026-07-15T13:09:07Z",
-      "id" : "2026-07-17-d84be23286c4",
-      "importance" : "low",
-      "key_insights" : [
-        "Why it matters: This device could revolutionize how consumers interact with technology, offering a more intuitive and immersive experience.",
-        "What changed: The development of this device marks a significant step forward in OpenAI's efforts to create consumer-friendly AI products.",
-        "What to watch: As OpenAI continues to refine this device, it will be interesting to see how it compares to other consumer-focused AI products on the market."
-      ],
-      "sources" : [
-        {
-          "source_name" : "AI Breakfast",
-          "title" : "The first OpenAI consumer device relies on motion and cameras",
-          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/the-first-openai-consumer-device-relies-on-motion-and-cameras"
-        }
-      ],
-      "summary" : "This device could revolutionize how consumers interact with technology, offering a more intuitive and immersive experience.",
-      "title" : "OpenAI's first consumer device uses motion and cameras",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "created_at" : "2026-07-16T11:01:45Z",
-      "id" : "2026-07-17-a6484d9dbd2a",
-      "importance" : "low",
-      "key_insights" : [
-        "Why it matters: This advancement could significantly impact the field of artificial intelligence and its applications.",
-        "What changed: ChatGPT has improved its performance and capabilities compared to previous open-weight models.",
-        "What to watch: It will be interesting to see how this advancement is implemented and integrated into various applications."
-      ],
-      "sources" : [
-        {
-          "source_name" : "Superhuman AI",
-          "title" : "America's best open-weight model yet",
-          "url" : "https:\/\/www.superhuman.ai\/p\/america-s-best-open-weight-model-yet"
-        }
-      ],
-      "summary" : "This advancement could significantly impact the field of artificial intelligence and its applications.",
-      "title" : "ChatGPT surpasses previous open-weight models",
-      "topics" : [
-        "ChatGPT"
-      ]
     }
   ],
   "count" : 12,
   "date" : "2026-07-17",
-  "generated_at" : "2026-07-17T04:01:00Z",
+  "generated_at" : "2026-07-17T06:01:00Z",
   "processing_report" : {
-    "generated_at" : "2026-07-17T04:01:04Z",
+    "generated_at" : "2026-07-17T06:01:04Z",
     "source_reports" : [
       {
-        "article_count" : 11,
+        "article_count" : 10,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-07-15T13:09:07Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-07-17T04:01:04Z",
+        "processed_at" : "2026-07-17T06:01:04Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-07-17T04:01:02Z",
+        "processed_at" : "2026-07-17T06:01:03Z",
         "state" : "processed"
       },
       {
@@ -345,15 +330,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-07-16T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-07-17T04:01:01Z",
+        "processed_at" : "2026-07-17T06:01:01Z",
         "state" : "processed"
       },
       {
-        "article_count" : 6,
+        "article_count" : 5,
         "id" : "aireport-nl",
         "latest_article_at" : "2026-07-16T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-07-17T04:01:02Z",
+        "processed_at" : "2026-07-17T06:01:03Z",
         "state" : "processed"
       },
       {
@@ -361,7 +346,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-07-16T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-07-17T04:01:00Z",
+        "processed_at" : "2026-07-17T06:01:00Z",
         "state" : "processed"
       },
       {
@@ -369,7 +354,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-07-16T16:01:21Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-07-17T04:01:00Z",
+        "processed_at" : "2026-07-17T06:01:00Z",
         "state" : "processed"
       },
       {
@@ -377,7 +362,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-07-17T01:46:36Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-07-17T04:01:01Z",
+        "processed_at" : "2026-07-17T06:01:01Z",
         "state" : "processed"
       },
       {
@@ -385,15 +370,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-07-16T16:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-07-17T04:01:01Z",
+        "processed_at" : "2026-07-17T06:01:01Z",
         "state" : "processed"
       },
       {
-        "article_count" : 8,
+        "article_count" : 7,
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-07-16T11:01:45Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-07-17T04:01:02Z",
+        "processed_at" : "2026-07-17T06:01:03Z",
         "state" : "processed"
       },
       {
@@ -401,22 +386,22 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-07-16T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-07-17T04:01:00Z",
+        "processed_at" : "2026-07-17T06:01:00Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 10,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-07-16T20:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-07-17T04:01:03Z",
+        "processed_at" : "2026-07-17T06:01:04Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-07-17T04:01:02Z",
+        "processed_at" : "2026-07-17T06:01:04Z",
         "state" : "processed"
       }
     ],
