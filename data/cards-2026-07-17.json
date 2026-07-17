@@ -2,63 +2,18 @@
   "cards" : [
     {
       "consolidation" : {
-        "latest_source_at" : "2026-07-16T05:44:39Z",
-        "message_count" : 7,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 4
-      },
-      "created_at" : "2026-07-16T05:44:39Z",
-      "id" : "2026-07-17-359171acce05",
-      "importance" : "high",
-      "key_insights" : [
-        "Why it matters: This highlights the practical application of AI in real-world scenarios, demonstrating its potential to enhance customer service and operational efficiency.",
-        "What changed: OpenAI's voice and chat agents are being used to handle 1M+ monthly conversation minutes.",
-        "What to watch: The continued development and deployment of AI-powered agents in various industries will likely lead to further advancements in customer service and operational efficiency."
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Neuron Daily",
-          "title" : "ChatGPT may get a body",
-          "url" : "https:\/\/www.theneurondaily.com\/p\/chatgpt-may-get-a-body"
-        },
-        {
-          "source_name" : "AI News (Swyx)",
-          "title" : "not much happened today",
-          "url" : "https:\/\/news.smol.ai\/issues\/26-07-16-kimi-k30\/"
-        },
-        {
-          "source_name" : "OpenAI News",
-          "title" : "How Cars24 scales conversations and builds faster with OpenAI",
-          "url" : "https:\/\/openai.com\/index\/cars24"
-        },
-        {
-          "source_name" : "AI Breakfast",
-          "title" : "OpenAI prepares a rapid GPT-5.6 drop to steal Anthropic users",
-          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/openai-prepares-a-rapid-gpt-5-6-drop-to-steal-anthropic-users"
-        }
-      ],
-      "summary" : "This highlights the practical application of AI in real-world scenarios, demonstrating its potential to enhance customer service and operational efficiency.",
-      "title" : "OpenAI's voice and chat agents are being used to handle 1M+ monthly conversation minutes.",
-      "topics" : [
-        "GPT",
-        "Safety",
-        "Agents"
-      ]
-    },
-    {
-      "consolidation" : {
         "latest_source_at" : "2026-07-17T01:46:36Z",
-        "message_count" : 4,
+        "message_count" : 104,
         "reason" : "Multiple sources reported the same story.",
-        "source_count" : 3
+        "source_count" : 5
       },
       "created_at" : "2026-07-17T01:46:36Z",
-      "id" : "2026-07-17-8d4b6a701351",
+      "id" : "2026-07-17-4e7bacd1c370",
       "importance" : "high",
       "key_insights" : [
-        "Why it matters: These updates could significantly enhance the user experience by making video creation more intuitive and personalized.",
-        "What changed: Google has added Gemini Omni, a new AI-powered feature that allows users to create and edit videos more easily.",
-        "What to watch: Users should keep an eye on how these updates are received and how they impact the overall user experience of Google Vids."
+        "Why it matters: The release of Kimi K3 highlights the growing competition in the open-weights AI space and its potential impact on the industry.",
+        "What changed: Kimi K3 is the largest open model ever released, with 2.8T total parameters and 1M-token context, setting a new benchmark for open-weights models.",
+        "What to watch: Keep an eye on the developments in the open-weights AI space as Kimi K3 continues to evolve and compete with other models."
       ],
       "sources" : [
         {
@@ -75,14 +30,69 @@
           "source_name" : "Google AI Blog",
           "title" : "Create, edit and star in videos with two Google Vids updates",
           "url" : "https:\/\/blog.google\/products-and-platforms\/products\/workspace\/gemini-omni-personal-avatars\/"
+        },
+        {
+          "source_name" : "AI News (Swyx)",
+          "title" : "not much happened today",
+          "url" : "https:\/\/news.smol.ai\/issues\/26-07-16-kimi-k30\/"
+        },
+        {
+          "source_name" : "OpenAI News",
+          "title" : "How sales teams use ChatGPT Work",
+          "url" : "https:\/\/openai.com\/academy\/codex-for-work\/how-sales-teams-use-codex"
         }
       ],
-      "summary" : "Google has released two updates to its video-creation platform, Google Vids, which include Gemini Omni and personal avatars.",
-      "title" : "Google AI Blog: Create, edit and star in videos with two Google Vids updates",
+      "summary" : "Moonshot AI launched Kimi K3 as a frontier-class open-weights model, with official claims that place it near top closed models and above prior open competitors.",
+      "title" : "Kimi K3 2.8T-A50B: the largest open model ever released; Opus 4.8-class at Sonnet 5 pricing",
       "topics" : [
-        "Gemini",
-        "Pricing",
-        "Claude"
+        "Agents",
+        "Claude",
+        "Anthropic"
+      ]
+    },
+    {
+      "created_at" : "2026-07-17T10:00:00Z",
+      "id" : "2026-07-17-32a9fb44a212",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: This scorecard provides a practical framework for evaluating the effectiveness of AI investments, helping organizations optimize their use of AI technologies.",
+        "What changed: Sarah Friar introduced a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+        "What to watch: Organizations should closely monitor the implementation and effectiveness of this scorecard to ensure they are maximizing the benefits of AI technologies."
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "A scorecard for the AI age",
+          "url" : "https:\/\/openai.com\/index\/a-scorecard-for-the-ai-age"
+        }
+      ],
+      "summary" : "This scorecard provides a practical framework for evaluating the effectiveness of AI investments, helping organizations optimize their use of AI technologies.",
+      "title" : "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "created_at" : "2026-07-16T00:00:00Z",
+      "id" : "2026-07-17-d90248862ebe",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: This integration demonstrates the potential of AI in enhancing customer service and operational efficiency.",
+        "What changed: Cars24 has adopted AI-driven agents to streamline its customer interactions and improve lead recovery.",
+        "What to watch: The success of this implementation could set a precedent for other companies looking to leverage AI for similar purposes."
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "How Cars24 scales conversations and builds faster with OpenAI",
+          "url" : "https:\/\/openai.com\/index\/cars24"
+        }
+      ],
+      "summary" : "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+      "title" : "Cars24 scales conversations and builds faster with OpenAI",
+      "topics" : [
+        "Agents",
+        "Workflows"
       ]
     },
     {
@@ -129,6 +139,28 @@
         "APIs",
         "Data",
         "Compute"
+      ]
+    },
+    {
+      "created_at" : "2026-07-17T00:00:00Z",
+      "id" : "2026-07-17-97d4a29ccd3b",
+      "importance" : "low",
+      "key_insights" : [
+        "Why it matters: The delay could impact the timeline for the release of the new model.",
+        "What changed: The release date for Gemini 3.5 has been postponed.",
+        "What to watch: Keep an eye on the official announcements for updates on the new model."
+      ],
+      "sources" : [
+        {
+          "source_name" : "TLDR AI",
+          "title" : "Kimi K3 🌕, Gemini 3.5 delayed ⏳, crushing ARC-AGI 3 🤖",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-07-17"
+        }
+      ],
+      "summary" : "The delay could impact the timeline for the release of the new model.",
+      "title" : "Gemini 3.5 delayed",
+      "topics" : [
+        "Gemini"
       ]
     },
     {
@@ -262,72 +294,27 @@
       "topics" : [
         "AI"
       ]
-    },
-    {
-      "created_at" : "2026-07-16T11:01:00Z",
-      "id" : "2026-07-17-ad18d0efafbc",
-      "importance" : "low",
-      "key_insights" : [
-        "Why it matters: This development could revolutionize how AI agents interact with users, making them more accessible and user-friendly.",
-        "What changed: OpenAI's physical keypad is a significant step forward in the evolution of AI agents, providing a new way for users to interact with these systems.",
-        "What to watch: The adoption of OpenAI's physical keypad by enterprise users will be closely monitored to see how it impacts the overall landscape of AI agents."
-      ],
-      "sources" : [
-        {
-          "source_name" : "The AI Report",
-          "title" : "️ OpenAI launches a physical keypad",
-          "url" : "https:\/\/newsletter.theaireport.ai\/p\/openai-launches-a-physical-keypad"
-        }
-      ],
-      "summary" : "This development could revolutionize how AI agents interact with users, making them more accessible and user-friendly.",
-      "title" : "OpenAI launches a physical keypad",
-      "topics" : [
-        "Agents",
-        "Enterprise"
-      ]
-    },
-    {
-      "created_at" : "2026-07-15T13:09:07Z",
-      "id" : "2026-07-17-d84be23286c4",
-      "importance" : "low",
-      "key_insights" : [
-        "Why it matters: This device could revolutionize how consumers interact with technology, offering a more intuitive and immersive experience.",
-        "What changed: The development of this device marks a significant step forward in OpenAI's efforts to create consumer-friendly AI products.",
-        "What to watch: As OpenAI continues to refine this device, it will be interesting to see how it compares to other consumer-focused AI products on the market."
-      ],
-      "sources" : [
-        {
-          "source_name" : "AI Breakfast",
-          "title" : "The first OpenAI consumer device relies on motion and cameras",
-          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/the-first-openai-consumer-device-relies-on-motion-and-cameras"
-        }
-      ],
-      "summary" : "This device could revolutionize how consumers interact with technology, offering a more intuitive and immersive experience.",
-      "title" : "OpenAI's first consumer device uses motion and cameras",
-      "topics" : [
-        "AI"
-      ]
     }
   ],
   "count" : 12,
   "date" : "2026-07-17",
-  "generated_at" : "2026-07-17T12:01:00Z",
+  "generated_at" : "2026-07-17T14:01:00Z",
   "processing_report" : {
-    "generated_at" : "2026-07-17T12:01:04Z",
+    "generated_at" : "2026-07-17T14:01:05Z",
     "source_reports" : [
       {
-        "article_count" : 11,
+        "article_count" : 9,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-07-15T13:09:07Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-07-17T12:01:04Z",
+        "processed_at" : "2026-07-17T14:01:05Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 10,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-07-17T12:01:03Z",
+        "processed_at" : "2026-07-17T14:01:03Z",
         "state" : "processed"
       },
       {
@@ -335,15 +322,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-07-16T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-07-17T12:01:01Z",
+        "processed_at" : "2026-07-17T14:01:01Z",
         "state" : "processed"
       },
       {
-        "article_count" : 6,
+        "article_count" : 3,
         "id" : "aireport-nl",
-        "latest_article_at" : "2026-07-16T10:00:00Z",
+        "latest_article_at" : "2026-07-14T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-07-17T12:01:02Z",
+        "processed_at" : "2026-07-17T14:01:03Z",
         "state" : "processed"
       },
       {
@@ -351,7 +338,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-07-16T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-07-17T12:01:00Z",
+        "processed_at" : "2026-07-17T14:01:00Z",
         "state" : "processed"
       },
       {
@@ -359,7 +346,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-07-16T16:01:21Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-07-17T12:01:01Z",
+        "processed_at" : "2026-07-17T14:01:00Z",
         "state" : "processed"
       },
       {
@@ -367,15 +354,15 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-07-17T01:46:36Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-07-17T12:01:01Z",
+        "processed_at" : "2026-07-17T14:01:01Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "openai-news",
-        "latest_article_at" : "2026-07-16T16:00:00Z",
+        "latest_article_at" : "2026-07-17T10:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-07-17T12:01:01Z",
+        "processed_at" : "2026-07-17T14:01:01Z",
         "state" : "processed"
       },
       {
@@ -383,30 +370,30 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-07-17T11:01:52Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-07-17T12:01:03Z",
+        "processed_at" : "2026-07-17T14:01:03Z",
         "state" : "processed"
       },
       {
         "article_count" : 19,
         "id" : "tldr-ai",
-        "latest_article_at" : "2026-07-16T00:00:00Z",
+        "latest_article_at" : "2026-07-17T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-07-17T12:01:00Z",
+        "processed_at" : "2026-07-17T14:01:00Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 10,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-07-17T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-07-17T12:01:03Z",
+        "processed_at" : "2026-07-17T14:01:04Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 10,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-07-17T12:01:02Z",
+        "processed_at" : "2026-07-17T14:01:02Z",
         "state" : "processed"
       }
     ],

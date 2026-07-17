@@ -2,41 +2,7 @@
   "cards" : [
     {
       "date" : "2026-07-17",
-      "id" : "2026-07-17-359171acce05",
-      "importance" : "high",
-      "sources" : [
-        {
-          "source_name" : "The Neuron Daily",
-          "title" : "ChatGPT may get a body",
-          "url" : "https:\/\/www.theneurondaily.com\/p\/chatgpt-may-get-a-body"
-        },
-        {
-          "source_name" : "AI News (Swyx)",
-          "title" : "not much happened today",
-          "url" : "https:\/\/news.smol.ai\/issues\/26-07-16-kimi-k30\/"
-        },
-        {
-          "source_name" : "OpenAI News",
-          "title" : "How Cars24 scales conversations and builds faster with OpenAI",
-          "url" : "https:\/\/openai.com\/index\/cars24"
-        },
-        {
-          "source_name" : "AI Breakfast",
-          "title" : "OpenAI prepares a rapid GPT-5.6 drop to steal Anthropic users",
-          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/openai-prepares-a-rapid-gpt-5-6-drop-to-steal-anthropic-users"
-        }
-      ],
-      "summary" : "This highlights the practical application of AI in real-world scenarios, demonstrating its potential to enhance customer service and operational efficiency.",
-      "title" : "OpenAI's voice and chat agents are being used to handle 1M+ monthly conversation minutes.",
-      "topics" : [
-        "GPT",
-        "Safety",
-        "Agents"
-      ]
-    },
-    {
-      "date" : "2026-07-17",
-      "id" : "2026-07-17-8d4b6a701351",
+      "id" : "2026-07-17-4e7bacd1c370",
       "importance" : "high",
       "sources" : [
         {
@@ -53,14 +19,59 @@
           "source_name" : "Google AI Blog",
           "title" : "Create, edit and star in videos with two Google Vids updates",
           "url" : "https:\/\/blog.google\/products-and-platforms\/products\/workspace\/gemini-omni-personal-avatars\/"
+        },
+        {
+          "source_name" : "AI News (Swyx)",
+          "title" : "not much happened today",
+          "url" : "https:\/\/news.smol.ai\/issues\/26-07-16-kimi-k30\/"
+        },
+        {
+          "source_name" : "OpenAI News",
+          "title" : "How sales teams use ChatGPT Work",
+          "url" : "https:\/\/openai.com\/academy\/codex-for-work\/how-sales-teams-use-codex"
         }
       ],
-      "summary" : "Google has released two updates to its video-creation platform, Google Vids, which include Gemini Omni and personal avatars.",
-      "title" : "Google AI Blog: Create, edit and star in videos with two Google Vids updates",
+      "summary" : "Moonshot AI launched Kimi K3 as a frontier-class open-weights model, with official claims that place it near top closed models and above prior open competitors.",
+      "title" : "Kimi K3 2.8T-A50B: the largest open model ever released; Opus 4.8-class at Sonnet 5 pricing",
       "topics" : [
-        "Gemini",
-        "Pricing",
-        "Claude"
+        "Agents",
+        "Claude",
+        "Anthropic"
+      ]
+    },
+    {
+      "date" : "2026-07-17",
+      "id" : "2026-07-17-32a9fb44a212",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "A scorecard for the AI age",
+          "url" : "https:\/\/openai.com\/index\/a-scorecard-for-the-ai-age"
+        }
+      ],
+      "summary" : "This scorecard provides a practical framework for evaluating the effectiveness of AI investments, helping organizations optimize their use of AI technologies.",
+      "title" : "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "date" : "2026-07-17",
+      "id" : "2026-07-17-d90248862ebe",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "How Cars24 scales conversations and builds faster with OpenAI",
+          "url" : "https:\/\/openai.com\/index\/cars24"
+        }
+      ],
+      "summary" : "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+      "title" : "Cars24 scales conversations and builds faster with OpenAI",
+      "topics" : [
+        "Agents",
+        "Workflows"
       ]
     },
     {
@@ -97,6 +108,23 @@
         "APIs",
         "Data",
         "Compute"
+      ]
+    },
+    {
+      "date" : "2026-07-17",
+      "id" : "2026-07-17-97d4a29ccd3b",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "TLDR AI",
+          "title" : "Kimi K3 🌕, Gemini 3.5 delayed ⏳, crushing ARC-AGI 3 🤖",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-07-17"
+        }
+      ],
+      "summary" : "The delay could impact the timeline for the release of the new model.",
+      "title" : "Gemini 3.5 delayed",
+      "topics" : [
+        "Gemini"
       ]
     },
     {
@@ -197,41 +225,6 @@
       ],
       "summary" : "Dan Klein explains why today's AI models prioritize plausibility over truth, and what comes next.",
       "title" : "Why AI gets it wrong",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "date" : "2026-07-17",
-      "id" : "2026-07-17-ad18d0efafbc",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "The AI Report",
-          "title" : "️ OpenAI launches a physical keypad",
-          "url" : "https:\/\/newsletter.theaireport.ai\/p\/openai-launches-a-physical-keypad"
-        }
-      ],
-      "summary" : "This development could revolutionize how AI agents interact with users, making them more accessible and user-friendly.",
-      "title" : "OpenAI launches a physical keypad",
-      "topics" : [
-        "Agents",
-        "Enterprise"
-      ]
-    },
-    {
-      "date" : "2026-07-17",
-      "id" : "2026-07-17-d84be23286c4",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "AI Breakfast",
-          "title" : "The first OpenAI consumer device relies on motion and cameras",
-          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/the-first-openai-consumer-device-relies-on-motion-and-cameras"
-        }
-      ],
-      "summary" : "This device could revolutionize how consumers interact with technology, offering a more intuitive and immersive experience.",
-      "title" : "OpenAI's first consumer device uses motion and cameras",
       "topics" : [
         "AI"
       ]
