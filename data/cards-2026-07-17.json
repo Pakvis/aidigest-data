@@ -3,23 +3,23 @@
     {
       "consolidation" : {
         "latest_source_at" : "2026-07-16T05:44:39Z",
-        "message_count" : 39,
+        "message_count" : 166,
         "reason" : "Multiple sources reported the same story.",
-        "source_count" : 8
+        "source_count" : 9
       },
       "created_at" : "2026-07-16T05:44:39Z",
-      "id" : "2026-07-17-5a10e98c3941",
+      "id" : "2026-07-17-36006390346b",
       "importance" : "high",
       "key_insights" : [
-        "Why it matters: This development highlights OpenAI's commitment to integrating AI into professional workflows, potentially transforming how businesses operate and collaborate.",
-        "What changed: OpenAI has enhanced ChatGPT with new features and capabilities, making it more suitable for work-related tasks.",
-        "What to watch: The integration of ChatGPT into work environments will likely lead to increased adoption and experimentation with AI in professional settings."
+        "Why it matters: This potential threat underscores the importance of robust security measures in AI systems to prevent unauthorized access and manipulation.",
+        "What changed: The article discusses the risks associated with rogue agents in enterprise chatbots, emphasizing the need for enhanced security protocols.",
+        "What to watch: Monitoring developments in AI security and the implementation of advanced safeguards to protect enterprise chatbots from potential threats."
       ],
       "sources" : [
         {
           "source_name" : "The Neuron Daily",
-          "title" : "OpenAI Turns ChatGPT Into a Work Agent",
-          "url" : "https:\/\/www.theneurondaily.com\/p\/openai-s-super-thursday"
+          "title" : "One rogue agent could hijack enterprise chatbots",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/july-8-wednesday"
         },
         {
           "source_name" : "AI News (Swyx)",
@@ -42,28 +42,28 @@
           "url" : "https:\/\/tldr.tech\/ai\/2026-07-13"
         }
       ],
-      "summary" : "OpenAI has launched GPT-5.6 and rebuilt ChatGPT Desktop around Work and Codex, while Meta cut model prices and $130B in data centers faced local resistance.",
-      "title" : "OpenAI Turns ChatGPT Into a Work Agen",
+      "summary" : "This potential threat underscores the importance of robust security measures in AI systems to prevent unauthorized access and manipulation.",
+      "title" : "One rogue agent could hijack enterprise chatbots",
       "topics" : [
-        "Safety",
-        "ChatGPT",
-        "GPT"
+        "Agents",
+        "GPT",
+        "Claude"
       ]
     },
     {
       "consolidation" : {
         "latest_source_at" : "2026-07-17T01:46:36Z",
-        "message_count" : 4,
+        "message_count" : 5,
         "reason" : "Multiple sources reported the same story.",
-        "source_count" : 3
+        "source_count" : 4
       },
       "created_at" : "2026-07-17T01:46:36Z",
       "id" : "2026-07-17-8d4b6a701351",
       "importance" : "high",
       "key_insights" : [
         "Why it matters: These updates could significantly enhance the user experience by making video creation more intuitive and personalized.",
-        "What changed: Google has added Gemini Omni, a new AI-powered feature that allows users to create and edit videos more easily.",
-        "What to watch: Users should keep an eye on how these updates are received and how they impact the overall user experience of Google Vids."
+        "What changed: Google has added Gemini Omni, a new AI-powered feature that allows users to create, edit, and star in videos.",
+        "What to watch: Users should keep an eye on how these updates are received and how they integrate with other Google services."
       ],
       "sources" : [
         {
@@ -80,14 +80,19 @@
           "source_name" : "Google AI Blog",
           "title" : "Create, edit and star in videos with two Google Vids updates",
           "url" : "https:\/\/blog.google\/products-and-platforms\/products\/workspace\/gemini-omni-personal-avatars\/"
+        },
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Getting started with ChatGPT",
+          "url" : "https:\/\/openai.com\/academy\/getting-started"
         }
       ],
-      "summary" : "Google has released two updates to its video-creation platform, Google Vids, which include Gemini Omni and personal avatars.",
+      "summary" : "Google has released two updates to its video-creation platform, Google Vids, including Gemini Omni and personal avatars.",
       "title" : "Google AI Blog: Create, edit and star in videos with two Google Vids updates",
       "topics" : [
-        "Gemini",
+        "ChatGPT",
         "Pricing",
-        "Claude"
+        "Gemini"
       ]
     },
     {
@@ -97,7 +102,7 @@
       "key_insights" : [
         "Why it matters: This scorecard provides a practical framework for evaluating the effectiveness of AI investments, helping organizations optimize their use of AI technologies.",
         "What changed: Sarah Friar introduced a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
-        "What to watch: Organizations should closely monitor the implementation and effectiveness of this scorecard to ensure they are maximizing the benefits of AI technologies."
+        "What to watch: Organizations should closely monitor the implementation and effectiveness of this scorecard to ensure they are maximizing the benefits of AI investments."
       ],
       "sources" : [
         {
@@ -316,23 +321,23 @@
   ],
   "count" : 12,
   "date" : "2026-07-17",
-  "generated_at" : "2026-07-17T18:01:00Z",
+  "generated_at" : "2026-07-17T20:01:00Z",
   "processing_report" : {
-    "generated_at" : "2026-07-17T18:01:05Z",
+    "generated_at" : "2026-07-17T20:01:04Z",
     "source_reports" : [
       {
-        "article_count" : 9,
+        "article_count" : 12,
         "id" : "ai-breakfast",
-        "latest_article_at" : "2026-07-15T13:09:07Z",
+        "latest_article_at" : "2026-07-17T14:07:18Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-07-17T18:01:05Z",
+        "processed_at" : "2026-07-17T20:01:04Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-07-17T18:01:03Z",
+        "processed_at" : "2026-07-17T20:01:03Z",
         "state" : "processed"
       },
       {
@@ -340,7 +345,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-07-16T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-07-17T18:01:01Z",
+        "processed_at" : "2026-07-17T20:01:01Z",
         "state" : "processed"
       },
       {
@@ -348,7 +353,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-07-16T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-07-17T18:01:02Z",
+        "processed_at" : "2026-07-17T20:01:03Z",
         "state" : "processed"
       },
       {
@@ -356,7 +361,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-07-16T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-07-17T18:01:00Z",
+        "processed_at" : "2026-07-17T20:01:00Z",
         "state" : "processed"
       },
       {
@@ -364,7 +369,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-07-17T15:57:54Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-07-17T18:01:00Z",
+        "processed_at" : "2026-07-17T20:01:00Z",
         "state" : "processed"
       },
       {
@@ -372,7 +377,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-07-17T01:46:36Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-07-17T18:01:00Z",
+        "processed_at" : "2026-07-17T20:01:01Z",
         "state" : "processed"
       },
       {
@@ -380,7 +385,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-07-17T10:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-07-17T18:01:01Z",
+        "processed_at" : "2026-07-17T20:01:01Z",
         "state" : "processed"
       },
       {
@@ -388,7 +393,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-07-17T11:01:52Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-07-17T18:01:03Z",
+        "processed_at" : "2026-07-17T20:01:02Z",
         "state" : "processed"
       },
       {
@@ -396,22 +401,22 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-07-17T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-07-17T18:01:00Z",
+        "processed_at" : "2026-07-17T20:01:00Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 12,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-07-17T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-07-17T18:01:05Z",
+        "processed_at" : "2026-07-17T20:01:03Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-07-17T18:01:02Z",
+        "processed_at" : "2026-07-17T20:01:02Z",
         "state" : "processed"
       }
     ],
