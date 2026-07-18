@@ -3,17 +3,17 @@
     {
       "consolidation" : {
         "latest_source_at" : "2026-07-17T05:44:39Z",
-        "message_count" : 168,
+        "message_count" : 14,
         "reason" : "Multiple sources reported the same story.",
-        "source_count" : 9
+        "source_count" : 7
       },
       "created_at" : "2026-07-17T05:44:39Z",
-      "id" : "2026-07-18-a58bb8a5f499",
+      "id" : "2026-07-18-50eba10d4160",
       "importance" : "high",
       "key_insights" : [
-        "Why it matters: The release of Kimi K3 highlights the growing competition between Chinese and US AI labs, with Chinese models like K3 narrowing the gap to US-based models.",
-        "What changed: Kimi K3 is the largest open model ever released, surpassing previous open competitors and positioning itself near top closed models.",
-        "What to watch: The strategic shift from \"compute moat\" to \"efficiency stack\" is a notable theme in the community reaction to Kimi K3."
+        "Why it matters: Ensuring that AI technologies are accessible and safe for young users is crucial for fostering a positive and responsible technological environment.",
+        "What changed: OpenAI has implemented new safety measures to make ChatGPT more suitable for teens.",
+        "What to watch: Keep an eye on OpenAI's updates and initiatives to ensure continued improvements in AI safety for young users."
       ],
       "sources" : [
         {
@@ -42,12 +42,52 @@
           "url" : "https:\/\/blog.google\/products-and-platforms\/products\/workspace\/gemini-omni-personal-avatars\/"
         }
       ],
-      "summary" : "Kimi K3, a frontier-class open-weights model, was released by Moonshot AI with 2.8T total parameters, 1M-token context, native multimodal input, Kimi Delta Attention (KDA), and Attention Residuals.",
-      "title" : "Kimi K3 2.8T-A50B: the largest open model ever released; Opus 4.8-class at Sonnet 5 pricing",
+      "summary" : "OpenAI is enhancing ChatGPT with age-appropriate protections, learning tools, and parental controls to ensure a safe experience for teens.",
+      "title" : "OpenAI News: Why Teens Deserve Access to Safe AI",
       "topics" : [
-        "Agents",
         "GPT",
-        "Claude"
+        "Anthropic",
+        "Pricing"
+      ]
+    },
+    {
+      "consolidation" : {
+        "latest_source_at" : "2026-07-18T04:30:21Z",
+        "message_count" : 3,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 3
+      },
+      "created_at" : "2026-07-18T04:30:21Z",
+      "id" : "2026-07-18-0494f5c1607e",
+      "importance" : "high",
+      "key_insights" : [
+        "Why it matters: This development highlights OpenAI's commitment to integrating AI into professional workflows, potentially transforming how businesses operate and collaborate.",
+        "What changed: OpenAI has enhanced ChatGPT with new features and a redesigned interface to better suit work environments.",
+        "What to watch: Keep an eye on how this integration impacts productivity and collaboration in the workplace."
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Neuron Daily",
+          "title" : "OpenAI Turns ChatGPT Into a Work Agent",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/openai-s-super-thursday"
+        },
+        {
+          "source_name" : "Latent Space",
+          "title" : "not much happened today",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-not-much-happened-today-830"
+        },
+        {
+          "source_name" : "AI Breakfast",
+          "title" : "Open Chinese Model Beats Claude Fable 5 in Front End Coding",
+          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/open-chinese-model-beats-claude-fable-5-in-front-end-coding"
+        }
+      ],
+      "summary" : "OpenAI launched GPT-5.6 and rebuilt ChatGPT Desktop around Work and Codex, while Meta cut model prices and $130B in data centers faced local resistance.",
+      "title" : "OpenAI Turns ChatGPT Into a Work Agen",
+      "topics" : [
+        "Claude",
+        "Agents",
+        "Anthropic"
       ]
     },
     {
@@ -252,28 +292,6 @@
       ]
     },
     {
-      "created_at" : "2026-07-17T14:07:18Z",
-      "id" : "2026-07-18-c78c7ec6d2bc",
-      "importance" : "low",
-      "key_insights" : [
-        "Why it matters: This result highlights the potential of open-source models in competitive coding environments.",
-        "What changed: The model's performance suggests advancements in Chinese language processing and coding capabilities.",
-        "What to watch: Future developments in open-source models and their integration into coding workflows."
-      ],
-      "sources" : [
-        {
-          "source_name" : "AI Breakfast",
-          "title" : "Open Chinese Model Beats Claude Fable 5 in Front End Coding",
-          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/open-chinese-model-beats-claude-fable-5-in-front-end-coding"
-        }
-      ],
-      "summary" : "This result highlights the potential of open-source models in competitive coding environments.",
-      "title" : "Open Chinese Model Beats Claude Fable 5 in Front End Coding",
-      "topics" : [
-        "Claude"
-      ]
-    },
-    {
       "created_at" : "2026-07-17T11:01:52Z",
       "id" : "2026-07-18-da06b4b78d42",
       "importance" : "low",
@@ -299,23 +317,23 @@
   ],
   "count" : 12,
   "date" : "2026-07-18",
-  "generated_at" : "2026-07-18T04:01:00Z",
+  "generated_at" : "2026-07-18T06:01:00Z",
   "processing_report" : {
-    "generated_at" : "2026-07-18T04:01:05Z",
+    "generated_at" : "2026-07-18T06:01:04Z",
     "source_reports" : [
       {
-        "article_count" : 8,
+        "article_count" : 12,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-07-17T14:07:18Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-07-18T04:01:05Z",
+        "processed_at" : "2026-07-18T06:01:04Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-07-18T04:01:03Z",
+        "processed_at" : "2026-07-18T06:01:02Z",
         "state" : "processed"
       },
       {
@@ -323,7 +341,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-07-17T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-07-18T04:01:01Z",
+        "processed_at" : "2026-07-18T06:01:01Z",
         "state" : "processed"
       },
       {
@@ -331,7 +349,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-07-16T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-07-18T04:01:03Z",
+        "processed_at" : "2026-07-18T06:01:03Z",
         "state" : "processed"
       },
       {
@@ -339,7 +357,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-07-16T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-07-18T04:01:00Z",
+        "processed_at" : "2026-07-18T06:01:00Z",
         "state" : "processed"
       },
       {
@@ -347,15 +365,15 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-07-17T15:57:54Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-07-18T04:01:00Z",
+        "processed_at" : "2026-07-18T06:01:01Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "latent-space",
-        "latest_article_at" : "2026-07-17T01:46:36Z",
+        "latest_article_at" : "2026-07-18T04:30:21Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-07-18T04:01:01Z",
+        "processed_at" : "2026-07-18T06:01:01Z",
         "state" : "processed"
       },
       {
@@ -363,7 +381,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-07-17T10:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-07-18T04:01:01Z",
+        "processed_at" : "2026-07-18T06:01:01Z",
         "state" : "processed"
       },
       {
@@ -371,7 +389,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-07-17T11:01:52Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-07-18T04:01:04Z",
+        "processed_at" : "2026-07-18T06:01:02Z",
         "state" : "processed"
       },
       {
@@ -379,22 +397,22 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-07-17T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-07-18T04:01:00Z",
+        "processed_at" : "2026-07-18T06:01:01Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 12,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-07-17T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-07-18T04:01:04Z",
+        "processed_at" : "2026-07-18T06:01:04Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-07-18T04:01:04Z",
+        "processed_at" : "2026-07-18T06:01:03Z",
         "state" : "processed"
       }
     ],
