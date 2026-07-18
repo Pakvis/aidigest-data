@@ -3,23 +3,23 @@
     {
       "consolidation" : {
         "latest_source_at" : "2026-07-18T04:30:21Z",
-        "message_count" : 168,
+        "message_count" : 162,
         "reason" : "Multiple sources reported the same story.",
-        "source_count" : 10
+        "source_count" : 9
       },
       "created_at" : "2026-07-18T04:30:21Z",
-      "id" : "2026-07-18-6774fa1231bc",
+      "id" : "2026-07-18-0494f5c1607e",
       "importance" : "high",
       "key_insights" : [
-        "Why it matters: The potential for rogue agents to hijack enterprise chatbots highlights the need for robust security measures in AI systems.",
-        "What changed: The TeraWulf lease underscores the growing importance of AI in enterprise environments.",
-        "What to watch: Stay informed about the latest developments in AI security and enterprise applications."
+        "Why it matters: The development of GPT-5.6 and the restructuring of ChatGPT Desktop highlight OpenAI's commitment to enhancing AI capabilities for professional use.",
+        "What changed: OpenAI has introduced GPT-5.6 and redesigned ChatGPT Desktop to better support work-related tasks.",
+        "What to watch: Keep an eye on OpenAI's future developments and the potential impact on the AI industry."
       ],
       "sources" : [
         {
           "source_name" : "The Neuron Daily",
-          "title" : "One rogue agent could hijack enterprise chatbots",
-          "url" : "https:\/\/www.theneurondaily.com\/p\/july-8-wednesday"
+          "title" : "OpenAI Turns ChatGPT Into a Work Agent",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/openai-s-super-thursday"
         },
         {
           "source_name" : "Latent Space",
@@ -42,8 +42,8 @@
           "url" : "https:\/\/openai.com\/index\/why-teens-deserve-access-safe-ai"
         }
       ],
-      "summary" : "Anthropic's $19B TeraWulf lease leads today's AI news, with Illinois' new safety law, Chinese model price pressure, Claude Cowork, and Ukraine robots.",
-      "title" : "One rogue agent could hijack enterprise chatbots",
+      "summary" : "OpenAI launched GPT-5.6 and rebuilt ChatGPT Desktop around Work and Codex, while Meta cut model prices and $130B in data centers faced local resistance.",
+      "title" : "OpenAI Turns ChatGPT Into a Work Agen",
       "topics" : [
         "Agents",
         "GPT",
@@ -163,28 +163,6 @@
       ]
     },
     {
-      "created_at" : "2026-07-16T11:49:48Z",
-      "id" : "2026-07-18-dacc5bd61b49",
-      "importance" : "low",
-      "key_insights" : [
-        "Why it matters: This advancement in AI technology is significant because it could lead to more efficient and accurate AI systems.",
-        "What changed: The latest AI models have improved in performance, but they still have the same advantage as previous models.",
-        "What to watch: It will be interesting to see how these new models are applied in different industries and how they compare to previous models."
-      ],
-      "sources" : [
-        {
-          "source_name" : "Hugging Face Blog",
-          "title" : "Newer Models, Same Advantage",
-          "url" : "https:\/\/huggingface.co\/blog\/Dharma-AI\/newer-models-same-advantages"
-        }
-      ],
-      "summary" : "The latest AI models have improved in performance, but they still have the same advantage as previous models.",
-      "title" : "Newer Models, Same Advantage",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
       "created_at" : "2026-07-17T11:01:00Z",
       "id" : "2026-07-18-129e94cf79fb",
       "importance" : "low",
@@ -252,6 +230,28 @@
       ]
     },
     {
+      "created_at" : "2026-07-16T11:49:48Z",
+      "id" : "2026-07-18-dacc5bd61b49",
+      "importance" : "low",
+      "key_insights" : [
+        "Why it matters: This advancement in AI technology is significant because it could lead to more efficient and accurate AI systems.",
+        "What changed: The latest AI models have improved in performance, but they still have the same advantage as previous models.",
+        "What to watch: It will be interesting to see how these new models are applied in different industries and how they compare to previous models."
+      ],
+      "sources" : [
+        {
+          "source_name" : "Hugging Face Blog",
+          "title" : "Newer Models, Same Advantage",
+          "url" : "https:\/\/huggingface.co\/blog\/Dharma-AI\/newer-models-same-advantages"
+        }
+      ],
+      "summary" : "The latest AI models have improved in performance, but they still have the same advantage as previous models.",
+      "title" : "Newer Models, Same Advantage",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
       "created_at" : "2026-07-16T00:00:00Z",
       "id" : "2026-07-18-ac5c5e83f135",
       "importance" : "low",
@@ -298,23 +298,23 @@
   ],
   "count" : 12,
   "date" : "2026-07-18",
-  "generated_at" : "2026-07-18T11:36:27Z",
+  "generated_at" : "2026-07-18T12:01:00Z",
   "processing_report" : {
-    "generated_at" : "2026-07-18T11:36:32Z",
+    "generated_at" : "2026-07-18T12:01:06Z",
     "source_reports" : [
       {
         "article_count" : 12,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-07-17T14:07:18Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-07-18T11:36:31Z",
+        "processed_at" : "2026-07-18T12:01:05Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-07-18T11:36:30Z",
+        "processed_at" : "2026-07-18T12:01:02Z",
         "state" : "processed"
       },
       {
@@ -322,7 +322,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-07-17T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-07-18T11:36:28Z",
+        "processed_at" : "2026-07-18T12:01:01Z",
         "state" : "processed"
       },
       {
@@ -330,7 +330,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-07-16T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-07-18T11:36:29Z",
+        "processed_at" : "2026-07-18T12:01:03Z",
         "state" : "processed"
       },
       {
@@ -338,7 +338,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-07-16T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-07-18T11:36:28Z",
+        "processed_at" : "2026-07-18T12:01:00Z",
         "state" : "processed"
       },
       {
@@ -346,7 +346,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-07-17T15:57:54Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-07-18T11:36:28Z",
+        "processed_at" : "2026-07-18T12:01:00Z",
         "state" : "processed"
       },
       {
@@ -354,7 +354,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-07-18T04:30:21Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-07-18T11:36:28Z",
+        "processed_at" : "2026-07-18T12:01:01Z",
         "state" : "processed"
       },
       {
@@ -362,7 +362,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-07-17T10:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-07-18T11:36:28Z",
+        "processed_at" : "2026-07-18T12:01:01Z",
         "state" : "processed"
       },
       {
@@ -370,7 +370,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-07-17T11:01:52Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-07-18T11:36:31Z",
+        "processed_at" : "2026-07-18T12:01:02Z",
         "state" : "processed"
       },
       {
@@ -378,7 +378,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-07-17T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-07-18T11:36:28Z",
+        "processed_at" : "2026-07-18T12:01:00Z",
         "state" : "processed"
       },
       {
@@ -386,14 +386,14 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-07-17T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-07-18T11:36:32Z",
+        "processed_at" : "2026-07-18T12:01:06Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 10,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-07-18T11:36:30Z",
+        "processed_at" : "2026-07-18T12:01:04Z",
         "state" : "processed"
       }
     ],
