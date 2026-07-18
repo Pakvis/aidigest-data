@@ -2,52 +2,13 @@
   "cards" : [
     {
       "date" : "2026-07-18",
-      "id" : "2026-07-18-a58bb8a5f499",
+      "id" : "2026-07-18-6774fa1231bc",
       "importance" : "high",
       "sources" : [
         {
           "source_name" : "The Neuron Daily",
-          "title" : "Should AI learn from you but not vice versa?",
-          "url" : "https:\/\/www.theneurondaily.com\/p\/should-ai-learn-from-you-but-not-vice-versa"
-        },
-        {
-          "source_name" : "AI News (Swyx)",
-          "title" : "not much happened today",
-          "url" : "https:\/\/news.smol.ai\/issues\/26-07-17-not-much\/"
-        },
-        {
-          "source_name" : "Latent Space",
-          "title" : "Kimi K3 2.8T-A50B: the largest open model ever released; Opus 4.8-class at Sonnet 5 pricing",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-kimi-k3-28t-a50b-the-largest"
-        },
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Why teens deserve access to safe AI",
-          "url" : "https:\/\/openai.com\/index\/why-teens-deserve-access-safe-ai"
-        },
-        {
-          "source_name" : "Google AI Blog",
-          "title" : "Create, edit and star in videos with two Google Vids updates",
-          "url" : "https:\/\/blog.google\/products-and-platforms\/products\/workspace\/gemini-omni-personal-avatars\/"
-        }
-      ],
-      "summary" : "Kimi K3, a frontier-class open-weights model, was released by Moonshot AI with 2.8T total parameters, 1M-token context, native multimodal input, Kimi Delta Attention (KDA), and Attention Residuals.",
-      "title" : "Kimi K3 2.8T-A50B: the largest open model ever released; Opus 4.8-class at Sonnet 5 pricing",
-      "topics" : [
-        "Agents",
-        "GPT",
-        "Claude"
-      ]
-    },
-    {
-      "date" : "2026-07-18",
-      "id" : "2026-07-18-a41e565474b6",
-      "importance" : "high",
-      "sources" : [
-        {
-          "source_name" : "The Neuron Daily",
-          "title" : "ChatGPT may get a body",
-          "url" : "https:\/\/www.theneurondaily.com\/p\/chatgpt-may-get-a-body"
+          "title" : "One rogue agent could hijack enterprise chatbots",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/july-8-wednesday"
         },
         {
           "source_name" : "Latent Space",
@@ -61,16 +22,21 @@
         },
         {
           "source_name" : "AI News (Swyx)",
-          "title" : "Anthropic @ $30B ARR, Project GlassWing and Claude Mythos Preview — first model too dangerous to release since GPT-2",
-          "url" : "https:\/\/news.smol.ai\/issues\/26-04-06-anthropic-mythos\/"
+          "title" : "not much happened today",
+          "url" : "https:\/\/news.smol.ai\/issues\/26-07-17-not-much\/"
+        },
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Why teens deserve access to safe AI",
+          "url" : "https:\/\/openai.com\/index\/why-teens-deserve-access-safe-ai"
         }
       ],
-      "summary" : "Anthropic announced a jump from $19B ARR in March to $30B ARR in April, highlighting a differential growth rate and higher cost efficiency.",
-      "title" : "Anthropic @ $30B ARR, Project GlassWing and Claude Mythos Preview — first model too dangerous to release since GPT-2",
+      "summary" : "Anthropic's $19B TeraWulf lease leads today's AI news, with Illinois' new safety law, Chinese model price pressure, Claude Cowork, and Ukraine robots.",
+      "title" : "One rogue agent could hijack enterprise chatbots",
       "topics" : [
-        "Claude",
+        "Agents",
         "GPT",
-        "Anthropic"
+        "Claude"
       ]
     },
     {
@@ -213,24 +179,6 @@
     },
     {
       "date" : "2026-07-18",
-      "id" : "2026-07-18-e3c89e996753",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "The AI Report",
-          "title" : "️ OpenAI launches a physical keypad",
-          "url" : "https:\/\/newsletter.theaireport.ai\/p\/openai-launches-a-physical-keypad"
-        }
-      ],
-      "summary" : "This development could revolutionize how AI agents interact with users, making them more accessible and user-friendly.",
-      "title" : "OpenAI launches a physical keypad",
-      "topics" : [
-        "Agents",
-        "Enterprise"
-      ]
-    },
-    {
-      "date" : "2026-07-18",
       "id" : "2026-07-18-da06b4b78d42",
       "importance" : "low",
       "sources" : [
@@ -245,6 +193,40 @@
       "topics" : [
         "Moonshot AI",
         "ChatGPT"
+      ]
+    },
+    {
+      "date" : "2026-07-18",
+      "id" : "2026-07-18-ac5c5e83f135",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "Hugging Face Blog",
+          "title" : "Security incident disclosure — July 2026",
+          "url" : "https:\/\/huggingface.co\/blog\/security-incident-july-2026"
+        }
+      ],
+      "summary" : "No article excerpt supplied.",
+      "title" : "Security incident disclosure — July 2026",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "date" : "2026-07-18",
+      "id" : "2026-07-18-8fc1d62886ff",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "Hugging Face Blog",
+          "title" : "Model Routing Is Simple. Until It Isn’t.",
+          "url" : "https:\/\/huggingface.co\/blog\/ibm-research\/model-routing-is-simple-until-it-isnt"
+        }
+      ],
+      "summary" : "Model routing is a technique used to optimize the flow of data through a network of models, but it can become complex and challenging to implement.",
+      "title" : "Model Routing Is Simple. Until It Isn’t.",
+      "topics" : [
+        "AI"
       ]
     },
     {
