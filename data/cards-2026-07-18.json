@@ -230,17 +230,17 @@
     {
       "consolidation" : {
         "latest_source_at" : "2026-07-16T11:01:45Z",
-        "message_count" : 2,
+        "message_count" : 3,
         "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
+        "source_count" : 3
       },
       "created_at" : "2026-07-16T11:01:45Z",
       "id" : "2026-07-18-3552b5cf4759",
       "importance" : "high",
       "key_insights" : [
-        "Why it matters: Inkling represents a significant advancement in American open-weight models, potentially enhancing the capabilities of developers and designers in the region.",
-        "What changed: The introduction of Inkling marks a new benchmark for American open-weight models, offering improved performance and efficiency compared to previous models.",
-        "What to watch: Developers and designers interested in American open-weight models should closely monitor the performance and adoption of Inkling to understand its impact on the industry."
+        "Why it matters: This development could enhance the capabilities of American open models, potentially leading to more robust and versatile AI applications.",
+        "What changed: Thinky's Inkling represents a significant advancement in American open models, offering a more powerful and efficient alternative to existing models.",
+        "What to watch: The impact of Thinky's Inkling on the AI landscape, particularly in terms of its performance and integration into various applications, will be closely monitored."
       ],
       "sources" : [
         {
@@ -252,11 +252,17 @@
           "source_name" : "Latent Space",
           "title" : "Thinky's Inkling: 975B-A41B multimodal, new best American Apache 2.0 open model (with Inkling-Small, 276B-A12B)",
           "url" : "https:\/\/www.latent.space\/p\/ainews-thinkys-inkling-975b-a41b"
+        },
+        {
+          "source_name" : "TLDR AI",
+          "title" : "Thinking Machines Inkling 🧠, GPT-Red 🔒, Perplexity sandboxes 🛡️",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-07-16"
         }
       ],
       "summary" : "Thinky introduced Inkling, a Mixture-of-Experts transformer with 975B total parameters and 41B active parameters, as a new baseline American open model.",
       "title" : "Thinky's Inkling: 975B-A41B multimodal, new best American Apache 2.0 open model (with Inkling-Small, 276B-A12B)",
       "topics" : [
+        "GPT",
         "ChatGPT",
         "Design"
       ]
@@ -285,47 +291,47 @@
       ]
     },
     {
-      "created_at" : "2026-07-16T00:00:00Z",
-      "id" : "2026-07-18-a7b300e5f6e1",
+      "created_at" : "2026-07-16T11:49:48Z",
+      "id" : "2026-07-18-dacc5bd61b49",
       "importance" : "low",
       "key_insights" : [
-        "Why it matters: The development of GPT-Red and Perplexity sandboxes represents a significant advancement in AI technology, with potential implications for the field of artificial intelligence and its applications.",
-        "What changed: The introduction of GPT-Red and Perplexity sandboxes marks a new era in AI development, with the potential to improve the security and reliability of AI systems.",
-        "What to watch: AI researchers and developers will closely monitor the development of GPT-Red and Perplexity sandboxes, as well as their potential impact on the field of artificial intelligence."
+        "Why it matters: This post highlights the ongoing evolution of AI technology and its potential impact on various industries.",
+        "What changed: The post emphasizes the consistency in performance of newer AI models, suggesting that advancements in AI are leading to more reliable and efficient systems.",
+        "What to watch: AI enthusiasts and researchers should closely monitor the developments in AI models and their applications to stay informed about the latest advancements in the field."
       ],
       "sources" : [
         {
-          "source_name" : "TLDR AI",
-          "title" : "Thinking Machines Inkling 🧠, GPT-Red 🔒, Perplexity sandboxes 🛡️",
-          "url" : "https:\/\/tldr.tech\/ai\/2026-07-16"
+          "source_name" : "Hugging Face Blog",
+          "title" : "Newer Models, Same Advantage",
+          "url" : "https:\/\/huggingface.co\/blog\/Dharma-AI\/newer-models-same-advantages"
         }
       ],
-      "summary" : "The event featured the unveiling of GPT-Red, a new version of the GPT language model, and the introduction of Perplexity sandboxes, which are designed to enhance the security and reliability of AI systems.",
-      "title" : "Thinking Machines Inkling 🧠, GPT-Red 🔒, Perplexity sandboxes 🛡️",
+      "summary" : "This post highlights the ongoing evolution of AI technology and its potential impact on various industries.",
+      "title" : "Newer Models, Same Advantage",
       "topics" : [
-        "GPT"
+        "AI"
       ]
     }
   ],
   "count" : 12,
   "date" : "2026-07-18",
-  "generated_at" : "2026-07-18T12:52:02Z",
+  "generated_at" : "2026-07-18T12:58:46Z",
   "processing_report" : {
-    "generated_at" : "2026-07-18T12:52:06Z",
+    "generated_at" : "2026-07-18T12:58:50Z",
     "source_reports" : [
       {
         "article_count" : 12,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-07-17T14:07:18Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-07-18T12:52:06Z",
+        "processed_at" : "2026-07-18T12:58:50Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-07-18T12:52:05Z",
+        "processed_at" : "2026-07-18T12:58:48Z",
         "state" : "processed"
       },
       {
@@ -333,7 +339,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-07-17T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-07-18T12:52:03Z",
+        "processed_at" : "2026-07-18T12:58:47Z",
         "state" : "processed"
       },
       {
@@ -341,7 +347,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-07-16T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-07-18T12:52:05Z",
+        "processed_at" : "2026-07-18T12:58:48Z",
         "state" : "processed"
       },
       {
@@ -349,7 +355,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-07-16T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-07-18T12:52:03Z",
+        "processed_at" : "2026-07-18T12:58:46Z",
         "state" : "processed"
       },
       {
@@ -357,7 +363,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-07-17T15:57:54Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-07-18T12:52:03Z",
+        "processed_at" : "2026-07-18T12:58:46Z",
         "state" : "processed"
       },
       {
@@ -365,7 +371,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-07-18T04:30:21Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-07-18T12:52:03Z",
+        "processed_at" : "2026-07-18T12:58:46Z",
         "state" : "processed"
       },
       {
@@ -373,7 +379,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-07-17T10:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-07-18T12:52:03Z",
+        "processed_at" : "2026-07-18T12:58:47Z",
         "state" : "processed"
       },
       {
@@ -381,7 +387,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-07-17T11:01:52Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-07-18T12:52:05Z",
+        "processed_at" : "2026-07-18T12:58:49Z",
         "state" : "processed"
       },
       {
@@ -389,7 +395,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-07-17T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-07-18T12:52:03Z",
+        "processed_at" : "2026-07-18T12:58:46Z",
         "state" : "processed"
       },
       {
@@ -397,14 +403,14 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-07-17T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-07-18T12:52:06Z",
+        "processed_at" : "2026-07-18T12:58:48Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-07-18T12:52:04Z",
+        "processed_at" : "2026-07-18T12:58:48Z",
         "state" : "processed"
       }
     ],
