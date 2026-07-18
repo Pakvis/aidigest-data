@@ -21,7 +21,7 @@
           "url" : "https:\/\/news.smol.ai\/issues\/26-07-17-not-much\/"
         }
       ],
-      "summary" : "Thinky, a company known for its high-quality models, recently released Inkling, a new multimodal model with 975B parameters and a context window of up to 1M tokens.",
+      "summary" : "Thinky's Inkling is a Mixture-of-Experts transformer with 975B total parameters, 41B active.",
       "title" : "Thinky's Inkling: 975B-A41B multimodal, new best American Apache 2.0 open model (with Inkling-Small, 276B-A12B)",
       "topics" : [
         "Pricing",
@@ -31,7 +31,7 @@
     },
     {
       "date" : "2026-07-18",
-      "id" : "2026-07-18-ce65bd9a842c",
+      "id" : "2026-07-18-926a482f7390",
       "importance" : "high",
       "sources" : [
         {
@@ -45,8 +45,8 @@
           "url" : "https:\/\/news.smol.ai\/issues\/26-07-16-kimi-k30\/"
         }
       ],
-      "summary" : "AINews' website lets you search all past issues.",
-      "title" : "Google AI Blog and AI News (Swyx) report on Gemini Omni and personal avatars in Google Vids.",
+      "summary" : "Google Vids has two new updates: Gemini Omni and personal avatars.",
+      "title" : "Google AI Blog: Create, edit and star in videos with two Google Vids updates",
       "topics" : [
         "Gemini",
         "Agents",
@@ -69,7 +69,7 @@
           "url" : "https:\/\/tldr.tech\/ai\/2026-07-17"
         }
       ],
-      "summary" : "The Kimi K3 AI model's performance highlights the competitive landscape in AI development.",
+      "summary" : "The competition between AI models is important for the future of technology.",
       "title" : "Kimi K3 🌕, Gemini 3.5 delayed ⏳, crushing ARC-AGI 3 🤖",
       "topics" : [
         "Gemini"
@@ -77,7 +77,7 @@
     },
     {
       "date" : "2026-07-18",
-      "id" : "2026-07-18-332ac9e17d28",
+      "id" : "2026-07-18-338f7c37e025",
       "importance" : "medium",
       "sources" : [
         {
@@ -86,10 +86,28 @@
           "url" : "https:\/\/openai.com\/index\/a-scorecard-for-the-ai-age"
         }
       ],
-      "summary" : "The introduction of a practical AI scorecard by OpenAI is a significant step forward in the field of artificial intelligence, as it provides a standardized framework for evaluating the performance and effectiveness of AI systems.",
-      "title" : "OpenAI introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "summary" : "The practical AI scorecard introduced by Sarah Friar, CFO of OpenAI, is a significant development in the field of artificial intelligence.",
+      "title" : "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
       "topics" : [
         "AI"
+      ]
+    },
+    {
+      "date" : "2026-07-18",
+      "id" : "2026-07-18-936cf46b2740",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Why teens deserve access to safe AI",
+          "url" : "https:\/\/openai.com\/index\/why-teens-deserve-access-safe-ai"
+        }
+      ],
+      "summary" : "OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+      "title" : "OpenAI News: Why teens deserve access to safe AI",
+      "topics" : [
+        "ChatGPT",
+        "Tooling"
       ]
     },
     {
@@ -111,7 +129,7 @@
     },
     {
       "date" : "2026-07-18",
-      "id" : "2026-07-18-a3855ad83a25",
+      "id" : "2026-07-18-28818f82ab46",
       "importance" : "low",
       "sources" : [
         {
@@ -120,8 +138,8 @@
           "url" : "https:\/\/www.latent.space\/p\/the-lab-of-the-future-should-feel"
         }
       ],
-      "summary" : "Lila Sciences is developing a futuristic lab that combines AI-guided robotics, vision-language models, and a massive library of scientific reasoning tokens to produce data at scale and build a scientific superintelligence.",
-      "title" : "Lila Sciences' Lab of the Future: A Data Center for Science",
+      "summary" : "The authors of the article discuss the possibilities of AI-run science.",
+      "title" : "The Lab of the Future Should Feel Like a Data Center — Andy Beam & Rafa Gómez-Bombarelli, Lila Sciences",
       "topics" : [
         "APIs",
         "Data",
@@ -130,7 +148,7 @@
     },
     {
       "date" : "2026-07-18",
-      "id" : "2026-07-18-2656c54f240a",
+      "id" : "2026-07-18-e911e8d227c6",
       "importance" : "low",
       "sources" : [
         {
@@ -139,8 +157,8 @@
           "url" : "https:\/\/huggingface.co\/blog\/nvidia\/scale-diffusers-finetuning-nemo-automodel"
         }
       ],
-      "summary" : "These tools are significant because they enable the fine-tuning of video and image models at scale, which is a crucial step in advancing AI capabilities.",
-      "title" : "NVIDIA NeMo Automodel and 🤗 Diffusers enable fine-tuning of video and image models at scale.",
+      "summary" : "NVIDIA and Hugging Face have released a new tool for fine-tuning video and image models at scale.",
+      "title" : "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
       "topics" : [
         "Image Models"
       ]
@@ -156,7 +174,7 @@
           "url" : "https:\/\/newsletter.theaireport.ai\/p\/why-ai-gets-it-wrong"
         }
       ],
-      "summary" : "AI models prioritize plausibility over truth, according to Dan Klein.",
+      "summary" : "Dan Klein explains why today's AI models prioritize plausibility over truth.",
       "title" : "Why AI gets it wrong",
       "topics" : [
         "AI"
@@ -164,7 +182,7 @@
     },
     {
       "date" : "2026-07-18",
-      "id" : "2026-07-18-989dbb214461",
+      "id" : "2026-07-18-c78c7ec6d2bc",
       "importance" : "low",
       "sources" : [
         {
@@ -173,8 +191,8 @@
           "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/open-chinese-model-beats-claude-fable-5-in-front-end-coding"
         }
       ],
-      "summary" : "This result highlights the growing capabilities of Chinese AI models and their potential impact on the global tech landscape.",
-      "title" : "Chinese Model Beats Claude Fable 5 in Front End Coding",
+      "summary" : "This result highlights the potential of Chinese-language models in the tech industry.",
+      "title" : "Open Chinese Model Beats Claude Fable 5 in Front End Coding",
       "topics" : [
         "Claude"
       ]
@@ -199,7 +217,7 @@
     },
     {
       "date" : "2026-07-18",
-      "id" : "2026-07-18-629bd3b3f646",
+      "id" : "2026-07-18-a7b300e5f6e1",
       "importance" : "low",
       "sources" : [
         {
@@ -208,27 +226,10 @@
           "url" : "https:\/\/tldr.tech\/ai\/2026-07-16"
         }
       ],
-      "summary" : "The release of GPT-Red aims to enhance the security and reliability of AI models, which are increasingly used in critical applications.",
-      "title" : "OpenAI's GPT-Red and Perplexity Sandbox",
+      "summary" : "These developments are significant because they represent a shift towards more secure and transparent AI systems.",
+      "title" : "Thinking Machines Inkling 🧠, GPT-Red 🔒, Perplexity sandboxes 🛡️",
       "topics" : [
         "GPT"
-      ]
-    },
-    {
-      "date" : "2026-07-18",
-      "id" : "2026-07-18-503cdd8af65f",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "Hugging Face Blog",
-          "title" : "Newer Models, Same Advantage",
-          "url" : "https:\/\/huggingface.co\/blog\/Dharma-AI\/newer-models-same-advantages"
-        }
-      ],
-      "summary" : "This consistency in performance suggests that AI models are becoming increasingly reliable and adaptable, which could lead to significant advancements in various industries.",
-      "title" : "AI Models Show Similar Performance Across Tasks",
-      "topics" : [
-        "AI"
       ]
     },
     {
