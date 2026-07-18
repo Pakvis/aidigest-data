@@ -3,61 +3,119 @@
     {
       "consolidation" : {
         "latest_source_at" : "2026-07-18T04:30:21Z",
-        "message_count" : 162,
+        "message_count" : 5,
         "reason" : "Multiple sources reported the same story.",
-        "source_count" : 9
+        "source_count" : 3
       },
       "created_at" : "2026-07-18T04:30:21Z",
-      "id" : "2026-07-18-0494f5c1607e",
+      "id" : "2026-07-18-3552b5cf4759",
       "importance" : "high",
       "key_insights" : [
-        "Why it matters: The development of GPT-5.6 and the restructuring of ChatGPT Desktop highlight OpenAI's commitment to enhancing AI capabilities for professional use.",
-        "What changed: OpenAI has introduced GPT-5.6 and redesigned ChatGPT Desktop to better support work-related tasks.",
-        "What to watch: Keep an eye on OpenAI's future developments and the potential impact on the AI industry."
+        "Why it matters: Inkling represents a significant advancement in American open-weight models, potentially influencing the competitive landscape and prompting further developments in the field.",
+        "What changed: The release of Inkling marks a new chapter for Thinky, showcasing its commitment to innovation and excellence in the AI industry.",
+        "What to watch: Keep an eye on how Inkling performs in real-world applications and its impact on the broader AI community."
       ],
       "sources" : [
-        {
-          "source_name" : "The Neuron Daily",
-          "title" : "OpenAI Turns ChatGPT Into a Work Agent",
-          "url" : "https:\/\/www.theneurondaily.com\/p\/openai-s-super-thursday"
-        },
         {
           "source_name" : "Latent Space",
           "title" : "not much happened today",
           "url" : "https:\/\/www.latent.space\/p\/ainews-not-much-happened-today-830"
         },
         {
-          "source_name" : "AI Breakfast",
-          "title" : "Open Chinese Model Beats Claude Fable 5 in Front End Coding",
-          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/open-chinese-model-beats-claude-fable-5-in-front-end-coding"
+          "source_name" : "Superhuman AI",
+          "title" : "Moonshot AI reveals a frontier-level model",
+          "url" : "https:\/\/www.superhuman.ai\/p\/moonshot-ai-reveals-a-frontier-level-model"
         },
         {
           "source_name" : "AI News (Swyx)",
           "title" : "not much happened today",
           "url" : "https:\/\/news.smol.ai\/issues\/26-07-17-not-much\/"
-        },
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Why teens deserve access to safe AI",
-          "url" : "https:\/\/openai.com\/index\/why-teens-deserve-access-safe-ai"
         }
       ],
-      "summary" : "OpenAI launched GPT-5.6 and rebuilt ChatGPT Desktop around Work and Codex, while Meta cut model prices and $130B in data centers faced local resistance.",
-      "title" : "OpenAI Turns ChatGPT Into a Work Agen",
+      "summary" : "Thinky, a company known for its high-quality models, recently released Inkling, a new multimodal model with 975B parameters and a context window of up to 1M tokens.",
+      "title" : "Thinky's Inkling: 975B-A41B multimodal, new best American Apache 2.0 open model (with Inkling-Small, 276B-A12B)",
       "topics" : [
+        "Pricing",
         "Agents",
-        "GPT",
-        "Claude"
+        "Anthropic"
+      ]
+    },
+    {
+      "consolidation" : {
+        "latest_source_at" : "2026-07-16T16:00:00Z",
+        "message_count" : 2,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
+      "created_at" : "2026-07-16T16:00:00Z",
+      "id" : "2026-07-18-ce65bd9a842c",
+      "importance" : "high",
+      "key_insights" : [
+        "Why it matters: Google AI Blog and AI News (Swyx) report on Gemini Omni and personal avatars in Google Vids.",
+        "What changed: Google AI Blog and AI News (Swyx) report on Gemini Omni and personal avatars in Google Vids.",
+        "What to watch: Google AI Blog and AI News (Swyx) report on Gemini Omni and personal avatars in Google Vids."
+      ],
+      "sources" : [
+        {
+          "source_name" : "Google AI Blog",
+          "title" : "Create, edit and star in videos with two Google Vids updates",
+          "url" : "https:\/\/blog.google\/products-and-platforms\/products\/workspace\/gemini-omni-personal-avatars\/"
+        },
+        {
+          "source_name" : "AI News (Swyx)",
+          "title" : "not much happened today",
+          "url" : "https:\/\/news.smol.ai\/issues\/26-07-16-kimi-k30\/"
+        }
+      ],
+      "summary" : "AINews' website lets you search all past issues.",
+      "title" : "Google AI Blog and AI News (Swyx) report on Gemini Omni and personal avatars in Google Vids.",
+      "topics" : [
+        "Gemini",
+        "Agents",
+        "Anthropic"
+      ]
+    },
+    {
+      "consolidation" : {
+        "latest_source_at" : "2026-07-17T11:01:00Z",
+        "message_count" : 2,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
+      "created_at" : "2026-07-17T11:01:00Z",
+      "id" : "2026-07-18-c54b874334d0",
+      "importance" : "high",
+      "key_insights" : [
+        "Why it matters: The Kimi K3 AI model's performance highlights the competitive landscape in AI development.",
+        "What changed: The Kimi K3 AI model has surpassed the ARC-AGI 3 model, while the Gemini 3.5 model has been delayed.",
+        "What to watch: AI developers will closely monitor the Kimi K3 AI model's performance and the Gemini 3.5 model's release date."
+      ],
+      "sources" : [
+        {
+          "source_name" : "The AI Report",
+          "title" : "️ China's Kimi K3 rivals US models",
+          "url" : "https:\/\/newsletter.theaireport.ai\/p\/china-s-kimi-k3-rivals-us-models"
+        },
+        {
+          "source_name" : "TLDR AI",
+          "title" : "Kimi K3 🌕, Gemini 3.5 delayed ⏳, crushing ARC-AGI 3 🤖",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-07-17"
+        }
+      ],
+      "summary" : "The Kimi K3 AI model's performance highlights the competitive landscape in AI development.",
+      "title" : "Kimi K3 🌕, Gemini 3.5 delayed ⏳, crushing ARC-AGI 3 🤖",
+      "topics" : [
+        "Gemini"
       ]
     },
     {
       "created_at" : "2026-07-17T10:00:00Z",
-      "id" : "2026-07-18-338f7c37e025",
+      "id" : "2026-07-18-332ac9e17d28",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: This scorecard provides a practical framework for evaluating the effectiveness of AI investments, helping organizations optimize their use of AI technologies.",
-        "What changed: Sarah Friar introduced a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
-        "What to watch: Organizations should closely monitor the implementation and effectiveness of this scorecard to ensure they are maximizing the benefits of AI investments."
+        "Why it matters: The introduction of a practical AI scorecard by OpenAI is a significant step forward in the field of artificial intelligence, as it provides a standardized framework for evaluating the performance and effectiveness of AI systems.",
+        "What changed: The introduction of the AI scorecard by OpenAI marks a significant change in the way AI systems are evaluated and managed, as it provides a more objective and transparent approach to measuring their performance and effectiveness.",
+        "What to watch: It will be interesting to see how the AI scorecard is implemented and used by other organizations and how it impacts the development and deployment of AI systems."
       ],
       "sources" : [
         {
@@ -66,8 +124,8 @@
           "url" : "https:\/\/openai.com\/index\/a-scorecard-for-the-ai-age"
         }
       ],
-      "summary" : "This scorecard provides a practical framework for evaluating the effectiveness of AI investments, helping organizations optimize their use of AI technologies.",
-      "title" : "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "summary" : "The introduction of a practical AI scorecard by OpenAI is a significant step forward in the field of artificial intelligence, as it provides a standardized framework for evaluating the performance and effectiveness of AI systems.",
+      "title" : "OpenAI introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
       "topics" : [
         "AI"
       ]
@@ -77,9 +135,9 @@
       "id" : "2026-07-18-b3696506f1e2",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: This advancement could significantly improve user experience by streamlining access to various services and applications.",
-        "What changed: Google is introducing a feature that enables seamless integration of apps into the AI Mode, enhancing the overall functionality of the platform.",
-        "What to watch: Users should monitor the rollout of this feature to understand its impact on their daily interactions with Google's services."
+        "Why it matters: This feature could enhance user experience by providing a more seamless and integrated way to access and control various apps.",
+        "What changed: Users will be able to securely link and interact with their favorite apps directly in AI Mode.",
+        "What to watch: Users should keep an eye on how this feature is implemented and its potential impact on app security and user privacy."
       ],
       "sources" : [
         {
@@ -88,7 +146,7 @@
           "url" : "https:\/\/blog.google\/products-and-platforms\/products\/search\/connected-apps\/"
         }
       ],
-      "summary" : "Google is enhancing its AI capabilities to allow users to securely link and interact with their favorite apps directly within the AI Mode.",
+      "summary" : "Google is introducing a new feature that allows users to securely link and interact with their favorite apps directly in AI Mode.",
       "title" : "Google AI Blog: Connect more of your apps to Search",
       "topics" : [
         "AI"
@@ -96,12 +154,12 @@
     },
     {
       "created_at" : "2026-07-16T13:30:44Z",
-      "id" : "2026-07-18-3b30b00585aa",
+      "id" : "2026-07-18-a3855ad83a25",
       "importance" : "low",
       "key_insights" : [
-        "Why it matters: This approach could revolutionize scientific research by enabling faster and more efficient data generation and analysis.",
-        "What changed: Lila Sciences is transforming traditional labs into data centers, leveraging AI and robotics to produce a vast collection of validated scientific reasoning tokens.",
-        "What to watch: The development of this lab could have significant implications for fields like biology, chemistry, drug discovery, and materials science."
+        "Why it matters: This lab represents a significant advancement in the field of AI and data science, potentially revolutionizing scientific research and discovery.",
+        "What changed: Lila Sciences is transforming the traditional lab into a data-driven environment, emphasizing the importance of data generation in achieving scientific breakthroughs.",
+        "What to watch: The development of this lab could have a profound impact on the future of science, and it will be interesting to see how it progresses and its potential applications."
       ],
       "sources" : [
         {
@@ -110,8 +168,8 @@
           "url" : "https:\/\/www.latent.space\/p\/the-lab-of-the-future-should-feel"
         }
       ],
-      "summary" : "Lila Sciences is developing a futuristic lab that uses AI-guided robotics and automated equipment to generate a massive library of scientific reasoning tokens, aiming to create a scientific superintelligence.",
-      "title" : "The Lab of the Future Should Feel Like a Data Center",
+      "summary" : "Lila Sciences is developing a futuristic lab that combines AI-guided robotics, vision-language models, and a massive library of scientific reasoning tokens to produce data at scale and build a scientific superintelligence.",
+      "title" : "Lila Sciences' Lab of the Future: A Data Center for Science",
       "topics" : [
         "APIs",
         "Data",
@@ -119,35 +177,13 @@
       ]
     },
     {
-      "created_at" : "2026-07-17T00:00:00Z",
-      "id" : "2026-07-18-83567458d883",
-      "importance" : "low",
-      "key_insights" : [
-        "Why it matters: The delay could impact the timeline for the release of the new model.",
-        "What changed: The release date for Gemini 3.5 has been postponed.",
-        "What to watch: Keep an eye on the official announcements for updates on the new model."
-      ],
-      "sources" : [
-        {
-          "source_name" : "TLDR AI",
-          "title" : "Kimi K3 🌕, Gemini 3.5 delayed ⏳, crushing ARC-AGI 3 🤖",
-          "url" : "https:\/\/tldr.tech\/ai\/2026-07-17"
-        }
-      ],
-      "summary" : "The delay could impact the timeline for the release of the new model.",
-      "title" : "Gemini 3.5 delayed",
-      "topics" : [
-        "Gemini"
-      ]
-    },
-    {
       "created_at" : "2026-07-17T15:57:54Z",
-      "id" : "2026-07-18-e911e8d227c6",
+      "id" : "2026-07-18-2656c54f240a",
       "importance" : "low",
       "key_insights" : [
-        "Why it matters: This advancement allows for more efficient and effective model training, which can lead to improved performance and reduced computational costs.",
-        "What changed: The integration of these tools enables users to fine-tune models more easily and quickly, making it accessible to a broader range of users.",
-        "What to watch: Users should monitor the development and updates of these tools to stay informed about the latest advancements and potential applications."
+        "Why it matters: These tools are significant because they enable the fine-tuning of video and image models at scale, which is a crucial step in advancing AI capabilities.",
+        "What changed: The introduction of NVIDIA NeMo Automodel and 🤗 Diffusers allows for the fine-tuning of video and image models at scale, which is a significant advancement in the field.",
+        "What to watch: It is important to watch how these tools are implemented and used in real-world applications to understand their potential impact on AI."
       ],
       "sources" : [
         {
@@ -156,32 +192,10 @@
           "url" : "https:\/\/huggingface.co\/blog\/nvidia\/scale-diffusers-finetuning-nemo-automodel"
         }
       ],
-      "summary" : "This advancement allows for more efficient and effective model training, which can lead to improved performance and reduced computational costs.",
-      "title" : "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "summary" : "These tools are significant because they enable the fine-tuning of video and image models at scale, which is a crucial step in advancing AI capabilities.",
+      "title" : "NVIDIA NeMo Automodel and 🤗 Diffusers enable fine-tuning of video and image models at scale.",
       "topics" : [
         "Image Models"
-      ]
-    },
-    {
-      "created_at" : "2026-07-17T11:01:00Z",
-      "id" : "2026-07-18-129e94cf79fb",
-      "importance" : "low",
-      "key_insights" : [
-        "Why it matters: This development could democratize game creation, making it more accessible to a wider audience.",
-        "What changed: Roblox's AI tool enables users to create games without needing programming skills.",
-        "What to watch: The impact of this tool on the gaming industry and its potential for user engagement will be closely monitored."
-      ],
-      "sources" : [
-        {
-          "source_name" : "The AI Report",
-          "title" : "️ China's Kimi K3 rivals US models",
-          "url" : "https:\/\/newsletter.theaireport.ai\/p\/china-s-kimi-k3-rivals-us-models"
-        }
-      ],
-      "summary" : "This development could democratize game creation, making it more accessible to a wider audience.",
-      "title" : "Roblox launches AI game creation",
-      "topics" : [
-        "AI"
       ]
     },
     {
@@ -189,9 +203,9 @@
       "id" : "2026-07-18-56ebb5774833",
       "importance" : "low",
       "key_insights" : [
-        "Why it matters: AI models' prioritization of plausibility over truth can lead to inaccurate and misleading outputs.",
-        "What changed: AI models are being developed to prioritize truth over plausibility.",
-        "What to watch: AI models' prioritization of truth over plausibility will likely lead to more accurate and reliable outputs."
+        "Why it matters: This highlights a fundamental flaw in AI that could impact its reliability and trustworthiness.",
+        "What changed: AI models may need to be adjusted to prioritize truth over plausibility.",
+        "What to watch: AI developers must address this issue to improve the accuracy and reliability of their models."
       ],
       "sources" : [
         {
@@ -200,43 +214,87 @@
           "url" : "https:\/\/newsletter.theaireport.ai\/p\/why-ai-gets-it-wrong"
         }
       ],
-      "summary" : "Dan Klein explains why today's AI models prioritize plausibility over truth, and what comes next.",
+      "summary" : "AI models prioritize plausibility over truth, according to Dan Klein.",
       "title" : "Why AI gets it wrong",
       "topics" : [
         "AI"
       ]
     },
     {
-      "created_at" : "2026-07-17T11:01:52Z",
-      "id" : "2026-07-18-da06b4b78d42",
+      "created_at" : "2026-07-17T14:07:18Z",
+      "id" : "2026-07-18-989dbb214461",
       "importance" : "low",
       "key_insights" : [
-        "Why it matters: This advancement could significantly impact industries that rely on AI-driven decision-making and customer service.",
-        "What changed: The new model demonstrates improved accuracy and efficiency in handling complex language tasks.",
-        "What to watch: Analysts will closely monitor how this model is integrated into existing AI systems and its potential to drive innovation."
+        "Why it matters: This result highlights the growing capabilities of Chinese AI models and their potential impact on the global tech landscape.",
+        "What changed: The Chinese model's performance suggests a shift in the competitive landscape for AI models in front-end coding.",
+        "What to watch: Future developments in Chinese AI models and their integration into the global tech industry will be closely monitored."
       ],
       "sources" : [
         {
-          "source_name" : "Superhuman AI",
-          "title" : "Moonshot AI reveals a frontier-level model",
-          "url" : "https:\/\/www.superhuman.ai\/p\/moonshot-ai-reveals-a-frontier-level-model"
+          "source_name" : "AI Breakfast",
+          "title" : "Open Chinese Model Beats Claude Fable 5 in Front End Coding",
+          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/open-chinese-model-beats-claude-fable-5-in-front-end-coding"
         }
       ],
-      "summary" : "Moonshot AI has unveiled a new model that surpasses previous benchmarks in natural language processing.",
-      "title" : "Moonshot AI reveals a frontier-level model",
+      "summary" : "This result highlights the growing capabilities of Chinese AI models and their potential impact on the global tech landscape.",
+      "title" : "Chinese Model Beats Claude Fable 5 in Front End Coding",
       "topics" : [
-        "Moonshot AI",
-        "ChatGPT"
+        "Claude"
+      ]
+    },
+    {
+      "created_at" : "2026-07-16T00:00:00Z",
+      "id" : "2026-07-18-17d15311a7ac",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+        "What changed: Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+        "What to watch: For Agents, Workflows, look for concrete timing, affected users, product details, or independent confirmation."
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "How Cars24 scales conversations and builds faster with OpenAI",
+          "url" : "https:\/\/openai.com\/index\/cars24"
+        }
+      ],
+      "summary" : "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+      "title" : "How Cars24 scales conversations and builds faster with OpenAI",
+      "topics" : [
+        "Agents",
+        "Workflows"
+      ]
+    },
+    {
+      "created_at" : "2026-07-16T00:00:00Z",
+      "id" : "2026-07-18-629bd3b3f646",
+      "importance" : "low",
+      "key_insights" : [
+        "Why it matters: The release of GPT-Red aims to enhance the security and reliability of AI models, which are increasingly used in critical applications.",
+        "What changed: OpenAI has implemented additional security measures in GPT-Red to prevent misuse and ensure ethical use.",
+        "What to watch: Developers and researchers will closely monitor the Perplexity Sandbox to evaluate the effectiveness of the new security measures."
+      ],
+      "sources" : [
+        {
+          "source_name" : "TLDR AI",
+          "title" : "Thinking Machines Inkling 🧠, GPT-Red 🔒, Perplexity sandboxes 🛡️",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-07-16"
+        }
+      ],
+      "summary" : "The release of GPT-Red aims to enhance the security and reliability of AI models, which are increasingly used in critical applications.",
+      "title" : "OpenAI's GPT-Red and Perplexity Sandbox",
+      "topics" : [
+        "GPT"
       ]
     },
     {
       "created_at" : "2026-07-16T11:49:48Z",
-      "id" : "2026-07-18-dacc5bd61b49",
+      "id" : "2026-07-18-503cdd8af65f",
       "importance" : "low",
       "key_insights" : [
-        "Why it matters: This advancement in AI technology is significant because it could lead to more efficient and accurate AI systems.",
-        "What changed: The latest AI models have improved in performance, but they still have the same advantage as previous models.",
-        "What to watch: It will be interesting to see how these new models are applied in different industries and how they compare to previous models."
+        "Why it matters: This consistency in performance suggests that AI models are becoming increasingly reliable and adaptable, which could lead to significant advancements in various industries.",
+        "What changed: The models' ability to perform similarly across different tasks indicates a shift towards more generalized AI systems that can handle a wide range of applications.",
+        "What to watch: Researchers will continue to explore how these models can be further refined and integrated into real-world applications."
       ],
       "sources" : [
         {
@@ -245,52 +303,8 @@
           "url" : "https:\/\/huggingface.co\/blog\/Dharma-AI\/newer-models-same-advantages"
         }
       ],
-      "summary" : "The latest AI models have improved in performance, but they still have the same advantage as previous models.",
-      "title" : "Newer Models, Same Advantage",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "created_at" : "2026-07-16T00:00:00Z",
-      "id" : "2026-07-18-ac5c5e83f135",
-      "importance" : "low",
-      "key_insights" : [
-        "Why it matters: No article excerpt supplied.",
-        "What changed: No article excerpt supplied.",
-        "What to watch: No article excerpt supplied."
-      ],
-      "sources" : [
-        {
-          "source_name" : "Hugging Face Blog",
-          "title" : "Security incident disclosure — July 2026",
-          "url" : "https:\/\/huggingface.co\/blog\/security-incident-july-2026"
-        }
-      ],
-      "summary" : "No article excerpt supplied.",
-      "title" : "Security incident disclosure — July 2026",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "created_at" : "2026-07-15T17:27:01Z",
-      "id" : "2026-07-18-8fc1d62886ff",
-      "importance" : "low",
-      "key_insights" : [
-        "Why it matters: Understanding and effectively implementing model routing is crucial for improving the performance and efficiency of AI systems.",
-        "What changed: The complexity of model routing has increased, making it more difficult to optimize the flow of data through a network of models.",
-        "What to watch: Researchers and developers are exploring new approaches to model routing to improve its efficiency and effectiveness."
-      ],
-      "sources" : [
-        {
-          "source_name" : "Hugging Face Blog",
-          "title" : "Model Routing Is Simple. Until It Isn’t.",
-          "url" : "https:\/\/huggingface.co\/blog\/ibm-research\/model-routing-is-simple-until-it-isnt"
-        }
-      ],
-      "summary" : "Model routing is a technique used to optimize the flow of data through a network of models, but it can become complex and challenging to implement.",
-      "title" : "Model Routing Is Simple. Until It Isn’t.",
+      "summary" : "This consistency in performance suggests that AI models are becoming increasingly reliable and adaptable, which could lead to significant advancements in various industries.",
+      "title" : "AI Models Show Similar Performance Across Tasks",
       "topics" : [
         "AI"
       ]
@@ -298,23 +312,23 @@
   ],
   "count" : 12,
   "date" : "2026-07-18",
-  "generated_at" : "2026-07-18T12:01:00Z",
+  "generated_at" : "2026-07-18T12:17:20Z",
   "processing_report" : {
-    "generated_at" : "2026-07-18T12:01:06Z",
+    "generated_at" : "2026-07-18T12:17:26Z",
     "source_reports" : [
       {
-        "article_count" : 12,
+        "article_count" : 10,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-07-17T14:07:18Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-07-18T12:01:05Z",
+        "processed_at" : "2026-07-18T12:17:25Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-07-18T12:01:02Z",
+        "processed_at" : "2026-07-18T12:17:23Z",
         "state" : "processed"
       },
       {
@@ -322,7 +336,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-07-17T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-07-18T12:01:01Z",
+        "processed_at" : "2026-07-18T12:17:21Z",
         "state" : "processed"
       },
       {
@@ -330,7 +344,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-07-16T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-07-18T12:01:03Z",
+        "processed_at" : "2026-07-18T12:17:23Z",
         "state" : "processed"
       },
       {
@@ -338,7 +352,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-07-16T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-07-18T12:01:00Z",
+        "processed_at" : "2026-07-18T12:17:20Z",
         "state" : "processed"
       },
       {
@@ -346,7 +360,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-07-17T15:57:54Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-07-18T12:01:00Z",
+        "processed_at" : "2026-07-18T12:17:20Z",
         "state" : "processed"
       },
       {
@@ -354,7 +368,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-07-18T04:30:21Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-07-18T12:01:01Z",
+        "processed_at" : "2026-07-18T12:17:20Z",
         "state" : "processed"
       },
       {
@@ -362,15 +376,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-07-17T10:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-07-18T12:01:01Z",
+        "processed_at" : "2026-07-18T12:17:21Z",
         "state" : "processed"
       },
       {
-        "article_count" : 8,
+        "article_count" : 7,
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-07-17T11:01:52Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-07-18T12:01:02Z",
+        "processed_at" : "2026-07-18T12:17:23Z",
         "state" : "processed"
       },
       {
@@ -378,7 +392,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-07-17T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-07-18T12:01:00Z",
+        "processed_at" : "2026-07-18T12:17:20Z",
         "state" : "processed"
       },
       {
@@ -386,14 +400,14 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-07-17T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-07-18T12:01:06Z",
+        "processed_at" : "2026-07-18T12:17:26Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-07-18T12:01:04Z",
+        "processed_at" : "2026-07-18T12:17:22Z",
         "state" : "processed"
       }
     ],
