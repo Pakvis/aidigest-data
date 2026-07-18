@@ -2,13 +2,52 @@
   "cards" : [
     {
       "date" : "2026-07-18",
-      "id" : "2026-07-18-6774fa1231bc",
+      "id" : "2026-07-18-a58bb8a5f499",
       "importance" : "high",
       "sources" : [
         {
           "source_name" : "The Neuron Daily",
-          "title" : "One rogue agent could hijack enterprise chatbots",
-          "url" : "https:\/\/www.theneurondaily.com\/p\/july-8-wednesday"
+          "title" : "Should AI learn from you but not vice versa?",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/should-ai-learn-from-you-but-not-vice-versa"
+        },
+        {
+          "source_name" : "AI News (Swyx)",
+          "title" : "not much happened today",
+          "url" : "https:\/\/news.smol.ai\/issues\/26-07-17-not-much\/"
+        },
+        {
+          "source_name" : "Latent Space",
+          "title" : "Kimi K3 2.8T-A50B: the largest open model ever released; Opus 4.8-class at Sonnet 5 pricing",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-kimi-k3-28t-a50b-the-largest"
+        },
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Why teens deserve access to safe AI",
+          "url" : "https:\/\/openai.com\/index\/why-teens-deserve-access-safe-ai"
+        },
+        {
+          "source_name" : "Google AI Blog",
+          "title" : "Create, edit and star in videos with two Google Vids updates",
+          "url" : "https:\/\/blog.google\/products-and-platforms\/products\/workspace\/gemini-omni-personal-avatars\/"
+        }
+      ],
+      "summary" : "Kimi K3, a frontier-class open-weights model, was released by Moonshot AI with 2.8T total parameters, 1M-token context, native multimodal input, Kimi Delta Attention (KDA), and Attention Residuals.",
+      "title" : "Kimi K3 2.8T-A50B: the largest open model ever released; Opus 4.8-class at Sonnet 5 pricing",
+      "topics" : [
+        "Agents",
+        "GPT",
+        "Claude"
+      ]
+    },
+    {
+      "date" : "2026-07-18",
+      "id" : "2026-07-18-a41e565474b6",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "The Neuron Daily",
+          "title" : "ChatGPT may get a body",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/chatgpt-may-get-a-body"
         },
         {
           "source_name" : "Latent Space",
@@ -22,21 +61,16 @@
         },
         {
           "source_name" : "AI News (Swyx)",
-          "title" : "not much happened today",
-          "url" : "https:\/\/news.smol.ai\/issues\/26-07-17-not-much\/"
-        },
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Why teens deserve access to safe AI",
-          "url" : "https:\/\/openai.com\/index\/why-teens-deserve-access-safe-ai"
+          "title" : "Anthropic @ $30B ARR, Project GlassWing and Claude Mythos Preview — first model too dangerous to release since GPT-2",
+          "url" : "https:\/\/news.smol.ai\/issues\/26-04-06-anthropic-mythos\/"
         }
       ],
-      "summary" : "Anthropic's $19B TeraWulf lease leads today's AI news, with Illinois' new safety law, Chinese model price pressure, Claude Cowork, and Ukraine robots.",
-      "title" : "One rogue agent could hijack enterprise chatbots",
+      "summary" : "Anthropic announced a jump from $19B ARR in March to $30B ARR in April, highlighting a differential growth rate and higher cost efficiency.",
+      "title" : "Anthropic @ $30B ARR, Project GlassWing and Claude Mythos Preview — first model too dangerous to release since GPT-2",
       "topics" : [
         "Claude",
-        "Agents",
-        "GPT"
+        "GPT",
+        "Anthropic"
       ]
     },
     {
@@ -197,35 +231,19 @@
     },
     {
       "date" : "2026-07-18",
-      "id" : "2026-07-18-85e52d6503ce",
+      "id" : "2026-07-18-da06b4b78d42",
       "importance" : "low",
       "sources" : [
         {
           "source_name" : "Superhuman AI",
-          "title" : "America's best open-weight model yet",
-          "url" : "https:\/\/www.superhuman.ai\/p\/america-s-best-open-weight-model-yet"
+          "title" : "Moonshot AI reveals a frontier-level model",
+          "url" : "https:\/\/www.superhuman.ai\/p\/moonshot-ai-reveals-a-frontier-level-model"
         }
       ],
-      "summary" : "This advancement could significantly impact the field of artificial intelligence and its applications.",
-      "title" : "ChatGPT surpasses previous open-weight models",
+      "summary" : "Moonshot AI has unveiled a new model that surpasses previous benchmarks in natural language processing.",
+      "title" : "Moonshot AI reveals a frontier-level model",
       "topics" : [
-        "ChatGPT"
-      ]
-    },
-    {
-      "date" : "2026-07-18",
-      "id" : "2026-07-18-351cf292e522",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "AI Report (NL)",
-          "title" : "De week waarin de makers van AI alarm sloegen",
-          "url" : "https:\/\/www.aireport.nl\/p\/de-week-waarin-de-makers-van-ai-alarm-sloegen"
-        }
-      ],
-      "summary" : "PLUS: Duolingo heeft een probleem, en ChatGPT is nu jouw persoonlijke taalcoach.",
-      "title" : "ChatGPT is now your personal language coach",
-      "topics" : [
+        "Moonshot AI",
         "ChatGPT"
       ]
     },
