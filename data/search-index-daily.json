@@ -2,7 +2,7 @@
   "cards" : [
     {
       "date" : "2026-07-18",
-      "id" : "2026-07-18-3552b5cf4759",
+      "id" : "2026-07-18-a58bb8a5f499",
       "importance" : "high",
       "sources" : [
         {
@@ -16,63 +16,22 @@
           "url" : "https:\/\/www.superhuman.ai\/p\/moonshot-ai-reveals-a-frontier-level-model"
         },
         {
-          "source_name" : "AI News (Swyx)",
-          "title" : "not much happened today",
-          "url" : "https:\/\/news.smol.ai\/issues\/26-07-17-not-much\/"
-        }
-      ],
-      "summary" : "Thinky's Inkling is a Mixture-of-Experts transformer with 975B total parameters, 41B active.",
-      "title" : "Thinky's Inkling: 975B-A41B multimodal, new best American Apache 2.0 open model (with Inkling-Small, 276B-A12B)",
-      "topics" : [
-        "Pricing",
-        "Agents",
-        "Anthropic"
-      ]
-    },
-    {
-      "date" : "2026-07-18",
-      "id" : "2026-07-18-926a482f7390",
-      "importance" : "high",
-      "sources" : [
-        {
-          "source_name" : "Google AI Blog",
-          "title" : "Create, edit and star in videos with two Google Vids updates",
-          "url" : "https:\/\/blog.google\/products-and-platforms\/products\/workspace\/gemini-omni-personal-avatars\/"
-        },
-        {
-          "source_name" : "AI News (Swyx)",
-          "title" : "not much happened today",
-          "url" : "https:\/\/news.smol.ai\/issues\/26-07-16-kimi-k30\/"
-        }
-      ],
-      "summary" : "Google Vids has two new updates: Gemini Omni and personal avatars.",
-      "title" : "Google AI Blog: Create, edit and star in videos with two Google Vids updates",
-      "topics" : [
-        "Gemini",
-        "Agents",
-        "Anthropic"
-      ]
-    },
-    {
-      "date" : "2026-07-18",
-      "id" : "2026-07-18-c54b874334d0",
-      "importance" : "high",
-      "sources" : [
-        {
           "source_name" : "The AI Report",
           "title" : "️ China's Kimi K3 rivals US models",
           "url" : "https:\/\/newsletter.theaireport.ai\/p\/china-s-kimi-k3-rivals-us-models"
         },
         {
-          "source_name" : "TLDR AI",
-          "title" : "Kimi K3 🌕, Gemini 3.5 delayed ⏳, crushing ARC-AGI 3 🤖",
-          "url" : "https:\/\/tldr.tech\/ai\/2026-07-17"
+          "source_name" : "AI News (Swyx)",
+          "title" : "not much happened today",
+          "url" : "https:\/\/news.smol.ai\/issues\/26-07-17-not-much\/"
         }
       ],
-      "summary" : "The competition between AI models is important for the future of technology.",
-      "title" : "Kimi K3 🌕, Gemini 3.5 delayed ⏳, crushing ARC-AGI 3 🤖",
+      "summary" : "Z.ai GLM has been getting a bit too much love recently , so it’s time for Kimi K3 to fight back!.",
+      "title" : "Kimi K3 2.8T-A50B: the largest open model ever released; Opus 4.8-class at Sonnet 5 pricing",
       "topics" : [
-        "Gemini"
+        "Pricing",
+        "Moonshot AI",
+        "Agents"
       ]
     },
     {
@@ -129,6 +88,23 @@
     },
     {
       "date" : "2026-07-18",
+      "id" : "2026-07-18-03d68d9dfd08",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "Google AI Blog",
+          "title" : "Create, edit and star in videos with two Google Vids updates",
+          "url" : "https:\/\/blog.google\/products-and-platforms\/products\/workspace\/gemini-omni-personal-avatars\/"
+        }
+      ],
+      "summary" : "Gemini Omni and personal avatars in Google Vids make video creation easier than ever.",
+      "title" : "Create, edit and star in videos with two Google Vids updates",
+      "topics" : [
+        "Gemini"
+      ]
+    },
+    {
+      "date" : "2026-07-18",
       "id" : "2026-07-18-28818f82ab46",
       "importance" : "low",
       "sources" : [
@@ -141,9 +117,24 @@
       "summary" : "The authors of the article discuss the possibilities of AI-run science.",
       "title" : "The Lab of the Future Should Feel Like a Data Center — Andy Beam & Rafa Gómez-Bombarelli, Lila Sciences",
       "topics" : [
-        "APIs",
-        "Data",
-        "Compute"
+        "AI"
+      ]
+    },
+    {
+      "date" : "2026-07-18",
+      "id" : "2026-07-18-c54b874334d0",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "TLDR AI",
+          "title" : "Kimi K3 🌕, Gemini 3.5 delayed ⏳, crushing ARC-AGI 3 🤖",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-07-17"
+        }
+      ],
+      "summary" : "The Kimi K3 mission is a significant step forward in space exploration.",
+      "title" : "Kimi K3 🌕, Gemini 3.5 delayed ⏳, crushing ARC-AGI 3 🤖",
+      "topics" : [
+        "Gemini"
       ]
     },
     {
@@ -199,6 +190,29 @@
     },
     {
       "date" : "2026-07-18",
+      "id" : "2026-07-18-3552b5cf4759",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "Superhuman AI",
+          "title" : "America's best open-weight model yet",
+          "url" : "https:\/\/www.superhuman.ai\/p\/america-s-best-open-weight-model-yet"
+        },
+        {
+          "source_name" : "Latent Space",
+          "title" : "Thinky's Inkling: 975B-A41B multimodal, new best American Apache 2.0 open model (with Inkling-Small, 276B-A12B)",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-thinkys-inkling-975b-a41b"
+        }
+      ],
+      "summary" : "Thinky's Inkling is a Mixture-of-Experts transformer with 975B total parameters, 41B active.",
+      "title" : "Thinky's Inkling: 975B-A41B multimodal, new best American Apache 2.0 open model (with Inkling-Small, 276B-A12B)",
+      "topics" : [
+        "ChatGPT",
+        "Design"
+      ]
+    },
+    {
+      "date" : "2026-07-18",
       "id" : "2026-07-18-17d15311a7ac",
       "importance" : "medium",
       "sources" : [
@@ -213,23 +227,6 @@
       "topics" : [
         "Agents",
         "Workflows"
-      ]
-    },
-    {
-      "date" : "2026-07-18",
-      "id" : "2026-07-18-a7b300e5f6e1",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "TLDR AI",
-          "title" : "Thinking Machines Inkling 🧠, GPT-Red 🔒, Perplexity sandboxes 🛡️",
-          "url" : "https:\/\/tldr.tech\/ai\/2026-07-16"
-        }
-      ],
-      "summary" : "These developments are significant because they represent a shift towards more secure and transparent AI systems.",
-      "title" : "Thinking Machines Inkling 🧠, GPT-Red 🔒, Perplexity sandboxes 🛡️",
-      "topics" : [
-        "GPT"
       ]
     },
     {
