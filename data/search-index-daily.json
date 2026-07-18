@@ -1,6 +1,236 @@
 {
   "cards" : [
     {
+      "date" : "2026-07-18",
+      "id" : "2026-07-18-a58bb8a5f499",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "The Neuron Daily",
+          "title" : "Should AI learn from you but not vice versa?",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/should-ai-learn-from-you-but-not-vice-versa"
+        },
+        {
+          "source_name" : "AI News (Swyx)",
+          "title" : "not much happened today",
+          "url" : "https:\/\/news.smol.ai\/issues\/26-07-17-not-much\/"
+        },
+        {
+          "source_name" : "Latent Space",
+          "title" : "Kimi K3 2.8T-A50B: the largest open model ever released; Opus 4.8-class at Sonnet 5 pricing",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-kimi-k3-28t-a50b-the-largest"
+        },
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Why teens deserve access to safe AI",
+          "url" : "https:\/\/openai.com\/index\/why-teens-deserve-access-safe-ai"
+        },
+        {
+          "source_name" : "Google AI Blog",
+          "title" : "Create, edit and star in videos with two Google Vids updates",
+          "url" : "https:\/\/blog.google\/products-and-platforms\/products\/workspace\/gemini-omni-personal-avatars\/"
+        }
+      ],
+      "summary" : "Kimi K3, a frontier-class open-weights model, was released by Moonshot AI with 2.8T total parameters, 1M-token context, native multimodal input, Kimi Delta Attention (KDA), and Attention Residuals.",
+      "title" : "Kimi K3 2.8T-A50B: the largest open model ever released; Opus 4.8-class at Sonnet 5 pricing",
+      "topics" : [
+        "Agents",
+        "GPT",
+        "Claude"
+      ]
+    },
+    {
+      "date" : "2026-07-18",
+      "id" : "2026-07-18-338f7c37e025",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "A scorecard for the AI age",
+          "url" : "https:\/\/openai.com\/index\/a-scorecard-for-the-ai-age"
+        }
+      ],
+      "summary" : "This scorecard provides a practical framework for evaluating the effectiveness of AI investments, helping organizations optimize their use of AI technologies.",
+      "title" : "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "date" : "2026-07-18",
+      "id" : "2026-07-18-b3696506f1e2",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "Google AI Blog",
+          "title" : "Connect more of your apps to Search",
+          "url" : "https:\/\/blog.google\/products-and-platforms\/products\/search\/connected-apps\/"
+        }
+      ],
+      "summary" : "Google is enhancing its AI capabilities to allow users to securely link and interact with their favorite apps directly within the AI Mode.",
+      "title" : "Google AI Blog: Connect more of your apps to Search",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "date" : "2026-07-18",
+      "id" : "2026-07-18-3b30b00585aa",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "The Lab of the Future Should Feel Like a Data Center — Andy Beam & Rafa Gómez-Bombarelli, Lila Sciences",
+          "url" : "https:\/\/www.latent.space\/p\/the-lab-of-the-future-should-feel"
+        }
+      ],
+      "summary" : "Lila Sciences is developing a futuristic lab that uses AI-guided robotics and automated equipment to generate a massive library of scientific reasoning tokens, aiming to create a scientific superintelligence.",
+      "title" : "The Lab of the Future Should Feel Like a Data Center",
+      "topics" : [
+        "APIs",
+        "Data",
+        "Compute"
+      ]
+    },
+    {
+      "date" : "2026-07-18",
+      "id" : "2026-07-18-83567458d883",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "TLDR AI",
+          "title" : "Kimi K3 🌕, Gemini 3.5 delayed ⏳, crushing ARC-AGI 3 🤖",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-07-17"
+        }
+      ],
+      "summary" : "The delay could impact the timeline for the release of the new model.",
+      "title" : "Gemini 3.5 delayed",
+      "topics" : [
+        "Gemini"
+      ]
+    },
+    {
+      "date" : "2026-07-18",
+      "id" : "2026-07-18-e911e8d227c6",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "Hugging Face Blog",
+          "title" : "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+          "url" : "https:\/\/huggingface.co\/blog\/nvidia\/scale-diffusers-finetuning-nemo-automodel"
+        }
+      ],
+      "summary" : "This advancement allows for more efficient and effective model training, which can lead to improved performance and reduced computational costs.",
+      "title" : "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "topics" : [
+        "Image Models"
+      ]
+    },
+    {
+      "date" : "2026-07-18",
+      "id" : "2026-07-18-dacc5bd61b49",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "Hugging Face Blog",
+          "title" : "Newer Models, Same Advantage",
+          "url" : "https:\/\/huggingface.co\/blog\/Dharma-AI\/newer-models-same-advantages"
+        }
+      ],
+      "summary" : "The latest AI models have improved in performance, but they still have the same advantage as previous models.",
+      "title" : "Newer Models, Same Advantage",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "date" : "2026-07-18",
+      "id" : "2026-07-18-129e94cf79fb",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "The AI Report",
+          "title" : "️ China's Kimi K3 rivals US models",
+          "url" : "https:\/\/newsletter.theaireport.ai\/p\/china-s-kimi-k3-rivals-us-models"
+        }
+      ],
+      "summary" : "This development could democratize game creation, making it more accessible to a wider audience.",
+      "title" : "Roblox launches AI game creation",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "date" : "2026-07-18",
+      "id" : "2026-07-18-56ebb5774833",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "The AI Report",
+          "title" : "️ Why AI gets it wrong",
+          "url" : "https:\/\/newsletter.theaireport.ai\/p\/why-ai-gets-it-wrong"
+        }
+      ],
+      "summary" : "Dan Klein explains why today's AI models prioritize plausibility over truth, and what comes next.",
+      "title" : "Why AI gets it wrong",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "date" : "2026-07-18",
+      "id" : "2026-07-18-e3c89e996753",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "The AI Report",
+          "title" : "️ OpenAI launches a physical keypad",
+          "url" : "https:\/\/newsletter.theaireport.ai\/p\/openai-launches-a-physical-keypad"
+        }
+      ],
+      "summary" : "This development could revolutionize how AI agents interact with users, making them more accessible and user-friendly.",
+      "title" : "OpenAI launches a physical keypad",
+      "topics" : [
+        "Agents",
+        "Enterprise"
+      ]
+    },
+    {
+      "date" : "2026-07-18",
+      "id" : "2026-07-18-c78c7ec6d2bc",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "AI Breakfast",
+          "title" : "Open Chinese Model Beats Claude Fable 5 in Front End Coding",
+          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/open-chinese-model-beats-claude-fable-5-in-front-end-coding"
+        }
+      ],
+      "summary" : "This result highlights the potential of open-source models in competitive coding environments.",
+      "title" : "Open Chinese Model Beats Claude Fable 5 in Front End Coding",
+      "topics" : [
+        "Claude"
+      ]
+    },
+    {
+      "date" : "2026-07-18",
+      "id" : "2026-07-18-da06b4b78d42",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "Superhuman AI",
+          "title" : "Moonshot AI reveals a frontier-level model",
+          "url" : "https:\/\/www.superhuman.ai\/p\/moonshot-ai-reveals-a-frontier-level-model"
+        }
+      ],
+      "summary" : "Moonshot AI has unveiled a new model that surpasses previous benchmarks in natural language processing.",
+      "title" : "Moonshot AI reveals a frontier-level model",
+      "topics" : [
+        "Moonshot AI",
+        "ChatGPT"
+      ]
+    },
+    {
       "date" : "2026-07-17",
       "id" : "2026-07-17-36006390346b",
       "importance" : "high",
