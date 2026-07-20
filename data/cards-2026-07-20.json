@@ -1,6 +1,28 @@
 {
   "cards" : [
     {
+      "created_at" : "2026-07-18T14:00:00Z",
+      "id" : "2026-07-20-5523989ad893",
+      "importance" : "low",
+      "key_insights" : [
+        "Why it matters: This event highlights the potential of robotics in the automotive industry, which could revolutionize transportation.",
+        "What changed: The special will explore how robotics is transforming the car industry, potentially leading to new technologies and innovations.",
+        "What to watch: Viewers should pay attention to the special's insights into the future of robotics in the automotive sector."
+      ],
+      "sources" : [
+        {
+          "source_name" : "Superhuman AI",
+          "title" : "Robotics Special: America's next big car is a robot",
+          "url" : "https:\/\/www.superhuman.ai\/p\/robotics-special-america-s-next-big-car-is-a-robot"
+        }
+      ],
+      "summary" : "This event highlights the potential of robotics in the automotive industry, which could revolutionize transportation.",
+      "title" : "Robotics Special: America's next big car is a robo",
+      "topics" : [
+        "Robotics"
+      ]
+    },
+    {
       "consolidation" : {
         "latest_source_at" : "2026-07-18T04:30:21Z",
         "message_count" : 3,
@@ -83,27 +105,49 @@
       "topics" : [
         "Image Models"
       ]
+    },
+    {
+      "created_at" : "2026-07-17T14:07:18Z",
+      "id" : "2026-07-20-5919eb4f4905",
+      "importance" : "low",
+      "key_insights" : [
+        "Why it matters: This result highlights the growing capabilities of Chinese AI models in competitive coding environments.",
+        "What changed: The performance of Chinese models in coding competitions suggests a shift in the global AI landscape.",
+        "What to watch: Future developments in Chinese AI models and their integration into global tech markets."
+      ],
+      "sources" : [
+        {
+          "source_name" : "AI Breakfast",
+          "title" : "Open Chinese Model Beats Claude Fable 5 in Front End Coding",
+          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/open-chinese-model-beats-claude-fable-5-in-front-end-coding"
+        }
+      ],
+      "summary" : "This result highlights the growing capabilities of Chinese AI models in competitive coding environments.",
+      "title" : "Open Chinese Model Beats Claude Fable 5 in Front End Coding",
+      "topics" : [
+        "Claude"
+      ]
     }
   ],
-  "count" : 3,
+  "count" : 5,
   "date" : "2026-07-20",
-  "generated_at" : "2026-07-20T06:00:59Z",
+  "generated_at" : "2026-07-20T08:01:00Z",
   "processing_report" : {
-    "generated_at" : "2026-07-20T06:01:12Z",
+    "generated_at" : "2026-07-20T08:01:06Z",
     "source_reports" : [
       {
-        "article_count" : 11,
+        "article_count" : 12,
         "id" : "ai-breakfast",
-        "latest_article_at" : "2026-07-15T13:09:07Z",
+        "latest_article_at" : "2026-07-17T14:07:18Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-07-20T06:01:05Z",
+        "processed_at" : "2026-07-20T08:01:06Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-07-20T06:01:03Z",
+        "processed_at" : "2026-07-20T08:01:04Z",
         "state" : "processed"
       },
       {
@@ -111,7 +155,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-07-17T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-07-20T06:01:00Z",
+        "processed_at" : "2026-07-20T08:01:03Z",
         "state" : "processed"
       },
       {
@@ -119,7 +163,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-07-16T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-07-20T06:01:03Z",
+        "processed_at" : "2026-07-20T08:01:05Z",
         "state" : "processed"
       },
       {
@@ -127,7 +171,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-07-16T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-07-20T06:01:00Z",
+        "processed_at" : "2026-07-20T08:01:03Z",
         "state" : "processed"
       },
       {
@@ -135,7 +179,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-07-17T15:57:54Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-07-20T06:01:00Z",
+        "processed_at" : "2026-07-20T08:01:03Z",
         "state" : "processed"
       },
       {
@@ -143,7 +187,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-07-18T04:30:21Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-07-20T06:01:00Z",
+        "processed_at" : "2026-07-20T08:01:03Z",
         "state" : "processed"
       },
       {
@@ -151,15 +195,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-07-17T10:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-07-20T06:01:01Z",
+        "processed_at" : "2026-07-20T08:01:03Z",
         "state" : "processed"
       },
       {
-        "article_count" : 5,
+        "article_count" : 6,
         "id" : "superhuman-ai",
-        "latest_article_at" : "2026-07-17T11:01:52Z",
+        "latest_article_at" : "2026-07-18T14:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-07-20T06:01:03Z",
+        "processed_at" : "2026-07-20T08:01:06Z",
         "state" : "processed"
       },
       {
@@ -167,7 +211,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-07-17T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-07-20T06:01:00Z",
+        "processed_at" : "2026-07-20T08:01:03Z",
         "state" : "processed"
       },
       {
@@ -175,18 +219,17 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-07-17T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-07-20T06:01:03Z",
+        "processed_at" : "2026-07-20T08:01:05Z",
         "state" : "processed"
       },
       {
-        "article_count" : 0,
+        "article_count" : 10,
         "id" : "the-neuron-daily",
-        "message" : "Did not finish before the startup source budget.",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-07-20T06:01:12Z",
-        "state" : "timedOut"
+        "processed_at" : "2026-07-20T08:01:05Z",
+        "state" : "processed"
       }
     ],
-    "state" : "timedOut"
+    "state" : "complete"
   }
 }
