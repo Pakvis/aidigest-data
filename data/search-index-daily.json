@@ -2,19 +2,44 @@
   "cards" : [
     {
       "date" : "2026-07-20",
-      "id" : "2026-07-20-06396c782868",
+      "id" : "2026-07-20-66d25bfde72c",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "TLDR AI",
+          "title" : "Qwen 3.8 ✨, Kimi Code CLI 👨‍💻, Netflix’s LLM stack 🤖",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-07-20"
+        },
+        {
+          "source_name" : "Latent Space",
+          "title" : "not much happened today",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-not-much-happened-today-830"
+        }
+      ],
+      "summary" : "This development could significantly impact the streaming industry by improving the quality and personalization of content.",
+      "title" : "Netflix's LLM stack 🤖",
+      "topics" : [
+        "Coding",
+        "LLMs",
+        "Agents"
+      ]
+    },
+    {
+      "date" : "2026-07-20",
+      "id" : "2026-07-20-47f305725e4e",
       "importance" : "low",
       "sources" : [
         {
-          "source_name" : "The AI Report",
-          "title" : "️ Current AI builds free global web",
-          "url" : "https:\/\/newsletter.theaireport.ai\/p\/k"
+          "source_name" : "AI Breakfast",
+          "title" : "Anthropic limits premium Claude access while eyeing Meta compute deal",
+          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/anthropic-limits-premium-claude-access-while-eyeing-meta-compute-deal"
         }
       ],
-      "summary" : "For AI, look for concrete timing, affected users, product details, or independent confirmation.",
-      "title" : "Netflix paid $587M for Ben Affleck’s AI startup",
+      "summary" : "Anthropic has announced a temporary reduction in the availability of its premium Claude model, which is a significant step in the company's strategic shift towards securing a major deal with Meta.",
+      "title" : "Anthropic limits premium Claude access while eyeing Meta compute deal",
       "topics" : [
-        "AI"
+        "Anthropic",
+        "Claude"
       ]
     },
     {
@@ -36,47 +61,6 @@
     },
     {
       "date" : "2026-07-20",
-      "id" : "2026-07-20-5523989ad893",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "Superhuman AI",
-          "title" : "Robotics Special: America's next big car is a robot",
-          "url" : "https:\/\/www.superhuman.ai\/p\/robotics-special-america-s-next-big-car-is-a-robot"
-        }
-      ],
-      "summary" : "This event highlights the potential of robotics in the automotive industry, which could revolutionize transportation.",
-      "title" : "Robotics Special: America's next big car is a robo",
-      "topics" : [
-        "Robotics"
-      ]
-    },
-    {
-      "date" : "2026-07-20",
-      "id" : "2026-07-20-5919eb4f4905",
-      "importance" : "high",
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "not much happened today",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-not-much-happened-today-830"
-        },
-        {
-          "source_name" : "AI Breakfast",
-          "title" : "Open Chinese Model Beats Claude Fable 5 in Front End Coding",
-          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/open-chinese-model-beats-claude-fable-5-in-front-end-coding"
-        }
-      ],
-      "summary" : "This achievement highlights the growing capabilities of Chinese AI models in competitive coding environments.",
-      "title" : "Open Chinese Model Beats Claude Fable 5 in Front End Coding",
-      "topics" : [
-        "Claude",
-        "Agents",
-        "Anthropic"
-      ]
-    },
-    {
-      "date" : "2026-07-20",
       "id" : "2026-07-20-0361c396ebfa",
       "importance" : "low",
       "sources" : [
@@ -90,6 +74,40 @@
       "title" : "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
       "topics" : [
         "Image Models"
+      ]
+    },
+    {
+      "date" : "2026-07-20",
+      "id" : "2026-07-20-5919eb4f4905",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "AI Breakfast",
+          "title" : "Open Chinese Model Beats Claude Fable 5 in Front End Coding",
+          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/open-chinese-model-beats-claude-fable-5-in-front-end-coding"
+        }
+      ],
+      "summary" : "This result highlights the growing capabilities of Chinese AI models in competitive coding environments.",
+      "title" : "Open Chinese Model Beats Claude Fable 5 in Front End Coding",
+      "topics" : [
+        "Claude"
+      ]
+    },
+    {
+      "date" : "2026-07-20",
+      "id" : "2026-07-20-5523989ad893",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "Superhuman AI",
+          "title" : "Robotics Special: America's next big car is a robot",
+          "url" : "https:\/\/www.superhuman.ai\/p\/robotics-special-america-s-next-big-car-is-a-robot"
+        }
+      ],
+      "summary" : "This event highlights the potential of robotics in the automotive industry, which could revolutionize transportation.",
+      "title" : "Robotics Special: America's next big car is a robo",
+      "topics" : [
+        "Robotics"
       ]
     },
     {

@@ -1,25 +1,61 @@
 {
   "cards" : [
     {
-      "created_at" : "2026-07-20T11:01:00Z",
-      "id" : "2026-07-20-06396c782868",
-      "importance" : "low",
+      "consolidation" : {
+        "latest_source_at" : "2026-07-20T00:00:00Z",
+        "message_count" : 2,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
+      "created_at" : "2026-07-20T00:00:00Z",
+      "id" : "2026-07-20-66d25bfde72c",
+      "importance" : "high",
       "key_insights" : [
-        "Why it matters: Netflix paid $587M for Ben Affleck’s AI startup.",
-        "What changed: Netflix paid $587M for Ben Affleck’s AI startup.",
-        "What to watch: For AI, look for concrete timing, affected users, product details, or independent confirmation."
+        "Why it matters: This development could significantly impact the streaming industry by improving the quality and personalization of content.",
+        "What changed: Netflix's LLM stack is designed to process and analyze vast amounts of data to generate more accurate and relevant recommendations.",
+        "What to watch: Keep an eye on Netflix's future content releases and how the LLM stack will be integrated into its existing platforms."
       ],
       "sources" : [
         {
-          "source_name" : "The AI Report",
-          "title" : "️ Current AI builds free global web",
-          "url" : "https:\/\/newsletter.theaireport.ai\/p\/k"
+          "source_name" : "TLDR AI",
+          "title" : "Qwen 3.8 ✨, Kimi Code CLI 👨‍💻, Netflix’s LLM stack 🤖",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-07-20"
+        },
+        {
+          "source_name" : "Latent Space",
+          "title" : "not much happened today",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-not-much-happened-today-830"
         }
       ],
-      "summary" : "For AI, look for concrete timing, affected users, product details, or independent confirmation.",
-      "title" : "Netflix paid $587M for Ben Affleck’s AI startup",
+      "summary" : "This development could significantly impact the streaming industry by improving the quality and personalization of content.",
+      "title" : "Netflix's LLM stack 🤖",
       "topics" : [
-        "AI"
+        "Coding",
+        "LLMs",
+        "Agents"
+      ]
+    },
+    {
+      "created_at" : "2026-07-20T12:15:32Z",
+      "id" : "2026-07-20-47f305725e4e",
+      "importance" : "low",
+      "key_insights" : [
+        "Why it matters: This move underscores Anthropic's ambition to expand its computational capabilities and strengthen its position in the AI market, particularly in the realm of large language models.",
+        "What changed: Anthropic has temporarily restricted access to its premium Claude model, which is a key component of its AI platform.",
+        "What to watch: The company's next steps in securing a deal with Meta will be closely monitored, as this could have a substantial impact on the future of AI development and deployment."
+      ],
+      "sources" : [
+        {
+          "source_name" : "AI Breakfast",
+          "title" : "Anthropic limits premium Claude access while eyeing Meta compute deal",
+          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/anthropic-limits-premium-claude-access-while-eyeing-meta-compute-deal"
+        }
+      ],
+      "summary" : "Anthropic has announced a temporary reduction in the availability of its premium Claude model, which is a significant step in the company's strategic shift towards securing a major deal with Meta.",
+      "title" : "Anthropic limits premium Claude access while eyeing Meta compute deal",
+      "topics" : [
+        "Anthropic",
+        "Claude"
       ]
     },
     {
@@ -45,63 +81,6 @@
       ]
     },
     {
-      "created_at" : "2026-07-18T14:00:00Z",
-      "id" : "2026-07-20-5523989ad893",
-      "importance" : "low",
-      "key_insights" : [
-        "Why it matters: This event highlights the potential of robotics in the automotive industry, which could revolutionize transportation.",
-        "What changed: The special will explore how robotics is transforming the car industry, potentially leading to new technologies and innovations.",
-        "What to watch: Viewers should pay attention to the special's insights into the future of robotics in the automotive sector."
-      ],
-      "sources" : [
-        {
-          "source_name" : "Superhuman AI",
-          "title" : "Robotics Special: America's next big car is a robot",
-          "url" : "https:\/\/www.superhuman.ai\/p\/robotics-special-america-s-next-big-car-is-a-robot"
-        }
-      ],
-      "summary" : "This event highlights the potential of robotics in the automotive industry, which could revolutionize transportation.",
-      "title" : "Robotics Special: America's next big car is a robo",
-      "topics" : [
-        "Robotics"
-      ]
-    },
-    {
-      "consolidation" : {
-        "latest_source_at" : "2026-07-18T04:30:21Z",
-        "message_count" : 2,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
-      },
-      "created_at" : "2026-07-18T04:30:21Z",
-      "id" : "2026-07-20-5919eb4f4905",
-      "importance" : "high",
-      "key_insights" : [
-        "Why it matters: This achievement highlights the growing capabilities of Chinese AI models in competitive coding environments.",
-        "What changed: The Open Chinese Model has advanced its performance in front-end coding, challenging established models like Claude Fable 5.",
-        "What to watch: Future developments in Chinese AI models and their impact on global AI competitions will be closely monitored."
-      ],
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "not much happened today",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-not-much-happened-today-830"
-        },
-        {
-          "source_name" : "AI Breakfast",
-          "title" : "Open Chinese Model Beats Claude Fable 5 in Front End Coding",
-          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/open-chinese-model-beats-claude-fable-5-in-front-end-coding"
-        }
-      ],
-      "summary" : "This achievement highlights the growing capabilities of Chinese AI models in competitive coding environments.",
-      "title" : "Open Chinese Model Beats Claude Fable 5 in Front End Coding",
-      "topics" : [
-        "Claude",
-        "Agents",
-        "Anthropic"
-      ]
-    },
-    {
       "created_at" : "2026-07-17T15:57:54Z",
       "id" : "2026-07-20-0361c396ebfa",
       "importance" : "low",
@@ -122,27 +101,71 @@
       "topics" : [
         "Image Models"
       ]
+    },
+    {
+      "created_at" : "2026-07-17T14:07:18Z",
+      "id" : "2026-07-20-5919eb4f4905",
+      "importance" : "low",
+      "key_insights" : [
+        "Why it matters: This result highlights the growing capabilities of Chinese AI models in competitive coding environments.",
+        "What changed: The performance of Chinese models in coding competitions suggests a shift in the global AI landscape.",
+        "What to watch: Future developments in Chinese AI models and their integration into global tech markets."
+      ],
+      "sources" : [
+        {
+          "source_name" : "AI Breakfast",
+          "title" : "Open Chinese Model Beats Claude Fable 5 in Front End Coding",
+          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/open-chinese-model-beats-claude-fable-5-in-front-end-coding"
+        }
+      ],
+      "summary" : "This result highlights the growing capabilities of Chinese AI models in competitive coding environments.",
+      "title" : "Open Chinese Model Beats Claude Fable 5 in Front End Coding",
+      "topics" : [
+        "Claude"
+      ]
+    },
+    {
+      "created_at" : "2026-07-18T14:00:00Z",
+      "id" : "2026-07-20-5523989ad893",
+      "importance" : "low",
+      "key_insights" : [
+        "Why it matters: This event highlights the potential of robotics in the automotive industry, which could revolutionize transportation.",
+        "What changed: The special will explore how robotics is transforming the car industry, potentially leading to new technologies and innovations.",
+        "What to watch: Viewers should pay attention to the special's insights into the future of robotics in the automotive sector."
+      ],
+      "sources" : [
+        {
+          "source_name" : "Superhuman AI",
+          "title" : "Robotics Special: America's next big car is a robot",
+          "url" : "https:\/\/www.superhuman.ai\/p\/robotics-special-america-s-next-big-car-is-a-robot"
+        }
+      ],
+      "summary" : "This event highlights the potential of robotics in the automotive industry, which could revolutionize transportation.",
+      "title" : "Robotics Special: America's next big car is a robo",
+      "topics" : [
+        "Robotics"
+      ]
     }
   ],
-  "count" : 5,
+  "count" : 6,
   "date" : "2026-07-20",
-  "generated_at" : "2026-07-20T12:01:02Z",
+  "generated_at" : "2026-07-20T14:01:00Z",
   "processing_report" : {
-    "generated_at" : "2026-07-20T12:01:07Z",
+    "generated_at" : "2026-07-20T14:01:05Z",
     "source_reports" : [
       {
-        "article_count" : 11,
+        "article_count" : 10,
         "id" : "ai-breakfast",
-        "latest_article_at" : "2026-07-17T14:07:18Z",
+        "latest_article_at" : "2026-07-20T12:15:32Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-07-20T12:01:07Z",
+        "processed_at" : "2026-07-20T14:01:05Z",
         "state" : "processed"
       },
       {
-        "article_count" : 7,
+        "article_count" : 10,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-07-20T12:01:06Z",
+        "processed_at" : "2026-07-20T14:01:04Z",
         "state" : "processed"
       },
       {
@@ -150,7 +173,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-07-17T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-07-20T12:01:02Z",
+        "processed_at" : "2026-07-20T14:01:01Z",
         "state" : "processed"
       },
       {
@@ -158,7 +181,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-07-16T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-07-20T12:01:04Z",
+        "processed_at" : "2026-07-20T14:01:03Z",
         "state" : "processed"
       },
       {
@@ -166,7 +189,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-07-16T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-07-20T12:01:02Z",
+        "processed_at" : "2026-07-20T14:01:00Z",
         "state" : "processed"
       },
       {
@@ -174,7 +197,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-07-17T15:57:54Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-07-20T12:01:02Z",
+        "processed_at" : "2026-07-20T14:01:01Z",
         "state" : "processed"
       },
       {
@@ -182,7 +205,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-07-18T04:30:21Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-07-20T12:01:02Z",
+        "processed_at" : "2026-07-20T14:01:01Z",
         "state" : "processed"
       },
       {
@@ -190,7 +213,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-07-17T10:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-07-20T12:01:03Z",
+        "processed_at" : "2026-07-20T14:01:01Z",
         "state" : "processed"
       },
       {
@@ -198,30 +221,30 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-07-20T11:01:56Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-07-20T12:01:05Z",
+        "processed_at" : "2026-07-20T14:01:03Z",
         "state" : "processed"
       },
       {
         "article_count" : 19,
         "id" : "tldr-ai",
-        "latest_article_at" : "2026-07-17T00:00:00Z",
+        "latest_article_at" : "2026-07-20T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-07-20T12:01:02Z",
+        "processed_at" : "2026-07-20T14:01:01Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 11,
         "id" : "the-ai-report",
-        "latest_article_at" : "2026-07-20T11:01:00Z",
+        "latest_article_at" : "2026-07-17T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-07-20T12:01:06Z",
+        "processed_at" : "2026-07-20T14:01:05Z",
         "state" : "processed"
       },
       {
-        "article_count" : 7,
+        "article_count" : 8,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-07-20T12:01:05Z",
+        "processed_at" : "2026-07-20T14:01:04Z",
         "state" : "processed"
       }
     ],
