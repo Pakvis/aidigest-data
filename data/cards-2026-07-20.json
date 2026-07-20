@@ -36,6 +36,50 @@
       ]
     },
     {
+      "created_at" : "2026-07-20T15:58:51Z",
+      "id" : "2026-07-20-25a9029aacd2",
+      "importance" : "low",
+      "key_insights" : [
+        "Why it matters: This development is significant for the AI community, as it provides a more robust platform for model deployment and management.",
+        "What changed: The new version of Cosmos 3 Edge offers improved features and enhanced capabilities for developers.",
+        "What to watch: Developers and researchers interested in AI should closely monitor the release and updates to Cosmos 3 Edge."
+      ],
+      "sources" : [
+        {
+          "source_name" : "Hugging Face Blog",
+          "title" : "Introducing Cosmos 3 Edge",
+          "url" : "https:\/\/huggingface.co\/blog\/nvidia\/cosmos3edge"
+        }
+      ],
+      "summary" : "The event introduced a new version of the Cosmos 3 Edge, a tool for building and deploying AI models.",
+      "title" : "Introducing Cosmos 3 Edge",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "created_at" : "2026-07-20T11:01:00Z",
+      "id" : "2026-07-20-06396c782868",
+      "importance" : "low",
+      "key_insights" : [
+        "Why it matters: Netflix paid $587M for Ben Affleck’s AI startup.",
+        "What changed: Netflix paid $587M for Ben Affleck’s AI startup.",
+        "What to watch: For AI, look for concrete timing, affected users, product details, or independent confirmation."
+      ],
+      "sources" : [
+        {
+          "source_name" : "The AI Report",
+          "title" : "️ Current AI builds free global web",
+          "url" : "https:\/\/newsletter.theaireport.ai\/p\/k"
+        }
+      ],
+      "summary" : "For AI, look for concrete timing, affected users, product details, or independent confirmation.",
+      "title" : "Netflix paid $587M for Ben Affleck’s AI startup",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
       "created_at" : "2026-07-20T12:15:32Z",
       "id" : "2026-07-20-47f305725e4e",
       "importance" : "low",
@@ -81,50 +125,6 @@
       ]
     },
     {
-      "created_at" : "2026-07-17T15:57:54Z",
-      "id" : "2026-07-20-0361c396ebfa",
-      "importance" : "low",
-      "key_insights" : [
-        "Why it matters: This development is significant for the AI community as it provides tools for efficient model training and deployment, which are crucial for advancing AI applications.",
-        "What changed: The release of these tools allows for faster and more scalable model training, which can lead to improved performance and reduced computational costs.",
-        "What to watch: AI researchers and developers will closely monitor the implementation and adoption of these tools to understand their impact on the field."
-      ],
-      "sources" : [
-        {
-          "source_name" : "Hugging Face Blog",
-          "title" : "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-          "url" : "https:\/\/huggingface.co\/blog\/nvidia\/scale-diffusers-finetuning-nemo-automodel"
-        }
-      ],
-      "summary" : "This development is significant for the AI community as it provides tools for efficient model training and deployment, which are crucial for advancing AI applications.",
-      "title" : "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-      "topics" : [
-        "Image Models"
-      ]
-    },
-    {
-      "created_at" : "2026-07-17T14:07:18Z",
-      "id" : "2026-07-20-5919eb4f4905",
-      "importance" : "low",
-      "key_insights" : [
-        "Why it matters: This result highlights the growing capabilities of Chinese AI models in competitive coding environments.",
-        "What changed: The performance of Chinese models in coding competitions suggests a shift in the global AI landscape.",
-        "What to watch: Future developments in Chinese AI models and their integration into global tech markets."
-      ],
-      "sources" : [
-        {
-          "source_name" : "AI Breakfast",
-          "title" : "Open Chinese Model Beats Claude Fable 5 in Front End Coding",
-          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/open-chinese-model-beats-claude-fable-5-in-front-end-coding"
-        }
-      ],
-      "summary" : "This result highlights the growing capabilities of Chinese AI models in competitive coding environments.",
-      "title" : "Open Chinese Model Beats Claude Fable 5 in Front End Coding",
-      "topics" : [
-        "Claude"
-      ]
-    },
-    {
       "created_at" : "2026-07-18T14:00:00Z",
       "id" : "2026-07-20-5523989ad893",
       "importance" : "low",
@@ -149,23 +149,23 @@
   ],
   "count" : 6,
   "date" : "2026-07-20",
-  "generated_at" : "2026-07-20T14:01:00Z",
+  "generated_at" : "2026-07-20T16:01:00Z",
   "processing_report" : {
-    "generated_at" : "2026-07-20T14:01:05Z",
+    "generated_at" : "2026-07-20T16:01:05Z",
     "source_reports" : [
       {
-        "article_count" : 10,
+        "article_count" : 11,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-07-20T12:15:32Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-07-20T14:01:05Z",
+        "processed_at" : "2026-07-20T16:01:05Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-07-20T14:01:04Z",
+        "processed_at" : "2026-07-20T16:01:03Z",
         "state" : "processed"
       },
       {
@@ -173,15 +173,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-07-17T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-07-20T14:01:01Z",
+        "processed_at" : "2026-07-20T16:01:01Z",
         "state" : "processed"
       },
       {
-        "article_count" : 4,
+        "article_count" : 6,
         "id" : "aireport-nl",
         "latest_article_at" : "2026-07-16T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-07-20T14:01:03Z",
+        "processed_at" : "2026-07-20T16:01:03Z",
         "state" : "processed"
       },
       {
@@ -189,15 +189,15 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-07-16T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-07-20T14:01:00Z",
+        "processed_at" : "2026-07-20T16:01:00Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "huggingface-blog",
-        "latest_article_at" : "2026-07-17T15:57:54Z",
+        "latest_article_at" : "2026-07-20T15:58:51Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-07-20T14:01:01Z",
+        "processed_at" : "2026-07-20T16:01:00Z",
         "state" : "processed"
       },
       {
@@ -205,7 +205,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-07-18T04:30:21Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-07-20T14:01:01Z",
+        "processed_at" : "2026-07-20T16:01:01Z",
         "state" : "processed"
       },
       {
@@ -213,15 +213,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-07-17T10:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-07-20T14:01:01Z",
+        "processed_at" : "2026-07-20T16:01:01Z",
         "state" : "processed"
       },
       {
-        "article_count" : 6,
+        "article_count" : 7,
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-07-20T11:01:56Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-07-20T14:01:03Z",
+        "processed_at" : "2026-07-20T16:01:03Z",
         "state" : "processed"
       },
       {
@@ -229,22 +229,22 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-07-20T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-07-20T14:01:01Z",
+        "processed_at" : "2026-07-20T16:01:01Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 12,
         "id" : "the-ai-report",
-        "latest_article_at" : "2026-07-17T11:01:00Z",
+        "latest_article_at" : "2026-07-20T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-07-20T14:01:05Z",
+        "processed_at" : "2026-07-20T16:01:03Z",
         "state" : "processed"
       },
       {
-        "article_count" : 8,
+        "article_count" : 10,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-07-20T14:01:04Z",
+        "processed_at" : "2026-07-20T16:01:03Z",
         "state" : "processed"
       }
     ],
