@@ -36,6 +36,28 @@
       ]
     },
     {
+      "created_at" : "2026-07-20T10:00:00Z",
+      "id" : "2026-07-20-4d2aa3a7de10",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: The lessons from deploying long-running AI models are important for the safety and alignment of future AI systems.",
+        "What changed: OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+        "What to watch: For Safety, look for concrete timing, affected users, product details, or independent confirmation."
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Safety and alignment in an era of long-horizon models",
+          "url" : "https:\/\/openai.com\/index\/safety-alignment-long-horizon-models"
+        }
+      ],
+      "summary" : "The lessons from deploying long-running AI models are important for the safety and alignment of future AI systems.",
+      "title" : "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+      "topics" : [
+        "Safety"
+      ]
+    },
+    {
       "created_at" : "2026-07-20T15:58:51Z",
       "id" : "2026-07-20-25a9029aacd2",
       "importance" : "low",
@@ -147,25 +169,25 @@
       ]
     }
   ],
-  "count" : 6,
+  "count" : 7,
   "date" : "2026-07-20",
-  "generated_at" : "2026-07-20T16:01:00Z",
+  "generated_at" : "2026-07-20T18:01:00Z",
   "processing_report" : {
-    "generated_at" : "2026-07-20T16:01:05Z",
+    "generated_at" : "2026-07-20T18:01:04Z",
     "source_reports" : [
       {
         "article_count" : 11,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-07-20T12:15:32Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-07-20T16:01:05Z",
+        "processed_at" : "2026-07-20T18:01:04Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-07-20T16:01:03Z",
+        "processed_at" : "2026-07-20T18:01:03Z",
         "state" : "processed"
       },
       {
@@ -173,7 +195,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-07-17T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-07-20T16:01:01Z",
+        "processed_at" : "2026-07-20T18:01:01Z",
         "state" : "processed"
       },
       {
@@ -181,7 +203,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-07-16T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-07-20T16:01:03Z",
+        "processed_at" : "2026-07-20T18:01:02Z",
         "state" : "processed"
       },
       {
@@ -189,7 +211,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-07-16T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-07-20T16:01:00Z",
+        "processed_at" : "2026-07-20T18:01:00Z",
         "state" : "processed"
       },
       {
@@ -197,7 +219,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-07-20T15:58:51Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-07-20T16:01:00Z",
+        "processed_at" : "2026-07-20T18:01:00Z",
         "state" : "processed"
       },
       {
@@ -205,15 +227,15 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-07-18T04:30:21Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-07-20T16:01:01Z",
+        "processed_at" : "2026-07-20T18:01:01Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "openai-news",
-        "latest_article_at" : "2026-07-17T10:00:00Z",
+        "latest_article_at" : "2026-07-20T10:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-07-20T16:01:01Z",
+        "processed_at" : "2026-07-20T18:01:01Z",
         "state" : "processed"
       },
       {
@@ -221,7 +243,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-07-20T11:01:56Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-07-20T16:01:03Z",
+        "processed_at" : "2026-07-20T18:01:03Z",
         "state" : "processed"
       },
       {
@@ -229,7 +251,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-07-20T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-07-20T16:01:01Z",
+        "processed_at" : "2026-07-20T18:01:00Z",
         "state" : "processed"
       },
       {
@@ -237,14 +259,14 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-07-20T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-07-20T16:01:03Z",
+        "processed_at" : "2026-07-20T18:01:04Z",
         "state" : "processed"
       },
       {
         "article_count" : 10,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-07-20T16:01:03Z",
+        "processed_at" : "2026-07-20T18:01:02Z",
         "state" : "processed"
       }
     ],
