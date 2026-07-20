@@ -1,6 +1,50 @@
 {
   "cards" : [
     {
+      "created_at" : "2026-07-20T11:01:00Z",
+      "id" : "2026-07-20-06396c782868",
+      "importance" : "low",
+      "key_insights" : [
+        "Why it matters: Netflix paid $587M for Ben Affleck’s AI startup.",
+        "What changed: Netflix paid $587M for Ben Affleck’s AI startup.",
+        "What to watch: For AI, look for concrete timing, affected users, product details, or independent confirmation."
+      ],
+      "sources" : [
+        {
+          "source_name" : "The AI Report",
+          "title" : "️ Current AI builds free global web",
+          "url" : "https:\/\/newsletter.theaireport.ai\/p\/k"
+        }
+      ],
+      "summary" : "For AI, look for concrete timing, affected users, product details, or independent confirmation.",
+      "title" : "Netflix paid $587M for Ben Affleck’s AI startup",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "created_at" : "2026-07-20T11:01:56Z",
+      "id" : "2026-07-20-4de88fbeab02",
+      "importance" : "low",
+      "key_insights" : [
+        "Why it matters: China is closing the AI gap.",
+        "What changed: ALSO: How to protect your company’s data across browsers and AI tools.",
+        "What to watch: For Tooling, look for concrete timing, affected users, product details, or independent confirmation."
+      ],
+      "sources" : [
+        {
+          "source_name" : "Superhuman AI",
+          "title" : "China is closing the AI gap",
+          "url" : "https:\/\/www.superhuman.ai\/p\/china-is-closing-the-ai-gap"
+        }
+      ],
+      "summary" : "ALSO: How to protect your company’s data across browsers and AI tools.",
+      "title" : "China is closing the AI gap",
+      "topics" : [
+        "Tooling"
+      ]
+    },
+    {
       "created_at" : "2026-07-18T14:00:00Z",
       "id" : "2026-07-20-5523989ad893",
       "importance" : "low",
@@ -25,17 +69,17 @@
     {
       "consolidation" : {
         "latest_source_at" : "2026-07-18T04:30:21Z",
-        "message_count" : 3,
+        "message_count" : 2,
         "reason" : "Multiple sources reported the same story.",
-        "source_count" : 3
+        "source_count" : 2
       },
       "created_at" : "2026-07-18T04:30:21Z",
-      "id" : "2026-07-20-cfbf176709ba",
+      "id" : "2026-07-20-5919eb4f4905",
       "importance" : "high",
       "key_insights" : [
-        "Why it matters: Kimi K3 is the center of gravity today.",
-        "What changed: People continue to be impressed by yesterday’s Kimi K3 launch.",
-        "What to watch: For Moonshot AI, ChatGPT, Agents, look for concrete timing, affected users, product details, or independent confirmation."
+        "Why it matters: This achievement highlights the growing capabilities of Chinese AI models in competitive coding environments.",
+        "What changed: The Open Chinese Model has advanced its performance in front-end coding, challenging established models like Claude Fable 5.",
+        "What to watch: Future developments in Chinese AI models and their impact on global AI competitions will be closely monitored."
       ],
       "sources" : [
         {
@@ -44,22 +88,17 @@
           "url" : "https:\/\/www.latent.space\/p\/ainews-not-much-happened-today-830"
         },
         {
-          "source_name" : "Superhuman AI",
-          "title" : "Moonshot AI reveals a frontier-level model",
-          "url" : "https:\/\/www.superhuman.ai\/p\/moonshot-ai-reveals-a-frontier-level-model"
-        },
-        {
-          "source_name" : "The AI Report",
-          "title" : "️ China's Kimi K3 rivals US models",
-          "url" : "https:\/\/newsletter.theaireport.ai\/p\/china-s-kimi-k3-rivals-us-models"
+          "source_name" : "AI Breakfast",
+          "title" : "Open Chinese Model Beats Claude Fable 5 in Front End Coding",
+          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/open-chinese-model-beats-claude-fable-5-in-front-end-coding"
         }
       ],
-      "summary" : "People continue to be impressed by yesterday’s Kimi K3 launch.",
-      "title" : "Kimi K3 is the center of gravity today",
+      "summary" : "This achievement highlights the growing capabilities of Chinese AI models in competitive coding environments.",
+      "title" : "Open Chinese Model Beats Claude Fable 5 in Front End Coding",
       "topics" : [
-        "Moonshot AI",
-        "ChatGPT",
-        "Agents"
+        "Claude",
+        "Agents",
+        "Anthropic"
       ]
     },
     {
@@ -83,49 +122,27 @@
       "topics" : [
         "Image Models"
       ]
-    },
-    {
-      "created_at" : "2026-07-17T14:07:18Z",
-      "id" : "2026-07-20-5919eb4f4905",
-      "importance" : "low",
-      "key_insights" : [
-        "Why it matters: This result highlights the growing capabilities of Chinese AI models in competitive coding environments.",
-        "What changed: The performance of Chinese models in coding competitions suggests a shift in the global AI landscape.",
-        "What to watch: Future developments in Chinese AI models and their integration into global tech markets."
-      ],
-      "sources" : [
-        {
-          "source_name" : "AI Breakfast",
-          "title" : "Open Chinese Model Beats Claude Fable 5 in Front End Coding",
-          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/open-chinese-model-beats-claude-fable-5-in-front-end-coding"
-        }
-      ],
-      "summary" : "This result highlights the growing capabilities of Chinese AI models in competitive coding environments.",
-      "title" : "Open Chinese Model Beats Claude Fable 5 in Front End Coding",
-      "topics" : [
-        "Claude"
-      ]
     }
   ],
-  "count" : 4,
+  "count" : 5,
   "date" : "2026-07-20",
-  "generated_at" : "2026-07-20T10:00:49Z",
+  "generated_at" : "2026-07-20T12:01:02Z",
   "processing_report" : {
-    "generated_at" : "2026-07-20T10:00:54Z",
+    "generated_at" : "2026-07-20T12:01:07Z",
     "source_reports" : [
       {
         "article_count" : 11,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-07-17T14:07:18Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-07-20T10:00:54Z",
+        "processed_at" : "2026-07-20T12:01:07Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 7,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-07-20T10:00:52Z",
+        "processed_at" : "2026-07-20T12:01:06Z",
         "state" : "processed"
       },
       {
@@ -133,15 +150,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-07-17T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-07-20T10:00:50Z",
+        "processed_at" : "2026-07-20T12:01:02Z",
         "state" : "processed"
       },
       {
-        "article_count" : 6,
+        "article_count" : 4,
         "id" : "aireport-nl",
         "latest_article_at" : "2026-07-16T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-07-20T10:00:52Z",
+        "processed_at" : "2026-07-20T12:01:04Z",
         "state" : "processed"
       },
       {
@@ -149,7 +166,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-07-16T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-07-20T10:00:50Z",
+        "processed_at" : "2026-07-20T12:01:02Z",
         "state" : "processed"
       },
       {
@@ -157,7 +174,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-07-17T15:57:54Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-07-20T10:00:50Z",
+        "processed_at" : "2026-07-20T12:01:02Z",
         "state" : "processed"
       },
       {
@@ -165,7 +182,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-07-18T04:30:21Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-07-20T10:00:50Z",
+        "processed_at" : "2026-07-20T12:01:02Z",
         "state" : "processed"
       },
       {
@@ -173,15 +190,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-07-17T10:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-07-20T10:00:50Z",
+        "processed_at" : "2026-07-20T12:01:03Z",
         "state" : "processed"
       },
       {
-        "article_count" : 7,
+        "article_count" : 6,
         "id" : "superhuman-ai",
-        "latest_article_at" : "2026-07-18T14:00:00Z",
+        "latest_article_at" : "2026-07-20T11:01:56Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-07-20T10:00:53Z",
+        "processed_at" : "2026-07-20T12:01:05Z",
         "state" : "processed"
       },
       {
@@ -189,22 +206,22 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-07-17T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-07-20T10:00:50Z",
-        "state" : "processed"
-      },
-      {
-        "article_count" : 12,
-        "id" : "the-ai-report",
-        "latest_article_at" : "2026-07-17T11:01:00Z",
-        "name" : "The AI Report",
-        "processed_at" : "2026-07-20T10:00:54Z",
+        "processed_at" : "2026-07-20T12:01:02Z",
         "state" : "processed"
       },
       {
         "article_count" : 10,
+        "id" : "the-ai-report",
+        "latest_article_at" : "2026-07-20T11:01:00Z",
+        "name" : "The AI Report",
+        "processed_at" : "2026-07-20T12:01:06Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 7,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-07-20T10:00:52Z",
+        "processed_at" : "2026-07-20T12:01:05Z",
         "state" : "processed"
       }
     ],
