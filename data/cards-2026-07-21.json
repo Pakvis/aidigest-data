@@ -85,6 +85,50 @@
       ]
     },
     {
+      "created_at" : "2026-07-21T19:34:06Z",
+      "id" : "2026-07-21-ac509c34086a",
+      "importance" : "low",
+      "key_insights" : [
+        "Why it matters: The promotion of Bo Wang and Ci Chu to Chief AI Scientist and Chief Discovery Officer, respectively, highlights Xaira's strategic focus on causal models and drug discovery.",
+        "What changed: Bet on information If test loss flatlines after 1.5B parameters while training loss continues to drop as you scale, that tells you that your model is limited by the amount of information in your data.",
+        "What to watch: For AI, look for concrete timing, affected users, product details, or independent confirmation."
+      ],
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Causal Models Need Causal Data - Xaira’s X-Cell model for Drug Discovery (Bo Wang & Ci Chu, Chief Discovery Officer & Chief AI Scientist)",
+          "url" : "https:\/\/www.latent.space\/p\/xaira"
+        }
+      ],
+      "summary" : "Bet on information If test loss flatlines after 1.5B parameters while training loss continues to drop as you scale, that tells you that your model is limited by the amount of information in your data.",
+      "title" : "Bo Wang and Ci Chu are promoted to Chief AI Scientist and Chief Discovery Officer, respectively.",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "created_at" : "2026-07-21T20:00:27Z",
+      "id" : "2026-07-21-7935d9075d6d",
+      "importance" : "low",
+      "key_insights" : [
+        "Why it matters: This event will be important for understanding the current state of simulation for physical AI and its potential future developments.",
+        "What changed: The State of Simulation for Physical AI: An Overview.",
+        "What to watch: Attendees should be prepared to learn about the latest advancements in simulation for physical AI and its potential applications."
+      ],
+      "sources" : [
+        {
+          "source_name" : "Hugging Face Blog",
+          "title" : "The State of Simulation for Physical AI: An Overview",
+          "url" : "https:\/\/huggingface.co\/blog\/nvidia\/state-of-simulation-for-physical-ai"
+        }
+      ],
+      "summary" : "Attendees should be prepared to learn about the latest advancements in simulation for physical AI and its potential applications.",
+      "title" : "The State of Simulation for Physical AI: An Overview",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
       "created_at" : "2026-07-21T00:00:00Z",
       "id" : "2026-07-21-bb7a2621abad",
       "importance" : "low",
@@ -104,28 +148,6 @@
       "title" : "Grabette: an open system to record robot-manipulation data",
       "topics" : [
         "Robotics"
-      ]
-    },
-    {
-      "created_at" : "2026-07-20T15:58:51Z",
-      "id" : "2026-07-21-aa1d42e85f51",
-      "importance" : "low",
-      "key_insights" : [
-        "Why it matters: This development is significant for the AI community, as it provides a more robust platform for model deployment and management.",
-        "What changed: The new version of Cosmos 3 Edge offers improved features and enhanced capabilities for developers.",
-        "What to watch: Developers and researchers interested in AI should closely monitor the release and updates to Cosmos 3 Edge."
-      ],
-      "sources" : [
-        {
-          "source_name" : "Hugging Face Blog",
-          "title" : "Introducing Cosmos 3 Edge",
-          "url" : "https:\/\/huggingface.co\/blog\/nvidia\/cosmos3edge"
-        }
-      ],
-      "summary" : "The event introduced a new version of the Cosmos 3 Edge, a tool for building and deploying AI models.",
-      "title" : "Introducing Cosmos 3 Edge",
-      "topics" : [
-        "AI"
       ]
     },
     {
@@ -171,29 +193,6 @@
       "title" : "Netflix paid $587M for Ben Affleck’s AI startup",
       "topics" : [
         "AI"
-      ]
-    },
-    {
-      "created_at" : "2026-07-21T11:01:54Z",
-      "id" : "2026-07-21-90ff38e0a33a",
-      "importance" : "low",
-      "key_insights" : [
-        "Why it matters: This achievement highlights the growing capabilities of AI in solving complex problems.",
-        "What changed: The solution could have significant implications for fields like mathematics and computer science.",
-        "What to watch: Future developments in AI and its applications in solving complex problems."
-      ],
-      "sources" : [
-        {
-          "source_name" : "Superhuman AI",
-          "title" : "Claude cracks 87-year-old math problem",
-          "url" : "https:\/\/www.superhuman.ai\/p\/claude-cracks-87-year-old-math-problem"
-        }
-      ],
-      "summary" : "Claude, an AI chatbot, solved a 1936 math problem that had remained unsolved for 87 years.",
-      "title" : "Claude cracks 87-year-old math problem",
-      "topics" : [
-        "Claude",
-        "ChatGPT"
       ]
     },
     {
@@ -243,23 +242,23 @@
   ],
   "count" : 10,
   "date" : "2026-07-21",
-  "generated_at" : "2026-07-21T18:01:00Z",
+  "generated_at" : "2026-07-21T20:01:00Z",
   "processing_report" : {
-    "generated_at" : "2026-07-21T18:01:06Z",
+    "generated_at" : "2026-07-21T20:01:08Z",
     "source_reports" : [
       {
-        "article_count" : 8,
+        "article_count" : 11,
         "id" : "ai-breakfast",
-        "latest_article_at" : "2026-07-10T12:11:54Z",
+        "latest_article_at" : "2026-07-17T14:07:18Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-07-21T18:01:06Z",
+        "processed_at" : "2026-07-21T20:01:05Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 10,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-07-21T18:01:02Z",
+        "processed_at" : "2026-07-21T20:01:08Z",
         "state" : "processed"
       },
       {
@@ -267,7 +266,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-07-20T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-07-21T18:01:01Z",
+        "processed_at" : "2026-07-21T20:01:01Z",
         "state" : "processed"
       },
       {
@@ -275,7 +274,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-07-21T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-07-21T18:01:03Z",
+        "processed_at" : "2026-07-21T20:01:03Z",
         "state" : "processed"
       },
       {
@@ -283,23 +282,23 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-07-16T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-07-21T18:01:00Z",
+        "processed_at" : "2026-07-21T20:01:00Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "huggingface-blog",
-        "latest_article_at" : "2026-07-21T00:00:00Z",
+        "latest_article_at" : "2026-07-21T20:00:27Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-07-21T18:01:00Z",
+        "processed_at" : "2026-07-21T20:01:00Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "latent-space",
-        "latest_article_at" : "2026-07-21T03:58:00Z",
+        "latest_article_at" : "2026-07-21T19:34:06Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-07-21T18:01:01Z",
+        "processed_at" : "2026-07-21T20:01:01Z",
         "state" : "processed"
       },
       {
@@ -307,15 +306,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-07-21T17:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-07-21T18:01:01Z",
+        "processed_at" : "2026-07-21T20:01:01Z",
         "state" : "processed"
       },
       {
-        "article_count" : 6,
+        "article_count" : 5,
         "id" : "superhuman-ai",
-        "latest_article_at" : "2026-07-21T11:01:54Z",
+        "latest_article_at" : "2026-07-20T11:01:56Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-07-21T18:01:04Z",
+        "processed_at" : "2026-07-21T20:01:04Z",
         "state" : "processed"
       },
       {
@@ -323,22 +322,22 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-07-21T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-07-21T18:01:00Z",
+        "processed_at" : "2026-07-21T20:01:00Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 11,
+        "id" : "the-ai-report",
+        "latest_article_at" : "2026-07-21T11:01:00Z",
+        "name" : "The AI Report",
+        "processed_at" : "2026-07-21T20:01:04Z",
         "state" : "processed"
       },
       {
         "article_count" : 8,
-        "id" : "the-ai-report",
-        "latest_article_at" : "2026-07-21T11:01:00Z",
-        "name" : "The AI Report",
-        "processed_at" : "2026-07-21T18:01:05Z",
-        "state" : "processed"
-      },
-      {
-        "article_count" : 10,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-07-21T18:01:02Z",
+        "processed_at" : "2026-07-21T20:01:03Z",
         "state" : "processed"
       }
     ],
