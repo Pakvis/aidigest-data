@@ -1,6 +1,224 @@
 {
   "cards" : [
     {
+      "date" : "2026-07-22",
+      "id" : "2026-07-22-cfab6ea15230",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "AI News (Swyx)",
+          "title" : "not much happened today",
+          "url" : "https:\/\/news.smol.ai\/issues\/26-07-21-not-much\/"
+        },
+        {
+          "source_name" : "Latent Space",
+          "title" : "not much happened today",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-not-much-happened-today-173"
+        },
+        {
+          "source_name" : "TLDR AI",
+          "title" : "Ramp Router ⚡, Kimi Work 💼 , AMD Helios 🧱",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-07-21"
+        }
+      ],
+      "summary" : "AINews' website lets you search all past issues.",
+      "title" : "Qwen 3.8 ✨, Kimi Code CLI 👨‍💻, Netflix’s LLM stack 🤖",
+      "topics" : [
+        "Coding",
+        "LLMs",
+        "Agents"
+      ]
+    },
+    {
+      "date" : "2026-07-22",
+      "id" : "2026-07-22-c4987b971f89",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Introducing the ChatGPT for small business program",
+          "url" : "https:\/\/openai.com\/index\/introducing-chatgpt-small-business-program"
+        }
+      ],
+      "summary" : "OpenAI's initiative aims to democratize AI access and empower small businesses to leverage AI technologies for growth.",
+      "title" : "OpenAI launches the ChatGPT for Small Businesses program",
+      "topics" : [
+        "ChatGPT"
+      ]
+    },
+    {
+      "date" : "2026-07-22",
+      "id" : "2026-07-22-efe0b286e92d",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "OpenAI and Hugging Face partner to address security incident during model evaluation",
+          "url" : "https:\/\/openai.com\/index\/hugging-face-model-evaluation-security-incident"
+        }
+      ],
+      "summary" : "The partnership underscores the importance of collaboration between major tech companies to enhance security measures in AI development.",
+      "title" : "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "topics" : [
+        "Benchmarks"
+      ]
+    },
+    {
+      "date" : "2026-07-22",
+      "id" : "2026-07-22-91a32d4eb0b8",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+          "url" : "https:\/\/openai.com\/index\/david-velez-robin-vince-join-openai-boards"
+        }
+      ],
+      "summary" : "The addition of Vélez and Vince to the boards of the OpenAI Foundation and OpenAI Group PBC is significant as it underscores the foundation's commitment to global leadership in finance, technology, and governance.",
+      "title" : "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "date" : "2026-07-22",
+      "id" : "2026-07-22-b8d8a8c2f5e8",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Safety and alignment in an era of long-horizon models",
+          "url" : "https:\/\/openai.com\/index\/safety-alignment-long-horizon-models"
+        }
+      ],
+      "summary" : "The lessons from deploying long-running AI models are important for the safety and alignment of future AI systems.",
+      "title" : "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+      "topics" : [
+        "Safety"
+      ]
+    },
+    {
+      "date" : "2026-07-22",
+      "id" : "2026-07-22-f402fed18414",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "AI Cybersecurity becomes top of mind",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-ai-cybersecurity-becomes-top"
+        }
+      ],
+      "summary" : "We don’t think any individual headline deserves the title story, but collectively the rise in interest and modelbuilding forms a big enough trend that is worth calling out.",
+      "title" : "AI Cybersecurity becomes top of mind",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "date" : "2026-07-22",
+      "id" : "2026-07-22-7b25d4f2ea29",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Causal Models Need Causal Data - Xaira’s X-Cell model for Drug Discovery (Bo Wang & Ci Chu, Chief Discovery Officer & Chief AI Scientist)",
+          "url" : "https:\/\/www.latent.space\/p\/xaira"
+        }
+      ],
+      "summary" : "Bet on information If test loss flatlines after 1.5B parameters while training loss continues to drop as you scale, that tells you that your model is limited by the amount of information in your data.",
+      "title" : "Bo Wang and Ci Chu are promoted to Chief AI Scientist and Chief Discovery Officer, respectively.",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "date" : "2026-07-22",
+      "id" : "2026-07-22-d4a23db86a99",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "Hugging Face Blog",
+          "title" : "The State of Simulation for Physical AI: An Overview",
+          "url" : "https:\/\/huggingface.co\/blog\/nvidia\/state-of-simulation-for-physical-ai"
+        }
+      ],
+      "summary" : "Attendees should be prepared to learn about the latest advancements in simulation for physical AI and its potential applications.",
+      "title" : "The State of Simulation for Physical AI: An Overview",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "date" : "2026-07-22",
+      "id" : "2026-07-22-2a74eb0a9ae3",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "Hugging Face Blog",
+          "title" : "Grabette: an open system to record robot-manipulation data",
+          "url" : "https:\/\/huggingface.co\/blog\/grabette"
+        }
+      ],
+      "summary" : "This system will help researchers and developers improve the accuracy and reliability of robot-manipulation experiments.",
+      "title" : "Grabette: an open system to record robot-manipulation data",
+      "topics" : [
+        "Robotics"
+      ]
+    },
+    {
+      "date" : "2026-07-22",
+      "id" : "2026-07-22-b14dfd93faa4",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "The AI Report",
+          "title" : "️ Meta rents Anthropic $10B power",
+          "url" : "https:\/\/newsletter.theaireport.ai\/p\/meta-rents-anthropic-10b-power"
+        }
+      ],
+      "summary" : "Meta has signed a $10 billion contract with Anthropic, a leading AI safety company, to develop and deploy advanced AI technologies.",
+      "title" : "Meta rents Anthropic $10B power",
+      "topics" : [
+        "Anthropic",
+        "Safety"
+      ]
+    },
+    {
+      "date" : "2026-07-22",
+      "id" : "2026-07-22-b99bfaa127f4",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "The AI Report",
+          "title" : "️ Current AI builds free global web",
+          "url" : "https:\/\/newsletter.theaireport.ai\/p\/k"
+        }
+      ],
+      "summary" : "For AI, look for concrete timing, affected users, product details, or independent confirmation.",
+      "title" : "Netflix paid $587M for Ben Affleck’s AI startup",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "date" : "2026-07-22",
+      "id" : "2026-07-22-010d6de537be",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "AI Breakfast",
+          "title" : "Anthropic limits premium Claude access while eyeing Meta compute deal",
+          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/anthropic-limits-premium-claude-access-while-eyeing-meta-compute-deal"
+        }
+      ],
+      "summary" : "Anthropic has announced a temporary reduction in the availability of its premium Claude model, which is a significant step in the company's strategic shift towards securing a major deal with Meta.",
+      "title" : "Anthropic limits premium Claude access while eyeing Meta compute deal",
+      "topics" : [
+        "Anthropic",
+        "Claude"
+      ]
+    },
+    {
       "date" : "2026-07-21",
       "id" : "2026-07-21-0105f081b3f9",
       "importance" : "high",
