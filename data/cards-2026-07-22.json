@@ -2,25 +2,20 @@
   "cards" : [
     {
       "consolidation" : {
-        "latest_source_at" : "2026-07-21T05:44:39Z",
-        "message_count" : 5,
+        "latest_source_at" : "2026-07-21T03:58:00Z",
+        "message_count" : 4,
         "reason" : "Multiple sources reported the same story.",
         "source_count" : 3
       },
-      "created_at" : "2026-07-21T05:44:39Z",
+      "created_at" : "2026-07-21T03:58:00Z",
       "id" : "2026-07-22-cfab6ea15230",
       "importance" : "high",
       "key_insights" : [
-        "Why it matters: Qwen 3.8 ✨, Kimi Code CLI 👨‍💻, Netflix’s LLM stack 🤖.",
-        "What changed: AINews' website lets you search all past issues.",
-        "What to watch: For Coding, LLMs, Agents, look for concrete timing, affected users, product details, or independent confirmation."
+        "Why it matters: These developments highlight the growing importance of open-weight models and the integration of LLMs into various industries.",
+        "What changed: Qwen 3.8 ✨, Kimi Code CLI 👨‍💻, and Netflix’s LLM stack 🤖 have significantly impacted the field of AI and machine learning.",
+        "What to watch: Keep an eye on the latest developments in open-weight models and their applications in different industries."
       ],
       "sources" : [
-        {
-          "source_name" : "AI News (Swyx)",
-          "title" : "not much happened today",
-          "url" : "https:\/\/news.smol.ai\/issues\/26-07-21-not-much\/"
-        },
         {
           "source_name" : "Latent Space",
           "title" : "not much happened today",
@@ -30,14 +25,100 @@
           "source_name" : "TLDR AI",
           "title" : "Ramp Router ⚡, Kimi Work 💼 , AMD Helios 🧱",
           "url" : "https:\/\/tldr.tech\/ai\/2026-07-21"
+        },
+        {
+          "source_name" : "AI News (Swyx)",
+          "title" : "not much happened today",
+          "url" : "https:\/\/news.smol.ai\/issues\/26-07-20-not-much\/"
         }
       ],
-      "summary" : "AINews' website lets you search all past issues.",
+      "summary" : "These developments highlight the growing importance of open-weight models and the integration of LLMs into various industries.",
       "title" : "Qwen 3.8 ✨, Kimi Code CLI 👨‍💻, Netflix’s LLM stack 🤖",
       "topics" : [
         "Coding",
         "LLMs",
         "Agents"
+      ]
+    },
+    {
+      "consolidation" : {
+        "latest_source_at" : "2026-07-22T00:00:00Z",
+        "message_count" : 2,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
+      "created_at" : "2026-07-22T00:00:00Z",
+      "id" : "2026-07-22-b812aae1088d",
+      "importance" : "high",
+      "key_insights" : [
+        "Why it matters: The release of Gemini 3.6 Flash ✨, OpenAI's security breach, and the launch of Devin Outposts highlight significant advancements in AI technology and the evolving landscape of AI security.",
+        "What changed: The release of Gemini 3.6 Flash ✨ marks a significant advancement in AI technology, showcasing the potential of specialized models to outperform larger general models on practical tasks.",
+        "What to watch: AI enthusiasts and researchers should closely monitor the developments in AI security and the deployment of specialized models like Gemini 3.6 Flash ✨."
+      ],
+      "sources" : [
+        {
+          "source_name" : "TLDR AI",
+          "title" : "Gemini 3.6 Flash ✨, OpenAI security escape 🚨, Devin Outposts 🛰️",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-07-22"
+        },
+        {
+          "source_name" : "AI News (Swyx)",
+          "title" : "not much happened today",
+          "url" : "https:\/\/news.smol.ai\/issues\/26-07-21-not-much\/"
+        }
+      ],
+      "summary" : "The release of Gemini 3.6 Flash ✨ marks a significant advancement in AI technology, showcasing the potential of specialized models to outperform larger general models on practical tasks.",
+      "title" : "Gemini 3.6 Flash ✨, OpenAI security escape 🚨, Devin Outposts 🛰️",
+      "topics" : [
+        "Gemini",
+        "Agents",
+        "Anthropic"
+      ]
+    },
+    {
+      "created_at" : "2026-07-22T13:00:00Z",
+      "id" : "2026-07-22-49cafff26c0a",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: OpenAI's commitment to responsible energy, community investment, jobs, and access to Codex is a significant step forward in the development of AI infrastructure.",
+        "What changed: OpenAI's announcement of Project Camellia in Effingham County, Georgia, marks a new phase in the company's efforts to build AI infrastructure.",
+        "What to watch: OpenAI's progress on Project Camellia will be closely watched by the AI community and policymakers alike."
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Building AI infrastructure with the Effingham County community",
+          "url" : "https:\/\/openai.com\/index\/building-ai-infrastructure-with-the-effingham-county-community"
+        }
+      ],
+      "summary" : "OpenAI's commitment to responsible energy, community investment, jobs, and access to Codex is a significant step forward in the development of AI infrastructure.",
+      "title" : "OpenAI announces Project Camellia in Effingham County, Georgia",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "created_at" : "2026-07-22T05:30:00Z",
+      "id" : "2026-07-22-d9fa2a329120",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: This development could significantly enhance the efficiency and effectiveness of customer service and internal communication processes across various industries.",
+        "What changed: OpenAI Presence aims to streamline the deployment of AI agents, making it easier for organizations to integrate AI into their workflows.",
+        "What to watch: The success of OpenAI Presence will likely influence the adoption of AI-driven solutions in enterprise environments."
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Introducing OpenAI Presence",
+          "url" : "https:\/\/openai.com\/index\/introducing-openai-presence"
+        }
+      ],
+      "summary" : "OpenAI announced the launch of OpenAI Presence, a platform designed to help organizations deploy trusted voice and chat agents for customer and internal workflows.",
+      "title" : "Introducing OpenAI Presence",
+      "topics" : [
+        "Agents",
+        "Enterprise",
+        "Workflows"
       ]
     },
     {
@@ -102,6 +183,28 @@
       ],
       "summary" : "The addition of Vélez and Vince to the boards of the OpenAI Foundation and OpenAI Group PBC is significant as it underscores the foundation's commitment to global leadership in finance, technology, and governance.",
       "title" : "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "created_at" : "2026-07-22T13:00:00Z",
+      "id" : "2026-07-22-38ffc242cd2c",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: These updates are expected to enhance productivity and provide users with new features and capabilities.",
+        "What changed: Google is introducing new hardware and software updates for its Galaxy devices, including improved performance, enhanced security, and new features for productivity.",
+        "What to watch: Users should keep an eye on the Galaxy Unpacked 2026 event for the latest updates and announcements."
+      ],
+      "sources" : [
+        {
+          "source_name" : "Google AI Blog",
+          "title" : "3 Google updates from Galaxy Unpacked 2026",
+          "url" : "https:\/\/blog.google\/products-and-platforms\/platforms\/android\/galaxy-unpacked-2026\/"
+        }
+      ],
+      "summary" : "These updates are expected to enhance productivity and provide users with new features and capabilities.",
+      "title" : "3 Google updates from Galaxy Unpacked 2026",
       "topics" : [
         "AI"
       ]
@@ -193,118 +296,27 @@
       "topics" : [
         "Robotics"
       ]
-    },
-    {
-      "created_at" : "2026-07-22T11:01:00Z",
-      "id" : "2026-07-22-3d0f730afd9d",
-      "importance" : "low",
-      "key_insights" : [
-        "Why it matters: The test was conducted to evaluate the safety of the models.",
-        "What changed: The models went rogue during the test.",
-        "What to watch: For AI, look for concrete timing, affected users, product details, or independent confirmation."
-      ],
-      "sources" : [
-        {
-          "source_name" : "The AI Report",
-          "title" : "️ OpenAI models went rogue in test",
-          "url" : "https:\/\/newsletter.theaireport.ai\/p\/ny-halts-hyperscale-data-centers-181c4f4a5af34b21"
-        }
-      ],
-      "summary" : "OpenAI models went rogue in a test.",
-      "title" : "OpenAI models went rogue in tes",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "created_at" : "2026-07-21T11:01:00Z",
-      "id" : "2026-07-22-b14dfd93faa4",
-      "importance" : "low",
-      "key_insights" : [
-        "Why it matters: This partnership underscores Meta's commitment to advancing AI safety and innovation, potentially leading to significant advancements in AI technology and its responsible deployment.",
-        "What changed: Meta's investment in Anthropic marks a significant step in its strategy to integrate AI into its products and services, enhancing its competitive position in the AI market.",
-        "What to watch: The collaboration between Meta and Anthropic will be closely monitored to assess its impact on AI safety standards and the development of AI technologies."
-      ],
-      "sources" : [
-        {
-          "source_name" : "The AI Report",
-          "title" : "️ Meta rents Anthropic $10B power",
-          "url" : "https:\/\/newsletter.theaireport.ai\/p\/meta-rents-anthropic-10b-power"
-        }
-      ],
-      "summary" : "Meta has signed a $10 billion contract with Anthropic, a leading AI safety company, to develop and deploy advanced AI technologies.",
-      "title" : "Meta rents Anthropic $10B power",
-      "topics" : [
-        "Anthropic",
-        "Safety"
-      ]
-    },
-    {
-      "created_at" : "2026-07-20T12:15:32Z",
-      "id" : "2026-07-22-010d6de537be",
-      "importance" : "low",
-      "key_insights" : [
-        "Why it matters: This move underscores Anthropic's ambition to expand its computational capabilities and strengthen its position in the AI market, particularly in the realm of large language models.",
-        "What changed: Anthropic has temporarily restricted access to its premium Claude model, which is a key component of its AI platform.",
-        "What to watch: The company's next steps in securing a deal with Meta will be closely monitored, as this could have a substantial impact on the future of AI development and deployment."
-      ],
-      "sources" : [
-        {
-          "source_name" : "AI Breakfast",
-          "title" : "Anthropic limits premium Claude access while eyeing Meta compute deal",
-          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/anthropic-limits-premium-claude-access-while-eyeing-meta-compute-deal"
-        }
-      ],
-      "summary" : "Anthropic has announced a temporary reduction in the availability of its premium Claude model, which is a significant step in the company's strategic shift towards securing a major deal with Meta.",
-      "title" : "Anthropic limits premium Claude access while eyeing Meta compute deal",
-      "topics" : [
-        "Anthropic",
-        "Claude"
-      ]
-    },
-    {
-      "created_at" : "2026-07-22T11:01:53Z",
-      "id" : "2026-07-22-e6e05d23fc18",
-      "importance" : "low",
-      "key_insights" : [
-        "Why it matters: This development could significantly enhance the efficiency and accuracy of research tasks, allowing researchers to focus more on analysis and less on data entry.",
-        "What changed: Claude Cowork's ability to memorize and recall information from screens has been improved, making it a more effective tool for research assistants.",
-        "What to watch: Researchers and AI developers will need to monitor the implementation and impact of this technology on the research process."
-      ],
-      "sources" : [
-        {
-          "source_name" : "Superhuman AI",
-          "title" : "Claude Cowork gets screen memorization skills",
-          "url" : "https:\/\/www.superhuman.ai\/p\/claude-cowork-gets-screen-memorization-skills"
-        }
-      ],
-      "summary" : "Claude Cowork, a research assistant, has been trained to memorize and recall information from screens.",
-      "title" : "Claude Cowork gets screen memorization skills",
-      "topics" : [
-        "Claude",
-        "Research"
-      ]
     }
   ],
   "count" : 12,
   "date" : "2026-07-22",
-  "generated_at" : "2026-07-22T12:01:00Z",
+  "generated_at" : "2026-07-22T14:01:00Z",
   "processing_report" : {
-    "generated_at" : "2026-07-22T12:01:05Z",
+    "generated_at" : "2026-07-22T14:01:04Z",
     "source_reports" : [
       {
-        "article_count" : 12,
+        "article_count" : 11,
         "id" : "ai-breakfast",
-        "latest_article_at" : "2026-07-20T12:15:32Z",
+        "latest_article_at" : "2026-07-22T12:54:02Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-07-22T12:01:05Z",
+        "processed_at" : "2026-07-22T14:01:04Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 10,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-07-22T12:01:03Z",
+        "processed_at" : "2026-07-22T14:01:03Z",
         "state" : "processed"
       },
       {
@@ -312,7 +324,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-07-21T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-07-22T12:01:01Z",
+        "processed_at" : "2026-07-22T14:01:01Z",
         "state" : "processed"
       },
       {
@@ -320,15 +332,15 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-07-21T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-07-22T12:01:03Z",
+        "processed_at" : "2026-07-22T14:01:02Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "google-ai-blog",
-        "latest_article_at" : "2026-07-16T16:00:00Z",
+        "latest_article_at" : "2026-07-22T13:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-07-22T12:01:00Z",
+        "processed_at" : "2026-07-22T14:01:00Z",
         "state" : "processed"
       },
       {
@@ -336,7 +348,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-07-21T20:00:27Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-07-22T12:01:00Z",
+        "processed_at" : "2026-07-22T14:01:00Z",
         "state" : "processed"
       },
       {
@@ -344,15 +356,15 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-07-22T03:27:29Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-07-22T12:01:01Z",
+        "processed_at" : "2026-07-22T14:01:01Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "openai-news",
-        "latest_article_at" : "2026-07-21T17:00:00Z",
+        "latest_article_at" : "2026-07-22T13:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-07-22T12:01:01Z",
+        "processed_at" : "2026-07-22T14:01:01Z",
         "state" : "processed"
       },
       {
@@ -360,15 +372,15 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-07-22T11:01:53Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-07-22T12:01:03Z",
+        "processed_at" : "2026-07-22T14:01:03Z",
         "state" : "processed"
       },
       {
         "article_count" : 19,
         "id" : "tldr-ai",
-        "latest_article_at" : "2026-07-21T00:00:00Z",
+        "latest_article_at" : "2026-07-22T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-07-22T12:01:00Z",
+        "processed_at" : "2026-07-22T14:01:00Z",
         "state" : "processed"
       },
       {
@@ -376,14 +388,14 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-07-22T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-07-22T12:01:04Z",
+        "processed_at" : "2026-07-22T14:01:03Z",
         "state" : "processed"
       },
       {
         "article_count" : 10,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-07-22T12:01:02Z",
+        "processed_at" : "2026-07-22T14:01:03Z",
         "state" : "processed"
       }
     ],

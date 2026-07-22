@@ -6,11 +6,6 @@
       "importance" : "high",
       "sources" : [
         {
-          "source_name" : "AI News (Swyx)",
-          "title" : "not much happened today",
-          "url" : "https:\/\/news.smol.ai\/issues\/26-07-21-not-much\/"
-        },
-        {
           "source_name" : "Latent Space",
           "title" : "not much happened today",
           "url" : "https:\/\/www.latent.space\/p\/ainews-not-much-happened-today-173"
@@ -19,14 +14,79 @@
           "source_name" : "TLDR AI",
           "title" : "Ramp Router ⚡, Kimi Work 💼 , AMD Helios 🧱",
           "url" : "https:\/\/tldr.tech\/ai\/2026-07-21"
+        },
+        {
+          "source_name" : "AI News (Swyx)",
+          "title" : "not much happened today",
+          "url" : "https:\/\/news.smol.ai\/issues\/26-07-20-not-much\/"
         }
       ],
-      "summary" : "AINews' website lets you search all past issues.",
+      "summary" : "These developments highlight the growing importance of open-weight models and the integration of LLMs into various industries.",
       "title" : "Qwen 3.8 ✨, Kimi Code CLI 👨‍💻, Netflix’s LLM stack 🤖",
       "topics" : [
         "Coding",
         "LLMs",
         "Agents"
+      ]
+    },
+    {
+      "date" : "2026-07-22",
+      "id" : "2026-07-22-b812aae1088d",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "TLDR AI",
+          "title" : "Gemini 3.6 Flash ✨, OpenAI security escape 🚨, Devin Outposts 🛰️",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-07-22"
+        },
+        {
+          "source_name" : "AI News (Swyx)",
+          "title" : "not much happened today",
+          "url" : "https:\/\/news.smol.ai\/issues\/26-07-21-not-much\/"
+        }
+      ],
+      "summary" : "The release of Gemini 3.6 Flash ✨ marks a significant advancement in AI technology, showcasing the potential of specialized models to outperform larger general models on practical tasks.",
+      "title" : "Gemini 3.6 Flash ✨, OpenAI security escape 🚨, Devin Outposts 🛰️",
+      "topics" : [
+        "Gemini",
+        "Agents",
+        "Anthropic"
+      ]
+    },
+    {
+      "date" : "2026-07-22",
+      "id" : "2026-07-22-49cafff26c0a",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Building AI infrastructure with the Effingham County community",
+          "url" : "https:\/\/openai.com\/index\/building-ai-infrastructure-with-the-effingham-county-community"
+        }
+      ],
+      "summary" : "OpenAI's commitment to responsible energy, community investment, jobs, and access to Codex is a significant step forward in the development of AI infrastructure.",
+      "title" : "OpenAI announces Project Camellia in Effingham County, Georgia",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "date" : "2026-07-22",
+      "id" : "2026-07-22-d9fa2a329120",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Introducing OpenAI Presence",
+          "url" : "https:\/\/openai.com\/index\/introducing-openai-presence"
+        }
+      ],
+      "summary" : "OpenAI announced the launch of OpenAI Presence, a platform designed to help organizations deploy trusted voice and chat agents for customer and internal workflows.",
+      "title" : "Introducing OpenAI Presence",
+      "topics" : [
+        "Agents",
+        "Enterprise",
+        "Workflows"
       ]
     },
     {
@@ -76,6 +136,23 @@
       ],
       "summary" : "The addition of Vélez and Vince to the boards of the OpenAI Foundation and OpenAI Group PBC is significant as it underscores the foundation's commitment to global leadership in finance, technology, and governance.",
       "title" : "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "date" : "2026-07-22",
+      "id" : "2026-07-22-38ffc242cd2c",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "Google AI Blog",
+          "title" : "3 Google updates from Galaxy Unpacked 2026",
+          "url" : "https:\/\/blog.google\/products-and-platforms\/platforms\/android\/galaxy-unpacked-2026\/"
+        }
+      ],
+      "summary" : "These updates are expected to enhance productivity and provide users with new features and capabilities.",
+      "title" : "3 Google updates from Galaxy Unpacked 2026",
       "topics" : [
         "AI"
       ]
@@ -146,77 +223,6 @@
       "title" : "Grabette: an open system to record robot-manipulation data",
       "topics" : [
         "Robotics"
-      ]
-    },
-    {
-      "date" : "2026-07-22",
-      "id" : "2026-07-22-3d0f730afd9d",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "The AI Report",
-          "title" : "️ OpenAI models went rogue in test",
-          "url" : "https:\/\/newsletter.theaireport.ai\/p\/ny-halts-hyperscale-data-centers-181c4f4a5af34b21"
-        }
-      ],
-      "summary" : "OpenAI models went rogue in a test.",
-      "title" : "OpenAI models went rogue in tes",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "date" : "2026-07-22",
-      "id" : "2026-07-22-b14dfd93faa4",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "The AI Report",
-          "title" : "️ Meta rents Anthropic $10B power",
-          "url" : "https:\/\/newsletter.theaireport.ai\/p\/meta-rents-anthropic-10b-power"
-        }
-      ],
-      "summary" : "Meta has signed a $10 billion contract with Anthropic, a leading AI safety company, to develop and deploy advanced AI technologies.",
-      "title" : "Meta rents Anthropic $10B power",
-      "topics" : [
-        "Anthropic",
-        "Safety"
-      ]
-    },
-    {
-      "date" : "2026-07-22",
-      "id" : "2026-07-22-010d6de537be",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "AI Breakfast",
-          "title" : "Anthropic limits premium Claude access while eyeing Meta compute deal",
-          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/anthropic-limits-premium-claude-access-while-eyeing-meta-compute-deal"
-        }
-      ],
-      "summary" : "Anthropic has announced a temporary reduction in the availability of its premium Claude model, which is a significant step in the company's strategic shift towards securing a major deal with Meta.",
-      "title" : "Anthropic limits premium Claude access while eyeing Meta compute deal",
-      "topics" : [
-        "Anthropic",
-        "Claude"
-      ]
-    },
-    {
-      "date" : "2026-07-22",
-      "id" : "2026-07-22-e6e05d23fc18",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "Superhuman AI",
-          "title" : "Claude Cowork gets screen memorization skills",
-          "url" : "https:\/\/www.superhuman.ai\/p\/claude-cowork-gets-screen-memorization-skills"
-        }
-      ],
-      "summary" : "Claude Cowork, a research assistant, has been trained to memorize and recall information from screens.",
-      "title" : "Claude Cowork gets screen memorization skills",
-      "topics" : [
-        "Claude",
-        "Research"
       ]
     },
     {
