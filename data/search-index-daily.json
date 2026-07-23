@@ -2,50 +2,26 @@
   "cards" : [
     {
       "date" : "2026-07-23",
-      "id" : "2026-07-23-f9bf8c81b9fb",
+      "id" : "2026-07-23-574b999189e5",
       "importance" : "high",
       "sources" : [
         {
-          "source_name" : "OpenAI News",
-          "title" : "Introducing the ChatGPT for small business program",
-          "url" : "https:\/\/openai.com\/index\/introducing-chatgpt-small-business-program"
+          "source_name" : "Latent Space",
+          "title" : "Laguna S 2.1 Released: Cheaper than Deepseek v4 Flash, Better than V4 Pro\"",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-laguna-s-21-released-cheaper"
         },
         {
           "source_name" : "AI News (Swyx)",
           "title" : "not much happened today",
-          "url" : "https:\/\/news.smol.ai\/issues\/26-07-20-not-much\/"
+          "url" : "https:\/\/news.smol.ai\/issues\/26-07-22-not-much\/"
         }
       ],
-      "summary" : "The success of this program will be crucial in determining OpenAI's strategy for scaling AI solutions to a broader audience.",
-      "title" : "OpenAI launches the ChatGPT for Small Businesses program",
+      "summary" : "Laguna S 2.1 is a 118B-A8B model targeting local inference on high-memory systems, with reported benchmark scores of 70.2% on Terminal-Bench 2.1, 78.5% on SWE-bench Multilingual, 59.4% on SWE-Bench Pro, 40.4% on DeepSWE, 46.2% on SWE Atlas Codebase Q&A, and 49.7% on Toolathlon Verified.",
+      "title" : "Laguna S 2.1 Released: Cheaper than Deepseek v4 Flash, Better than V4 Pro",
       "topics" : [
-        "ChatGPT",
-        "Agents",
-        "APIs"
-      ]
-    },
-    {
-      "date" : "2026-07-23",
-      "id" : "2026-07-23-646282093f6e",
-      "importance" : "high",
-      "sources" : [
-        {
-          "source_name" : "TLDR AI",
-          "title" : "Gemini 3.6 Flash ✨, OpenAI security escape 🚨, Devin Outposts 🛰️",
-          "url" : "https:\/\/tldr.tech\/ai\/2026-07-22"
-        },
-        {
-          "source_name" : "AI News (Swyx)",
-          "title" : "not much happened today",
-          "url" : "https:\/\/news.smol.ai\/issues\/26-07-21-not-much\/"
-        }
-      ],
-      "summary" : "The release of Gemini 3.6 Flash ✨ marks a significant advancement in AI technology, showcasing the potential of specialized models to outperform larger general models on practical tasks.",
-      "title" : "Gemini 3.6 Flash ✨, OpenAI security escape 🚨, Devin Outposts 🛰️",
-      "topics" : [
-        "Gemini",
-        "Agents",
-        "Anthropic"
+        "DeepSeek",
+        "Benchmarks",
+        "Inference"
       ]
     },
     {
@@ -138,6 +114,23 @@
     },
     {
       "date" : "2026-07-23",
+      "id" : "2026-07-23-f9bf8c81b9fb",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Introducing the ChatGPT for small business program",
+          "url" : "https:\/\/openai.com\/index\/introducing-chatgpt-small-business-program"
+        }
+      ],
+      "summary" : "OpenAI's initiative aims to democratize AI access and empower small businesses to leverage AI technologies for growth.",
+      "title" : "OpenAI launches the ChatGPT for Small Businesses program",
+      "topics" : [
+        "ChatGPT"
+      ]
+    },
+    {
+      "date" : "2026-07-23",
       "id" : "2026-07-23-ce882eb14f25",
       "importance" : "medium",
       "sources" : [
@@ -172,6 +165,25 @@
     },
     {
       "date" : "2026-07-23",
+      "id" : "2026-07-23-7c05863e8fe4",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Inside the Model Factory — Eiso Kant, Poolside AI",
+          "url" : "https:\/\/www.latent.space\/p\/poolside"
+        }
+      ],
+      "summary" : "Eiso Kant, CEO of Poolside AI, discusses the company's journey from a four-year, $12 million pursuit of language models for code to a global research organization.",
+      "title" : "Inside the Model Factory — Eiso Kant, Poolside AI",
+      "topics" : [
+        "Agents",
+        "ChatGPT",
+        "Coding"
+      ]
+    },
+    {
+      "date" : "2026-07-23",
       "id" : "2026-07-23-7b2d7a2f3df7",
       "importance" : "low",
       "sources" : [
@@ -200,23 +212,6 @@
       ],
       "summary" : "Bet on information If test loss flatlines after 1.5B parameters while training loss continues to drop as you scale, that tells you that your model is limited by the amount of information in your data.",
       "title" : "Bo Wang and Ci Chu are promoted to Chief AI Scientist and Chief Discovery Officer, respectively.",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "date" : "2026-07-23",
-      "id" : "2026-07-23-8f7fea63a488",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "Hugging Face Blog",
-          "title" : "The State of Simulation for Physical AI: An Overview",
-          "url" : "https:\/\/huggingface.co\/blog\/nvidia\/state-of-simulation-for-physical-ai"
-        }
-      ],
-      "summary" : "Attendees should be prepared to learn about the latest advancements in simulation for physical AI and its potential applications.",
-      "title" : "The State of Simulation for Physical AI: An Overview",
       "topics" : [
         "AI"
       ]

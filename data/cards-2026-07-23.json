@@ -2,72 +2,37 @@
   "cards" : [
     {
       "consolidation" : {
-        "latest_source_at" : "2026-07-21T17:00:00Z",
-        "message_count" : 2,
+        "latest_source_at" : "2026-07-23T05:18:47Z",
+        "message_count" : 3,
         "reason" : "Multiple sources reported the same story.",
         "source_count" : 2
       },
-      "created_at" : "2026-07-21T17:00:00Z",
-      "id" : "2026-07-23-f9bf8c81b9fb",
+      "created_at" : "2026-07-23T05:18:47Z",
+      "id" : "2026-07-23-574b999189e5",
       "importance" : "high",
       "key_insights" : [
-        "Why it matters: The program aims to democratize AI access for small businesses, fostering innovation and growth.",
-        "What changed: OpenAI is expanding its AI offerings to include a tailored program for small businesses, enhancing their ability to leverage AI technologies.",
-        "What to watch: The success of this program will be crucial in determining OpenAI's strategy for scaling AI solutions to a broader audience."
+        "Why it matters: Laguna S 2.1 is cheaper than Deepseek v4 Flash and better than V4 Pro.",
+        "What changed: We can’t put it better than one of the Redditors you’ll see below: Cheaper than Deepseek v4 Flash, Better than V4 Pro.",
+        "What to watch: For DeepSeek, Benchmarks, Inference, look for concrete timing, affected users, product details, or independent confirmation."
       ],
       "sources" : [
         {
-          "source_name" : "OpenAI News",
-          "title" : "Introducing the ChatGPT for small business program",
-          "url" : "https:\/\/openai.com\/index\/introducing-chatgpt-small-business-program"
+          "source_name" : "Latent Space",
+          "title" : "Laguna S 2.1 Released: Cheaper than Deepseek v4 Flash, Better than V4 Pro\"",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-laguna-s-21-released-cheaper"
         },
         {
           "source_name" : "AI News (Swyx)",
           "title" : "not much happened today",
-          "url" : "https:\/\/news.smol.ai\/issues\/26-07-20-not-much\/"
+          "url" : "https:\/\/news.smol.ai\/issues\/26-07-22-not-much\/"
         }
       ],
-      "summary" : "The success of this program will be crucial in determining OpenAI's strategy for scaling AI solutions to a broader audience.",
-      "title" : "OpenAI launches the ChatGPT for Small Businesses program",
+      "summary" : "Laguna S 2.1 is a 118B-A8B model targeting local inference on high-memory systems, with reported benchmark scores of 70.2% on Terminal-Bench 2.1, 78.5% on SWE-bench Multilingual, 59.4% on SWE-Bench Pro, 40.4% on DeepSWE, 46.2% on SWE Atlas Codebase Q&A, and 49.7% on Toolathlon Verified.",
+      "title" : "Laguna S 2.1 Released: Cheaper than Deepseek v4 Flash, Better than V4 Pro",
       "topics" : [
-        "ChatGPT",
-        "Agents",
-        "APIs"
-      ]
-    },
-    {
-      "consolidation" : {
-        "latest_source_at" : "2026-07-22T00:00:00Z",
-        "message_count" : 2,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
-      },
-      "created_at" : "2026-07-22T00:00:00Z",
-      "id" : "2026-07-23-646282093f6e",
-      "importance" : "high",
-      "key_insights" : [
-        "Why it matters: The release of Gemini 3.6 Flash ✨, OpenAI's security breach, and the launch of Devin Outposts highlight significant advancements in AI technology and the evolving landscape of AI security.",
-        "What changed: The release of Gemini 3.6 Flash ✨ marks a significant advancement in AI technology, showcasing the potential of specialized models to outperform larger general models on practical tasks.",
-        "What to watch: AI enthusiasts and researchers should closely monitor the developments in AI security and the deployment of specialized models like Gemini 3.6 Flash ✨."
-      ],
-      "sources" : [
-        {
-          "source_name" : "TLDR AI",
-          "title" : "Gemini 3.6 Flash ✨, OpenAI security escape 🚨, Devin Outposts 🛰️",
-          "url" : "https:\/\/tldr.tech\/ai\/2026-07-22"
-        },
-        {
-          "source_name" : "AI News (Swyx)",
-          "title" : "not much happened today",
-          "url" : "https:\/\/news.smol.ai\/issues\/26-07-21-not-much\/"
-        }
-      ],
-      "summary" : "The release of Gemini 3.6 Flash ✨ marks a significant advancement in AI technology, showcasing the potential of specialized models to outperform larger general models on practical tasks.",
-      "title" : "Gemini 3.6 Flash ✨, OpenAI security escape 🚨, Devin Outposts 🛰️",
-      "topics" : [
-        "Gemini",
-        "Agents",
-        "Anthropic"
+        "DeepSeek",
+        "Benchmarks",
+        "Inference"
       ]
     },
     {
@@ -184,6 +149,28 @@
       ]
     },
     {
+      "created_at" : "2026-07-21T17:00:00Z",
+      "id" : "2026-07-23-f9bf8c81b9fb",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: OpenAI's initiative aims to democratize AI access and empower small businesses to leverage AI technologies for growth.",
+        "What changed: The program will provide small businesses with the tools and resources to integrate ChatGPT into their operations, enhancing productivity and innovation.",
+        "What to watch: Entrepreneurs and business owners interested in AI should closely monitor the program's implementation and outcomes to understand its impact on the small business landscape."
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Introducing the ChatGPT for small business program",
+          "url" : "https:\/\/openai.com\/index\/introducing-chatgpt-small-business-program"
+        }
+      ],
+      "summary" : "OpenAI's initiative aims to democratize AI access and empower small businesses to leverage AI technologies for growth.",
+      "title" : "OpenAI launches the ChatGPT for Small Businesses program",
+      "topics" : [
+        "ChatGPT"
+      ]
+    },
+    {
       "created_at" : "2026-07-21T07:00:00Z",
       "id" : "2026-07-23-ce882eb14f25",
       "importance" : "medium",
@@ -225,6 +212,30 @@
       "title" : "3 Google updates from Galaxy Unpacked 2026",
       "topics" : [
         "AI"
+      ]
+    },
+    {
+      "created_at" : "2026-07-23T05:09:14Z",
+      "id" : "2026-07-23-7c05863e8fe4",
+      "importance" : "low",
+      "key_insights" : [
+        "Why it matters: Poolside's approach to model building, emphasizing reproducibility and efficiency, could influence the broader AI industry.",
+        "What changed: Poolside's shift from six-month model cycles to five- and eight-week launches and its focus on global talent may redefine the AI development landscape.",
+        "What to watch: The company's strategies for improving model efficiency and fostering global collaboration could set new standards for AI research and development."
+      ],
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Inside the Model Factory — Eiso Kant, Poolside AI",
+          "url" : "https:\/\/www.latent.space\/p\/poolside"
+        }
+      ],
+      "summary" : "Eiso Kant, CEO of Poolside AI, discusses the company's journey from a four-year, $12 million pursuit of language models for code to a global research organization.",
+      "title" : "Inside the Model Factory — Eiso Kant, Poolside AI",
+      "topics" : [
+        "Agents",
+        "ChatGPT",
+        "Coding"
       ]
     },
     {
@@ -270,57 +281,35 @@
       "topics" : [
         "AI"
       ]
-    },
-    {
-      "created_at" : "2026-07-21T20:00:27Z",
-      "id" : "2026-07-23-8f7fea63a488",
-      "importance" : "low",
-      "key_insights" : [
-        "Why it matters: This event will be important for understanding the current state of simulation for physical AI and its potential future developments.",
-        "What changed: The State of Simulation for Physical AI: An Overview.",
-        "What to watch: Attendees should be prepared to learn about the latest advancements in simulation for physical AI and its potential applications."
-      ],
-      "sources" : [
-        {
-          "source_name" : "Hugging Face Blog",
-          "title" : "The State of Simulation for Physical AI: An Overview",
-          "url" : "https:\/\/huggingface.co\/blog\/nvidia\/state-of-simulation-for-physical-ai"
-        }
-      ],
-      "summary" : "Attendees should be prepared to learn about the latest advancements in simulation for physical AI and its potential applications.",
-      "title" : "The State of Simulation for Physical AI: An Overview",
-      "topics" : [
-        "AI"
-      ]
     }
   ],
   "count" : 12,
   "date" : "2026-07-23",
-  "generated_at" : "2026-07-23T04:01:00Z",
+  "generated_at" : "2026-07-23T06:01:00Z",
   "processing_report" : {
-    "generated_at" : "2026-07-23T04:01:04Z",
+    "generated_at" : "2026-07-23T06:01:04Z",
     "source_reports" : [
       {
         "article_count" : 12,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-07-22T12:54:02Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-07-23T04:01:03Z",
+        "processed_at" : "2026-07-23T06:01:04Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-07-23T04:01:03Z",
+        "processed_at" : "2026-07-23T06:01:02Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "ai-news",
-        "latest_article_at" : "2026-07-21T05:44:39Z",
+        "latest_article_at" : "2026-07-22T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-07-23T04:01:01Z",
+        "processed_at" : "2026-07-23T06:01:01Z",
         "state" : "processed"
       },
       {
@@ -328,7 +317,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-07-21T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-07-23T04:01:03Z",
+        "processed_at" : "2026-07-23T06:01:02Z",
         "state" : "processed"
       },
       {
@@ -336,7 +325,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-07-22T13:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-07-23T04:01:00Z",
+        "processed_at" : "2026-07-23T06:01:00Z",
         "state" : "processed"
       },
       {
@@ -344,15 +333,15 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-07-21T20:00:27Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-07-23T04:01:00Z",
+        "processed_at" : "2026-07-23T06:01:00Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "latent-space",
-        "latest_article_at" : "2026-07-22T03:27:29Z",
+        "latest_article_at" : "2026-07-23T05:18:47Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-07-23T04:01:01Z",
+        "processed_at" : "2026-07-23T06:01:01Z",
         "state" : "processed"
       },
       {
@@ -360,7 +349,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-07-22T13:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-07-23T04:01:01Z",
+        "processed_at" : "2026-07-23T06:01:01Z",
         "state" : "processed"
       },
       {
@@ -368,7 +357,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-07-22T11:01:53Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-07-23T04:01:03Z",
+        "processed_at" : "2026-07-23T06:01:03Z",
         "state" : "processed"
       },
       {
@@ -376,7 +365,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-07-22T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-07-23T04:01:01Z",
+        "processed_at" : "2026-07-23T06:01:00Z",
         "state" : "processed"
       },
       {
@@ -384,14 +373,14 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-07-22T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-07-23T04:01:04Z",
+        "processed_at" : "2026-07-23T06:01:03Z",
         "state" : "processed"
       },
       {
         "article_count" : 10,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-07-23T04:01:02Z",
+        "processed_at" : "2026-07-23T06:01:02Z",
         "state" : "processed"
       }
     ],
