@@ -36,6 +36,28 @@
       ]
     },
     {
+      "created_at" : "2026-07-23T00:00:00Z",
+      "id" : "2026-07-23-7578939fe680",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: This development could significantly enhance the capabilities of ChatGPT in healthcare, potentially improving patient outcomes and streamlining medical consultations.",
+        "What changed: ChatGPT now includes a feature that allows users to input health-related queries, providing more personalized and accurate responses.",
+        "What to watch: Users should be cautious when using ChatGPT for medical advice, as it is still a tool and not a substitute for professional medical care."
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Launching Health in ChatGPT",
+          "url" : "https:\/\/openai.com\/index\/health-in-chatgpt"
+        }
+      ],
+      "summary" : "OpenAI News reports that ChatGPT is now available to eligible U.S. users.",
+      "title" : "OpenAI News: Launching Health in ChatGPT",
+      "topics" : [
+        "ChatGPT"
+      ]
+    },
+    {
       "created_at" : "2026-07-22T13:00:00Z",
       "id" : "2026-07-23-b634a615c4d8",
       "importance" : "medium",
@@ -146,28 +168,6 @@
       "topics" : [
         "ChatGPT",
         "Enterprise"
-      ]
-    },
-    {
-      "created_at" : "2026-07-21T17:00:00Z",
-      "id" : "2026-07-23-f9bf8c81b9fb",
-      "importance" : "medium",
-      "key_insights" : [
-        "Why it matters: OpenAI's initiative aims to democratize AI access and empower small businesses to leverage AI technologies for growth.",
-        "What changed: The program will provide small businesses with the tools and resources to integrate ChatGPT into their operations, enhancing productivity and innovation.",
-        "What to watch: Entrepreneurs and business owners interested in AI should closely monitor the program's implementation and outcomes to understand its impact on the small business landscape."
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Introducing the ChatGPT for small business program",
-          "url" : "https:\/\/openai.com\/index\/introducing-chatgpt-small-business-program"
-        }
-      ],
-      "summary" : "OpenAI's initiative aims to democratize AI access and empower small businesses to leverage AI technologies for growth.",
-      "title" : "OpenAI launches the ChatGPT for Small Businesses program",
-      "topics" : [
-        "ChatGPT"
       ]
     },
     {
@@ -285,23 +285,23 @@
   ],
   "count" : 12,
   "date" : "2026-07-23",
-  "generated_at" : "2026-07-23T16:01:00Z",
+  "generated_at" : "2026-07-23T18:01:00Z",
   "processing_report" : {
-    "generated_at" : "2026-07-23T16:01:04Z",
+    "generated_at" : "2026-07-23T18:01:04Z",
     "source_reports" : [
       {
         "article_count" : 12,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-07-22T12:54:02Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-07-23T16:01:04Z",
+        "processed_at" : "2026-07-23T18:01:04Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 9,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-07-23T16:01:02Z",
+        "processed_at" : "2026-07-23T18:01:04Z",
         "state" : "processed"
       },
       {
@@ -309,7 +309,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-07-22T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-07-23T16:01:01Z",
+        "processed_at" : "2026-07-23T18:01:01Z",
         "state" : "processed"
       },
       {
@@ -317,7 +317,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-07-23T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-07-23T16:01:03Z",
+        "processed_at" : "2026-07-23T18:01:03Z",
         "state" : "processed"
       },
       {
@@ -325,7 +325,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-07-22T13:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-07-23T16:01:00Z",
+        "processed_at" : "2026-07-23T18:01:00Z",
         "state" : "processed"
       },
       {
@@ -333,7 +333,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-07-23T00:00:00Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-07-23T16:01:00Z",
+        "processed_at" : "2026-07-23T18:01:00Z",
         "state" : "processed"
       },
       {
@@ -341,15 +341,15 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-07-23T05:18:47Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-07-23T16:01:01Z",
+        "processed_at" : "2026-07-23T18:01:01Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "openai-news",
-        "latest_article_at" : "2026-07-22T13:00:00Z",
+        "latest_article_at" : "2026-07-23T00:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-07-23T16:01:01Z",
+        "processed_at" : "2026-07-23T18:01:01Z",
         "state" : "processed"
       },
       {
@@ -357,7 +357,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-07-22T11:01:53Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-07-23T16:01:03Z",
+        "processed_at" : "2026-07-23T18:01:03Z",
         "state" : "processed"
       },
       {
@@ -365,22 +365,22 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-07-23T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-07-23T16:01:00Z",
+        "processed_at" : "2026-07-23T18:01:00Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 11,
         "id" : "the-ai-report",
-        "latest_article_at" : "2026-07-23T11:01:00Z",
+        "latest_article_at" : "2026-07-22T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-07-23T16:01:03Z",
+        "processed_at" : "2026-07-23T18:01:03Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 9,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-07-23T16:01:02Z",
+        "processed_at" : "2026-07-23T18:01:02Z",
         "state" : "processed"
       }
     ],
