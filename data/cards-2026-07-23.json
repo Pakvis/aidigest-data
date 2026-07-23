@@ -239,28 +239,6 @@
       ]
     },
     {
-      "created_at" : "2026-07-21T19:34:06Z",
-      "id" : "2026-07-23-9590011c0184",
-      "importance" : "low",
-      "key_insights" : [
-        "Why it matters: The promotion of Bo Wang and Ci Chu to Chief AI Scientist and Chief Discovery Officer, respectively, highlights Xaira's strategic focus on causal models and drug discovery.",
-        "What changed: Bet on information If test loss flatlines after 1.5B parameters while training loss continues to drop as you scale, that tells you that your model is limited by the amount of information in your data.",
-        "What to watch: For AI, look for concrete timing, affected users, product details, or independent confirmation."
-      ],
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "Causal Models Need Causal Data - Xaira’s X-Cell model for Drug Discovery (Bo Wang & Ci Chu, Chief Discovery Officer & Chief AI Scientist)",
-          "url" : "https:\/\/www.latent.space\/p\/xaira"
-        }
-      ],
-      "summary" : "Bet on information If test loss flatlines after 1.5B parameters while training loss continues to drop as you scale, that tells you that your model is limited by the amount of information in your data.",
-      "title" : "Bo Wang and Ci Chu are promoted to Chief AI Scientist and Chief Discovery Officer, respectively.",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
       "created_at" : "2026-07-23T00:00:00Z",
       "id" : "2026-07-23-ea78f1638a64",
       "importance" : "low",
@@ -281,27 +259,49 @@
       "topics" : [
         "Anthropic"
       ]
+    },
+    {
+      "created_at" : "2026-07-22T00:00:00Z",
+      "id" : "2026-07-23-646282093f6e",
+      "importance" : "low",
+      "key_insights" : [
+        "Why it matters: These events are significant in the tech industry.",
+        "What changed: The events have caused changes in the tech industry.",
+        "What to watch: Keep an eye on the tech industry."
+      ],
+      "sources" : [
+        {
+          "source_name" : "TLDR AI",
+          "title" : "Gemini 3.6 Flash ✨, OpenAI security escape 🚨, Devin Outposts 🛰️",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-07-22"
+        }
+      ],
+      "summary" : "These events are significant in the tech industry.",
+      "title" : "Gemini 3.6 Flash ✨, OpenAI security escape 🚨, Devin Outposts 🛰️",
+      "topics" : [
+        "Gemini"
+      ]
     }
   ],
   "count" : 12,
   "date" : "2026-07-23",
-  "generated_at" : "2026-07-23T18:01:00Z",
+  "generated_at" : "2026-07-23T20:01:00Z",
   "processing_report" : {
-    "generated_at" : "2026-07-23T18:01:04Z",
+    "generated_at" : "2026-07-23T20:01:04Z",
     "source_reports" : [
       {
         "article_count" : 12,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-07-22T12:54:02Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-07-23T18:01:04Z",
+        "processed_at" : "2026-07-23T20:01:04Z",
         "state" : "processed"
       },
       {
-        "article_count" : 9,
+        "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-07-23T18:01:04Z",
+        "processed_at" : "2026-07-23T20:01:02Z",
         "state" : "processed"
       },
       {
@@ -309,15 +309,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-07-22T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-07-23T18:01:01Z",
+        "processed_at" : "2026-07-23T20:01:00Z",
         "state" : "processed"
       },
       {
-        "article_count" : 7,
+        "article_count" : 6,
         "id" : "aireport-nl",
-        "latest_article_at" : "2026-07-23T10:00:00Z",
+        "latest_article_at" : "2026-07-21T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-07-23T18:01:03Z",
+        "processed_at" : "2026-07-23T20:01:02Z",
         "state" : "processed"
       },
       {
@@ -325,7 +325,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-07-22T13:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-07-23T18:01:00Z",
+        "processed_at" : "2026-07-23T20:01:00Z",
         "state" : "processed"
       },
       {
@@ -333,7 +333,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-07-23T00:00:00Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-07-23T18:01:00Z",
+        "processed_at" : "2026-07-23T20:01:00Z",
         "state" : "processed"
       },
       {
@@ -341,7 +341,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-07-23T05:18:47Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-07-23T18:01:01Z",
+        "processed_at" : "2026-07-23T20:01:01Z",
         "state" : "processed"
       },
       {
@@ -349,15 +349,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-07-23T00:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-07-23T18:01:01Z",
+        "processed_at" : "2026-07-23T20:01:01Z",
         "state" : "processed"
       },
       {
-        "article_count" : 8,
+        "article_count" : 7,
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-07-22T11:01:53Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-07-23T18:01:03Z",
+        "processed_at" : "2026-07-23T20:01:03Z",
         "state" : "processed"
       },
       {
@@ -365,22 +365,22 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-07-23T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-07-23T18:01:00Z",
+        "processed_at" : "2026-07-23T20:01:00Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 12,
         "id" : "the-ai-report",
-        "latest_article_at" : "2026-07-22T11:01:00Z",
+        "latest_article_at" : "2026-07-23T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-07-23T18:01:03Z",
+        "processed_at" : "2026-07-23T20:01:04Z",
         "state" : "processed"
       },
       {
         "article_count" : 9,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-07-23T18:01:02Z",
+        "processed_at" : "2026-07-23T20:01:02Z",
         "state" : "processed"
       }
     ],
