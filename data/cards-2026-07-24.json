@@ -2,8 +2,48 @@
   "cards" : [
     {
       "consolidation" : {
+        "latest_source_at" : "2026-07-24T04:30:12Z",
+        "message_count" : 3,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 3
+      },
+      "created_at" : "2026-07-24T04:30:12Z",
+      "id" : "2026-07-24-e48c5d1bc294",
+      "importance" : "high",
+      "key_insights" : [
+        "Why it matters: This advancement could revolutionize how AI models handle complex, multimodal tasks.",
+        "What changed: FLUX 3 is a unified multimodal model that can predict actions across multiple modalities.",
+        "What to watch: Keep an eye on how this model is applied in robotics and other fields."
+      ],
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Black Forest Labs FLUX 3 - Multimodal Flow Models that beat Seedance 2.0, Gemini Omni and Grok Imagine, and FLUX-mimic video-action robotics model",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-black-forest-labs-flux-3-multimodal"
+        },
+        {
+          "source_name" : "AI News (Swyx)",
+          "title" : "not much happened today",
+          "url" : "https:\/\/news.smol.ai\/issues\/26-07-22-not-much\/"
+        },
+        {
+          "source_name" : "TLDR AI",
+          "title" : "Gemini 3.6 Flash ✨, OpenAI security escape 🚨, Devin Outposts 🛰️",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-07-22"
+        }
+      ],
+      "summary" : "Black Forest Labs' FLUX 3 expands the multimodal frontier beyond image\/video to include audio, text-to-speech, and action prediction.",
+      "title" : "Black Forest Labs FLUX 3 - Multimodal Flow Models that beat Seedance 2.0, Gemini Omni and Grok Imagine, and FLUX-mimic video-action robotics model",
+      "topics" : [
+        "Gemini",
+        "Robotics",
+        "Image Models"
+      ]
+    },
+    {
+      "consolidation" : {
         "latest_source_at" : "2026-07-23T05:44:39Z",
-        "message_count" : 4,
+        "message_count" : 2,
         "reason" : "Multiple sources reported the same story.",
         "source_count" : 2
       },
@@ -121,30 +161,6 @@
       "title" : "OpenAI News outlines its commitment to advancing American science working with the U.S.",
       "topics" : [
         "AI"
-      ]
-    },
-    {
-      "created_at" : "2026-07-22T05:30:00Z",
-      "id" : "2026-07-24-e93c7c7eed5e",
-      "importance" : "medium",
-      "key_insights" : [
-        "Why it matters: This development could significantly enhance the efficiency and effectiveness of customer service and internal communication processes across various industries.",
-        "What changed: OpenAI Presence aims to streamline the deployment of AI agents, making it easier for organizations to integrate AI into their workflows.",
-        "What to watch: The success of OpenAI Presence will likely influence the adoption of AI-driven solutions in enterprise environments."
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Introducing OpenAI Presence",
-          "url" : "https:\/\/openai.com\/index\/introducing-openai-presence"
-        }
-      ],
-      "summary" : "OpenAI announced the launch of OpenAI Presence, a platform designed to help organizations deploy trusted voice and chat agents for customer and internal workflows.",
-      "title" : "Introducing OpenAI Presence",
-      "topics" : [
-        "Agents",
-        "Enterprise",
-        "Workflows"
       ]
     },
     {
@@ -284,23 +300,23 @@
   ],
   "count" : 12,
   "date" : "2026-07-24",
-  "generated_at" : "2026-07-24T04:01:00Z",
+  "generated_at" : "2026-07-24T06:01:00Z",
   "processing_report" : {
-    "generated_at" : "2026-07-24T04:01:04Z",
+    "generated_at" : "2026-07-24T06:01:06Z",
     "source_reports" : [
       {
-        "article_count" : 12,
+        "article_count" : 9,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-07-22T12:54:02Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-07-24T04:01:04Z",
+        "processed_at" : "2026-07-24T06:01:05Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 9,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-07-24T04:01:02Z",
+        "processed_at" : "2026-07-24T06:01:03Z",
         "state" : "processed"
       },
       {
@@ -308,7 +324,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-07-23T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-07-24T04:01:01Z",
+        "processed_at" : "2026-07-24T06:01:01Z",
         "state" : "processed"
       },
       {
@@ -316,7 +332,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-07-23T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-07-24T04:01:02Z",
+        "processed_at" : "2026-07-24T06:01:03Z",
         "state" : "processed"
       },
       {
@@ -324,7 +340,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-07-22T13:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-07-24T04:01:00Z",
+        "processed_at" : "2026-07-24T06:01:00Z",
         "state" : "processed"
       },
       {
@@ -332,15 +348,15 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-07-23T00:00:00Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-07-24T04:01:00Z",
+        "processed_at" : "2026-07-24T06:01:00Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "latent-space",
-        "latest_article_at" : "2026-07-23T05:18:47Z",
+        "latest_article_at" : "2026-07-24T04:30:12Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-07-24T04:01:02Z",
+        "processed_at" : "2026-07-24T06:01:02Z",
         "state" : "processed"
       },
       {
@@ -348,7 +364,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-07-23T00:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-07-24T04:01:01Z",
+        "processed_at" : "2026-07-24T06:01:01Z",
         "state" : "processed"
       },
       {
@@ -356,7 +372,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-07-22T11:01:53Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-07-24T04:01:03Z",
+        "processed_at" : "2026-07-24T06:01:04Z",
         "state" : "processed"
       },
       {
@@ -364,22 +380,22 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-07-23T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-07-24T04:01:00Z",
+        "processed_at" : "2026-07-24T06:01:00Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 10,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-07-23T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-07-24T04:01:03Z",
+        "processed_at" : "2026-07-24T06:01:06Z",
         "state" : "processed"
       },
       {
         "article_count" : 9,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-07-24T04:01:02Z",
+        "processed_at" : "2026-07-24T06:01:03Z",
         "state" : "processed"
       }
     ],
