@@ -24,6 +24,44 @@
     },
     {
       "date" : "2026-07-25",
+      "id" : "2026-07-25-c48c681bb427",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "AI News (Swyx)",
+          "title" : "Opus 5",
+          "url" : "https:\/\/news.smol.ai\/issues\/26-07-24-opus-5\/"
+        }
+      ],
+      "summary" : "The release of Claude Opus 5 has brought renewed attention to the importance of benchmark evaluation and the need for more robust methods to assess the performance of advanced AI models.",
+      "title" : "Claude Opus 5 model launch",
+      "topics" : [
+        "Agents",
+        "Anthropic",
+        "Benchmarks"
+      ]
+    },
+    {
+      "date" : "2026-07-25",
+      "id" : "2026-07-25-3df2c653cee8",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Claude Opus 5: Fable-level performance at Opus price (half Fable)",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-claude-opus-5-fable-level"
+        }
+      ],
+      "summary" : "Claude Opus 5 achieves an ECI of 159, \"slightly below Fable 5’s value of 161,\" while matching Fable 5 on SWE-ECI at 161 on software engineering benchmarks.",
+      "title" : "Claude Opus 5: Fable-level performance at Opus price (half Fable)",
+      "topics" : [
+        "Claude",
+        "Pricing",
+        "Benchmarks"
+      ]
+    },
+    {
+      "date" : "2026-07-25",
       "id" : "2026-07-25-fda329a932d4",
       "importance" : "low",
       "sources" : [
@@ -39,41 +77,6 @@
         "Gemini",
         "Robotics",
         "Image Models"
-      ]
-    },
-    {
-      "date" : "2026-07-25",
-      "id" : "2026-07-25-bd874ae7343d",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "The AI Report",
-          "title" : "️ US accuses China of AI theft",
-          "url" : "https:\/\/newsletter.theaireport.ai\/p\/us-accuses-china-of-ai-theft"
-        }
-      ],
-      "summary" : "The US has accused China of stealing AI technology.",
-      "title" : "US accuses China of AI thef",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "date" : "2026-07-25",
-      "id" : "2026-07-25-303ef801f60f",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "AI Breakfast",
-          "title" : "OpenAI launches GPT-Live desktop app for agent orchestration",
-          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/openai-launches-gpt-live-desktop-app-for-agent-orchestration"
-        }
-      ],
-      "summary" : "OpenAI has launched a new desktop app called GPT-Live, which allows users to manage and control multiple AI agents.",
-      "title" : "OpenAI launches GPT-Live desktop app for agent orchestration",
-      "topics" : [
-        "Agents",
-        "GPT"
       ]
     },
     {
@@ -170,23 +173,6 @@
     },
     {
       "date" : "2026-07-25",
-      "id" : "2026-07-25-ce808c1fb5a5",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "Google AI Blog",
-          "title" : "3 Google updates from Galaxy Unpacked 2026",
-          "url" : "https:\/\/blog.google\/products-and-platforms\/platforms\/android\/galaxy-unpacked-2026\/"
-        }
-      ],
-      "summary" : "These updates are expected to enhance productivity and provide users with new features and capabilities.",
-      "title" : "3 Google updates from Galaxy Unpacked 2026",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "date" : "2026-07-25",
       "id" : "2026-07-25-a65929430203",
       "importance" : "low",
       "sources" : [
@@ -219,6 +205,23 @@
       "title" : "AMD + Anthropic deal 🤝🏻",
       "topics" : [
         "Anthropic"
+      ]
+    },
+    {
+      "date" : "2026-07-25",
+      "id" : "2026-07-25-053facaaa262",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "Hugging Face Blog",
+          "title" : "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+          "url" : "https:\/\/huggingface.co\/blog\/nunchaku-diffusers"
+        }
+      ],
+      "summary" : "The article discusses the Nunchaku 4-bit Diffusion Inference, a new technique for improving the performance of diffusion models.",
+      "title" : "Hugging Face Blog: Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "topics" : [
+        "Inference"
       ]
     },
     {
