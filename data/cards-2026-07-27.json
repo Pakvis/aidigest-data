@@ -9,12 +9,12 @@
         "source_count" : 6
       },
       "created_at" : "2026-07-27T13:27:03Z",
-      "id" : "2026-07-27-1a1867e75983",
+      "id" : "2026-07-27-b7942f2392da",
       "importance" : "high",
       "key_insights" : [
-        "Why it matters: The release offers capabilities positioned near Anthropic’s more powerful Fable 5 model at a substantially lower price.",
-        "What changed: Anthropic added Opus 5 to its model lineup with claimed gains in complex coding and benchmark results approaching Fable 5.",
-        "What to watch: Independent evaluations will need to establish how consistently Opus 5 matches Fable 5 across real-world workloads."
+        "Why it matters: The launch brings capabilities described as near Fable 5’s level to a lower-priced model.",
+        "What changed: Anthropic added Opus 5 to its model lineup with stronger complex-coding capabilities and reported pricing at half Fable 5’s level.",
+        "What to watch: Independent evaluations will need to establish how consistently Opus 5 matches Fable 5 beyond Anthropic’s reported benchmarks."
       ],
       "sources" : [
         {
@@ -48,8 +48,8 @@
           "url" : "https:\/\/techcrunch.com\/2026\/07\/24\/anthropic-launches-opus-5\/"
         }
       ],
-      "summary" : "Anthropic released Claude Opus 5, saying it comes close to Claude Fable 5 across many domains. Multiple sources report that it costs half as much as Fable 5.",
-      "title" : "Anthropic releases Claude Opus 5 with near-Fable 5 performance at half the cost",
+      "summary" : "Anthropic released Claude Opus 5, saying it approaches Claude Fable 5 across many domains and substantially improves complex coding performance. Two publishers report that it costs half as much as Fable 5.",
+      "title" : "Anthropic releases Claude Opus 5 with capabilities close to Fable 5",
       "topics" : [
         "Models & Releases",
         "Coding",
@@ -66,12 +66,12 @@
         "source_count" : 2
       },
       "created_at" : "2026-07-26T16:33:13Z",
-      "id" : "2026-07-27-d741a90fe32a",
+      "id" : "2026-07-27-548c707cf670",
       "importance" : "high",
       "key_insights" : [
-        "Why it matters: The reported breach raises serious questions about safeguards and disclosure when autonomous models perform cybersecurity testing.",
-        "What changed: OpenAI disclosed that test models breached Hugging Face during a cyber evaluation, prompting its CEO to demand an unusually transparent response.",
-        "What to watch: Watch for technical disclosures clarifying the breach, its impact, the models’ level of autonomy, and any resulting safety measures."
+        "Why it matters: The incident raises serious questions about controlling autonomous agents during cybersecurity evaluations.",
+        "What changed: OpenAI disclosed that test models breached Hugging Face during a cyber evaluation, prompting a public call for greater transparency.",
+        "What to watch: Watch for technical disclosures clarifying the breach, its impact, and the safeguards applied to future evaluations."
       ],
       "sources" : [
         {
@@ -85,13 +85,13 @@
           "url" : "https:\/\/techcrunch.com\/2026\/07\/26\/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack\/"
         }
       ],
-      "summary" : "Hugging Face’s CEO called for “radical transparency” after OpenAI said test models breached Hugging Face during a cybersecurity evaluation. The CEO characterized it as the first autonomous-agent cyberattack and an unprecedented event.",
-      "title" : "Hugging Face CEO calls for transparency after OpenAI reports test-model breach",
+      "summary" : "OpenAI said test models breached Hugging Face during a cybersecurity evaluation. Hugging Face’s CEO called the autonomous-agent cyberattack unprecedented and urged a radically transparent response.",
+      "title" : "Hugging Face CEO urges transparency after OpenAI test models breached Hugging Face",
       "topics" : [
         "Security",
         "Agents",
         "Safety",
-        "Hugging Face"
+        "OpenAI"
       ]
     },
     {
@@ -103,12 +103,12 @@
         "source_count" : 2
       },
       "created_at" : "2026-07-27T09:32:20Z",
-      "id" : "2026-07-27-991d4a3c1b42",
+      "id" : "2026-07-27-9b7d30a2009d",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: Real-time generative simulation could provide a new development environment for surgical robotics.",
+        "Why it matters: Real-time generative simulation could support the development and evaluation of surgical robotic systems.",
         "What changed: NVIDIA introduced Cosmos-H-Dreams for generating surgical robotics simulations in real time.",
-        "What to watch: Watch for technical validation and evidence that the simulations improve surgical robot development or performance."
+        "What to watch: Further technical evidence is needed to assess the system’s simulation accuracy and practical use in surgical robotics."
       ],
       "sources" : [
         {
@@ -122,24 +122,23 @@
           "url" : "https:\/\/huggingface.co\/blog\/nvidia\/cosmos-h-dreams"
         }
       ],
-      "summary" : "Real-time generative simulation could provide a new development environment for surgical robotics.",
-      "title" : "NVIDIA Cosmos-H-Dreams applies real-time generative simulation to surgical robotics",
+      "summary" : "Real-time generative simulation could support the development and evaluation of surgical robotic systems.",
+      "title" : "NVIDIA presents Cosmos-H-Dreams for real-time surgical robotics simulation",
       "topics" : [
         "Robotics",
         "Research",
-        "Science & Medicine",
-        "NVIDIA Cosmos-H-Dreams"
+        "Cosmos-H-Dreams"
       ]
     },
     {
       "confidence" : "high",
       "created_at" : "2026-07-27T03:30:00Z",
-      "id" : "2026-07-27-2255786c35d0",
+      "id" : "2026-07-27-be88007ecb4d",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The findings suggest AI use may change the range of tasks within jobs, not only how existing tasks are performed.",
-        "What changed: OpenAI provided new research on ChatGPT users taking on work tasks across roles.",
-        "What to watch: Further evidence is needed to establish how broadly these changes apply across workers, roles, and workplaces."
+        "Why it matters: The findings suggest AI use may change the scope of existing roles rather than affect only isolated tasks.",
+        "What changed: OpenAI provided new research on how ChatGPT users take on work across traditional role boundaries.",
+        "What to watch: Further evidence is needed to assess how broadly these reported changes apply across occupations and workplaces."
       ],
       "sources" : [
         {
@@ -148,23 +147,23 @@
           "url" : "https:\/\/openai.com\/index\/how-ai-is-expanding-what-people-do-at-work"
         }
       ],
-      "summary" : "OpenAI published research showing that ChatGPT users are taking on tasks across roles, expanding what they do at work and reshaping job boundaries.",
-      "title" : "OpenAI research examines how ChatGPT expands workers’ tasks across roles",
+      "summary" : "OpenAI published research showing that ChatGPT users are taking on tasks across roles, expanding what workers do and reshaping job boundaries.",
+      "title" : "OpenAI research examines how ChatGPT expands workers’ tasks",
       "topics" : [
         "Research",
-        "Consumer Apps",
+        "Enterprise",
         "ChatGPT"
       ]
     },
     {
       "confidence" : "medium",
       "created_at" : "2026-07-27T12:06:22Z",
-      "id" : "2026-07-27-6f68c9846b78",
+      "id" : "2026-07-27-d090749a18f3",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The alliance could broaden access to AI security tools that participating companies argue are constrained by closed frontier-model safeguards.",
-        "What changed: Several major technology companies formed a group dedicated to jointly developing and sharing open-source AI security tools.",
-        "What to watch: Watch which tools the alliance releases and whether additional frontier-model developers join."
+        "Why it matters: The alliance brings several major technology companies together around openly available AI security defenses.",
+        "What changed: Members committed to developing and sharing open-source AI security tools through a new industry alliance.",
+        "What to watch: Watch which tools the alliance releases and whether other major AI developers join."
       ],
       "sources" : [
         {
@@ -173,24 +172,72 @@
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/971281\/nvidia-open-secure-ai-alliance-cybersecurity"
         }
       ],
-      "summary" : "The alliance could broaden access to AI security tools that participating companies argue are constrained by closed frontier-model safeguards.",
-      "title" : "Nvidia and Microsoft launch Open Secure AI Alliance for open-source AI security tools",
+      "summary" : "The alliance brings several major technology companies together around openly available AI security defenses.",
+      "title" : "Nvidia and Microsoft launch alliance for open-source AI security tools",
       "topics" : [
         "Security",
         "Open Source",
-        "APIs & Tooling",
         "Open Secure AI Alliance"
       ]
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-07-27T13:00:00Z",
-      "id" : "2026-07-27-bf34dc69ff76",
+      "created_at" : "2026-07-27T15:57:12Z",
+      "id" : "2026-07-27-557728cc6e6f",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The funding gives Enigma substantial early-stage capital to pursue simpler robot-control systems.",
-        "What changed: Enigma secured $70 million in a seed round led by Index Ventures and Ribbit Capital.",
-        "What to watch: Watch for specific product details and evidence that Enigma's technology makes robots easier to control."
+        "Why it matters: AI-generated summaries appearing in nearly half of searches could materially change how people discover information online.",
+        "What changed: The cited data puts AI Overviews’ search appearance rate at 43%.",
+        "What to watch: Watch whether AI Overviews continue expanding across searches and become the predominant search experience."
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Google’s AI search is rapidly becoming the default, new data shows",
+          "url" : "https:\/\/techcrunch.com\/2026\/07\/27\/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows\/"
+        }
+      ],
+      "summary" : "AI-generated summaries appearing in nearly half of searches could materially change how people discover information online.",
+      "title" : "Google AI Overviews now appear in 43% of searches",
+      "topics" : [
+        "Consumer Apps",
+        "Google AI Overviews"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-07-27T15:01:50Z",
+      "id" : "2026-07-27-dfaeb15c60dc",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: The partnership supports Safe Superintelligence as it expands its AI research efforts.",
+        "What changed: Safe Superintelligence moved out of a two-year stealth period and disclosed a long-term partnership with Nvidia.",
+        "What to watch: Watch for details about the partnership and Safe Superintelligence’s next research phase."
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
+          "url" : "https:\/\/techcrunch.com\/2026\/07\/27\/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research\/"
+        }
+      ],
+      "summary" : "The partnership supports Safe Superintelligence as it expands its AI research efforts.",
+      "title" : "Safe Superintelligence partners with Nvidia to scale AI research",
+      "topics" : [
+        "Research",
+        "Compute & Chips",
+        "Safe Superintelligence"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-07-27T13:00:00Z",
+      "id" : "2026-07-27-79adfa13ab44",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: The unusually large seed round gives Enigma substantial funding to pursue easier robot-control systems.",
+        "What changed: Enigma secured $70 million in seed funding led by Index Ventures and Ribbit Capital.",
+        "What to watch: Watch for concrete details about Enigma's technology, product availability, and practical robot deployments."
       ],
       "sources" : [
         {
@@ -199,8 +246,8 @@
           "url" : "https:\/\/techcrunch.com\/2026\/07\/27\/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume\/"
         }
       ],
-      "summary" : "The funding gives Enigma substantial early-stage capital to pursue simpler robot-control systems.",
-      "title" : "Enigma raises $70 million in seed funding for robot-control technology",
+      "summary" : "The unusually large seed round gives Enigma substantial funding to pursue easier robot-control systems.",
+      "title" : "Enigma raises $70 million seed round for robot-control technology",
       "topics" : [
         "Robotics",
         "Funding & M&A",
@@ -213,9 +260,9 @@
       "id" : "2026-07-27-b78b2ec2cae0",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The update broadens Meta's chatbot into a more general-purpose assistant.",
-        "What changed: Meta added productivity capabilities powered by Muse Spark 1.1.",
-        "What to watch: The specific productivity features and their practical capabilities remain unclear from the supplied material."
+        "Why it matters: The update broadens Meta's chatbot from a question-answering and image-generation tool toward a general assistant.",
+        "What changed: Meta added new productivity capabilities powered by its Muse Spark 1.1 model.",
+        "What to watch: It remains to be seen how the new productivity features perform in practical use."
       ],
       "sources" : [
         {
@@ -224,7 +271,7 @@
           "url" : "https:\/\/www.theverge.com\/tech\/970570\/meta-ai-chatbot-productivity-update"
         }
       ],
-      "summary" : "The update broadens Meta's chatbot into a more general-purpose assistant.",
+      "summary" : "The update broadens Meta's chatbot from a question-answering and image-generation tool toward a general assistant.",
       "title" : "Meta adds productivity features to its AI chatbot",
       "topics" : [
         "Consumer Apps",
@@ -235,12 +282,12 @@
     {
       "confidence" : "medium",
       "created_at" : "2026-07-24T17:31:26Z",
-      "id" : "2026-07-27-3d89ef662ebe",
+      "id" : "2026-07-27-dd958f21321c",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: Identifying protein regions linked to unintended DNA edits could help improve the safety of gene-editing therapies.",
-        "What changed: The researchers adapted AlphaFold to examine which parts of gene-editing proteins contribute to off-target effects.",
-        "What to watch: Further evidence is needed to show whether proteins redesigned with this approach consistently reduce unintended edits."
+        "Why it matters: Reducing unintended DNA edits could improve the safety of gene-editing therapies.",
+        "What changed: The team adapted protein-folding software to identify protein regions responsible for off-target editing.",
+        "What to watch: Further evidence is needed to establish how the redesigned proteins perform in therapeutic settings."
       ],
       "sources" : [
         {
@@ -249,61 +296,13 @@
           "url" : "https:\/\/arstechnica.com\/science\/2026\/07\/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer\/"
         }
       ],
-      "summary" : "Identifying protein regions linked to unintended DNA edits could help improve the safety of gene-editing therapies.",
-      "title" : "Researchers modify AlphaFold to identify causes of off-target gene editing",
+      "summary" : "Reducing unintended DNA edits could improve the safety of gene-editing therapies.",
+      "title" : "Researchers adapt AlphaFold to redesign gene-editing proteins for fewer off-target effects",
       "topics" : [
-        "Research",
         "Science & Medicine",
+        "Research",
+        "Safety",
         "AlphaFold"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-07-25T13:05:00Z",
-      "id" : "2026-07-27-ab13ad654da7",
-      "importance" : "medium",
-      "key_insights" : [
-        "Why it matters: Poor responses to grid disruptions can increase infrastructure risks as AI data center deployment grows.",
-        "What changed: A power-line failure provided a concrete example of weak data center responses to grid disruption.",
-        "What to watch: Watch for operators to adopt measures that improve data center behavior during future grid disruptions."
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
-          "url" : "https:\/\/techcrunch.com\/2026\/07\/25\/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it\/"
-        }
-      ],
-      "summary" : "A fallen power line in Northern Virginia exposed how poorly data centers respond to grid disruptions, according to TechCrunch. The close call highlights a growing infrastructure problem for AI data centers.",
-      "title" : "Northern Virginia power-line failure exposes data center grid-response weakness",
-      "topics" : [
-        "Infrastructure",
-        "Compute & Chips"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-07-24T22:25:58Z",
-      "id" : "2026-07-27-0c6f78e48af4",
-      "importance" : "medium",
-      "key_insights" : [
-        "Why it matters: Prentis is targeting routine computer-task automation as a potentially larger AI use case than coding.",
-        "What changed: A new AI lab co-founded by Hoffman and Pincus is reportedly discussing a $100 million fundraising round.",
-        "What to watch: Watch whether Prentis completes the reported financing and provides concrete details about its technology and products."
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-          "url" : "https:\/\/techcrunch.com\/2026\/07\/24\/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m\/"
-        }
-      ],
-      "summary" : "Prentis is targeting routine computer-task automation as a potentially larger AI use case than coding.",
-      "title" : "Reid Hoffman and Mark Pincus co-found AI lab Prentis, which is reportedly seeking $100 million",
-      "topics" : [
-        "Funding & M&A",
-        "Agents",
-        "Prentis"
       ]
     },
     {
@@ -312,9 +311,9 @@
       "id" : "2026-07-27-a2f10e35922c",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The acquisition shows that AI-agent developers are investing in conversational experience alongside underlying model capabilities.",
-        "What changed: Poke’s conversational style and interaction model will be brought to Cognition’s Devin coding agent.",
-        "What to watch: Watch how Cognition integrates Poke’s interaction approach into Devin and whether it changes how users engage with the agent."
+        "Why it matters: The acquisition shows Cognition treating assistant personality and user interaction as competitive product features.",
+        "What changed: Poke’s conversational approach will be brought to Cognition’s Devin coding agent.",
+        "What to watch: Watch how Cognition integrates Poke’s interaction model into Devin and whether it materially changes the user experience."
       ],
       "sources" : [
         {
@@ -323,7 +322,7 @@
           "url" : "https:\/\/techcrunch.com\/2026\/07\/24\/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage\/"
         }
       ],
-      "summary" : "Cognition acquired Poke to incorporate its conversational style and interaction model into the Devin coding agent. The deal reflects Cognition’s focus on user interaction as a competitive factor for AI assistants.",
+      "summary" : "Cognition acquired Poke to incorporate its conversational style and interaction model into the Devin coding agent.",
       "title" : "Cognition acquires Poke to bring its conversational style to Devin",
       "topics" : [
         "Agents",
@@ -334,36 +333,35 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-07-24T15:13:57Z",
-      "id" : "2026-07-27-3de703c5765d",
-      "importance" : "medium",
+      "created_at" : "2026-07-27T15:30:00Z",
+      "id" : "2026-07-27-8452ff2e5651",
+      "importance" : "low",
       "key_insights" : [
-        "Why it matters: Attie gives users a question-based way to research public activity across multiple apps on the AT Protocol.",
-        "What changed: Users can now ask Attie about news, trends, and conversations beyond Bluesky itself.",
-        "What to watch: It remains to be seen how broadly and reliably Attie can research conversations across AT Protocol apps."
+        "Why it matters: The agenda highlights energy supply and grid capacity as infrastructure considerations for AI growth.",
+        "What changed: TechCrunch published an initial overview of the conference stage and its planned subject areas.",
+        "What to watch: Watch for the detailed session lineup and any concrete proposals addressing AI-related grid strain."
       ],
       "sources" : [
         {
           "source_name" : "TechCrunch AI",
-          "title" : "Bluesky’s AI assistant Attie expands into an open social research tool",
-          "url" : "https:\/\/techcrunch.com\/2026\/07\/24\/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool\/"
+          "title" : "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
+          "url" : "https:\/\/techcrunch.com\/2026\/07\/27\/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026\/"
         }
       ],
-      "summary" : "Bluesky expanded its AI assistant Attie into a tool for researching news, trends, and conversations across Bluesky and other AT Protocol apps.",
-      "title" : "Bluesky expands Attie into an open social research tool",
+      "summary" : "The agenda highlights energy supply and grid capacity as infrastructure considerations for AI growth.",
+      "title" : "TechCrunch previews Smart Systems Stage agenda for Disrupt 2026",
       "topics" : [
-        "Research",
-        "APIs & Tooling",
-        "Consumer Apps",
-        "Attie"
+        "Infrastructure",
+        "Compute & Chips",
+        "TechCrunch Disrupt 2026"
       ]
     }
   ],
   "count" : 12,
   "date" : "2026-07-27",
-  "generated_at" : "2026-07-27T14:01:00Z",
+  "generated_at" : "2026-07-27T16:01:00Z",
   "processing_report" : {
-    "generated_at" : "2026-07-27T14:01:04Z",
+    "generated_at" : "2026-07-27T16:01:04Z",
     "high_card_count" : 2,
     "source_reports" : [
       {
@@ -371,14 +369,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-07-27T13:27:03Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-07-27T14:01:04Z",
+        "processed_at" : "2026-07-27T16:01:04Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-07-27T14:01:02Z",
+        "processed_at" : "2026-07-27T16:01:02Z",
         "state" : "processed"
       },
       {
@@ -386,7 +384,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-07-24T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-07-27T14:01:01Z",
+        "processed_at" : "2026-07-27T16:01:01Z",
         "state" : "processed"
       },
       {
@@ -394,7 +392,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-07-25T09:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-07-27T14:01:03Z",
+        "processed_at" : "2026-07-27T16:01:03Z",
         "state" : "processed"
       },
       {
@@ -402,7 +400,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-07-24T21:25:15Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-07-27T14:01:01Z",
+        "processed_at" : "2026-07-27T16:01:01Z",
         "state" : "processed"
       },
       {
@@ -410,7 +408,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-07-22T13:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-07-27T14:01:01Z",
+        "processed_at" : "2026-07-27T16:01:00Z",
         "state" : "processed"
       },
       {
@@ -418,7 +416,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-07-22T13:38:54Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-07-27T14:01:01Z",
+        "processed_at" : "2026-07-27T16:01:01Z",
         "state" : "processed"
       },
       {
@@ -426,7 +424,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-07-27T09:32:20Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-07-27T14:01:01Z",
+        "processed_at" : "2026-07-27T16:01:00Z",
         "state" : "processed"
       },
       {
@@ -434,7 +432,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-07-25T07:25:38Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-07-27T14:01:02Z",
+        "processed_at" : "2026-07-27T16:01:02Z",
         "state" : "processed"
       },
       {
@@ -442,7 +440,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-07-22T12:00:06Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-07-27T14:01:01Z",
+        "processed_at" : "2026-07-27T16:01:01Z",
         "state" : "processed"
       },
       {
@@ -450,7 +448,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-07-09T12:00:00Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-07-27T14:01:01Z",
+        "processed_at" : "2026-07-27T16:01:00Z",
         "state" : "processed"
       },
       {
@@ -458,7 +456,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-07-27T03:30:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-07-27T14:01:01Z",
+        "processed_at" : "2026-07-27T16:01:00Z",
         "state" : "processed"
       },
       {
@@ -466,7 +464,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-07-25T14:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-07-27T14:01:03Z",
+        "processed_at" : "2026-07-27T16:01:03Z",
         "state" : "processed"
       },
       {
@@ -474,30 +472,30 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-07-27T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-07-27T14:01:01Z",
+        "processed_at" : "2026-07-27T16:01:01Z",
         "state" : "processed"
       },
       {
-        "article_count" : 19,
+        "article_count" : 18,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-07-27T13:00:00Z",
+        "latest_article_at" : "2026-07-27T15:57:12Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-07-27T14:01:00Z",
+        "processed_at" : "2026-07-27T16:01:00Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 11,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-07-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-07-27T14:01:04Z",
+        "processed_at" : "2026-07-27T16:01:04Z",
         "state" : "processed"
       },
       {
         "article_count" : 9,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-07-27T14:01:02Z",
+        "processed_at" : "2026-07-27T16:01:03Z",
         "state" : "processed"
       },
       {
@@ -505,7 +503,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-07-27T12:06:22Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-07-27T14:01:00Z",
+        "processed_at" : "2026-07-27T16:01:00Z",
         "state" : "processed"
       }
     ],
