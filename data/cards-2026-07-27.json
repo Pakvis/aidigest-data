@@ -1,30 +1,6 @@
 {
   "cards" : [
     {
-      "created_at" : "2026-07-25T07:25:38Z",
-      "id" : "2026-07-27-76df0d4b52fc",
-      "importance" : "low",
-      "key_insights" : [
-        "Why it matters: This performance improvement at a lower price point could significantly impact the accessibility and adoption of advanced AI models.",
-        "What changed: Claude Opus 5 now offers comparable performance to Fable 5 at a reduced cost, making it more competitive in the AI market.",
-        "What to watch: Future developments in Claude's pricing strategy and additional benchmarks will be crucial to understanding its market position."
-      ],
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "Claude Opus 5: Fable-level performance at Opus price (half Fable)",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-claude-opus-5-fable-level"
-        }
-      ],
-      "summary" : "Claude Opus 5 achieves an ECI of 159, \"slightly below Fable 5’s value of 161,\" while matching Fable 5 on SWE-ECI at 161 on software engineering benchmarks.",
-      "title" : "Claude Opus 5: Fable-level performance at Opus price (half Fable)",
-      "topics" : [
-        "Claude",
-        "Pricing",
-        "Benchmarks"
-      ]
-    },
-    {
       "created_at" : "2026-07-25T14:00:00Z",
       "id" : "2026-07-27-14732da9032d",
       "importance" : "low",
@@ -69,6 +45,30 @@
       ]
     },
     {
+      "created_at" : "2026-07-25T07:25:38Z",
+      "id" : "2026-07-27-76df0d4b52fc",
+      "importance" : "low",
+      "key_insights" : [
+        "Why it matters: This performance improvement at a lower price point could significantly impact the accessibility and adoption of advanced AI models.",
+        "What changed: Claude Opus 5 now offers comparable performance to Fable 5 at a reduced cost, making it more competitive in the AI market.",
+        "What to watch: Future developments in Claude's pricing strategy and additional benchmarks will be crucial to understanding its market position."
+      ],
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Claude Opus 5: Fable-level performance at Opus price (half Fable)",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-claude-opus-5-fable-level"
+        }
+      ],
+      "summary" : "Claude Opus 5 achieves an ECI of 159, \"slightly below Fable 5’s value of 161,\" while matching Fable 5 on SWE-ECI at 161 on software engineering benchmarks.",
+      "title" : "Claude Opus 5: Fable-level performance at Opus price (half Fable)",
+      "topics" : [
+        "Claude",
+        "Pricing",
+        "Benchmarks"
+      ]
+    },
+    {
       "created_at" : "2026-07-24T13:38:22Z",
       "id" : "2026-07-27-d125c07c1efd",
       "importance" : "low",
@@ -94,23 +94,23 @@
   ],
   "count" : 4,
   "date" : "2026-07-27",
-  "generated_at" : "2026-07-27T06:01:00Z",
+  "generated_at" : "2026-07-27T08:01:00Z",
   "processing_report" : {
-    "generated_at" : "2026-07-27T06:01:04Z",
+    "generated_at" : "2026-07-27T08:01:05Z",
     "source_reports" : [
       {
-        "article_count" : 12,
+        "article_count" : 10,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-07-24T13:38:22Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-07-27T06:01:04Z",
+        "processed_at" : "2026-07-27T08:01:05Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-07-27T06:01:03Z",
+        "processed_at" : "2026-07-27T08:01:03Z",
         "state" : "processed"
       },
       {
@@ -118,7 +118,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-07-24T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-07-27T06:01:01Z",
+        "processed_at" : "2026-07-27T08:01:01Z",
         "state" : "processed"
       },
       {
@@ -126,7 +126,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-07-25T09:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-07-27T06:01:02Z",
+        "processed_at" : "2026-07-27T08:01:02Z",
         "state" : "processed"
       },
       {
@@ -134,7 +134,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-07-22T13:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-07-27T06:01:00Z",
+        "processed_at" : "2026-07-27T08:01:00Z",
         "state" : "processed"
       },
       {
@@ -142,7 +142,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-07-23T00:00:00Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-07-27T06:01:00Z",
+        "processed_at" : "2026-07-27T08:01:00Z",
         "state" : "processed"
       },
       {
@@ -150,7 +150,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-07-25T07:25:38Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-07-27T06:01:01Z",
+        "processed_at" : "2026-07-27T08:01:01Z",
         "state" : "processed"
       },
       {
@@ -158,7 +158,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-07-23T00:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-07-27T06:01:00Z",
+        "processed_at" : "2026-07-27T08:01:00Z",
         "state" : "processed"
       },
       {
@@ -166,7 +166,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-07-25T14:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-07-27T06:01:03Z",
+        "processed_at" : "2026-07-27T08:01:02Z",
         "state" : "processed"
       },
       {
@@ -174,7 +174,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-07-24T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-07-27T06:01:00Z",
+        "processed_at" : "2026-07-27T08:01:00Z",
         "state" : "processed"
       },
       {
@@ -182,14 +182,14 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-07-23T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-07-27T06:01:03Z",
+        "processed_at" : "2026-07-27T08:01:03Z",
         "state" : "processed"
       },
       {
         "article_count" : 9,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-07-27T06:01:02Z",
+        "processed_at" : "2026-07-27T08:01:02Z",
         "state" : "processed"
       }
     ],
