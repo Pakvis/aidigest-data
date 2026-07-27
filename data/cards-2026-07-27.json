@@ -1,6 +1,28 @@
 {
   "cards" : [
     {
+      "created_at" : "2026-07-27T09:32:20Z",
+      "id" : "2026-07-27-ef4879badb6c",
+      "importance" : "low",
+      "key_insights" : [
+        "Why it matters: This advancement could significantly improve surgical precision and patient outcomes by allowing surgeons to visualize and simulate complex surgical procedures in real-time.",
+        "What changed: The introduction of Cosmos-H-Dreams marks a significant step forward in the field of surgical robotics, providing surgeons with a more intuitive and efficient way to perform complex procedures.",
+        "What to watch: Surgeons and researchers will closely monitor the development and implementation of Cosmos-H-Dreams to assess its potential impact on the field of surgery."
+      ],
+      "sources" : [
+        {
+          "source_name" : "Hugging Face Blog",
+          "title" : "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+          "url" : "https:\/\/huggingface.co\/blog\/nvidia\/cosmos-h-dreams"
+        }
+      ],
+      "summary" : "This advancement could significantly improve surgical precision and patient outcomes by allowing surgeons to visualize and simulate complex surgical procedures in real-time.",
+      "title" : "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "topics" : [
+        "Robotics"
+      ]
+    },
+    {
       "created_at" : "2026-07-25T14:00:00Z",
       "id" : "2026-07-27-14732da9032d",
       "importance" : "low",
@@ -20,28 +42,6 @@
       "title" : "Robotics Special: The world's first centaur robo",
       "topics" : [
         "Robotics"
-      ]
-    },
-    {
-      "created_at" : "2026-07-25T09:00:00Z",
-      "id" : "2026-07-27-6078d6afcc79",
-      "importance" : "low",
-      "key_insights" : [
-        "Why it matters: This result highlights the limitations of current AI models and underscores the need for further advancements in AI technology.",
-        "What changed: The poor performance of GPT-5.6 on the ARC-AGI-3 test suggests that the model is not yet capable of performing at the level of a general artificial intelligence system.",
-        "What to watch: Future developments in AI research and the improvement of AI models will be closely monitored to determine whether the limitations of GPT-5.6 can be overcome."
-      ],
-      "sources" : [
-        {
-          "source_name" : "AI Report (NL)",
-          "title" : "OpenAI GPT-5.6: AI kon alles, tot ze ARC-AGI-3 tegenkwam",
-          "url" : "https:\/\/www.aireport.nl\/p\/openai-gpt-5-6-ai-kon-alles-tot-ze-arc-agi-3-tegenkwam"
-        }
-      ],
-      "summary" : "OpenAI GPT-5.6 scored poorly on the ARC-AGI-3 test, which is considered a benchmark for artificial general intelligence.",
-      "title" : "OpenAI GPT-5.6: AI kon alles, tot ze ARC-AGI-3 tegenkwam",
-      "topics" : [
-        "GPT"
       ]
     },
     {
@@ -90,27 +90,49 @@
         "Agents",
         "GPT"
       ]
+    },
+    {
+      "created_at" : "2026-07-25T09:00:00Z",
+      "id" : "2026-07-27-6078d6afcc79",
+      "importance" : "low",
+      "key_insights" : [
+        "Why it matters: This result highlights the limitations of current AI models and underscores the need for further advancements in AI technology.",
+        "What changed: The poor performance of GPT-5.6 on the ARC-AGI-3 test suggests that the model is not yet capable of performing at the level of a general artificial intelligence system.",
+        "What to watch: Future developments in AI research and the improvement of AI models will be closely monitored to determine whether the limitations of GPT-5.6 can be overcome."
+      ],
+      "sources" : [
+        {
+          "source_name" : "AI Report (NL)",
+          "title" : "OpenAI GPT-5.6: AI kon alles, tot ze ARC-AGI-3 tegenkwam",
+          "url" : "https:\/\/www.aireport.nl\/p\/openai-gpt-5-6-ai-kon-alles-tot-ze-arc-agi-3-tegenkwam"
+        }
+      ],
+      "summary" : "OpenAI GPT-5.6 scored poorly on the ARC-AGI-3 test, which is considered a benchmark for artificial general intelligence.",
+      "title" : "OpenAI GPT-5.6: AI kon alles, tot ze ARC-AGI-3 tegenkwam",
+      "topics" : [
+        "GPT"
+      ]
     }
   ],
-  "count" : 4,
+  "count" : 5,
   "date" : "2026-07-27",
-  "generated_at" : "2026-07-27T08:01:00Z",
+  "generated_at" : "2026-07-27T10:01:00Z",
   "processing_report" : {
-    "generated_at" : "2026-07-27T08:01:05Z",
+    "generated_at" : "2026-07-27T10:01:04Z",
     "source_reports" : [
       {
-        "article_count" : 10,
+        "article_count" : 12,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-07-24T13:38:22Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-07-27T08:01:05Z",
+        "processed_at" : "2026-07-27T10:01:04Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-07-27T08:01:03Z",
+        "processed_at" : "2026-07-27T10:01:02Z",
         "state" : "processed"
       },
       {
@@ -118,7 +140,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-07-24T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-07-27T08:01:01Z",
+        "processed_at" : "2026-07-27T10:01:01Z",
         "state" : "processed"
       },
       {
@@ -126,7 +148,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-07-25T09:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-07-27T08:01:02Z",
+        "processed_at" : "2026-07-27T10:01:03Z",
         "state" : "processed"
       },
       {
@@ -134,15 +156,15 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-07-22T13:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-07-27T08:01:00Z",
+        "processed_at" : "2026-07-27T10:01:00Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "huggingface-blog",
-        "latest_article_at" : "2026-07-23T00:00:00Z",
+        "latest_article_at" : "2026-07-27T09:32:20Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-07-27T08:01:00Z",
+        "processed_at" : "2026-07-27T10:01:00Z",
         "state" : "processed"
       },
       {
@@ -150,7 +172,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-07-25T07:25:38Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-07-27T08:01:01Z",
+        "processed_at" : "2026-07-27T10:01:01Z",
         "state" : "processed"
       },
       {
@@ -158,7 +180,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-07-23T00:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-07-27T08:01:00Z",
+        "processed_at" : "2026-07-27T10:01:00Z",
         "state" : "processed"
       },
       {
@@ -166,7 +188,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-07-25T14:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-07-27T08:01:02Z",
+        "processed_at" : "2026-07-27T10:01:03Z",
         "state" : "processed"
       },
       {
@@ -174,7 +196,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-07-24T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-07-27T08:01:00Z",
+        "processed_at" : "2026-07-27T10:01:00Z",
         "state" : "processed"
       },
       {
@@ -182,14 +204,14 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-07-23T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-07-27T08:01:03Z",
+        "processed_at" : "2026-07-27T10:01:04Z",
         "state" : "processed"
       },
       {
         "article_count" : 9,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-07-27T08:01:02Z",
+        "processed_at" : "2026-07-27T10:01:02Z",
         "state" : "processed"
       }
     ],

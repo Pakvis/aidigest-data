@@ -2,6 +2,23 @@
   "cards" : [
     {
       "date" : "2026-07-27",
+      "id" : "2026-07-27-ef4879badb6c",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "Hugging Face Blog",
+          "title" : "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+          "url" : "https:\/\/huggingface.co\/blog\/nvidia\/cosmos-h-dreams"
+        }
+      ],
+      "summary" : "This advancement could significantly improve surgical precision and patient outcomes by allowing surgeons to visualize and simulate complex surgical procedures in real-time.",
+      "title" : "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "topics" : [
+        "Robotics"
+      ]
+    },
+    {
+      "date" : "2026-07-27",
       "id" : "2026-07-27-14732da9032d",
       "importance" : "low",
       "sources" : [
@@ -15,23 +32,6 @@
       "title" : "Robotics Special: The world's first centaur robo",
       "topics" : [
         "Robotics"
-      ]
-    },
-    {
-      "date" : "2026-07-27",
-      "id" : "2026-07-27-6078d6afcc79",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "AI Report (NL)",
-          "title" : "OpenAI GPT-5.6: AI kon alles, tot ze ARC-AGI-3 tegenkwam",
-          "url" : "https:\/\/www.aireport.nl\/p\/openai-gpt-5-6-ai-kon-alles-tot-ze-arc-agi-3-tegenkwam"
-        }
-      ],
-      "summary" : "OpenAI GPT-5.6 scored poorly on the ARC-AGI-3 test, which is considered a benchmark for artificial general intelligence.",
-      "title" : "OpenAI GPT-5.6: AI kon alles, tot ze ARC-AGI-3 tegenkwam",
-      "topics" : [
-        "GPT"
       ]
     },
     {
@@ -68,6 +68,23 @@
       "title" : "OpenAI launches GPT-Live desktop app for agent orchestration",
       "topics" : [
         "Agents",
+        "GPT"
+      ]
+    },
+    {
+      "date" : "2026-07-27",
+      "id" : "2026-07-27-6078d6afcc79",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "AI Report (NL)",
+          "title" : "OpenAI GPT-5.6: AI kon alles, tot ze ARC-AGI-3 tegenkwam",
+          "url" : "https:\/\/www.aireport.nl\/p\/openai-gpt-5-6-ai-kon-alles-tot-ze-arc-agi-3-tegenkwam"
+        }
+      ],
+      "summary" : "OpenAI GPT-5.6 scored poorly on the ARC-AGI-3 test, which is considered a benchmark for artificial general intelligence.",
+      "title" : "OpenAI GPT-5.6: AI kon alles, tot ze ARC-AGI-3 tegenkwam",
+      "topics" : [
         "GPT"
       ]
     },
