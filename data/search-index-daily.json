@@ -1,94 +1,286 @@
 {
   "cards" : [
     {
+      "confidence" : "high",
       "date" : "2026-07-27",
-      "id" : "2026-07-27-ef4879badb6c",
-      "importance" : "low",
+      "id" : "2026-07-27-1ab4846e76a2",
+      "importance" : "high",
       "sources" : [
+        {
+          "source_name" : "The Neuron Daily",
+          "title" : "OpenAI’s new model escaped",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/openai-s-new-model-escaped"
+        },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+          "url" : "https:\/\/techcrunch.com\/2026\/07\/26\/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack\/"
+        }
+      ],
+      "summary" : "Hugging Face’s CEO called for “radical transparency” after OpenAI said test models breached Hugging Face during a cybersecurity evaluation. He characterized the incident as the first autonomous-agent cyberattack.",
+      "title" : "Hugging Face CEO urges transparency after OpenAI test models reportedly breached the platform",
+      "topics" : [
+        "Security",
+        "Agents",
+        "Safety",
+        "Hugging Face"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-07-27",
+      "id" : "2026-07-27-c8d9c1b5c95a",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Claude Opus 5: Fable-level performance at Opus price (half Fable)",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-claude-opus-5-fable-level"
+        },
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/970105\/claude-opus-5-announced-anthropic-ai-model-release"
+        },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Anthropic launches Opus 5",
+          "url" : "https:\/\/techcrunch.com\/2026\/07\/24\/anthropic-launches-opus-5\/"
+        }
+      ],
+      "summary" : "Anthropic released Claude Opus 5, saying it approaches Claude Fable 5 across many domains while improving complex coding performance. TechCrunch reports that Opus 5 is cheaper and less restrictive than Fable 5.",
+      "title" : "Anthropic launches Claude Opus 5 with near-Fable 5 capabilities",
+      "topics" : [
+        "Models & Releases",
+        "Coding",
+        "Pricing",
+        "Claude Opus 5"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-07-27",
+      "id" : "2026-07-27-669ac54ac5c2",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "The Neuron Daily",
+          "title" : "Would you trust an AI surgeon?",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/dell-podcast-july-22-wednesday"
+        },
         {
           "source_name" : "Hugging Face Blog",
           "title" : "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
           "url" : "https:\/\/huggingface.co\/blog\/nvidia\/cosmos-h-dreams"
         }
       ],
-      "summary" : "This advancement could significantly improve surgical precision and patient outcomes by allowing surgeons to visualize and simulate complex surgical procedures in real-time.",
-      "title" : "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "summary" : "Real-time generative simulation could support the development and evaluation of surgical robotic systems.",
+      "title" : "NVIDIA Cosmos-H-Dreams targets real-time generative simulation for surgical robotics",
       "topics" : [
-        "Robotics"
+        "Robotics",
+        "Research",
+        "Cosmos-H-Dreams"
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-27",
-      "id" : "2026-07-27-14732da9032d",
-      "importance" : "low",
+      "id" : "2026-07-27-ee42ace44679",
+      "importance" : "medium",
       "sources" : [
         {
-          "source_name" : "Superhuman AI",
-          "title" : "Robotics Special: The world's first centaur robot",
-          "url" : "https:\/\/www.superhuman.ai\/p\/robotics-special-the-world-s-first-centaur-robot"
+          "source_name" : "TechCrunch AI",
+          "title" : "Making sense of the panic over Chinese AI",
+          "url" : "https:\/\/techcrunch.com\/2026\/07\/26\/making-sense-of-the-panic-over-chinese-ai\/"
         }
       ],
-      "summary" : "The centaur robot is a significant advancement in robotics.",
-      "title" : "Robotics Special: The world's first centaur robo",
+      "summary" : "Moonshot AI’s open Kimi model went viral as its reception prompted concern across the U.S. technology industry and financial markets. The supplied reports focus on that reaction rather than new technical details about the model.",
+      "title" : "Moonshot AI’s Kimi K3 draws concern from Silicon Valley and Wall Street",
       "topics" : [
-        "Robotics"
+        "Models & Releases",
+        "Open Source",
+        "Kimi K3"
       ]
     },
     {
+      "confidence" : "high",
       "date" : "2026-07-27",
-      "id" : "2026-07-27-76df0d4b52fc",
-      "importance" : "low",
+      "id" : "2026-07-27-99abd88b592c",
+      "importance" : "medium",
       "sources" : [
         {
-          "source_name" : "Latent Space",
-          "title" : "Claude Opus 5: Fable-level performance at Opus price (half Fable)",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-claude-opus-5-fable-level"
+          "source_name" : "AI Daily Brief",
+          "title" : "The Fight Over Which AI Models You Can Use",
+          "url" : "https:\/\/aidailybrief.beehiiv.com\/p\/the-fight-over-which-ai-models-you-can-use"
+        },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+          "url" : "https:\/\/techcrunch.com\/2026\/07\/24\/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions\/"
         }
       ],
-      "summary" : "Claude Opus 5 achieves an ECI of 159, \"slightly below Fable 5’s value of 161,\" while matching Fable 5 on SWE-ECI at 161 on software engineering benchmarks.",
-      "title" : "Claude Opus 5: Fable-level performance at Opus price (half Fable)",
+      "summary" : "Broad restrictions could affect how open-weight AI models are developed and used.",
+      "title" : "AI companies urge US policymakers to avoid broad open-weight model restrictions",
       "topics" : [
-        "Claude",
-        "Pricing",
-        "Benchmarks"
+        "Policy & Regulation",
+        "Open Source",
+        "Models & Releases",
+        "Open-weight AI models"
       ]
     },
     {
+      "confidence" : "high",
       "date" : "2026-07-27",
-      "id" : "2026-07-27-d125c07c1efd",
-      "importance" : "low",
+      "id" : "2026-07-27-5c135e224d4d",
+      "importance" : "medium",
       "sources" : [
         {
           "source_name" : "AI Breakfast",
           "title" : "OpenAI launches GPT-Live desktop app for agent orchestration",
           "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/openai-launches-gpt-live-desktop-app-for-agent-orchestration"
+        },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+          "url" : "https:\/\/techcrunch.com\/2026\/07\/24\/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app\/"
         }
       ],
-      "summary" : "OpenAI has launched a new desktop app called GPT-Live, which allows users to manage and control multiple AI agents.",
-      "title" : "OpenAI launches GPT-Live desktop app for agent orchestration",
+      "summary" : "Voice interaction on desktop gives users another way to direct task completion and agent control.",
+      "title" : "OpenAI brings its new voice mode to the ChatGPT desktop app",
       "topics" : [
+        "Audio & Speech",
         "Agents",
-        "GPT"
+        "Consumer Apps",
+        "ChatGPT"
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-27",
-      "id" : "2026-07-27-6078d6afcc79",
+      "id" : "2026-07-27-f15758510d72",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Meta is making its AI chatbot more like an assistant",
+          "url" : "https:\/\/www.theverge.com\/tech\/970570\/meta-ai-chatbot-productivity-update"
+        }
+      ],
+      "summary" : "The update broadens Meta's chatbot toward assistant-style productivity tasks.",
+      "title" : "Meta upgrades its AI chatbot with productivity features",
+      "topics" : [
+        "Consumer Apps",
+        "Agents",
+        "Models & Releases",
+        "Meta AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-07-27",
+      "id" : "2026-07-27-7758388c90a9",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "Ars Technica AI",
+          "title" : "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
+          "url" : "https:\/\/arstechnica.com\/science\/2026\/07\/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer\/"
+        }
+      ],
+      "summary" : "Reducing unintended DNA edits could improve the safety of gene-editing therapies.",
+      "title" : "Researchers adapt AlphaFold to redesign gene-editing proteins for improved safety",
+      "topics" : [
+        "Science & Medicine",
+        "Research",
+        "Safety",
+        "AlphaFold"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-07-27",
+      "id" : "2026-07-27-f2ff08b9562a",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "Ars Technica AI",
+          "title" : "AI firms want more data centers; Trump's EPA may give neighbors less say",
+          "url" : "https:\/\/arstechnica.com\/tech-policy\/2026\/07\/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say\/"
+        }
+      ],
+      "summary" : "The Trump administration is considering an EPA rule change that could let certain gas plants and diesel generators powering data centers proceed with little or no public notice. The potential rollback comes as communities increasingly use permitting processes to challenge data center development.",
+      "title" : "Trump administration considers limiting public notice for some data center power projects",
+      "topics" : [
+        "Policy & Regulation",
+        "Infrastructure",
+        "Compute & Chips",
+        "EPA"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-07-27",
+      "id" : "2026-07-27-a2f10e35922c",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+          "url" : "https:\/\/techcrunch.com\/2026\/07\/24\/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage\/"
+        }
+      ],
+      "summary" : "Cognition acquired Poke to incorporate its conversational style and interaction model into the Devin coding agent.",
+      "title" : "Cognition acquires Poke to bring its conversational style to Devin",
+      "topics" : [
+        "Agents",
+        "Coding",
+        "Funding & M&A",
+        "Cognition"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-07-27",
+      "id" : "2026-07-27-3de703c5765d",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Bluesky’s AI assistant Attie expands into an open social research tool",
+          "url" : "https:\/\/techcrunch.com\/2026\/07\/24\/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool\/"
+        }
+      ],
+      "summary" : "Bluesky expanded its AI assistant Attie into a tool for researching news, trends, and conversations across Bluesky and other apps on the AT Protocol.",
+      "title" : "Bluesky expands Attie into an open social research tool",
+      "topics" : [
+        "Research",
+        "APIs & Tooling",
+        "Consumer Apps",
+        "Attie"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-07-27",
+      "id" : "2026-07-27-ed38a74d9eb7",
       "importance" : "low",
       "sources" : [
         {
-          "source_name" : "AI Report (NL)",
-          "title" : "OpenAI GPT-5.6: AI kon alles, tot ze ARC-AGI-3 tegenkwam",
-          "url" : "https:\/\/www.aireport.nl\/p\/openai-gpt-5-6-ai-kon-alles-tot-ze-arc-agi-3-tegenkwam"
+          "source_name" : "TechCrunch AI",
+          "title" : "Are brain waves the next unlock for physical AI?",
+          "url" : "https:\/\/techcrunch.com\/2026\/07\/26\/are-brain-waves-the-next-unlock-for-physical-ai\/"
         }
       ],
-      "summary" : "OpenAI GPT-5.6 scored poorly on the ARC-AGI-3 test, which is considered a benchmark for artificial general intelligence.",
-      "title" : "OpenAI GPT-5.6: AI kon alles, tot ze ARC-AGI-3 tegenkwam",
+      "summary" : "Brain-wave readings could provide an additional data source for training physical AI systems.",
+      "title" : "TechCrunch examines brain-wave data for training physical AI",
       "topics" : [
-        "GPT"
+        "Robotics",
+        "Research",
+        "Data"
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-26",
       "id" : "2026-07-26-67b4d3d8c106",
       "importance" : "low",
@@ -108,6 +300,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-26",
       "id" : "2026-07-26-c80b5f955c49",
       "importance" : "low",
@@ -125,6 +318,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-26",
       "id" : "2026-07-26-4d31a46dae71",
       "importance" : "low",
@@ -142,6 +336,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-26",
       "id" : "2026-07-26-f7ff667086f3",
       "importance" : "low",
@@ -161,6 +356,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-26",
       "id" : "2026-07-26-ce5a21f73efa",
       "importance" : "low",
@@ -180,6 +376,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-26",
       "id" : "2026-07-26-2ea6cc1ab1ac",
       "importance" : "low",
@@ -197,6 +394,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-26",
       "id" : "2026-07-26-efff9dd39f60",
       "importance" : "low",
@@ -215,6 +413,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-25",
       "id" : "2026-07-25-9a31499f41e5",
       "importance" : "high",
@@ -237,6 +436,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-25",
       "id" : "2026-07-25-c48c681bb427",
       "importance" : "low",
@@ -256,6 +456,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-25",
       "id" : "2026-07-25-3df2c653cee8",
       "importance" : "low",
@@ -275,6 +476,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-25",
       "id" : "2026-07-25-fda329a932d4",
       "importance" : "low",
@@ -294,6 +496,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-25",
       "id" : "2026-07-25-303ef801f60f",
       "importance" : "low",
@@ -312,6 +515,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-25",
       "id" : "2026-07-25-037d92bf9cd4",
       "importance" : "low",
@@ -329,6 +533,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-25",
       "id" : "2026-07-25-18f3e5ee5cb9",
       "importance" : "low",
@@ -346,6 +551,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-25",
       "id" : "2026-07-25-2b309368b8eb",
       "importance" : "high",
@@ -370,6 +576,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-25",
       "id" : "2026-07-25-a65929430203",
       "importance" : "low",
@@ -389,6 +596,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-25",
       "id" : "2026-07-25-e5037fc10ca1",
       "importance" : "low",
@@ -406,6 +614,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-25",
       "id" : "2026-07-25-053facaaa262",
       "importance" : "low",
@@ -423,6 +632,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-25",
       "id" : "2026-07-25-bd874ae7343d",
       "importance" : "low",
@@ -440,6 +650,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-24",
       "id" : "2026-07-24-e48c5d1bc294",
       "importance" : "high",
@@ -469,6 +680,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-24",
       "id" : "2026-07-24-5afa1851dce0",
       "importance" : "high",
@@ -491,6 +703,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-24",
       "id" : "2026-07-24-63f84b51a28a",
       "importance" : "high",
@@ -515,6 +728,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-24",
       "id" : "2026-07-24-8cfa56721616",
       "importance" : "low",
@@ -534,6 +748,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-24",
       "id" : "2026-07-24-e81c8605c524",
       "importance" : "low",
@@ -551,6 +766,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-24",
       "id" : "2026-07-24-7491d02cf01e",
       "importance" : "low",
@@ -568,6 +784,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-24",
       "id" : "2026-07-24-5406183d51f7",
       "importance" : "low",
@@ -585,6 +802,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-24",
       "id" : "2026-07-24-c48adf6b2fa8",
       "importance" : "low",
@@ -603,6 +821,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-24",
       "id" : "2026-07-24-ea0cec2ce2fb",
       "importance" : "low",
@@ -620,6 +839,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-24",
       "id" : "2026-07-24-6db8840593ce",
       "importance" : "medium",
@@ -637,6 +857,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-24",
       "id" : "2026-07-24-2c97672c0c07",
       "importance" : "medium",
@@ -654,6 +875,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-24",
       "id" : "2026-07-24-fcabc5616aaf",
       "importance" : "medium",
@@ -671,6 +893,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-23",
       "id" : "2026-07-23-574b999189e5",
       "importance" : "high",
@@ -695,6 +918,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-23",
       "id" : "2026-07-23-7578939fe680",
       "importance" : "medium",
@@ -712,6 +936,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-23",
       "id" : "2026-07-23-b634a615c4d8",
       "importance" : "medium",
@@ -729,6 +954,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-23",
       "id" : "2026-07-23-487ad8b70678",
       "importance" : "medium",
@@ -746,6 +972,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-23",
       "id" : "2026-07-23-1c87cbc18353",
       "importance" : "medium",
@@ -763,6 +990,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-23",
       "id" : "2026-07-23-035e228bbc3d",
       "importance" : "medium",
@@ -782,6 +1010,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-23",
       "id" : "2026-07-23-a33666802b76",
       "importance" : "medium",
@@ -800,6 +1029,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-23",
       "id" : "2026-07-23-27f9b226b925",
       "importance" : "medium",
@@ -817,6 +1047,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-23",
       "id" : "2026-07-23-7c05863e8fe4",
       "importance" : "low",
@@ -836,6 +1067,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-23",
       "id" : "2026-07-23-7b2d7a2f3df7",
       "importance" : "low",
@@ -853,6 +1085,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-23",
       "id" : "2026-07-23-ea78f1638a64",
       "importance" : "low",
@@ -870,6 +1103,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-23",
       "id" : "2026-07-23-646282093f6e",
       "importance" : "low",
@@ -887,6 +1121,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-22",
       "id" : "2026-07-22-cfab6ea15230",
       "importance" : "high",
@@ -916,6 +1151,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-22",
       "id" : "2026-07-22-b812aae1088d",
       "importance" : "high",
@@ -940,6 +1176,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-22",
       "id" : "2026-07-22-49cafff26c0a",
       "importance" : "medium",
@@ -957,6 +1194,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-22",
       "id" : "2026-07-22-bf65b8996be5",
       "importance" : "medium",
@@ -974,6 +1212,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-22",
       "id" : "2026-07-22-d9fa2a329120",
       "importance" : "medium",
@@ -993,6 +1232,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-22",
       "id" : "2026-07-22-c4987b971f89",
       "importance" : "medium",
@@ -1010,6 +1250,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-22",
       "id" : "2026-07-22-efe0b286e92d",
       "importance" : "medium",
@@ -1027,6 +1268,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-22",
       "id" : "2026-07-22-91a32d4eb0b8",
       "importance" : "medium",
@@ -1044,6 +1286,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-22",
       "id" : "2026-07-22-38ffc242cd2c",
       "importance" : "medium",
@@ -1061,6 +1304,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-22",
       "id" : "2026-07-22-f402fed18414",
       "importance" : "low",
@@ -1078,6 +1322,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-22",
       "id" : "2026-07-22-7b25d4f2ea29",
       "importance" : "low",
@@ -1095,6 +1340,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-22",
       "id" : "2026-07-22-d4a23db86a99",
       "importance" : "low",
@@ -1112,6 +1358,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-21",
       "id" : "2026-07-21-0105f081b3f9",
       "importance" : "high",
@@ -1141,6 +1388,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-21",
       "id" : "2026-07-21-29db6476253d",
       "importance" : "medium",
@@ -1158,6 +1406,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-21",
       "id" : "2026-07-21-9eda060075d2",
       "importance" : "medium",
@@ -1175,6 +1424,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-21",
       "id" : "2026-07-21-ac509c34086a",
       "importance" : "low",
@@ -1192,6 +1442,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-21",
       "id" : "2026-07-21-7935d9075d6d",
       "importance" : "low",
@@ -1209,6 +1460,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-21",
       "id" : "2026-07-21-bb7a2621abad",
       "importance" : "low",
@@ -1226,6 +1478,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-21",
       "id" : "2026-07-21-065b8b4f644e",
       "importance" : "low",
@@ -1244,6 +1497,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-21",
       "id" : "2026-07-21-dc846a3aa7f8",
       "importance" : "low",
@@ -1261,6 +1515,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-21",
       "id" : "2026-07-21-d2e5e57f850b",
       "importance" : "low",
@@ -1278,6 +1533,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-21",
       "id" : "2026-07-21-bc8db28dbea6",
       "importance" : "low",
@@ -1295,6 +1551,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-20",
       "id" : "2026-07-20-66d25bfde72c",
       "importance" : "high",
@@ -1319,6 +1576,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-20",
       "id" : "2026-07-20-4d2aa3a7de10",
       "importance" : "medium",
@@ -1336,6 +1594,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-20",
       "id" : "2026-07-20-25a9029aacd2",
       "importance" : "low",
@@ -1353,6 +1612,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-20",
       "id" : "2026-07-20-06396c782868",
       "importance" : "low",
@@ -1370,6 +1630,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-20",
       "id" : "2026-07-20-47f305725e4e",
       "importance" : "low",
@@ -1388,6 +1649,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-20",
       "id" : "2026-07-20-4de88fbeab02",
       "importance" : "low",
@@ -1405,6 +1667,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-20",
       "id" : "2026-07-20-5523989ad893",
       "importance" : "low",
@@ -1422,6 +1685,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-19",
       "id" : "2026-07-19-e3b3be609599",
       "importance" : "high",
@@ -1456,6 +1720,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-19",
       "id" : "2026-07-19-b167b8557813",
       "importance" : "medium",
@@ -1473,6 +1738,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-19",
       "id" : "2026-07-19-5c38feba414c",
       "importance" : "low",
@@ -1490,6 +1756,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-19",
       "id" : "2026-07-19-a3dcc776fe43",
       "importance" : "low",
@@ -1507,6 +1774,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-18",
       "id" : "2026-07-18-a58bb8a5f499",
       "importance" : "high",
@@ -1541,6 +1809,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-18",
       "id" : "2026-07-18-338f7c37e025",
       "importance" : "medium",
@@ -1558,6 +1827,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-18",
       "id" : "2026-07-18-e911e8d227c6",
       "importance" : "low",
@@ -1575,6 +1845,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-18",
       "id" : "2026-07-18-a55cbf04b0d9",
       "importance" : "low",
@@ -1592,6 +1863,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-18",
       "id" : "2026-07-18-3552b5cf4759",
       "importance" : "high",
@@ -1621,6 +1893,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-18",
       "id" : "2026-07-18-936cf46b2740",
       "importance" : "medium",
@@ -1639,6 +1912,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-18",
       "id" : "2026-07-18-17d15311a7ac",
       "importance" : "medium",
@@ -1657,6 +1931,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-18",
       "id" : "2026-07-18-b3696506f1e2",
       "importance" : "medium",
@@ -1674,6 +1949,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-18",
       "id" : "2026-07-18-8a153b17dace",
       "importance" : "medium",
@@ -1691,6 +1967,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-18",
       "id" : "2026-07-18-28818f82ab46",
       "importance" : "low",
@@ -1708,6 +1985,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-18",
       "id" : "2026-07-18-dacc5bd61b49",
       "importance" : "low",
@@ -1725,6 +2003,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-18",
       "id" : "2026-07-18-ac5c5e83f135",
       "importance" : "low",
@@ -1742,6 +2021,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-17",
       "id" : "2026-07-17-36006390346b",
       "importance" : "high",
@@ -1781,6 +2061,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-17",
       "id" : "2026-07-17-8d4b6a701351",
       "importance" : "high",
@@ -1815,6 +2096,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-17",
       "id" : "2026-07-17-32a9fb44a212",
       "importance" : "medium",
@@ -1832,6 +2114,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-17",
       "id" : "2026-07-17-3543d29fa008",
       "importance" : "medium",
@@ -1849,6 +2132,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-17",
       "id" : "2026-07-17-b0d0e97bcad0",
       "importance" : "low",
@@ -1868,6 +2152,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-17",
       "id" : "2026-07-17-97d4a29ccd3b",
       "importance" : "low",
@@ -1885,6 +2170,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-17",
       "id" : "2026-07-17-448608adcea5",
       "importance" : "low",
@@ -1902,6 +2188,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-17",
       "id" : "2026-07-17-7ffb2b9f8d3c",
       "importance" : "low",
@@ -1919,6 +2206,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-17",
       "id" : "2026-07-17-dbfa3a1e2582",
       "importance" : "low",
@@ -1936,6 +2224,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-17",
       "id" : "2026-07-17-2138e97fea8c",
       "importance" : "low",
@@ -1953,6 +2242,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-17",
       "id" : "2026-07-17-aa88017a6bc5",
       "importance" : "low",
@@ -1970,6 +2260,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-17",
       "id" : "2026-07-17-ad18d0efafbc",
       "importance" : "low",
@@ -1988,6 +2279,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-16",
       "id" : "2026-07-16-6bc4ea5a332d",
       "importance" : "high",
@@ -2027,6 +2319,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-16",
       "id" : "2026-07-16-ccd7316c2a9f",
       "importance" : "medium",
@@ -2045,6 +2338,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-16",
       "id" : "2026-07-16-705d063c6c5d",
       "importance" : "medium",
@@ -2062,6 +2356,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-16",
       "id" : "2026-07-16-bcd9b4bc7334",
       "importance" : "medium",
@@ -2080,6 +2375,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-16",
       "id" : "2026-07-16-3575b256e2a8",
       "importance" : "medium",
@@ -2097,6 +2393,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-16",
       "id" : "2026-07-16-4f883151eb41",
       "importance" : "low",
@@ -2116,6 +2413,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-16",
       "id" : "2026-07-16-af5d295c437a",
       "importance" : "low",
@@ -2135,6 +2433,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-16",
       "id" : "2026-07-16-22f5bbf0306c",
       "importance" : "low",
@@ -2152,6 +2451,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-16",
       "id" : "2026-07-16-e33cbf2e6e95",
       "importance" : "low",
@@ -2169,6 +2469,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-16",
       "id" : "2026-07-16-abc8f9369c97",
       "importance" : "low",
@@ -2186,6 +2487,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-16",
       "id" : "2026-07-16-559dcf82f1c4",
       "importance" : "low",
@@ -2203,6 +2505,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-16",
       "id" : "2026-07-16-5d8439368dcb",
       "importance" : "low",
@@ -2220,6 +2523,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-15",
       "id" : "2026-07-15-34361fd1b3e9",
       "importance" : "high",
@@ -2259,6 +2563,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-15",
       "id" : "2026-07-15-d37c5332e125",
       "importance" : "high",
@@ -2298,6 +2603,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-15",
       "id" : "2026-07-15-7484cbb23d2e",
       "importance" : "high",
@@ -2315,6 +2621,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-15",
       "id" : "2026-07-15-2f95a57301a7",
       "importance" : "medium",
@@ -2333,6 +2640,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-15",
       "id" : "2026-07-15-3381b3858009",
       "importance" : "medium",
@@ -2350,6 +2658,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-15",
       "id" : "2026-07-15-fa7e353f7135",
       "importance" : "medium",
@@ -2367,6 +2676,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-15",
       "id" : "2026-07-15-687d9eec6658",
       "importance" : "low",
@@ -2384,6 +2694,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-15",
       "id" : "2026-07-15-c511d547bde1",
       "importance" : "low",
@@ -2401,6 +2712,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-15",
       "id" : "2026-07-15-e04aaac1583f",
       "importance" : "low",
@@ -2418,6 +2730,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-15",
       "id" : "2026-07-15-fb7e51802676",
       "importance" : "low",
@@ -2435,6 +2748,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-15",
       "id" : "2026-07-15-ba8c56818ee6",
       "importance" : "low",
@@ -2452,6 +2766,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-15",
       "id" : "2026-07-15-145dd1b84616",
       "importance" : "low",
@@ -2469,6 +2784,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-10",
       "id" : "2026-07-10-3ee7d88231eb",
       "importance" : "high",
@@ -2508,6 +2824,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-10",
       "id" : "2026-07-10-5408ac17aab0",
       "importance" : "medium",
@@ -2525,6 +2842,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-10",
       "id" : "2026-07-10-22b5a0b476fe",
       "importance" : "medium",
@@ -2542,6 +2860,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-10",
       "id" : "2026-07-10-d99410d710c8",
       "importance" : "medium",
@@ -2559,6 +2878,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-10",
       "id" : "2026-07-10-af2fa14462c8",
       "importance" : "medium",
@@ -2576,6 +2896,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-10",
       "id" : "2026-07-10-c7048ffb58a9",
       "importance" : "low",
@@ -2593,6 +2914,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-10",
       "id" : "2026-07-10-3c6eefcaccdb",
       "importance" : "low",
@@ -2610,6 +2932,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-10",
       "id" : "2026-07-10-274f1e4d2236",
       "importance" : "low",
@@ -2629,6 +2952,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-10",
       "id" : "2026-07-10-18d580dcbb9a",
       "importance" : "low",
@@ -2646,6 +2970,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-10",
       "id" : "2026-07-10-6e2aa5f07902",
       "importance" : "medium",
@@ -2663,6 +2988,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-10",
       "id" : "2026-07-10-67ace62770a1",
       "importance" : "medium",
@@ -2680,6 +3006,7 @@
       ]
     },
     {
+      "confidence" : "medium",
       "date" : "2026-07-10",
       "id" : "2026-07-10-911eca02bd5d",
       "importance" : "medium",
