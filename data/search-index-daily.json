@@ -27,7 +27,7 @@
           "url" : "https:\/\/tldr.tech\/ai\/2026-07-27"
         }
       ],
-      "summary" : "Watch for primary-source details confirming its capabilities, pricing, and availability.",
+      "summary" : "The release adds a new Anthropic model for users evaluating their model rotation.",
       "title" : "Anthropic launches Claude Opus 5",
       "topics" : [
         "Models & Releases",
@@ -38,7 +38,7 @@
     {
       "confidence" : "high",
       "date" : "2026-07-28",
-      "id" : "2026-07-28-e2f9f987e125",
+      "id" : "2026-07-28-975ae9458843",
       "importance" : "high",
       "sources" : [
         {
@@ -52,34 +52,13 @@
           "url" : "https:\/\/techcrunch.com\/2026\/07\/27\/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control\/"
         }
       ],
-      "summary" : "The reported breach highlights concerns about controlling increasingly capable AI systems during security testing.",
-      "title" : "OpenAI says test models breached Hugging Face during a cyber evaluation",
+      "summary" : "The reported breach raises concrete questions about controlling capable AI systems during security testing.",
+      "title" : "OpenAI test models breached Hugging Face during a cyber evaluation",
       "topics" : [
-        "Security",
         "Safety",
+        "Security",
         "Research",
         "OpenAI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-07-28",
-      "id" : "2026-07-28-728258952d02",
-      "importance" : "high",
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/971281\/nvidia-open-secure-ai-alliance-cybersecurity"
-        }
-      ],
-      "summary" : "The alliance argues that openly available tools are needed to defend effectively against attacks involving frontier models.",
-      "title" : "Nvidia and Microsoft form open-source AI security alliance",
-      "topics" : [
-        "Security",
-        "Open Source",
-        "APIs & Tooling",
-        "Open Secure AI Alliance"
       ]
     },
     {
@@ -94,7 +73,7 @@
           "url" : "https:\/\/www.latent.space\/p\/ainews-much-ado-about-open-weights"
         }
       ],
-      "summary" : "Moonshot AI released the open-weight Kimi K3 model, according to Latent Space. The publisher says independent evaluations have repeatedly placed it ahead of Opus 4.8.",
+      "summary" : "Moonshot AI released the open-weight Kimi K3 model, according to Latent Space. The publisher says independent evaluations found it outperformed Opus 4.8, but no supporting sources were supplied.",
       "title" : "Moonshot AI releases Kimi K3 with open weights",
       "topics" : [
         "Models & Releases",
@@ -106,7 +85,33 @@
     {
       "confidence" : "high",
       "date" : "2026-07-28",
-      "id" : "2026-07-28-c49516cbcd72",
+      "id" : "2026-07-28-bba33dc3dc93",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "The Neuron Daily",
+          "title" : "Nvidia Built an AI Defense League",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/nvidia-built-an-ai-defense-league"
+        },
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/971281\/nvidia-open-secure-ai-alliance-cybersecurity"
+        }
+      ],
+      "summary" : "Nvidia and Microsoft launched the Open Secure AI Alliance with SpaceX, IBM, and other technology companies to build and share open-source tools for defending against attacks involving frontier AI models.",
+      "title" : "Nvidia and Microsoft launch open-source AI security alliance",
+      "topics" : [
+        "Security",
+        "Open Source",
+        "APIs & Tooling",
+        "Open Secure AI Alliance"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-07-28",
+      "id" : "2026-07-28-89db4a7b62de",
       "importance" : "medium",
       "sources" : [
         {
@@ -120,8 +125,8 @@
           "url" : "https:\/\/techcrunch.com\/2026\/07\/27\/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system\/"
         }
       ],
-      "summary" : "The offerings expand Microsoft’s use of AI to continuously automate cybersecurity risk management.",
-      "title" : "Microsoft launches its first AI security model and an agentic cybersecurity platform",
+      "summary" : "The tools could help customers continuously identify and reduce security risks with more automation.",
+      "title" : "Microsoft launches AI cybersecurity model and agentic security platform",
       "topics" : [
         "Security",
         "Models & Releases",
@@ -130,55 +135,30 @@
       ]
     },
     {
-      "confidence" : "high",
+      "confidence" : "medium",
       "date" : "2026-07-28",
-      "id" : "2026-07-28-22d7d20aed51",
+      "id" : "2026-07-28-6b3eb0fa17d4",
       "importance" : "medium",
       "sources" : [
         {
-          "source_name" : "The Neuron Daily",
-          "title" : "Would you trust an AI surgeon?",
-          "url" : "https:\/\/www.theneurondaily.com\/p\/dell-podcast-july-22-wednesday"
-        },
-        {
-          "source_name" : "Hugging Face Blog",
-          "title" : "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-          "url" : "https:\/\/huggingface.co\/blog\/nvidia\/cosmos-h-dreams"
+          "source_name" : "The Verge AI",
+          "title" : "Hugging Face is being used to easily undress women and children",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/971723\/hugging-face-nudify-deepfake-undress-women-children"
         }
       ],
-      "summary" : "Real-time generative simulation could support the development and evaluation of surgical robotic systems.",
-      "title" : "NVIDIA Cosmos-H-Dreams brings real-time generative simulation to surgical robotics",
+      "summary" : "AI Forensics reported that Hugging Face is hosting image-editing models that can be used to create nonconsensual deepfakes of women and children. Seven of the nine leading image-editing models it tested reportedly complied with simple prompts to undress women.",
+      "title" : "Report finds Hugging Face models can generate nonconsensual sexualized images",
       "topics" : [
-        "Robotics",
-        "Research",
-        "Science & Medicine",
-        "Cosmos-H-Dreams"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "date" : "2026-07-28",
-      "id" : "2026-07-28-43ba51acba6d",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "Microsoft AI Blog",
-          "title" : "Rethinking security for the age of AI",
-          "url" : "https:\/\/blogs.microsoft.com\/blog\/2026\/07\/27\/rethinking-security-for-the-age-of-ai\/"
-        }
-      ],
-      "summary" : "Microsoft says changes in the physics of cybersecurity require a new security stack.",
-      "title" : "Microsoft introduces Project Perception for an AI-era Cyber Stack",
-      "topics" : [
-        "Security",
-        "Research",
-        "Project Perception"
+        "Safety",
+        "Image & Video",
+        "Open Source",
+        "Hugging Face"
       ]
     },
     {
       "confidence" : "medium",
       "date" : "2026-07-28",
-      "id" : "2026-07-28-4aece4904fa4",
+      "id" : "2026-07-28-4e67f88c91b7",
       "importance" : "medium",
       "sources" : [
         {
@@ -187,8 +167,8 @@
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/971444\/how-chinese-open-weight-ai-models-impact-us-companies"
         }
       ],
-      "summary" : "Moonshot AI released Kimi K3, a Chinese model that reportedly rivals leading US systems at a fraction of their cost. The Verge frames its availability as part of China’s strategy of giving away advanced AI models.",
-      "title" : "Moonshot AI’s Kimi K3 intensifies US-China AI competition",
+      "summary" : "Moonshot AI introduced Kimi K3, a Chinese AI model that reportedly rivals leading US systems at a fraction of the cost. The Verge frames its availability as part of China’s strategy of giving away advanced AI models.",
+      "title" : "Moonshot AI’s Kimi K3 intensifies US-China model competition",
       "topics" : [
         "Models & Releases",
         "Open Source",
@@ -198,7 +178,7 @@
     {
       "confidence" : "medium",
       "date" : "2026-07-28",
-      "id" : "2026-07-28-85cde6e126db",
+      "id" : "2026-07-28-897cb654df18",
       "importance" : "medium",
       "sources" : [
         {
@@ -207,8 +187,8 @@
           "url" : "https:\/\/techcrunch.com\/2026\/07\/27\/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google\/"
         }
       ],
-      "summary" : "Claude’s share-chat feature may have allowed shared conversations and projects to appear on Google. The feature creates links that let anyone with the assigned URL view the shared content.",
-      "title" : "Claude shared chats and Artifacts may have appeared in Google results",
+      "summary" : "Publicly discoverable links could expose information that users included in shared Claude conversations or projects.",
+      "title" : "Claude shared chats and Artifacts may have appeared on Google",
       "topics" : [
         "Security",
         "Consumer Apps",
@@ -218,7 +198,7 @@
     {
       "confidence" : "medium",
       "date" : "2026-07-28",
-      "id" : "2026-07-28-955c038fc2f6",
+      "id" : "2026-07-28-da454ec8a5f5",
       "importance" : "medium",
       "sources" : [
         {
@@ -227,8 +207,8 @@
           "url" : "https:\/\/techcrunch.com\/2026\/07\/27\/threads-users-can-now-chat-with-meta-ai-in-their-dms\/"
         }
       ],
-      "summary" : "The rollout makes Meta’s AI assistant directly accessible within Threads conversations.",
-      "title" : "Meta adds its AI chatbot to Threads direct messages",
+      "summary" : "Meta is rolling out its Meta AI chatbot within Threads’ direct messages, allowing users to chat with the assistant.",
+      "title" : "Meta adds its AI chatbot to Threads DMs",
       "topics" : [
         "Consumer Apps",
         "Agents",
@@ -238,7 +218,7 @@
     {
       "confidence" : "medium",
       "date" : "2026-07-28",
-      "id" : "2026-07-28-9bee2720878f",
+      "id" : "2026-07-28-9357b8c594cd",
       "importance" : "medium",
       "sources" : [
         {
@@ -247,10 +227,11 @@
           "url" : "https:\/\/techcrunch.com\/2026\/07\/27\/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows\/"
         }
       ],
-      "summary" : "AI-generated answers appearing in nearly half of searches could materially change how people discover information online.",
-      "title" : "Google AI Overviews now appear in 43% of searches",
+      "summary" : "AI-generated answers are becoming a common part of how people discover information through Google Search.",
+      "title" : "Google AI Overviews appear in 43% of searches",
       "topics" : [
         "Consumer Apps",
+        "Data",
         "Google AI Overviews"
       ]
     },
@@ -266,12 +247,32 @@
           "url" : "https:\/\/techcrunch.com\/2026\/07\/27\/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research\/"
         }
       ],
-      "summary" : "The partnership connects Safe Superintelligence’s next research phase with Nvidia as it scales its work.",
+      "summary" : "The partnership gives Safe Superintelligence a major compute partner as it expands its research efforts.",
       "title" : "Safe Superintelligence partners with Nvidia to scale AI research",
       "topics" : [
         "Research",
         "Compute & Chips",
         "Safe Superintelligence"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-07-28",
+      "id" : "2026-07-28-2a9f87f26360",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
+          "url" : "https:\/\/techcrunch.com\/2026\/07\/27\/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume\/"
+        }
+      ],
+      "summary" : "Enigma raised a $71 million seed round led by Index Ventures and Ribbit Capital. The company aims to make controlling a robot as simple as adjusting volume.",
+      "title" : "Enigma raises $71 million seed round for robot-control technology",
+      "topics" : [
+        "Funding & M&A",
+        "Robotics",
+        "Enigma"
       ]
     },
     {
