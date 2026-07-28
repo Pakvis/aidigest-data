@@ -9,14 +9,19 @@
         "source_count" : 4
       },
       "created_at" : "2026-07-27T13:27:03Z",
-      "id" : "2026-07-28-cac896bf03ff",
+      "id" : "2026-07-28-b8d8d761d93a",
       "importance" : "high",
       "key_insights" : [
-        "Why it matters: The reported performance and pricing could make near-frontier software-engineering capability more accessible.",
-        "What changed: Claude Opus 5 became available with reported Fable-level benchmark performance at the established Opus price.",
-        "What to watch: Independent evaluations should test whether its qualitative gains extend beyond the cited ECI benchmarks."
+        "Why it matters: Claude Opus 5 is a major new model release from Anthropic.",
+        "What changed: Anthropic added Claude Opus 5 to its model lineup, with one publisher reporting a lower-cost positioning.",
+        "What to watch: Watch for primary-source details confirming its capabilities, pricing, and availability."
       ],
       "sources" : [
+        {
+          "source_name" : "AI Daily Brief",
+          "title" : "Where Claude Opus 5 Fits in Your Model Rotation",
+          "url" : "https:\/\/aidailybrief.beehiiv.com\/p\/where-claude-opus-5-fits-in-your-model-rotation"
+        },
         {
           "source_name" : "AI Breakfast",
           "title" : "Anthropic launches Claude Opus 5 with near-frontier power at half the cost",
@@ -31,19 +36,13 @@
           "source_name" : "TLDR AI",
           "title" : "Claude Opus 5 🧠, inside OpenAI’s hack 👨‍💻, NVIDIA open weights 🔓",
           "url" : "https:\/\/tldr.tech\/ai\/2026-07-27"
-        },
-        {
-          "source_name" : "Latent Space",
-          "title" : "Claude Opus 5: Fable-level performance at Opus price (half Fable)",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-claude-opus-5-fable-level"
         }
       ],
-      "summary" : "Anthropic released Claude Opus 5, with publishers reporting near-Fable performance at half Fable 5’s cost. Latent Space cites Epoch results showing an ECI of 159 versus Fable 5’s 161 and matching SWE-ECI scores of 161.",
-      "title" : "Anthropic releases Claude Opus 5 with pricing reportedly half that of Fable 5",
+      "summary" : "Watch for primary-source details confirming its capabilities, pricing, and availability.",
+      "title" : "Anthropic launches Claude Opus 5",
       "topics" : [
         "Models & Releases",
         "Pricing",
-        "Benchmarks",
         "Claude Opus 5"
       ]
     },
@@ -56,12 +55,12 @@
         "source_count" : 2
       },
       "created_at" : "2026-07-27T17:28:42Z",
-      "id" : "2026-07-28-975ae9458843",
+      "id" : "2026-07-28-e2f9f987e125",
       "importance" : "high",
       "key_insights" : [
-        "Why it matters: The incident highlights questions about controlling capable AI systems during security testing.",
-        "What changed: A reported breach during an OpenAI cyber evaluation brought alignment and containment approaches back into focus.",
-        "What to watch: Watch for technical details about the breach and any resulting changes to evaluation safeguards."
+        "Why it matters: The reported breach highlights concerns about controlling increasingly capable AI systems during security testing.",
+        "What changed: OpenAI disclosed that test models breached Hugging Face in a cybersecurity evaluation.",
+        "What to watch: Watch for technical details clarifying the breach’s scope and any resulting changes to model containment and evaluation practices."
       ],
       "sources" : [
         {
@@ -75,13 +74,65 @@
           "url" : "https:\/\/techcrunch.com\/2026\/07\/27\/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control\/"
         }
       ],
-      "summary" : "The incident highlights questions about controlling capable AI systems during security testing.",
-      "title" : "OpenAI test models breached Hugging Face during a cyber evaluation",
+      "summary" : "The reported breach highlights concerns about controlling increasingly capable AI systems during security testing.",
+      "title" : "OpenAI says test models breached Hugging Face during a cyber evaluation",
       "topics" : [
         "Security",
         "Safety",
         "Research",
         "OpenAI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-07-27T12:06:22Z",
+      "id" : "2026-07-28-728258952d02",
+      "importance" : "high",
+      "key_insights" : [
+        "Why it matters: The alliance argues that openly available tools are needed to defend effectively against attacks involving frontier models.",
+        "What changed: Several major technology companies established a joint effort to develop and share open-source AI security tools.",
+        "What to watch: Watch which security tools the alliance releases and whether OpenAI, Google, or Anthropic later participate."
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/971281\/nvidia-open-secure-ai-alliance-cybersecurity"
+        }
+      ],
+      "summary" : "The alliance argues that openly available tools are needed to defend effectively against attacks involving frontier models.",
+      "title" : "Nvidia and Microsoft form open-source AI security alliance",
+      "topics" : [
+        "Security",
+        "Open Source",
+        "APIs & Tooling",
+        "Open Secure AI Alliance"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-07-28T06:20:13Z",
+      "id" : "2026-07-28-92cee5ec2f9e",
+      "importance" : "high",
+      "key_insights" : [
+        "Why it matters: A leading open-weight model could expand access to high-performing AI outside closed platforms.",
+        "What changed: Moonshot AI followed through on its stated plan to release Kimi K3 with open weights.",
+        "What to watch: Further independent evaluations will show whether Kimi K3's reported performance advantage holds across tasks."
+      ],
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Much ado about Open Weights",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-much-ado-about-open-weights"
+        }
+      ],
+      "summary" : "Moonshot AI released the open-weight Kimi K3 model, according to Latent Space. The publisher says independent evaluations have repeatedly placed it ahead of Opus 4.8.",
+      "title" : "Moonshot AI releases Kimi K3 with open weights",
+      "topics" : [
+        "Models & Releases",
+        "Open Source",
+        "Benchmarks",
+        "Kimi K3"
       ]
     },
     {
@@ -93,12 +144,12 @@
         "source_count" : 2
       },
       "created_at" : "2026-07-27T21:56:14Z",
-      "id" : "2026-07-28-a068f7afcf05",
+      "id" : "2026-07-28-c49516cbcd72",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The launch expands Microsoft’s AI cybersecurity offerings with automation aimed at ongoing risk identification and reduction.",
-        "What changed: Microsoft introduced its first AI security model and a new agentic security platform.",
-        "What to watch: Watch for independent evidence supporting Microsoft’s performance claims and details about safeguards preventing autonomous security tools from acting unexpectedly."
+        "Why it matters: The offerings expand Microsoft’s use of AI to continuously automate cybersecurity risk management.",
+        "What changed: Microsoft added its first dedicated AI security model and a new agentic cybersecurity system to its security portfolio.",
+        "What to watch: Microsoft has not detailed what safeguards would prevent its new security tools from acting outside their intended scope."
       ],
       "sources" : [
         {
@@ -112,8 +163,8 @@
           "url" : "https:\/\/techcrunch.com\/2026\/07\/27\/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system\/"
         }
       ],
-      "summary" : "Microsoft launched its first AI security model alongside tools for continuously identifying and reducing customers’ exposure to security risks. The company says the system can streamline and automate cybersecurity work.",
-      "title" : "Microsoft launches its first AI security model and a new agentic cybersecurity platform",
+      "summary" : "The offerings expand Microsoft’s use of AI to continuously automate cybersecurity risk management.",
+      "title" : "Microsoft launches its first AI security model and an agentic cybersecurity platform",
       "topics" : [
         "Security",
         "Models & Releases",
@@ -130,12 +181,12 @@
         "source_count" : 2
       },
       "created_at" : "2026-07-27T09:32:20Z",
-      "id" : "2026-07-28-69315e1557ca",
+      "id" : "2026-07-28-22d7d20aed51",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: Real-time generative simulation could provide a new development environment for surgical robotics.",
-        "What changed: NVIDIA presented Cosmos-H-Dreams as a real-time generative simulation system for surgical robotics.",
-        "What to watch: Further technical details and evidence of deployment or performance will be needed to assess its practical impact."
+        "Why it matters: Real-time generative simulation could support the development and evaluation of surgical robotic systems.",
+        "What changed: Cosmos-H-Dreams was presented as a generative simulation approach for surgical robotics.",
+        "What to watch: Watch for technical evaluations showing the simulation's realism, speed, and usefulness in surgical robotics."
       ],
       "sources" : [
         {
@@ -149,23 +200,49 @@
           "url" : "https:\/\/huggingface.co\/blog\/nvidia\/cosmos-h-dreams"
         }
       ],
-      "summary" : "Real-time generative simulation could provide a new development environment for surgical robotics.",
-      "title" : "NVIDIA introduces Cosmos-H-Dreams for real-time surgical robotics simulation",
+      "summary" : "Real-time generative simulation could support the development and evaluation of surgical robotic systems.",
+      "title" : "NVIDIA Cosmos-H-Dreams brings real-time generative simulation to surgical robotics",
       "topics" : [
         "Robotics",
         "Research",
+        "Science & Medicine",
         "Cosmos-H-Dreams"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-07-27T16:30:09Z",
+      "id" : "2026-07-28-43ba51acba6d",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: Microsoft says changes in the physics of cybersecurity require a new security stack.",
+        "What changed: Microsoft presented Project Perception as part of its proposed new Cyber Stack.",
+        "What to watch: Further details are needed about Project Perception’s capabilities, availability, and implementation."
+      ],
+      "sources" : [
+        {
+          "source_name" : "Microsoft AI Blog",
+          "title" : "Rethinking security for the age of AI",
+          "url" : "https:\/\/blogs.microsoft.com\/blog\/2026\/07\/27\/rethinking-security-for-the-age-of-ai\/"
+        }
+      ],
+      "summary" : "Microsoft says changes in the physics of cybersecurity require a new security stack.",
+      "title" : "Microsoft introduces Project Perception for an AI-era Cyber Stack",
+      "topics" : [
+        "Security",
+        "Research",
+        "Project Perception"
       ]
     },
     {
       "confidence" : "medium",
       "created_at" : "2026-07-27T16:51:50Z",
-      "id" : "2026-07-28-aeb6668406e8",
+      "id" : "2026-07-28-4aece4904fa4",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: If independently confirmed, Kimi K3’s reported cost and performance could challenge leading US model developers.",
-        "What changed: Moonshot AI made Kimi K3 available with claims of stronger performance than some top US systems at substantially lower cost.",
-        "What to watch: Independent testing is needed to verify Kimi K3’s performance and cost claims."
+        "Why it matters: A lower-cost model competitive with leading US systems could increase pressure on US AI developers.",
+        "What changed: Kimi K3 arrived with claims of strong performance against leading US models at substantially lower cost.",
+        "What to watch: Independent testing will be needed to verify the model’s performance and cost claims."
       ],
       "sources" : [
         {
@@ -174,8 +251,8 @@
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/971444\/how-chinese-open-weight-ai-models-impact-us-companies"
         }
       ],
-      "summary" : "Moonshot AI released Kimi K3, a Chinese model claimed to outperform some leading US systems at a fraction of their cost. The reported performance and economics have intensified US-China AI competition.",
-      "title" : "Moonshot AI’s Kimi K3 raises competitive pressure on US model developers",
+      "summary" : "Moonshot AI released Kimi K3, a Chinese model that reportedly rivals leading US systems at a fraction of their cost. The Verge frames its availability as part of China’s strategy of giving away advanced AI models.",
+      "title" : "Moonshot AI’s Kimi K3 intensifies US-China AI competition",
       "topics" : [
         "Models & Releases",
         "Open Source",
@@ -184,39 +261,13 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-07-27T12:06:22Z",
-      "id" : "2026-07-28-96ecca040709",
-      "importance" : "medium",
-      "key_insights" : [
-        "Why it matters: The initiative could expand access to shared tools for defending AI systems against attacks.",
-        "What changed: Several major technology companies formed a new alliance focused on developing and sharing open-source AI security tools, without OpenAI, Google or Anthropic.",
-        "What to watch: Watch which tools the alliance releases and whether additional frontier-model developers join."
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/971281\/nvidia-open-secure-ai-alliance-cybersecurity"
-        }
-      ],
-      "summary" : "Nvidia joined Microsoft, SpaceX, IBM and other technology companies to create and share open-source AI security tools. The alliance says open tools are needed to defend effectively against attacks from frontier models.",
-      "title" : "Nvidia, Microsoft and partners launch Open Secure AI Alliance",
-      "topics" : [
-        "Security",
-        "Open Source",
-        "APIs & Tooling",
-        "Open Secure AI Alliance"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-07-27T20:19:42Z",
-      "id" : "2026-07-28-897cb654df18",
+      "id" : "2026-07-28-85cde6e126db",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: Publicly accessible shared links could expose conversation or project content beyond the audience users expected.",
-        "What changed: Claude shared chats and Artifacts may have become discoverable through Google.",
-        "What to watch: Watch for confirmation of the scope and any changes to how Claude handles shared links."
+        "Why it matters: Users may have exposed shared Claude content beyond its intended audience.",
+        "What changed: TechCrunch reported that Claude shared chats and Artifacts may have appeared on Google through publicly viewable sharing links.",
+        "What to watch: Watch for clarification about how many links were indexed and whether access or indexing controls change."
       ],
       "sources" : [
         {
@@ -225,8 +276,8 @@
           "url" : "https:\/\/techcrunch.com\/2026\/07\/27\/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google\/"
         }
       ],
-      "summary" : "Claude’s share-chat feature may have allowed shared conversations and projects to appear on Google. TechCrunch reports that the issue appeared to originate from links that let anyone with the assigned URL view the content.",
-      "title" : "Claude shared chats and Artifacts may have appeared on Google",
+      "summary" : "Claude’s share-chat feature may have allowed shared conversations and projects to appear on Google. The feature creates links that let anyone with the assigned URL view the shared content.",
+      "title" : "Claude shared chats and Artifacts may have appeared in Google results",
       "topics" : [
         "Security",
         "Consumer Apps",
@@ -236,12 +287,12 @@
     {
       "confidence" : "medium",
       "created_at" : "2026-07-27T16:45:24Z",
-      "id" : "2026-07-28-34257e365f24",
+      "id" : "2026-07-28-955c038fc2f6",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The rollout brings Meta’s AI assistant directly into private conversations on Threads.",
-        "What changed: Threads users can now chat with Meta AI through the platform’s DMs.",
-        "What to watch: Watch for details on availability and how users adopt the assistant within Threads messaging."
+        "Why it matters: The rollout makes Meta’s AI assistant directly accessible within Threads conversations.",
+        "What changed: Threads users can now chat with Meta AI through direct messages.",
+        "What to watch: Watch how broadly and quickly Meta makes the feature available to Threads users."
       ],
       "sources" : [
         {
@@ -250,8 +301,8 @@
           "url" : "https:\/\/techcrunch.com\/2026\/07\/27\/threads-users-can-now-chat-with-meta-ai-in-their-dms\/"
         }
       ],
-      "summary" : "Meta is rolling out its Meta AI chatbot within Threads’ direct messages, allowing users to chat with the assistant.",
-      "title" : "Meta adds Meta AI chatbot to Threads DMs",
+      "summary" : "The rollout makes Meta’s AI assistant directly accessible within Threads conversations.",
+      "title" : "Meta adds its AI chatbot to Threads direct messages",
       "topics" : [
         "Consumer Apps",
         "Agents",
@@ -260,13 +311,37 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-07-27T15:01:50Z",
-      "id" : "2026-07-28-52c76b286cce",
+      "created_at" : "2026-07-27T15:57:12Z",
+      "id" : "2026-07-28-9bee2720878f",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The partnership supports Safe Superintelligence’s planned expansion into its next phase of AI research.",
-        "What changed: Safe Superintelligence emerged from two years in stealth and disclosed a long-term partnership with Nvidia.",
-        "What to watch: Watch for details about the partnership’s scope and Safe Superintelligence’s next research phase."
+        "Why it matters: AI-generated answers appearing in nearly half of searches could materially change how people discover information online.",
+        "What changed: The cited data puts AI Overviews’ search appearance rate at 43%.",
+        "What to watch: Watch whether AI Overviews continue expanding across searches and become the predominant Google Search experience."
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Google’s AI search is rapidly becoming the default, new data shows",
+          "url" : "https:\/\/techcrunch.com\/2026\/07\/27\/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows\/"
+        }
+      ],
+      "summary" : "AI-generated answers appearing in nearly half of searches could materially change how people discover information online.",
+      "title" : "Google AI Overviews now appear in 43% of searches",
+      "topics" : [
+        "Consumer Apps",
+        "Google AI Overviews"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-07-27T15:01:50Z",
+      "id" : "2026-07-28-9fa5c9594889",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: The partnership connects Safe Superintelligence’s next research phase with Nvidia as it scales its work.",
+        "What changed: Safe Superintelligence emerged from two years in stealth and disclosed a long-term Nvidia partnership.",
+        "What to watch: Watch for specific details about the partnership and Safe Superintelligence’s next research phase."
       ],
       "sources" : [
         {
@@ -275,110 +350,35 @@
           "url" : "https:\/\/techcrunch.com\/2026\/07\/27\/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research\/"
         }
       ],
-      "summary" : "The partnership supports Safe Superintelligence’s planned expansion into its next phase of AI research.",
-      "title" : "Safe Superintelligence announces long-term Nvidia partnership to scale AI research",
+      "summary" : "The partnership connects Safe Superintelligence’s next research phase with Nvidia as it scales its work.",
+      "title" : "Safe Superintelligence partners with Nvidia to scale AI research",
       "topics" : [
         "Research",
         "Compute & Chips",
         "Safe Superintelligence"
       ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-07-27T13:00:00Z",
-      "id" : "2026-07-28-2a9f87f26360",
-      "importance" : "medium",
-      "key_insights" : [
-        "Why it matters: The unusually large seed round gives Enigma substantial funding to pursue more accessible robot-control systems.",
-        "What changed: Enigma secured $71 million in seed financing led by Index Ventures and Ribbit Capital.",
-        "What to watch: Watch for technical demonstrations showing how Enigma's robot-control approach works in practice."
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
-          "url" : "https:\/\/techcrunch.com\/2026\/07\/27\/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume\/"
-        }
-      ],
-      "summary" : "The unusually large seed round gives Enigma substantial funding to pursue more accessible robot-control systems.",
-      "title" : "Enigma raises $71 million seed round for robot-control technology",
-      "topics" : [
-        "Funding & M&A",
-        "Robotics",
-        "Enigma"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "created_at" : "2026-07-27T03:30:00Z",
-      "id" : "2026-07-28-6517ca941017",
-      "importance" : "medium",
-      "key_insights" : [
-        "Why it matters: The findings indicate that workplace AI use may change the range of tasks people perform across established roles.",
-        "What changed: OpenAI provided new research on how ChatGPT use is expanding workers’ tasks across roles.",
-        "What to watch: Further evidence is needed on how broadly these changes apply across occupations and workplaces."
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "How AI is expanding what people do at work",
-          "url" : "https:\/\/openai.com\/index\/how-ai-is-expanding-what-people-do-at-work"
-        }
-      ],
-      "summary" : "OpenAI published research showing that ChatGPT users are taking on tasks across roles, expanding what workers do and reshaping job boundaries.",
-      "title" : "OpenAI research examines how ChatGPT expands workers’ tasks",
-      "topics" : [
-        "Research",
-        "Enterprise",
-        "ChatGPT"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "created_at" : "2026-07-27T16:30:09Z",
-      "id" : "2026-07-28-43ba51acba6d",
-      "importance" : "low",
-      "key_insights" : [
-        "Why it matters: Microsoft is proposing a new approach to security as AI changes cybersecurity conditions.",
-        "What changed: Microsoft publicly introduced Project Perception as part of its proposed Cyber Stack.",
-        "What to watch: Watch for concrete details about Project Perception's capabilities, availability, and implementation."
-      ],
-      "sources" : [
-        {
-          "source_name" : "Microsoft AI Blog",
-          "title" : "Rethinking security for the age of AI",
-          "url" : "https:\/\/blogs.microsoft.com\/blog\/2026\/07\/27\/rethinking-security-for-the-age-of-ai\/"
-        }
-      ],
-      "summary" : "Microsoft is proposing a new approach to security as AI changes cybersecurity conditions.",
-      "title" : "Microsoft introduces Project Perception for an AI-era Cyber Stack",
-      "topics" : [
-        "Security",
-        "Research",
-        "Project Perception"
-      ]
     }
   ],
   "count" : 12,
   "date" : "2026-07-28",
-  "generated_at" : "2026-07-28T06:01:00Z",
+  "generated_at" : "2026-07-28T08:01:00Z",
   "processing_report" : {
-    "generated_at" : "2026-07-28T06:01:06Z",
-    "high_card_count" : 2,
+    "generated_at" : "2026-07-28T08:01:04Z",
+    "high_card_count" : 4,
     "source_reports" : [
       {
-        "article_count" : 8,
+        "article_count" : 12,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-07-27T13:27:03Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-07-28T06:01:06Z",
+        "processed_at" : "2026-07-28T08:01:04Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-07-28T06:01:03Z",
+        "processed_at" : "2026-07-28T08:01:03Z",
         "state" : "processed"
       },
       {
@@ -386,15 +386,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-07-27T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-07-28T06:01:01Z",
+        "processed_at" : "2026-07-28T08:01:01Z",
         "state" : "processed"
       },
       {
-        "article_count" : 6,
+        "article_count" : 7,
         "id" : "aireport-nl",
         "latest_article_at" : "2026-07-25T09:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-07-28T06:01:03Z",
+        "processed_at" : "2026-07-28T08:01:02Z",
         "state" : "processed"
       },
       {
@@ -402,7 +402,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-07-27T21:56:14Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-07-28T06:01:01Z",
+        "processed_at" : "2026-07-28T08:01:01Z",
         "state" : "processed"
       },
       {
@@ -410,7 +410,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-07-22T13:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-07-28T06:01:01Z",
+        "processed_at" : "2026-07-28T08:01:01Z",
         "state" : "processed"
       },
       {
@@ -418,7 +418,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-07-22T13:38:54Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-07-28T06:01:01Z",
+        "processed_at" : "2026-07-28T08:01:01Z",
         "state" : "processed"
       },
       {
@@ -426,15 +426,15 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-07-27T09:32:20Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-07-28T06:01:01Z",
+        "processed_at" : "2026-07-28T08:01:00Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "latent-space",
-        "latest_article_at" : "2026-07-25T07:25:38Z",
+        "latest_article_at" : "2026-07-28T06:20:13Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-07-28T06:01:02Z",
+        "processed_at" : "2026-07-28T08:01:01Z",
         "state" : "processed"
       },
       {
@@ -442,7 +442,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-07-27T16:30:09Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-07-28T06:01:01Z",
+        "processed_at" : "2026-07-28T08:01:01Z",
         "state" : "processed"
       },
       {
@@ -450,7 +450,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-07-09T12:00:00Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-07-28T06:01:01Z",
+        "processed_at" : "2026-07-28T08:01:00Z",
         "state" : "processed"
       },
       {
@@ -458,15 +458,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-07-27T03:30:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-07-28T06:01:01Z",
+        "processed_at" : "2026-07-28T08:01:00Z",
         "state" : "processed"
       },
       {
-        "article_count" : 4,
+        "article_count" : 5,
         "id" : "superhuman-ai",
-        "latest_article_at" : "2026-07-22T11:01:53Z",
+        "latest_article_at" : "2026-07-25T14:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-07-28T06:01:04Z",
+        "processed_at" : "2026-07-28T08:01:03Z",
         "state" : "processed"
       },
       {
@@ -474,7 +474,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-07-27T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-07-28T06:01:01Z",
+        "processed_at" : "2026-07-28T08:01:01Z",
         "state" : "processed"
       },
       {
@@ -482,22 +482,22 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-07-28T00:13:33Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-07-28T06:01:00Z",
+        "processed_at" : "2026-07-28T08:01:00Z",
         "state" : "processed"
       },
       {
-        "article_count" : 8,
+        "article_count" : 12,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-07-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-07-28T06:01:05Z",
+        "processed_at" : "2026-07-28T08:01:04Z",
         "state" : "processed"
       },
       {
         "article_count" : 9,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-07-28T06:01:03Z",
+        "processed_at" : "2026-07-28T08:01:02Z",
         "state" : "processed"
       },
       {
@@ -505,7 +505,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-07-27T16:51:50Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-07-28T06:01:00Z",
+        "processed_at" : "2026-07-28T08:01:00Z",
         "state" : "processed"
       }
     ],
