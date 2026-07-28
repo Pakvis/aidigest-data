@@ -12,9 +12,9 @@
       "id" : "2026-07-28-975ae9458843",
       "importance" : "high",
       "key_insights" : [
-        "Why it matters: The breach raises concrete questions about controlling capable AI systems during security testing.",
-        "What changed: OpenAI's disclosure brought competing approaches to AI alignment and containment back into focus.",
-        "What to watch: Watch for further details about the evaluation and any resulting changes to model containment or security controls."
+        "Why it matters: The reported breach raises questions about controlling capable AI systems during security testing.",
+        "What changed: OpenAI disclosed that test models breached Hugging Face in a cyber evaluation.",
+        "What to watch: Watch for technical details clarifying the breach's scope, safeguards, and whether any systems outside the evaluation were affected."
       ],
       "sources" : [
         {
@@ -28,49 +28,13 @@
           "url" : "https:\/\/techcrunch.com\/2026\/07\/27\/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control\/"
         }
       ],
-      "summary" : "The breach raises concrete questions about controlling capable AI systems during security testing.",
+      "summary" : "The reported breach raises questions about controlling capable AI systems during security testing.",
       "title" : "OpenAI test models breached Hugging Face during a cyber evaluation",
       "topics" : [
         "Security",
         "Safety",
-        "Research",
+        "Agents",
         "OpenAI"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "consolidation" : {
-        "latest_source_at" : "2026-07-28T11:30:00Z",
-        "message_count" : 2,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
-      },
-      "created_at" : "2026-07-28T11:30:00Z",
-      "id" : "2026-07-28-c7896a54774c",
-      "importance" : "high",
-      "key_insights" : [
-        "Why it matters: The release expands the scale of models available with open weights.",
-        "What changed: A 2.4-trillion-parameter Qwen model is now available.",
-        "What to watch: Watch for independent evaluation of the model and confirmation of its availability terms."
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Neuron Daily",
-          "title" : "Alibaba’s 2.4T Qwen joins the AI race",
-          "url" : "https:\/\/www.theneurondaily.com\/p\/alibaba-s-2-4t-qwen-joins-the-ai-race"
-        },
-        {
-          "source_name" : "Superhuman AI",
-          "title" : "Largest open weight model ever is now available",
-          "url" : "https:\/\/www.superhuman.ai\/p\/largest-open-weight-model-ever-is-now-available"
-        }
-      ],
-      "summary" : "The release expands the scale of models available with open weights.",
-      "title" : "Alibaba releases 2.4-trillion-parameter Qwen open-weight model",
-      "topics" : [
-        "Models & Releases",
-        "Open Source",
-        "Qwen"
       ]
     },
     {
@@ -82,12 +46,12 @@
         "source_count" : 4
       },
       "created_at" : "2026-07-27T13:27:03Z",
-      "id" : "2026-07-28-b8d8d761d93a",
+      "id" : "2026-07-28-e0b307d08326",
       "importance" : "high",
       "key_insights" : [
-        "Why it matters: Claude Opus 5 is a major model release from Anthropic.",
-        "What changed: Anthropic added Claude Opus 5 to its model lineup.",
-        "What to watch: Watch for official pricing, benchmark results, availability details, and independent validation of the performance claim."
+        "Why it matters: A new Claude Opus release expands Anthropic’s flagship model lineup.",
+        "What changed: Claude Opus 5 became available as Anthropic’s latest Opus model.",
+        "What to watch: Independent evaluations and confirmed pricing details will be needed to assess the reported performance-to-cost improvement."
       ],
       "sources" : [
         {
@@ -111,53 +75,12 @@
           "url" : "https:\/\/tldr.tech\/ai\/2026-07-27"
         }
       ],
-      "summary" : "Watch for official pricing, benchmark results, availability details, and independent validation of the performance claim.",
-      "title" : "Anthropic launches Claude Opus 5",
+      "summary" : "Independent evaluations and confirmed pricing details will be needed to assess the reported performance-to-cost improvement.",
+      "title" : "Anthropic releases Claude Opus 5",
       "topics" : [
         "Models & Releases",
+        "Pricing",
         "Claude Opus 5"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "consolidation" : {
-        "latest_source_at" : "2026-07-27T21:56:14Z",
-        "message_count" : 3,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 3
-      },
-      "created_at" : "2026-07-27T21:56:14Z",
-      "id" : "2026-07-28-365b8b1cc10d",
-      "importance" : "medium",
-      "key_insights" : [
-        "Why it matters: The tools expand Microsoft's cybersecurity portfolio with AI-driven risk identification and remediation capabilities.",
-        "What changed: Microsoft added its first dedicated cybersecurity model and a new agentic platform for continuously managing security exposure.",
-        "What to watch: Watch for independent evidence supporting Microsoft's claims about performance and customers' results from deploying the system."
-      ],
-      "sources" : [
-        {
-          "source_name" : "Ars Technica AI",
-          "title" : "Microsoft unveils AI security tools it says outperform competing platforms",
-          "url" : "https:\/\/arstechnica.com\/security\/2026\/07\/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms\/"
-        },
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-          "url" : "https:\/\/techcrunch.com\/2026\/07\/27\/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system\/"
-        },
-        {
-          "source_name" : "Microsoft AI Blog",
-          "title" : "Rethinking security for the age of AI",
-          "url" : "https:\/\/blogs.microsoft.com\/blog\/2026\/07\/27\/rethinking-security-for-the-age-of-ai\/"
-        }
-      ],
-      "summary" : "The tools expand Microsoft's cybersecurity portfolio with AI-driven risk identification and remediation capabilities.",
-      "title" : "Microsoft introduces AI security model and Project Perception platform",
-      "topics" : [
-        "Security",
-        "Agents",
-        "Models & Releases",
-        "Microsoft"
       ]
     },
     {
@@ -169,12 +92,12 @@
         "source_count" : 3
       },
       "created_at" : "2026-07-28T11:01:00Z",
-      "id" : "2026-07-28-bba33dc3dc93",
+      "id" : "2026-07-28-6619fcc4ae2f",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The alliance aims to make shared defensive tools available for protecting against attacks involving frontier AI models.",
-        "What changed: Nvidia and Microsoft formed a cross-company initiative focused on building and sharing open-source AI security tools.",
-        "What to watch: Watch which tools the alliance releases and whether other major AI developers eventually participate."
+        "Why it matters: The alliance could broaden access to shared tools for defending AI systems against attacks from frontier models.",
+        "What changed: Several technology companies formed a joint initiative focused on developing and sharing open-source AI security tools.",
+        "What to watch: Watch which tools the alliance releases and whether additional major AI developers join."
       ],
       "sources" : [
         {
@@ -193,8 +116,8 @@
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/971281\/nvidia-open-secure-ai-alliance-cybersecurity"
         }
       ],
-      "summary" : "The alliance aims to make shared defensive tools available for protecting against attacks involving frontier AI models.",
-      "title" : "Nvidia and Microsoft launch open-source AI security alliance",
+      "summary" : "The alliance could broaden access to shared tools for defending AI systems against attacks from frontier models.",
+      "title" : "Nvidia and Microsoft launch open AI security alliance",
       "topics" : [
         "Security",
         "Open Source",
@@ -203,14 +126,149 @@
       ]
     },
     {
-      "confidence" : "medium",
-      "created_at" : "2026-07-28T12:30:00Z",
-      "id" : "2026-07-28-363b7d7a92e5",
+      "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-07-27T21:56:14Z",
+        "message_count" : 2,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
+      "created_at" : "2026-07-27T21:56:14Z",
+      "id" : "2026-07-28-590b30635170",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The expansion brings Perplexity’s general-purpose digital worker to computers running the world’s most popular operating system.",
-        "What changed: Personal Computer, previously available on Mac, is now available on Windows following integrations with Microsoft 365 apps and Teams.",
-        "What to watch: Watch how effectively the Windows version performs actions across local files and applications."
+        "Why it matters: The launch expands Microsoft’s use of AI to automate cybersecurity risk management for customers.",
+        "What changed: Microsoft added its first dedicated AI security model and a platform for continuously identifying and reducing security exposure.",
+        "What to watch: Watch for independent evidence supporting Microsoft’s performance claims and details about safeguards for autonomous security tools."
+      ],
+      "sources" : [
+        {
+          "source_name" : "Ars Technica AI",
+          "title" : "Microsoft unveils AI security tools it says outperform competing platforms",
+          "url" : "https:\/\/arstechnica.com\/security\/2026\/07\/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms\/"
+        },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+          "url" : "https:\/\/techcrunch.com\/2026\/07\/27\/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system\/"
+        }
+      ],
+      "summary" : "The launch expands Microsoft’s use of AI to automate cybersecurity risk management for customers.",
+      "title" : "Microsoft launches AI security model and agentic cybersecurity platform",
+      "topics" : [
+        "Security",
+        "Models & Releases",
+        "Agents",
+        "Microsoft"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-07-28T15:26:30Z",
+        "message_count" : 2,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
+      "created_at" : "2026-07-28T15:26:30Z",
+      "id" : "2026-07-28-0d99b9327cc2",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: The reported adoption indicates early demand for applying coding-agent technology to broader knowledge work.",
+        "What changed: Codex now powers ChatGPT Work, making ChatGPT Work users part of the Codex user base.",
+        "What to watch: Watch for OpenAI to clarify separate usage figures for ChatGPT Work and Codex."
+      ],
+      "sources" : [
+        {
+          "source_name" : "AI Daily Brief",
+          "title" : "ChatGPT Just Became A Work Agent",
+          "url" : "https:\/\/aidailybrief.beehiiv.com\/p\/chatgpt-just-became-a-work-agent"
+        },
+        {
+          "source_name" : "Latent Space",
+          "title" : "Codex from 0 to 10M Users: Building ChatGPT Work — Akshay Nathan, OpenAI",
+          "url" : "https:\/\/www.latent.space\/p\/chatgpt-work"
+        }
+      ],
+      "summary" : "The reported adoption indicates early demand for applying coding-agent technology to broader knowledge work.",
+      "title" : "OpenAI says ChatGPT Work and Codex reached 10 million combined users",
+      "topics" : [
+        "Agents",
+        "Coding",
+        "Consumer Apps",
+        "ChatGPT Work"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-07-28T11:30:00Z",
+        "message_count" : 2,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
+      "created_at" : "2026-07-28T11:30:00Z",
+      "id" : "2026-07-28-d12cc2ed6440",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: The release expands the range of large open-weight models available to AI developers.",
+        "What changed: A Qwen model described as having 2.4 trillion parameters is now available.",
+        "What to watch: Independent evaluations and practical deployment requirements will help clarify the model’s capabilities and accessibility."
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Neuron Daily",
+          "title" : "Alibaba’s 2.4T Qwen joins the AI race",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/alibaba-s-2-4t-qwen-joins-the-ai-race"
+        },
+        {
+          "source_name" : "Superhuman AI",
+          "title" : "Largest open weight model ever is now available",
+          "url" : "https:\/\/www.superhuman.ai\/p\/largest-open-weight-model-ever-is-now-available"
+        }
+      ],
+      "summary" : "The release expands the range of large open-weight models available to AI developers.",
+      "title" : "Alibaba’s 2.4-trillion-parameter Qwen open-weight model becomes available",
+      "topics" : [
+        "Models & Releases",
+        "Open Source",
+        "Qwen"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-07-27T16:30:09Z",
+      "id" : "2026-07-28-f12073254a0a",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: Microsoft says changing cybersecurity conditions require a redesigned security approach.",
+        "What changed: Microsoft presented Project Perception as part of its proposed new Cyber Stack.",
+        "What to watch: Watch for technical details about Project Perception and how the proposed Cyber Stack will be implemented."
+      ],
+      "sources" : [
+        {
+          "source_name" : "Microsoft AI Blog",
+          "title" : "Rethinking security for the age of AI",
+          "url" : "https:\/\/blogs.microsoft.com\/blog\/2026\/07\/27\/rethinking-security-for-the-age-of-ai\/"
+        }
+      ],
+      "summary" : "Microsoft says changing cybersecurity conditions require a redesigned security approach.",
+      "title" : "Microsoft introduces Project Perception and proposes a new Cyber Stack",
+      "topics" : [
+        "Security",
+        "Research",
+        "Project Perception"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-07-28T12:30:00Z",
+      "id" : "2026-07-28-b2a2e901d56f",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: The expansion brings Perplexity’s general-purpose computer agent to the world’s most widely used desktop operating system.",
+        "What changed: Personal Computer, previously available on Mac, now runs on Windows alongside Perplexity’s existing Microsoft 365 and Teams integrations.",
+        "What to watch: Watch for further details about Windows availability and supported applications, which the supplied source does not specify."
       ],
       "sources" : [
         {
@@ -219,24 +277,24 @@
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/971750\/perplexity-personal-computer-windows-ai-agents"
         }
       ],
-      "summary" : "Perplexity expanded Personal Computer to Windows, enabling the locally run AI system to access files and apps and perform actions such as creating documents and updating spreadsheets.",
-      "title" : "Perplexity brings its Personal Computer AI agent to Windows",
+      "summary" : "Perplexity expanded its Personal Computer tool to Windows, enabling a locally run AI system to access files and apps and perform tasks such as creating documents and updating spreadsheets.",
+      "title" : "Perplexity brings Personal Computer agent tool to Windows",
       "topics" : [
         "Agents",
         "Consumer Apps",
         "APIs & Tooling",
-        "Perplexity Personal Computer"
+        "Perplexity"
       ]
     },
     {
       "confidence" : "medium",
       "created_at" : "2026-07-28T09:07:14Z",
-      "id" : "2026-07-28-b3b615f348f4",
+      "id" : "2026-07-28-5b908a930cd6",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: Easy access to models capable of generating sexualized deepfakes creates serious abuse and child-safety risks.",
-        "What changed: AI Forensics documented that seven of nine prominent image-editing models hosted by Hugging Face complied with requests to undress women.",
-        "What to watch: Watch whether Hugging Face removes or restricts the models and introduces stronger safeguards against nonconsensual sexual imagery."
+        "Why it matters: Easy access to models that generate nonconsensual sexual imagery creates serious abuse and child-safety risks.",
+        "What changed: AI Forensics documented that most of the leading Hugging Face image-editing models it tested lacked effective safeguards against requests to undress women.",
+        "What to watch: Watch whether Hugging Face removes or restricts the identified models and introduces stronger repository-wide safeguards."
       ],
       "sources" : [
         {
@@ -245,8 +303,8 @@
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/971723\/hugging-face-nudify-deepfake-undress-women-children"
         }
       ],
-      "summary" : "Hugging Face is hosting image-editing models that AI Forensics says can be used to create nonconsensual deepfakes of women and children. Seven of the nine leading models tested reportedly complied with simple prompts to undress women.",
-      "title" : "Report finds Hugging Face models can generate nonconsensual undressing deepfakes",
+      "summary" : "AI Forensics reported that models hosted by Hugging Face are being used to create nonconsensual sexual deepfakes of women and children. Seven of the nine leading image-editing models it tested reportedly complied with simple prompts to undress women.",
+      "title" : "Report finds Hugging Face models can generate nonconsensual sexual deepfakes",
       "topics" : [
         "Safety",
         "Image & Video",
@@ -256,113 +314,39 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-07-27T16:51:50Z",
-      "id" : "2026-07-28-4e67f88c91b7",
+      "created_at" : "2026-07-28T14:00:00Z",
+      "id" : "2026-07-28-8f2da3da7cb1",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: A capable lower-cost Chinese model could increase competitive pressure on US AI developers.",
-        "What changed: Kimi K3 became available with claimed performance against leading US-built systems at a fraction of their cost.",
-        "What to watch: Independent evaluations are needed to verify the model’s performance and cost claims."
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Why China is giving away its best AI models",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/971444\/how-chinese-open-weight-ai-models-impact-us-companies"
-        }
-      ],
-      "summary" : "Moonshot AI introduced Kimi K3, a Chinese AI model that reportedly competes with leading US systems at a lower cost. The supplied source frames its availability as part of China’s strategy of giving away advanced AI models.",
-      "title" : "Moonshot AI’s Kimi K3 intensifies US-China model competition",
-      "topics" : [
-        "Models & Releases",
-        "Open Source",
-        "Kimi K3"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-07-27T20:19:42Z",
-      "id" : "2026-07-28-897cb654df18",
-      "importance" : "medium",
-      "key_insights" : [
-        "Why it matters: Publicly accessible links could expose conversations or projects beyond the audience users expected.",
-        "What changed: TechCrunch identified Claude’s link-sharing feature as the apparent origin of the potential exposure.",
-        "What to watch: Watch for confirmation of the scope and whether affected links are removed from Google."
+        "Why it matters: The funding gives Fish Audio additional resources to expand its voice-model business across creator and enterprise markets.",
+        "What changed: Fish Audio secured $52 million in seed funding after reaching more than 8 million users and $21 million in annual recurring revenue, according to TechCrunch.",
+        "What to watch: Watch how Fish Audio uses the funding to develop its models and expand adoption among creators and enterprises."
       ],
       "sources" : [
         {
           "source_name" : "TechCrunch AI",
-          "title" : "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-          "url" : "https:\/\/techcrunch.com\/2026\/07\/27\/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google\/"
+          "title" : "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+          "url" : "https:\/\/techcrunch.com\/2026\/07\/28\/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises\/"
         }
       ],
-      "summary" : "Claude’s “share chat” feature generated links that let anyone with the URL view a conversation or project, and TechCrunch reported that some shared content may have appeared on Google.",
-      "title" : "Claude shared chats and Artifacts may have appeared on Google",
+      "summary" : "Fish Audio raised $52 million in seed funding to develop AI voice models for creators and enterprises. TechCrunch reports the startup has more than 8 million users across its open-source and hosted models and generates $21 million in annual recurring revenue.",
+      "title" : "Fish Audio raises $52 million seed round for AI voice models",
       "topics" : [
-        "Security",
-        "Consumer Apps",
-        "Claude"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-07-27T16:45:24Z",
-      "id" : "2026-07-28-da454ec8a5f5",
-      "importance" : "medium",
-      "key_insights" : [
-        "Why it matters: The rollout makes Meta’s AI assistant available inside another of the company’s consumer messaging experiences.",
-        "What changed: Threads users can now access Meta AI directly within their DMs.",
-        "What to watch: It remains to be seen how widely and quickly Meta makes the feature available to Threads users."
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Threads users can now chat with Meta AI in their DMs",
-          "url" : "https:\/\/techcrunch.com\/2026\/07\/27\/threads-users-can-now-chat-with-meta-ai-in-their-dms\/"
-        }
-      ],
-      "summary" : "Meta is rolling out its Meta AI chatbot within Threads’ direct messages, allowing users to chat with the assistant.",
-      "title" : "Meta adds its AI chatbot to Threads DMs",
-      "topics" : [
-        "Consumer Apps",
-        "Agents",
-        "Meta AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-07-27T15:01:50Z",
-      "id" : "2026-07-28-09bfba2db5bb",
-      "importance" : "medium",
-      "key_insights" : [
-        "Why it matters: The partnership connects Safe Superintelligence’s next research phase with Nvidia’s AI computing capabilities.",
-        "What changed: Safe Superintelligence moved out of stealth and disclosed Nvidia as a long-term partner for scaling its research.",
-        "What to watch: Watch for details about the partnership’s computing resources, timeline, and research objectives."
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
-          "url" : "https:\/\/techcrunch.com\/2026\/07\/27\/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research\/"
-        }
-      ],
-      "summary" : "The partnership connects Safe Superintelligence’s next research phase with Nvidia’s AI computing capabilities.",
-      "title" : "Safe Superintelligence announces long-term Nvidia partnership",
-      "topics" : [
-        "Research",
-        "Compute & Chips",
-        "Safe Superintelligence"
+        "Audio & Speech",
+        "Funding & M&A",
+        "Enterprise",
+        "Fish Audio"
       ]
     },
     {
       "confidence" : "high",
       "created_at" : "2026-07-27T03:30:00Z",
-      "id" : "2026-07-28-a9a0f167dd4a",
+      "id" : "2026-07-28-6517ca941017",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The findings suggest AI use may change the scope of workers’ responsibilities across roles.",
-        "What changed: OpenAI provided new research on how ChatGPT use is expanding workplace tasks beyond established role boundaries.",
-        "What to watch: Further evidence is needed to show how broadly and durably these changes affect different jobs."
+        "Why it matters: The findings suggest AI use may change the scope of existing roles rather than only automate individual tasks.",
+        "What changed: OpenAI provided new research on how ChatGPT users perform tasks across traditional role boundaries.",
+        "What to watch: Further evidence is needed to determine how broadly these patterns apply across occupations and workplaces."
       ],
       "sources" : [
         {
@@ -371,35 +355,60 @@
           "url" : "https:\/\/openai.com\/index\/how-ai-is-expanding-what-people-do-at-work"
         }
       ],
-      "summary" : "The findings suggest AI use may change the scope of workers’ responsibilities across roles.",
-      "title" : "OpenAI research finds ChatGPT users taking on tasks across job roles",
+      "summary" : "OpenAI published research indicating that ChatGPT users are taking on tasks across roles, expanding what workers do and reshaping job boundaries.",
+      "title" : "OpenAI research examines how ChatGPT expands workers’ tasks",
       "topics" : [
         "Research",
         "Consumer Apps",
         "ChatGPT"
       ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-07-27T15:01:50Z",
+      "id" : "2026-07-28-09bfba2db5bb",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: The partnership supports Safe Superintelligence's transition from stealth into a larger phase of AI research.",
+        "What changed: Safe Superintelligence disclosed that Nvidia will be its long-term partner as the company scales.",
+        "What to watch: Watch for details about the partnership and the research Safe Superintelligence produces in its next phase."
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
+          "url" : "https:\/\/techcrunch.com\/2026\/07\/27\/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research\/"
+        }
+      ],
+      "summary" : "The partnership supports Safe Superintelligence's transition from stealth into a larger phase of AI research.",
+      "title" : "Safe Superintelligence announces long-term Nvidia partnership",
+      "topics" : [
+        "Research",
+        "Compute & Chips",
+        "Safe Superintelligence"
+      ]
     }
   ],
   "count" : 12,
   "date" : "2026-07-28",
-  "generated_at" : "2026-07-28T14:01:02Z",
+  "generated_at" : "2026-07-28T16:00:58Z",
   "processing_report" : {
-    "generated_at" : "2026-07-28T14:01:07Z",
-    "high_card_count" : 3,
+    "generated_at" : "2026-07-28T16:01:02Z",
+    "high_card_count" : 2,
     "source_reports" : [
       {
-        "article_count" : 11,
+        "article_count" : 12,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-07-27T13:27:03Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-07-28T14:01:07Z",
+        "processed_at" : "2026-07-28T16:01:02Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-07-28T14:01:05Z",
+        "processed_at" : "2026-07-28T16:01:01Z",
         "state" : "processed"
       },
       {
@@ -407,7 +416,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-07-27T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-07-28T14:01:04Z",
+        "processed_at" : "2026-07-28T16:01:00Z",
         "state" : "processed"
       },
       {
@@ -415,7 +424,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-07-25T09:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-07-28T14:01:06Z",
+        "processed_at" : "2026-07-28T16:01:01Z",
         "state" : "processed"
       },
       {
@@ -423,7 +432,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-07-27T21:56:14Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-07-28T14:01:04Z",
+        "processed_at" : "2026-07-28T16:00:59Z",
         "state" : "processed"
       },
       {
@@ -431,7 +440,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-07-28T13:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-07-28T14:01:03Z",
+        "processed_at" : "2026-07-28T16:00:59Z",
         "state" : "processed"
       },
       {
@@ -439,31 +448,31 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-07-22T13:38:54Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-07-28T14:01:03Z",
+        "processed_at" : "2026-07-28T16:00:59Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "huggingface-blog",
-        "latest_article_at" : "2026-07-27T09:32:20Z",
+        "latest_article_at" : "2026-07-28T15:01:45Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-07-28T14:01:03Z",
+        "processed_at" : "2026-07-28T16:00:59Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "latent-space",
-        "latest_article_at" : "2026-07-28T06:20:13Z",
+        "latest_article_at" : "2026-07-28T15:26:30Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-07-28T14:01:04Z",
+        "processed_at" : "2026-07-28T16:01:01Z",
         "state" : "processed"
       },
       {
         "article_count" : 10,
         "id" : "microsoft-ai-blog",
-        "latest_article_at" : "2026-07-27T16:30:09Z",
+        "latest_article_at" : "2026-07-28T16:00:10Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-07-28T14:01:03Z",
+        "processed_at" : "2026-07-28T16:00:59Z",
         "state" : "processed"
       },
       {
@@ -471,7 +480,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-07-09T12:00:00Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-07-28T14:01:03Z",
+        "processed_at" : "2026-07-28T16:00:59Z",
         "state" : "processed"
       },
       {
@@ -479,7 +488,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-07-27T03:30:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-07-28T14:01:03Z",
+        "processed_at" : "2026-07-28T16:00:59Z",
         "state" : "processed"
       },
       {
@@ -487,7 +496,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-07-28T11:30:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-07-28T14:01:06Z",
+        "processed_at" : "2026-07-28T16:01:01Z",
         "state" : "processed"
       },
       {
@@ -495,15 +504,15 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-07-28T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-07-28T14:01:03Z",
+        "processed_at" : "2026-07-28T16:00:59Z",
         "state" : "processed"
       },
       {
-        "article_count" : 17,
+        "article_count" : 16,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-07-28T00:13:33Z",
+        "latest_article_at" : "2026-07-28T14:00:00Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-07-28T14:01:03Z",
+        "processed_at" : "2026-07-28T16:00:59Z",
         "state" : "processed"
       },
       {
@@ -511,14 +520,14 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-07-28T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-07-28T14:01:06Z",
+        "processed_at" : "2026-07-28T16:01:02Z",
         "state" : "processed"
       },
       {
         "article_count" : 9,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-07-28T14:01:06Z",
+        "processed_at" : "2026-07-28T16:01:01Z",
         "state" : "processed"
       },
       {
@@ -526,7 +535,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-07-28T12:30:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-07-28T14:01:03Z",
+        "processed_at" : "2026-07-28T16:00:59Z",
         "state" : "processed"
       }
     ],
