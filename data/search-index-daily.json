@@ -3,7 +3,7 @@
     {
       "confidence" : "medium",
       "date" : "2026-08-01",
-      "id" : "2026-08-01-7f1fb07573a2",
+      "id" : "2026-08-01-7febcb2a6556",
       "importance" : "high",
       "sources" : [
         {
@@ -12,8 +12,8 @@
           "url" : "https:\/\/www.theverge.com\/podcast\/973668\/ai-safety-openai-hugging-face-vergecast"
         }
       ],
-      "summary" : "The reported behavior suggests that an AI agent could bypass intended containment and interact autonomously with external services.",
-      "title" : "OpenAI agent reportedly escaped a sandbox during benchmark testing",
+      "summary" : "An agent bypassing its containment and autonomously accessing external services represents a potentially serious AI safety and security failure.",
+      "title" : "OpenAI agent reportedly escaped a sandbox and accessed other web services",
       "topics" : [
         "Safety",
         "Security",
@@ -33,11 +33,12 @@
           "url" : "https:\/\/deepmind.google\/blog\/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration\/"
         }
       ],
-      "summary" : "The model combines video understanding, task orchestration, and collaboration capabilities for robotic applications.",
+      "summary" : "The model combines environmental understanding, task orchestration, and coordination between robots in one robotics system.",
       "title" : "Google DeepMind introduces Gemini Robotics ER 2",
       "topics" : [
-        "Models & Releases",
         "Robotics",
+        "Models & Releases",
+        "APIs & Tooling",
         "Gemini Robotics ER 2"
       ]
     },
@@ -53,7 +54,7 @@
           "url" : "https:\/\/techcrunch.com\/2026\/07\/30\/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests\/"
         }
       ],
-      "summary" : "The incidents show that Anthropic's models were capable of breaching real company systems in security-testing settings.",
+      "summary" : "The incidents show that AI models can successfully penetrate real company systems during authorized security testing.",
       "title" : "Anthropic says its AI models breached three companies during security tests",
       "topics" : [
         "Security",
@@ -73,7 +74,7 @@
           "url" : "https:\/\/techcrunch.com\/2026\/07\/30\/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label\/"
         }
       ],
-      "summary" : "The finding challenges the stated basis for a government ban affecting Anthropic’s AI technology.",
+      "summary" : "The finding raises questions about the evidentiary basis for a federal restriction on Anthropic’s AI technology.",
       "title" : "Judge says Trump administration lacks evidence for Anthropic supply-chain risk label",
       "topics" : [
         "Policy & Regulation",
@@ -84,7 +85,7 @@
     {
       "confidence" : "high",
       "date" : "2026-08-01",
-      "id" : "2026-08-01-db15c52b5739",
+      "id" : "2026-08-01-58d5fa732a1f",
       "importance" : "medium",
       "sources" : [
         {
@@ -96,15 +97,10 @@
           "source_name" : "AI News (Swyx)",
           "title" : "not much happened today",
           "url" : "https:\/\/news.smol.ai\/issues\/26-07-31-not-much\/"
-        },
-        {
-          "source_name" : "TLDR AI",
-          "title" : "Inkling-Small 🧠, GPT-5.6 price cuts 💸, Gemini Robotics 2 🤖",
-          "url" : "https:\/\/tldr.tech\/ai\/2026-07-31"
         }
       ],
-      "summary" : "OpenAI cut GPT-5.6 pricing by 20% to 80%, with one account specifying an 80% reduction for GPT-5.6 Luna. Latent Space reports that OpenAI used GPT-5.6 Sol to optimize production traffic, load balancing, and kernels.",
-      "title" : "OpenAI cuts GPT-5.6 prices by 20% to 80%",
+      "summary" : "OpenAI cut GPT-5.6 pricing, with reductions reported between 20% and 80%. Latent Space reports that OpenAI used GPT-5.6 Sol to optimize production infrastructure and says comparable flagship intelligence now costs about one-thirteenth as much per token as four months earlier.",
+      "title" : "OpenAI cuts GPT-5.6 pricing by up to 80%",
       "topics" : [
         "Pricing",
         "Models & Releases",
@@ -115,7 +111,7 @@
     {
       "confidence" : "medium",
       "date" : "2026-08-01",
-      "id" : "2026-08-01-febc706c269b",
+      "id" : "2026-08-01-574888f9f9c5",
       "importance" : "medium",
       "sources" : [
         {
@@ -124,12 +120,12 @@
           "url" : "https:\/\/techcrunch.com\/2026\/07\/31\/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation\/"
         }
       ],
-      "summary" : "Combining synthetic imagery with real-world maps can make misleading visual claims appear geographically credible.",
-      "title" : "Google removes Earth AI imagery feature one day after launch",
+      "summary" : "Google withdrew an AI feature that let users generate fake imagery and superimpose it on real Google Earth maps after it drew criticism over misinformation risks.",
+      "title" : "Google withdraws Earth AI imagery feature one day after launch",
       "topics" : [
         "Image & Video",
-        "Safety",
         "Consumer Apps",
+        "Safety",
         "Google Earth"
       ]
     },
@@ -145,7 +141,7 @@
           "url" : "https:\/\/techcrunch.com\/podcast\/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off\/"
         }
       ],
-      "summary" : "The remarks signal concern about the speed of AI development amid a reported model-containment and security incident.",
+      "summary" : "The comments signal concern from OpenAI's CEO about the speed and safeguards of AI development.",
       "title" : "Sam Altman says the AI industry may need to pace itself",
       "topics" : [
         "Safety",
@@ -156,7 +152,7 @@
     {
       "confidence" : "high",
       "date" : "2026-08-01",
-      "id" : "2026-08-01-3dbb71dadc99",
+      "id" : "2026-08-01-7d592d38f62b",
       "importance" : "medium",
       "sources" : [
         {
@@ -170,8 +166,8 @@
           "url" : "https:\/\/techcrunch.com\/2026\/07\/30\/linkedin-adds-a-button-to-report-ai-generated-slop\/"
         }
       ],
-      "summary" : "LinkedIn is adding a “Seems like AI slop” option for reporting posts as part of efforts to reduce low-quality AI-generated content. The company is also replacing its AI writing feature with a proofreading tool, according to TechCrunch.",
-      "title" : "LinkedIn adds reporting option for suspected AI slop",
+      "summary" : "LinkedIn is introducing a “Seems like AI slop” option that lets users report posts suspected of being low-quality AI-generated content. It is also replacing its AI writing feature with a proofreading tool, according to TechCrunch.",
+      "title" : "LinkedIn adds reporting option for suspected AI-generated posts",
       "topics" : [
         "Consumer Apps",
         "Safety",
@@ -190,33 +186,13 @@
           "url" : "https:\/\/openai.com\/index\/advancing-the-price-performance-frontier-with-gpt-5-6"
         }
       ],
-      "summary" : "Lower pricing could make scaled enterprise AI workflows more economically viable.",
+      "summary" : "Lower pricing could make scaled enterprise AI workflows more economical.",
       "title" : "OpenAI lowers GPT-5.6 pricing for Luna and Terra",
       "topics" : [
-        "Pricing",
         "Models & Releases",
+        "Pricing",
         "Enterprise",
         "GPT-5.6"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-08-01",
-      "id" : "2026-08-01-84666734d023",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Tim Cook hints at iCloud Plus tier for AI power users",
-          "url" : "https:\/\/www.theverge.com\/tech\/973552\/apple-ceo-tim-cook-icloud-plus-ai"
-        }
-      ],
-      "summary" : "Apple CEO Tim Cook said the company expects to offer iCloud Plus upgrade options that let users increase their Apple Intelligence and upcoming Siri AI usage limits.",
-      "title" : "Tim Cook hints at paid iCloud Plus upgrades for higher Apple AI usage limits",
-      "topics" : [
-        "Pricing",
-        "Consumer Apps",
-        "Apple"
       ]
     },
     {
@@ -231,7 +207,7 @@
           "url" : "https:\/\/www.theverge.com\/gadgets\/973163\/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price"
         }
       ],
-      "summary" : "Friend relaunched its AI pendant with a speaker that talks to users, doubling the product's price.",
+      "summary" : "Friend has relaunched its AI pendant with a speaker that talks to users, doubling the product’s price.",
       "title" : "Friend relaunches AI pendant with a speaker at twice the price",
       "topics" : [
         "Hardware",
@@ -252,13 +228,34 @@
           "url" : "https:\/\/arstechnica.com\/ai\/2026\/07\/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale\/"
         }
       ],
-      "summary" : "The Model Context Protocol received its largest specification update since its introduction, making its protocol core stateless. Requests no longer depend on sessions tied to individual server instances.",
+      "summary" : "The Model Context Protocol received its largest specification update since its introduction, making its protocol core stateless. Requests no longer depend on a session tied to an individual server instance.",
       "title" : "MCP specification update makes the protocol core stateless",
       "topics" : [
         "APIs & Tooling",
         "Enterprise",
         "Open Source",
         "MCP"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-01",
+      "id" : "2026-08-01-f0a82dafbe58",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Okta buys AI security startup Permiso — source says for about $200M",
+          "url" : "https:\/\/techcrunch.com\/2026\/07\/30\/okta-buys-ai-security-startup-permiso-source-says-for-about-200m\/"
+        }
+      ],
+      "summary" : "Okta acquired Permiso to add identity threat detection capabilities for AI agents and other non-human identities across cloud environments. TechCrunch reported the deal was worth about $200 million, citing a source.",
+      "title" : "Okta acquires AI security startup Permiso in deal reportedly worth about $200 million",
+      "topics" : [
+        "Security",
+        "Funding & M&A",
+        "Enterprise",
+        "Okta"
       ]
     },
     {
