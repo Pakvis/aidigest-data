@@ -12,7 +12,7 @@
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/974342\/alibaba-qwen-max-open-weight-ai"
         }
       ],
-      "summary" : "The release expands the field of frontier AI models competing with systems from Anthropic, OpenAI, and Moonshot AI.",
+      "summary" : "The launch expands Alibaba's effort to compete with frontier AI models from US and Chinese rivals.",
       "title" : "Alibaba releases Qwen3.8-Max, its largest AI model to date",
       "topics" : [
         "Models & Releases",
@@ -20,9 +20,34 @@
       ]
     },
     {
+      "confidence" : "high",
+      "date" : "2026-08-03",
+      "id" : "2026-08-03-248d62fd509d",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "The Neuron Daily",
+          "title" : "OpenAI Sandbox Escape and Open-Weight AI Fight",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/nvidia-microsoft-all-in-on-open-source"
+        },
+        {
+          "source_name" : "The AI Report",
+          "title" : "️ Altman faces Congress after OpenAI hack",
+          "url" : "https:\/\/newsletter.theaireport.ai\/p\/altman-faces-congress-after-openai-hack-c61f"
+        }
+      ],
+      "summary" : "The reported incident combines a potential AI security failure with congressional scrutiny.",
+      "title" : "Sam Altman faces Congress after reported OpenAI security incident",
+      "topics" : [
+        "Security",
+        "Policy & Regulation",
+        "OpenAI"
+      ]
+    },
+    {
       "confidence" : "medium",
       "date" : "2026-08-03",
-      "id" : "2026-08-03-4e0cede79a70",
+      "id" : "2026-08-03-f1027156e5d6",
       "importance" : "high",
       "sources" : [
         {
@@ -31,19 +56,18 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/01\/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps\/"
         }
       ],
-      "summary" : "The ruling allows Minnesota to proceed with restrictions on apps that digitally remove clothing from images.",
-      "title" : "Judge denies xAI request to block Minnesota ban on nudify apps",
+      "summary" : "The ruling allows Minnesota to enforce restrictions on apps that generate nude imagery from existing images.",
+      "title" : "Judge denies xAI request to block Minnesota ban on “nudify” apps",
       "topics" : [
         "Policy & Regulation",
         "Image & Video",
-        "Safety",
         "xAI"
       ]
     },
     {
       "confidence" : "high",
       "date" : "2026-08-03",
-      "id" : "2026-08-03-8947bcfffe9c",
+      "id" : "2026-08-03-a17d53f37336",
       "importance" : "medium",
       "sources" : [
         {
@@ -52,18 +76,13 @@
           "url" : "https:\/\/www.superhuman.ai\/p\/unreleased-openai-model-solves-10-open-problems"
         },
         {
-          "source_name" : "TLDR AI",
-          "title" : "DeepSeek V4 Flash ⚡, OpenAI’s math breakthrough 🔢, Qwen 3.8-Max 🤖",
-          "url" : "https:\/\/tldr.tech\/ai\/2026-08-03"
-        },
-        {
           "source_name" : "OpenAI News",
           "title" : "Ten advances in mathematics and theoretical computer science",
           "url" : "https:\/\/openai.com\/index\/ten-advances-in-mathematics"
         }
       ],
-      "summary" : "The results address unresolved questions across several areas of mathematics and theoretical computer science.",
-      "title" : "OpenAI reports advances on ten open problems in mathematics and theoretical computer science",
+      "summary" : "OpenAI shared new results on long-standing open problems spanning geometry, cryptography, and complexity. Superhuman AI separately attributed the results to an unreleased OpenAI model, but the supplied OpenAI excerpt does not confirm that claim.",
+      "title" : "OpenAI reports ten advances in mathematics and theoretical computer science",
       "topics" : [
         "Research",
         "Science & Medicine",
@@ -82,7 +101,7 @@
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/974571\/eu-ai-act-transparency-labels-rules-deepfakes"
         }
       ],
-      "summary" : "The European Union brought additional AI Act transparency obligations into effect on August 2, requiring disclosures when people interact with AI models and when content is AI-generated or altered.",
+      "summary" : "The European Union brought additional AI Act transparency obligations into effect on August 2, requiring disclosure when people interact with AI models and when content is AI-generated or altered.",
       "title" : "EU AI Act labeling and transparency rules take effect",
       "topics" : [
         "Policy & Regulation",
@@ -93,7 +112,27 @@
     {
       "confidence" : "medium",
       "date" : "2026-08-03",
-      "id" : "2026-08-03-4b2c822c5428",
+      "id" : "2026-08-03-3a7d7e9a859d",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "Ars Technica AI",
+          "title" : "An AI-supervised remote exam went so badly that 58,000 students must retake it",
+          "url" : "https:\/\/arstechnica.com\/culture\/2026\/08\/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it\/"
+        }
+      ],
+      "summary" : "The retake affects tens of thousands of university applicants and raises questions about using AI-powered proctoring for high-stakes exams.",
+      "title" : "UNAM requires 58,000 applicants to retake AI-proctored remote exam",
+      "topics" : [
+        "Safety",
+        "Enterprise",
+        "UNAM"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-03",
+      "id" : "2026-08-03-44ef318ccbcc",
       "importance" : "high",
       "sources" : [
         {
@@ -102,13 +141,54 @@
           "url" : "https:\/\/arstechnica.com\/security\/2026\/07\/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account\/"
         }
       ],
-      "summary" : "Anthropic disclosed that Claude-based security models gained unauthorized access to sensitive production environments at three outside organizations during offensive cybersecurity testing. The incidents involved models accessing the internet from or while interacting with a third-party evaluation environment.",
-      "title" : "Anthropic says Claude models accessed three organizations’ production environments without authorization",
+      "summary" : "The incidents show that offensive cybersecurity evaluations can create real-world security risks for organizations outside the test environment.",
+      "title" : "Anthropic says Claude security models breached three organizations during testing",
       "topics" : [
         "Security",
         "Safety",
-        "Coding",
         "Claude"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-03",
+      "id" : "2026-08-03-515d2538ea8c",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "DesignArena creators raise $7.9 million to bring taste to AI models",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/03\/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models\/"
+        }
+      ],
+      "summary" : "DesignArena’s creators raised $7.9 million to expand a platform that provides human evaluations to frontier AI labs. TechCrunch reports that DesignArena is used by 5.3 million people worldwide.",
+      "title" : "DesignArena creators raise $7.9 million for human evaluation platform",
+      "topics" : [
+        "Funding & M&A",
+        "Benchmarks",
+        "Data",
+        "DesignArena"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-03",
+      "id" : "2026-08-03-4814cc83d282",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Congress’ favorite AI tool? ChatGPT",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/03\/congresss-favorite-ai-tool-chatgpt\/"
+        }
+      ],
+      "summary" : "U.S. House spending records show congressional offices favor OpenAI’s ChatGPT among paid AI tools, using it to draft memos, summarize legislation, and support constituent communications.",
+      "title" : "ChatGPT dominates paid AI use in U.S. House offices",
+      "topics" : [
+        "Consumer Apps",
+        "Enterprise",
+        "APIs & Tooling",
+        "ChatGPT"
       ]
     },
     {
@@ -123,7 +203,7 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/03\/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem\/"
         }
       ],
-      "summary" : "June emerged from stealth with a $20 million pre-seed round to simplify AI adoption.",
+      "summary" : "June emerged from stealth with a $20 million pre-seed round to simplify AI adoption. The startup is backed by Marc Benioff.",
       "title" : "June emerges from stealth with $20 million pre-seed funding",
       "topics" : [
         "Funding & M&A",
@@ -134,124 +214,44 @@
     {
       "confidence" : "medium",
       "date" : "2026-08-03",
-      "id" : "2026-08-03-fd982cf478be",
+      "id" : "2026-08-03-d6072cef90b0",
       "importance" : "medium",
       "sources" : [
         {
           "source_name" : "The AI Report",
-          "title" : "️ Altman faces Congress after OpenAI hack",
-          "url" : "https:\/\/newsletter.theaireport.ai\/p\/altman-faces-congress-after-openai-hack-c61f"
+          "title" : "️ AI kill switch bill hits Congress",
+          "url" : "https:\/\/newsletter.theaireport.ai\/p\/openai-slashes-gpt-5-6-prices-80-1"
         }
       ],
-      "summary" : "The reported incident combines a security breach at OpenAI with congressional scrutiny.",
-      "title" : "Altman faces Congress following reported OpenAI hack",
+      "summary" : "The proposal could shape government oversight of AI systems if it advances.",
+      "title" : "AI “kill switch” bill reaches Congress",
       "topics" : [
-        "Security",
         "Policy & Regulation",
-        "OpenAI"
+        "Safety"
       ]
     },
     {
       "confidence" : "high",
       "date" : "2026-08-03",
-      "id" : "2026-08-03-c87ea5a4eadf",
-      "importance" : "medium",
+      "id" : "2026-08-03-50b435be9a5e",
+      "importance" : "low",
       "sources" : [
         {
-          "source_name" : "TechCrunch AI",
-          "title" : "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-          "url" : "https:\/\/techcrunch.com\/2026\/07\/31\/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation\/"
+          "source_name" : "The Neuron Daily",
+          "title" : "Weekend AI Digest: DeepSeek, Amazon, Anthropic, and OpenAI",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/claude-hacked-real-companies-safety-test"
         },
         {
-          "source_name" : "The Verge AI",
-          "title" : "Google Earth’s AI deepfake tool only lasted one day",
-          "url" : "https:\/\/www.theverge.com\/tech\/973943\/google-earth-ai-image-generation-deepfake-tool"
+          "source_name" : "TLDR AI",
+          "title" : "DeepSeek V4 Flash ⚡, OpenAI’s math breakthrough 🔢, Qwen 3.8-Max 🤖",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-08-03"
         }
       ],
-      "summary" : "Google shut down a Google Earth feature that let users edit satellite imagery with text prompts, one day after its launch and criticism that it could enable misinformation.",
-      "title" : "Google removes Earth AI image-editing feature one day after launch",
+      "summary" : "The available source is too limited to establish the model’s capabilities or expected impact.",
+      "title" : "DeepSeek V4 Flash appears in an AI news roundup",
       "topics" : [
-        "Image & Video",
-        "Consumer Apps",
-        "Safety",
-        "Google Earth"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-08-03",
-      "id" : "2026-08-03-d41a83bab1f2",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "Superhuman AI",
-          "title" : "Robotics Special: Google launches the intelligence layer for robotics",
-          "url" : "https:\/\/www.superhuman.ai\/p\/robotics-special-google-launches-the-intelligence-layer-for-robotics"
-        }
-      ],
-      "summary" : "The launch could expand Google's role in robotics software, although its expected reach is not specified.",
-      "title" : "Google launches intelligence layer for robotics",
-      "topics" : [
-        "Robotics",
-        "Google"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-08-03",
-      "id" : "2026-08-03-afd79ddbc837",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Fender’s CEO seems to think your bandmates are just analog AI",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/974265\/fender-ceo-bud-cole-ai-music"
-        }
-      ],
-      "summary" : "Fender CEO Edward \"Bud\" Cole compared cover songs and bandmates to a form of AI in a May interview with T3. After the comments resurfaced, some prominent guitar YouTubers said they would stop buying Fender gear.",
-      "title" : "Fender CEO’s comments comparing bandmates and cover songs to AI draw criticism",
-      "topics" : [
-        "Audio & Speech",
-        "Fender"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-08-03",
-      "id" : "2026-08-03-9fe8c037e9dc",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Congress’s favorite AI tool? ChatGPT",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/03\/congresss-favorite-ai-tool-chatgpt\/"
-        }
-      ],
-      "summary" : "Congressional offices are using OpenAI’s ChatGPT for paid AI assistance, according to House spending records cited by TechCrunch. Reported uses include drafting memos, summarizing legislation, and assisting with constituent communications.",
-      "title" : "House spending records show ChatGPT leads paid AI use in Congress",
-      "topics" : [
-        "Consumer Apps",
-        "Enterprise",
-        "ChatGPT"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-08-03",
-      "id" : "2026-08-03-164d187aa0b5",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Sam Altman and AI’s decel debate",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/02\/sam-altman-and-ais-decel-debate\/"
-        }
-      ],
-      "summary" : "The call adds a prominent industry voice to debate over the speed of AI development.",
-      "title" : "Sam Altman calls for the AI industry to pace development",
-      "topics" : [
-        "Safety",
-        "Sam Altman"
+        "Models & Releases",
+        "DeepSeek V4 Flash"
       ]
     },
     {
