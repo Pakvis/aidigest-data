@@ -1,32 +1,22 @@
 {
   "cards" : [
     {
-      "confidence" : "high",
+      "confidence" : "medium",
       "date" : "2026-08-04",
-      "id" : "2026-08-04-78e84972769b",
+      "id" : "2026-08-04-8dde46717e50",
       "importance" : "high",
       "sources" : [
-        {
-          "source_name" : "The AI Report",
-          "title" : "️ Alibaba's Qwen beats GPT, Claude",
-          "url" : "https:\/\/newsletter.theaireport.ai\/p\/alibaba-s-qwen-beats-gpt-claude"
-        },
         {
           "source_name" : "Latent Space",
           "title" : "Qwen 3.8 Max(2.4T) and 27B, new open weights models for Coding and Cowork",
           "url" : "https:\/\/www.latent.space\/p\/ainews-qwen-38-max24t-and-27b-new"
-        },
-        {
-          "source_name" : "The Verge AI",
-          "title" : "China’s Alibaba takes another swipe at America’s AI supremacy",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/974342\/alibaba-qwen-max-open-weight-ai"
         }
       ],
-      "summary" : "The launch expands the field of frontier-model competitors beyond leading US labs.",
-      "title" : "Alibaba releases Qwen3.8-Max, its largest AI model to date",
+      "summary" : "The planned release would add two open-weight Qwen models, including a large model designed for coding and extended agentic tasks.",
+      "title" : "Alibaba introduces Qwen3.8-Max and Qwen3.8-27B with open-weight releases planned",
       "topics" : [
         "Models & Releases",
-        "Coding",
+        "Agents",
         "Open Source",
         "Qwen3.8-Max"
       ]
@@ -34,22 +24,38 @@
     {
       "confidence" : "high",
       "date" : "2026-08-04",
-      "id" : "2026-08-04-f2733032df87",
+      "id" : "2026-08-04-6fe9e8320b7e",
       "importance" : "medium",
       "sources" : [
         {
-          "source_name" : "The Verge AI",
-          "title" : "OpenAI drags Apple’s lawsuit into the court of public opinion",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/974914\/openai-blog-response-apple-lawsuit-messages"
-        },
+          "source_name" : "OpenAI News",
+          "title" : "New ways to learn and teach with ChatGPT Work and Codex",
+          "url" : "https:\/\/openai.com\/index\/learn-teach-chatgpt-work-codex"
+        }
+      ],
+      "summary" : "New education plugins are available for workflows involving learning, teaching, research, and building.",
+      "title" : "OpenAI introduces education plugins for ChatGPT Work and Codex",
+      "topics" : [
+        "APIs & Tooling",
+        "Research",
+        "Coding",
+        "ChatGPT"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-08-04",
+      "id" : "2026-08-04-173b2780a21d",
+      "importance" : "medium",
+      "sources" : [
         {
           "source_name" : "OpenAI News",
           "title" : "Apple is getting this wrong",
           "url" : "https:\/\/openai.com\/index\/apple-is-getting-this-wrong"
         }
       ],
-      "summary" : "OpenAI published a blog post disputing Apple’s allegations that it stole trade secrets and shared messages and emails to challenge central claims in the lawsuit. The Verge notes that the post is not a formal legal response.",
-      "title" : "OpenAI publicly challenges Apple’s trade-secret lawsuit",
+      "summary" : "OpenAI disputed Apple’s lawsuit, rejected claims about its employees, and published messages that it says document what happened. The description of the lawsuit as baseless is OpenAI’s characterization.",
+      "title" : "OpenAI disputes Apple’s lawsuit and publishes supporting messages",
       "topics" : [
         "Policy & Regulation",
         "OpenAI"
@@ -67,7 +73,7 @@
           "url" : "https:\/\/mistral.ai\/news\/shieldstral\/"
         }
       ],
-      "summary" : "Shieldstral provides an open-weights option for multimodal safety classification.",
+      "summary" : "Shieldstral offers an open-weights option for multimodal safety classification in a relatively small model.",
       "title" : "Mistral AI introduces Shieldstral, a 3B open-weights multimodal safety classifier",
       "topics" : [
         "Safety",
@@ -79,27 +85,7 @@
     {
       "confidence" : "medium",
       "date" : "2026-08-04",
-      "id" : "2026-08-04-cbfd1b82adee",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Europe’s AI labeling and transparency rules are now in effect",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/974571\/eu-ai-act-transparency-labels-rules-deepfakes"
-        }
-      ],
-      "summary" : "The European Union put additional AI Act transparency obligations into effect on August 2, requiring disclosures for interactions with AI models and content generated or altered by AI.",
-      "title" : "EU AI Act labeling and transparency rules take effect",
-      "topics" : [
-        "Policy & Regulation",
-        "Safety",
-        "EU AI Act"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-08-04",
-      "id" : "2026-08-04-1093c8b71db9",
+      "id" : "2026-08-04-9e1ca23be2e3",
       "importance" : "medium",
       "sources" : [
         {
@@ -108,10 +94,11 @@
           "url" : "https:\/\/arstechnica.com\/culture\/2026\/08\/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it\/"
         }
       ],
-      "summary" : "UNAM is requiring 58,000 applicants to retake its entrance exam after results from its first fully remote, AI-proctored administration differed sharply from previous years, particularly among top scores.",
-      "title" : "58,000 students must retake UNAM entrance exam after remote proctoring problems",
+      "summary" : "The outcome disrupted admissions testing for tens of thousands of applicants and raises reliability concerns about AI-supervised exams.",
+      "title" : "UNAM requires 58,000 applicants to retake AI-proctored remote exam",
       "topics" : [
         "Safety",
+        "Consumer Apps",
         "UNAM"
       ]
     },
@@ -127,7 +114,7 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/04\/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort\/"
         }
       ],
-      "summary" : "Spotify added Merlin, which represents more than 30,000 independent labels and distributors, as a partner for its upcoming paid AI remix and covers product. Spotify says participating artists will opt in, receive credit, and be compensated.",
+      "summary" : "Spotify added Merlin as a partner for its upcoming paid AI-powered remix and covers product, alongside Universal Music Group. Merlin represents more than 30,000 independent labels and distributors.",
       "title" : "Spotify adds Merlin to AI remix and covers project",
       "topics" : [
         "Audio & Speech",
@@ -138,7 +125,7 @@
     {
       "confidence" : "medium",
       "date" : "2026-08-04",
-      "id" : "2026-08-04-258a266ca97f",
+      "id" : "2026-08-04-3ed8fb3f0069",
       "importance" : "medium",
       "sources" : [
         {
@@ -147,8 +134,8 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/04\/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai\/"
         }
       ],
-      "summary" : "The filing expands the scope of a trade-secrets dispute involving confidential company information.",
-      "title" : "Apple says trade-secrets investigation involving OpenAI has widened",
+      "summary" : "The claims raise concerns about the handling of confidential corporate information when employees move between technology companies.",
+      "title" : "Apple widens trade secrets investigation involving former employees and OpenAI",
       "topics" : [
         "Security",
         "Policy & Regulation",
@@ -158,7 +145,7 @@
     {
       "confidence" : "medium",
       "date" : "2026-08-04",
-      "id" : "2026-08-04-a8e41917bd37",
+      "id" : "2026-08-04-2cfaffaa53af",
       "importance" : "medium",
       "sources" : [
         {
@@ -167,38 +154,19 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/03\/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models\/"
         }
       ],
-      "summary" : "Design Arena’s 5.3 million users provide human evaluations that frontier AI labs can use to assess models.",
-      "title" : "Design Arena creators raise $7.9 million to bring human taste evaluations to AI models",
+      "summary" : "Design Arena supplies frontier labs with human evaluations gathered from a platform used by 5.3 million people.",
+      "title" : "Design Arena creators raise $7.9 million",
       "topics" : [
         "Funding & M&A",
         "Benchmarks",
+        "Data",
         "Design Arena"
       ]
     },
     {
       "confidence" : "medium",
       "date" : "2026-08-04",
-      "id" : "2026-08-04-cb6e3a9b684a",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Congress’ favorite AI tool? ChatGPT",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/03\/congresss-favorite-ai-tool-chatgpt\/"
-        }
-      ],
-      "summary" : "U.S. House spending records show congressional offices primarily pay for OpenAI’s ChatGPT among AI tools, using it to draft memos, summarize legislation, and support constituent communications.",
-      "title" : "ChatGPT dominates paid AI use in U.S. House offices",
-      "topics" : [
-        "Consumer Apps",
-        "Enterprise",
-        "ChatGPT"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-08-04",
-      "id" : "2026-08-04-206757eb497d",
+      "id" : "2026-08-04-61add9e9fdc2",
       "importance" : "high",
       "sources" : [
         {
@@ -207,8 +175,8 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/01\/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps\/"
         }
       ],
-      "summary" : "The ruling allows Minnesota to proceed with regulating apps that generate nude images from existing photos.",
-      "title" : "Judge rejects xAI bid to block Minnesota ban on “nudify” apps",
+      "summary" : "A judge denied xAI’s request to block Minnesota’s ban on apps that let users create “nudified” images. The ban can move forward while xAI’s lawsuit continues.",
+      "title" : "Judge allows Minnesota ban on “nudify” apps to proceed despite xAI lawsuit",
       "topics" : [
         "Policy & Regulation",
         "Image & Video",
@@ -219,7 +187,7 @@
     {
       "confidence" : "high",
       "date" : "2026-08-04",
-      "id" : "2026-08-04-e650f5e17c53",
+      "id" : "2026-08-04-fccbfc0f3444",
       "importance" : "low",
       "sources" : [
         {
@@ -228,8 +196,8 @@
           "url" : "https:\/\/blog.google\/innovation-and-ai\/technology\/ai\/google-ai-updates-july-2026\/"
         }
       ],
-      "summary" : "The roundup provides a single reference for Google’s AI announcements from July 2026.",
-      "title" : "Google recaps its July 2026 AI updates",
+      "summary" : "The roundup consolidates Google’s July AI announcements but provides no specific developments in the supplied material.",
+      "title" : "Google publishes roundup of its July 2026 AI updates",
       "topics" : [
         "AI",
         "Google"
@@ -238,20 +206,39 @@
     {
       "confidence" : "medium",
       "date" : "2026-08-04",
-      "id" : "2026-08-04-550e3992fb3b",
+      "id" : "2026-08-04-4a327507f828",
       "importance" : "low",
       "sources" : [
         {
           "source_name" : "The Verge AI",
-          "title" : "Can Reddit fend off a new wave of AI SEO spam?",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/973098\/reddit-ai-search-seo-marketing-brands-spam"
+          "title" : "How an OpenAI influencer trip backfired",
+          "url" : "https:\/\/www.theverge.com\/tech\/975173\/openai-influencers-brand-trip-ai-backlash-marketing"
         }
       ],
-      "summary" : "The Verge examined whether Reddit can counter AI SEO spam, citing an apparently innocuous product comment in a skincare discussion.",
-      "title" : "Reddit faces scrutiny over AI SEO spam",
+      "summary" : "OpenAI appears to have hosted what several participants called its “first ever brand trip,” according to The Verge. The supplied report says the promotion backfired but does not specify the reaction or its consequences.",
+      "title" : "Influencers post about OpenAI’s reported first brand trip",
       "topics" : [
         "Consumer Apps",
-        "Reddit"
+        "OpenAI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-04",
+      "id" : "2026-08-04-08c9240a362a",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Not healthy’ LLM use is more common than you think",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/975180\/llm-ai-chatbot-use-not-healthy"
+        }
+      ],
+      "summary" : "The criticism highlights tensions between creators’ claims of authenticity and the reliability and training practices of generative AI.",
+      "title" : "Hank Green steps back from production amid criticism of his AI use",
+      "topics" : [
+        "Consumer Apps",
+        "Hank Green"
       ]
     },
     {
