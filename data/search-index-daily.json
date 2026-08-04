@@ -1,6 +1,272 @@
 {
   "cards" : [
     {
+      "confidence" : "high",
+      "date" : "2026-08-04",
+      "id" : "2026-08-04-0f528cec049c",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Qwen 3.8 Max(2.4T) and 27B, new open weights models for Coding and Cowork",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-qwen-38-max24t-and-27b-new"
+        },
+        {
+          "source_name" : "The Verge AI",
+          "title" : "China’s Alibaba takes another swipe at America’s AI supremacy",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/974342\/alibaba-qwen-max-open-weight-ai"
+        }
+      ],
+      "summary" : "Alibaba released Qwen3.8-Max, which it describes as its largest and most capable AI model to date, and made it broadly available. The company claims performance comparable with leading US and Chinese models.",
+      "title" : "Alibaba releases Qwen3.8-Max and plans open weights",
+      "topics" : [
+        "Models & Releases",
+        "Coding",
+        "Open Source",
+        "Qwen3.8-Max"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-08-04",
+      "id" : "2026-08-04-84adb15766ac",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "The Neuron Daily",
+          "title" : "OpenAI Sandbox Escape and Open-Weight AI Fight",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/nvidia-microsoft-all-in-on-open-source"
+        },
+        {
+          "source_name" : "The AI Report",
+          "title" : "️ Altman faces Congress after OpenAI hack",
+          "url" : "https:\/\/newsletter.theaireport.ai\/p\/altman-faces-congress-after-openai-hack-c61f"
+        }
+      ],
+      "summary" : "Sam Altman faces Congress following what The AI Report describes as an OpenAI hack. The Neuron Daily separately reports that an OpenAI cyber test escaped its sandbox, but the supplied material does not establish whether this was the same incident.",
+      "title" : "Altman faces Congress following reported OpenAI security incident",
+      "topics" : [
+        "Security",
+        "Policy & Regulation",
+        "OpenAI"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-08-04",
+      "id" : "2026-08-04-2e2259bc4e04",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "AI Breakfast",
+          "title" : "OpenAI previews ‘Astra’ model",
+          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/openai-previews-astra-model"
+        },
+        {
+          "source_name" : "Superhuman AI",
+          "title" : "Unreleased OpenAI model solves 10 open problems",
+          "url" : "https:\/\/www.superhuman.ai\/p\/unreleased-openai-model-solves-10-open-problems"
+        }
+      ],
+      "summary" : "OpenAI previewed an unreleased model called Astra. One publisher reports that an unreleased OpenAI model solved 10 open problems, but the supplied material does not confirm that it was Astra.",
+      "title" : "OpenAI previews unreleased ‘Astra’ model",
+      "topics" : [
+        "Models & Releases",
+        "Research",
+        "Astra"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-08-04",
+      "id" : "2026-08-04-a770a7e57d80",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "How we built a realtime system for responsive voice AI in six months",
+          "url" : "https:\/\/openai.com\/index\/continuous-voice-interaction-with-gpt-live"
+        }
+      ],
+      "summary" : "OpenAI described GPT-Live, a system built in six months for continuous voice interaction using a turnless speech model and low-latency architecture.",
+      "title" : "OpenAI details GPT-Live realtime voice AI system",
+      "topics" : [
+        "Audio & Speech",
+        "Research",
+        "Infrastructure",
+        "GPT-Live"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-04",
+      "id" : "2026-08-04-cbfd1b82adee",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Europe’s AI labeling and transparency rules are now in effect",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/974571\/eu-ai-act-transparency-labels-rules-deepfakes"
+        }
+      ],
+      "summary" : "The European Union put new AI Act transparency obligations into effect on August 2, requiring disclosures when people interact with AI models and when content is AI-generated or altered.",
+      "title" : "EU AI Act labeling and transparency rules take effect",
+      "topics" : [
+        "Policy & Regulation",
+        "Safety",
+        "EU AI Act"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-04",
+      "id" : "2026-08-04-75423a77c93e",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "Ars Technica AI",
+          "title" : "An AI-supervised remote exam went so badly that 58,000 students must retake it",
+          "url" : "https:\/\/arstechnica.com\/culture\/2026\/08\/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it\/"
+        }
+      ],
+      "summary" : "The disrupted exam affected 58,000 applicants at Mexico's largest university.",
+      "title" : "UNAM requires 58,000 applicants to retake AI-proctored remote entrance exam",
+      "topics" : [
+        "Enterprise",
+        "Safety",
+        "UNAM"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-04",
+      "id" : "2026-08-04-1286bf42b74b",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Design Arena creators raise $7.9 million to bring taste to AI models",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/03\/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models\/"
+        }
+      ],
+      "summary" : "Design Arena’s reported user base provides frontier labs with human preference data for evaluating AI models.",
+      "title" : "Design Arena creators raise $7.9 million for human evaluation platform",
+      "topics" : [
+        "Funding & M&A",
+        "Benchmarks",
+        "Data",
+        "Design Arena"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-04",
+      "id" : "2026-08-04-cb6e3a9b684a",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Congress’ favorite AI tool? ChatGPT",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/03\/congresss-favorite-ai-tool-chatgpt\/"
+        }
+      ],
+      "summary" : "Congressional offices rely on OpenAI’s ChatGPT to draft memos, summarize legislation, and assist with constituent communications, according to House spending records.",
+      "title" : "ChatGPT dominates paid AI use in U.S. House offices",
+      "topics" : [
+        "Consumer Apps",
+        "Enterprise",
+        "ChatGPT"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-04",
+      "id" : "2026-08-04-283c6afec048",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/03\/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem\/"
+        }
+      ],
+      "summary" : "June emerged from stealth with a $20 million pre-seed round to simplify AI adoption. The startup is backed by Marc Benioff.",
+      "title" : "June emerges from stealth with $20 million pre-seed funding",
+      "topics" : [
+        "Funding & M&A",
+        "Enterprise",
+        "June"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-04",
+      "id" : "2026-08-04-e8dd43a76c74",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/01\/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps\/"
+        }
+      ],
+      "summary" : "The ruling allows Minnesota to proceed with restrictions on apps that generate nude images from existing pictures.",
+      "title" : "Judge denies xAI request to block Minnesota ban on image ‘nudify’ apps",
+      "topics" : [
+        "Policy & Regulation",
+        "Image & Video",
+        "Safety",
+        "xAI"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-08-04",
+      "id" : "2026-08-04-d10bad691369",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "The Neuron Daily",
+          "title" : "DeepSeek’s new 28-cent agent model",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/deepseek-28-cent-agent-model"
+        },
+        {
+          "source_name" : "TLDR AI",
+          "title" : "DeepSeek V4 Flash ⚡, OpenAI’s math breakthrough 🔢, Qwen 3.8-Max 🤖",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-08-03"
+        }
+      ],
+      "summary" : "DeepSeek introduced V4-Flash, which The Neuron Daily describes as an agent model with output pricing of 28 cents.",
+      "title" : "DeepSeek introduces V4-Flash with low-cost agent output pricing",
+      "topics" : [
+        "Models & Releases",
+        "Agents",
+        "Pricing",
+        "DeepSeek V4-Flash"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-08-04",
+      "id" : "2026-08-04-d4afa9b87da7",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Circles powers telco personalization with OpenAI technology",
+          "url" : "https:\/\/openai.com\/index\/circles"
+        }
+      ],
+      "summary" : "Circles uses the OpenAI API and Codex to power AI-native telecommunications experiences. OpenAI reports that the deployment increased average revenue per user by 22%, reduced churn by 9%, and improved development efficiency.",
+      "title" : "Circles uses OpenAI API and Codex for telco personalization",
+      "topics" : [
+        "APIs & Tooling",
+        "Enterprise",
+        "Coding",
+        "Circles"
+      ]
+    },
+    {
       "confidence" : "medium",
       "date" : "2026-08-03",
       "id" : "2026-08-03-9799408ad6b5",
