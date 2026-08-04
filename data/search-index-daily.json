@@ -3,66 +3,38 @@
     {
       "confidence" : "high",
       "date" : "2026-08-04",
-      "id" : "2026-08-04-5d2d99b8204a",
+      "id" : "2026-08-04-0f528cec049c",
       "importance" : "high",
       "sources" : [
         {
-          "source_name" : "OpenAI News",
-          "title" : "Apple is getting this wrong",
-          "url" : "https:\/\/openai.com\/index\/apple-is-getting-this-wrong"
-        }
-      ],
-      "summary" : "OpenAI responded to Apple’s lawsuit, calling its claims baseless and disputing allegations about OpenAI employees. The company also published messages that it says document what happened.",
-      "title" : "OpenAI disputes Apple’s lawsuit and releases supporting messages",
-      "topics" : [
-        "Policy & Regulation",
-        "OpenAI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-08-04",
-      "id" : "2026-08-04-78e84972769b",
-      "importance" : "high",
-      "sources" : [
+          "source_name" : "The AI Report",
+          "title" : "️ Alibaba's Qwen beats GPT, Claude",
+          "url" : "https:\/\/newsletter.theaireport.ai\/p\/alibaba-s-qwen-beats-gpt-claude"
+        },
+        {
+          "source_name" : "Latent Space",
+          "title" : "Qwen 3.8 Max(2.4T) and 27B, new open weights models for Coding and Cowork",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-qwen-38-max24t-and-27b-new"
+        },
         {
           "source_name" : "The Verge AI",
           "title" : "China’s Alibaba takes another swipe at America’s AI supremacy",
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/974342\/alibaba-qwen-max-open-weight-ai"
         }
       ],
-      "summary" : "Alibaba released Qwen3.8-Max and said it was making the model widely available to users. The company describes it as its largest and most capable AI model yet.",
-      "title" : "Alibaba releases Qwen3.8-Max, its largest AI model to date",
+      "summary" : "Alibaba released Qwen3.8-Max, which it describes as its largest and most capable AI model to date, and said it would make the model widely available. The company said open weights are due next week and claimed performance rivaling models from Anthropic, OpenAI, and Moonshot AI.",
+      "title" : "Alibaba releases Qwen3.8-Max and plans open weights",
       "topics" : [
         "Models & Releases",
-        "Qwen3.8-Max"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-08-04",
-      "id" : "2026-08-04-ec40ac6d3a59",
-      "importance" : "high",
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "Qwen 3.8 Max(2.4T) and 27B, new open weights models for Coding and Cowork",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-qwen-38-max24t-and-27b-new"
-        }
-      ],
-      "summary" : "The planned release would add a large open-weight model aimed at demanding coding and agentic workloads.",
-      "title" : "Alibaba introduces Qwen3.8-Max and Qwen3.8-27B with open weights planned",
-      "topics" : [
-        "Models & Releases",
-        "Agents",
         "Open Source",
+        "Coding",
         "Qwen3.8-Max"
       ]
     },
     {
       "confidence" : "high",
       "date" : "2026-08-04",
-      "id" : "2026-08-04-3e609b80a434",
+      "id" : "2026-08-04-d81130d969aa",
       "importance" : "medium",
       "sources" : [
         {
@@ -81,11 +53,11 @@
           "url" : "https:\/\/www.superhuman.ai\/p\/unreleased-openai-model-solves-10-open-problems"
         }
       ],
-      "summary" : "OpenAI previewed an unreleased model called Astra that reportedly addressed 10 mathematical problems. Publishers differ on whether these were math advances or solved open problems.",
-      "title" : "OpenAI previews unreleased Astra model with reported math advances",
+      "summary" : "The reported results suggest Astra may contribute to solving open mathematical problems, though the supplied sources provide no methodological details.",
+      "title" : "OpenAI previews unreleased Astra model with 10 reported math advances",
       "topics" : [
-        "Models & Releases",
         "Research",
+        "Models & Releases",
         "Astra"
       ]
     },
@@ -101,7 +73,7 @@
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/974571\/eu-ai-act-transparency-labels-rules-deepfakes"
         }
       ],
-      "summary" : "The European Union brought new AI Act transparency obligations into effect on August 2, requiring disclosure when people interact with AI models and when content is AI-generated or altered.",
+      "summary" : "The European Union put additional AI Act transparency obligations into effect on August 2, requiring disclosures when people interact with AI models and when content is AI-generated or altered.",
       "title" : "EU AI labeling and transparency rules take effect",
       "topics" : [
         "Policy & Regulation",
@@ -112,7 +84,7 @@
     {
       "confidence" : "medium",
       "date" : "2026-08-04",
-      "id" : "2026-08-04-51bb2faeb4d1",
+      "id" : "2026-08-04-e98224acf116",
       "importance" : "medium",
       "sources" : [
         {
@@ -121,17 +93,18 @@
           "url" : "https:\/\/arstechnica.com\/culture\/2026\/08\/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it\/"
         }
       ],
-      "summary" : "The retake affects a substantial share of applicants and raises questions about using AI proctoring for consequential examinations.",
-      "title" : "UNAM requires 58,000 applicants to retake AI-supervised remote entrance exam",
+      "summary" : "The large-scale retest shows the operational risk of relying on AI-assisted proctoring for consequential university admissions.",
+      "title" : "UNAM orders 58,000 applicants to retake AI-proctored remote entrance exam",
       "topics" : [
-        "Consumer Apps",
+        "Safety",
+        "Data",
         "UNAM"
       ]
     },
     {
       "confidence" : "medium",
       "date" : "2026-08-04",
-      "id" : "2026-08-04-2cfaffaa53af",
+      "id" : "2026-08-04-ee3dd18a52dd",
       "importance" : "medium",
       "sources" : [
         {
@@ -140,11 +113,12 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/03\/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models\/"
         }
       ],
-      "summary" : "Design Arena’s 5.3 million users provide human evaluations that frontier AI labs can use to assess model outputs.",
-      "title" : "Design Arena creators raise $7.9 million",
+      "summary" : "Design Arena’s creators raised $7.9 million to develop the platform, which gathers human evaluations for frontier AI labs. Design Arena is used by 5.3 million people worldwide.",
+      "title" : "Design Arena creators raise $7.9 million for AI model evaluation platform",
       "topics" : [
         "Funding & M&A",
         "Benchmarks",
+        "Data",
         "Design Arena"
       ]
     },
@@ -160,18 +134,18 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/03\/congresss-favorite-ai-tool-chatgpt\/"
         }
       ],
-      "summary" : "U.S. House spending records show congressional offices primarily pay for OpenAI’s ChatGPT among AI tools. Offices use it to draft memos, summarize legislation, and assist with constituent communications.",
+      "summary" : "The spending records indicate that ChatGPT has gained practical adoption across congressional office workflows.",
       "title" : "ChatGPT dominates paid AI use in U.S. House offices",
       "topics" : [
         "Consumer Apps",
-        "APIs & Tooling",
+        "Enterprise",
         "ChatGPT"
       ]
     },
     {
       "confidence" : "medium",
       "date" : "2026-08-04",
-      "id" : "2026-08-04-248c35cf5841",
+      "id" : "2026-08-04-a86d061287a6",
       "importance" : "high",
       "sources" : [
         {
@@ -180,13 +154,39 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/01\/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps\/"
         }
       ],
-      "summary" : "The ruling allows Minnesota to proceed with restrictions on apps that generate non-consensual nude imagery.",
-      "title" : "Judge denies xAI request to block Minnesota ban on nudify apps",
+      "summary" : "The ruling allows Minnesota to enforce a law targeting apps used to create manipulated nude images.",
+      "title" : "Judge rejects xAI request to block Minnesota ban on ‘nudify’ apps",
       "topics" : [
         "Policy & Regulation",
         "Image & Video",
         "Safety",
         "xAI"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-08-04",
+      "id" : "2026-08-04-1ac7d086778f",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "The Neuron Daily",
+          "title" : "DeepSeek’s new 28-cent agent model",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/deepseek-28-cent-agent-model"
+        },
+        {
+          "source_name" : "TLDR AI",
+          "title" : "DeepSeek V4 Flash ⚡, OpenAI’s math breakthrough 🔢, Qwen 3.8-Max 🤖",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-08-03"
+        }
+      ],
+      "summary" : "DeepSeek introduced V4-Flash, an agent model that The Neuron Daily says is priced at 28 cents for output.",
+      "title" : "DeepSeek introduces V4-Flash agent model with 28-cent output pricing",
+      "topics" : [
+        "Models & Releases",
+        "Agents",
+        "Pricing",
+        "DeepSeek V4-Flash"
       ]
     },
     {
@@ -201,7 +201,7 @@
           "url" : "https:\/\/openai.com\/index\/continuous-voice-interaction-with-gpt-live"
         }
       ],
-      "summary" : "The system is designed to make voice AI conversations faster and more natural.",
+      "summary" : "GPT-Live is designed to make voice AI conversations faster and more natural by avoiding conventional turn-taking.",
       "title" : "OpenAI details GPT-Live realtime voice AI system",
       "topics" : [
         "Audio & Speech",
@@ -211,41 +211,68 @@
       ]
     },
     {
-      "confidence" : "medium",
+      "confidence" : "high",
       "date" : "2026-08-04",
-      "id" : "2026-08-04-e8eee1102ceb",
+      "id" : "2026-08-04-cb947989559b",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Circles powers telco personalization with OpenAI technology",
+          "url" : "https:\/\/openai.com\/index\/circles"
+        }
+      ],
+      "summary" : "Circles reports a 22% increase in average revenue per user, a 9% reduction in churn, and improved development efficiency.",
+      "title" : "Circles uses OpenAI API and Codex for telecom personalization",
+      "topics" : [
+        "Enterprise",
+        "APIs & Tooling",
+        "Coding",
+        "Circles"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-08-04",
+      "id" : "2026-08-04-c6ea24314b47",
       "importance" : "low",
       "sources" : [
         {
-          "source_name" : "TechCrunch AI",
-          "title" : "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/03\/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist\/"
+          "source_name" : "The Verge AI",
+          "title" : "OpenAI drags Apple’s lawsuit into the court of public opinion",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/974914\/openai-blog-response-apple-lawsuit-messages"
+        },
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Apple is getting this wrong",
+          "url" : "https:\/\/openai.com\/index\/apple-is-getting-this-wrong"
         }
       ],
-      "summary" : "Palantir CEO Alex Karp warned that frontier AI labs are too untrustworthy for enterprises after a quarter in which Palantir reported $1 billion in profit.",
-      "title" : "Palantir CEO Alex Karp calls AI industry ‘Marxist’ and questions enterprise trust",
+      "summary" : "OpenAI published messages and emails to challenge Apple’s allegations that it stole trade secrets. The company characterized the lawsuit as baseless and disputed claims about its employees.",
+      "title" : "OpenAI publicly disputes Apple’s trade-secret lawsuit",
       "topics" : [
-        "Enterprise",
-        "Palantir"
+        "Policy & Regulation",
+        "OpenAI"
       ]
     },
     {
       "confidence" : "medium",
       "date" : "2026-08-04",
-      "id" : "2026-08-04-1cec874c2cdd",
+      "id" : "2026-08-04-b7b8bb30aacb",
       "importance" : "low",
       "sources" : [
         {
-          "source_name" : "TechCrunch AI",
-          "title" : "Influencers draw backlash for attending OpenAI’s first luxury trip",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/03\/influencers-draw-backlash-for-attending-openais-first-luxury-trip\/"
+          "source_name" : "The Verge AI",
+          "title" : "Can Reddit fend off a new wave of AI SEO spam?",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/973098\/reddit-ai-search-seo-marketing-brands-spam"
         }
       ],
-      "summary" : "The reaction highlights public sensitivity around how AI companies promote themselves while concerns about AI use persist.",
-      "title" : "OpenAI’s first influencer brand trip draws online backlash",
+      "summary" : "Reddit is confronting concerns about a new wave of AI-generated SEO spam. The Verge highlighted a seemingly innocuous response in a skincare discussion as part of the issue.",
+      "title" : "Reddit faces scrutiny over AI-generated SEO spam",
       "topics" : [
         "Consumer Apps",
-        "OpenAI"
+        "Safety",
+        "Reddit"
       ]
     },
     {
