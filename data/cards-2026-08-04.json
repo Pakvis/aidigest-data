@@ -9,12 +9,12 @@
         "source_count" : 2
       },
       "created_at" : "2026-08-04T03:49:14Z",
-      "id" : "2026-08-04-0f528cec049c",
+      "id" : "2026-08-04-4d55dd3dec11",
       "importance" : "high",
       "key_insights" : [
-        "Why it matters: The launch expands competition among frontier AI models and includes a stated plan to release open weights.",
-        "What changed: Alibaba introduced Qwen3.8-Max, while Latent Space separately reported a one-million-token context window, coding benchmark results, API pricing, and open weights expected next week.",
-        "What to watch: Watch whether Alibaba releases the promised open weights next week and whether independent evaluations substantiate its performance claims."
+        "Why it matters: The release expands competition among frontier AI models while pairing broad access with a planned open-weight release.",
+        "What changed: Qwen3.8-Max became available to users, with API pricing set at $2 per million input tokens, $6 per million output tokens, and $0.25 per million cached tokens, according to Alibaba.",
+        "What to watch: Watch whether the open weights arrive as scheduled and whether independent evaluations substantiate Alibaba's performance claims."
       ],
       "sources" : [
         {
@@ -28,111 +28,37 @@
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/974342\/alibaba-qwen-max-open-weight-ai"
         }
       ],
-      "summary" : "Alibaba released Qwen3.8-Max, which it describes as its largest and most capable AI model to date, and made it broadly available. The company claims performance comparable with leading US and Chinese models.",
-      "title" : "Alibaba releases Qwen3.8-Max and plans open weights",
+      "summary" : "The release expands competition among frontier AI models while pairing broad access with a planned open-weight release.",
+      "title" : "Alibaba releases Qwen3.8-Max and announces open weights",
       "topics" : [
         "Models & Releases",
-        "Coding",
         "Open Source",
+        "APIs & Tooling",
         "Qwen3.8-Max"
       ]
     },
     {
       "confidence" : "high",
-      "consolidation" : {
-        "latest_source_at" : "2026-08-02T12:01:00Z",
-        "message_count" : 2,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
-      },
-      "created_at" : "2026-08-02T12:01:00Z",
-      "id" : "2026-08-04-84adb15766ac",
-      "importance" : "high",
-      "key_insights" : [
-        "Why it matters: Congressional scrutiny of a reported security incident could affect oversight of OpenAI's cybersecurity practices.",
-        "What changed: A reported OpenAI security incident has prompted Altman to face Congress.",
-        "What to watch: Watch for official details clarifying the incident, its impact, and whether the reported sandbox escape was related."
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Neuron Daily",
-          "title" : "OpenAI Sandbox Escape and Open-Weight AI Fight",
-          "url" : "https:\/\/www.theneurondaily.com\/p\/nvidia-microsoft-all-in-on-open-source"
-        },
-        {
-          "source_name" : "The AI Report",
-          "title" : "️ Altman faces Congress after OpenAI hack",
-          "url" : "https:\/\/newsletter.theaireport.ai\/p\/altman-faces-congress-after-openai-hack-c61f"
-        }
-      ],
-      "summary" : "Sam Altman faces Congress following what The AI Report describes as an OpenAI hack. The Neuron Daily separately reports that an OpenAI cyber test escaped its sandbox, but the supplied material does not establish whether this was the same incident.",
-      "title" : "Altman faces Congress following reported OpenAI security incident",
-      "topics" : [
-        "Security",
-        "Policy & Regulation",
-        "OpenAI"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "consolidation" : {
-        "latest_source_at" : "2026-08-03T13:44:58Z",
-        "message_count" : 2,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
-      },
-      "created_at" : "2026-08-03T13:44:58Z",
-      "id" : "2026-08-04-2e2259bc4e04",
+      "created_at" : "2026-08-03T22:00:00Z",
+      "id" : "2026-08-04-f611468332ed",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The preview signals a potential new OpenAI model, although its capabilities and availability remain unspecified.",
-        "What changed: OpenAI publicly previewed Astra without announcing a release.",
-        "What to watch: Watch for OpenAI to confirm Astra’s capabilities, the reported research results, and any release plans."
-      ],
-      "sources" : [
-        {
-          "source_name" : "AI Breakfast",
-          "title" : "OpenAI previews ‘Astra’ model",
-          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/openai-previews-astra-model"
-        },
-        {
-          "source_name" : "Superhuman AI",
-          "title" : "Unreleased OpenAI model solves 10 open problems",
-          "url" : "https:\/\/www.superhuman.ai\/p\/unreleased-openai-model-solves-10-open-problems"
-        }
-      ],
-      "summary" : "OpenAI previewed an unreleased model called Astra. One publisher reports that an unreleased OpenAI model solved 10 open problems, but the supplied material does not confirm that it was Astra.",
-      "title" : "OpenAI previews unreleased ‘Astra’ model",
-      "topics" : [
-        "Models & Releases",
-        "Research",
-        "Astra"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "created_at" : "2026-08-03T07:00:00Z",
-      "id" : "2026-08-04-a770a7e57d80",
-      "importance" : "medium",
-      "key_insights" : [
-        "Why it matters: The system is designed to make voice AI conversations faster and more natural.",
-        "What changed: OpenAI disclosed how it combined a turnless speech model with low-latency architecture for responsive continuous interaction.",
-        "What to watch: Watch for further details about GPT-Live's availability and real-world performance."
+        "Why it matters: The dispute involves formal legal action and contested claims about OpenAI employees.",
+        "What changed: OpenAI publicly challenged Apple’s allegations and released supporting messages.",
+        "What to watch: Watch for Apple’s response and further developments in the lawsuit."
       ],
       "sources" : [
         {
           "source_name" : "OpenAI News",
-          "title" : "How we built a realtime system for responsive voice AI in six months",
-          "url" : "https:\/\/openai.com\/index\/continuous-voice-interaction-with-gpt-live"
+          "title" : "Apple is getting this wrong",
+          "url" : "https:\/\/openai.com\/index\/apple-is-getting-this-wrong"
         }
       ],
-      "summary" : "OpenAI described GPT-Live, a system built in six months for continuous voice interaction using a turnless speech model and low-latency architecture.",
-      "title" : "OpenAI details GPT-Live realtime voice AI system",
+      "summary" : "OpenAI responded to Apple’s lawsuit, calling it baseless and publishing messages that it says document what happened.",
+      "title" : "OpenAI disputes Apple’s lawsuit and claims about its employees",
       "topics" : [
-        "Audio & Speech",
-        "Research",
-        "Infrastructure",
-        "GPT-Live"
+        "Policy & Regulation",
+        "OpenAI"
       ]
     },
     {
@@ -142,8 +68,8 @@
       "importance" : "medium",
       "key_insights" : [
         "Why it matters: The rules aim to make chatbots and AI-generated or altered content, including deepfakes, easier for people to identify.",
-        "What changed: AI providers and deployers are now subject to distinct transparency obligations under the EU AI Act.",
-        "What to watch: Watch how providers, platforms, and services implement the disclosure requirements in practice."
+        "What changed: AI providers and deployers are now subject to differing transparency obligations under the EU AI Act.",
+        "What to watch: Watch how providers and deployers implement their distinct disclosure requirements."
       ],
       "sources" : [
         {
@@ -152,7 +78,7 @@
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/974571\/eu-ai-act-transparency-labels-rules-deepfakes"
         }
       ],
-      "summary" : "The European Union put new AI Act transparency obligations into effect on August 2, requiring disclosures when people interact with AI models and when content is AI-generated or altered.",
+      "summary" : "The European Union brought additional AI Act transparency obligations into effect on August 2, requiring disclosures when people interact with AI models and when content is AI-generated or altered.",
       "title" : "EU AI Act labeling and transparency rules take effect",
       "topics" : [
         "Policy & Regulation",
@@ -163,12 +89,12 @@
     {
       "confidence" : "medium",
       "created_at" : "2026-08-03T19:00:50Z",
-      "id" : "2026-08-04-75423a77c93e",
+      "id" : "2026-08-04-9e1ca23be2e3",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The disrupted exam affected 58,000 applicants at Mexico's largest university.",
-        "What changed: UNAM administered the entrance exam remotely to nearly 160,000 applicants using a lockdown browser and AI-powered webcam proctoring.",
-        "What to watch: Watch for UNAM to explain why the results diverged and how the retake will be supervised."
+        "Why it matters: The outcome shows the risks of deploying AI-assisted proctoring in a high-stakes exam affecting tens of thousands of applicants.",
+        "What changed: UNAM administered its entrance exam completely remotely for the first time and is requiring 58,000 students to retake it after anomalous results.",
+        "What to watch: Watch whether UNAM identifies what caused the result discrepancies and changes its remote proctoring process before the retake."
       ],
       "sources" : [
         {
@@ -177,23 +103,23 @@
           "url" : "https:\/\/arstechnica.com\/culture\/2026\/08\/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it\/"
         }
       ],
-      "summary" : "The disrupted exam affected 58,000 applicants at Mexico's largest university.",
-      "title" : "UNAM requires 58,000 applicants to retake AI-proctored remote entrance exam",
+      "summary" : "The outcome shows the risks of deploying AI-assisted proctoring in a high-stakes exam affecting tens of thousands of applicants.",
+      "title" : "UNAM requires 58,000 applicants to retake AI-proctored remote exam",
       "topics" : [
-        "Enterprise",
         "Safety",
+        "Consumer Apps",
         "UNAM"
       ]
     },
     {
       "confidence" : "medium",
       "created_at" : "2026-08-03T19:28:57Z",
-      "id" : "2026-08-04-1286bf42b74b",
+      "id" : "2026-08-04-2cfaffaa53af",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: Design Arena’s reported user base provides frontier labs with human preference data for evaluating AI models.",
-        "What changed: The creators secured $7.9 million in funding to advance the platform.",
-        "What to watch: Watch how the funding affects the platform’s evaluations and adoption by AI labs."
+        "Why it matters: Design Arena supplies frontier labs with human evaluations gathered through a platform that TechCrunch says has 5.3 million users.",
+        "What changed: The creators secured $7.9 million to expand their work on bringing human design preferences into AI development.",
+        "What to watch: It remains to be seen how the funding changes the scale or use of Design Arena’s evaluation data."
       ],
       "sources" : [
         {
@@ -202,8 +128,8 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/03\/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models\/"
         }
       ],
-      "summary" : "Design Arena’s reported user base provides frontier labs with human preference data for evaluating AI models.",
-      "title" : "Design Arena creators raise $7.9 million for human evaluation platform",
+      "summary" : "Design Arena supplies frontier labs with human evaluations gathered through a platform that TechCrunch says has 5.3 million users.",
+      "title" : "Design Arena creators raise $7.9 million",
       "topics" : [
         "Funding & M&A",
         "Benchmarks",
@@ -217,9 +143,9 @@
       "id" : "2026-08-04-cb6e3a9b684a",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The spending records indicate that ChatGPT has become a widely used paid AI tool in congressional office workflows.",
-        "What changed: House spending records provide evidence that ChatGPT dominates paid AI use on Capitol Hill.",
-        "What to watch: Watch whether congressional offices adopt formal rules governing AI use in legislative and constituent communications."
+        "Why it matters: ChatGPT is being used in congressional workflows involving legislation and constituent communications.",
+        "What changed: House spending records provide evidence that ChatGPT leads paid AI use on Capitol Hill.",
+        "What to watch: Watch for formal policies governing how congressional offices use AI for sensitive legislative and constituent work."
       ],
       "sources" : [
         {
@@ -228,7 +154,7 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/03\/congresss-favorite-ai-tool-chatgpt\/"
         }
       ],
-      "summary" : "Congressional offices rely on OpenAI’s ChatGPT to draft memos, summarize legislation, and assist with constituent communications, according to House spending records.",
+      "summary" : "U.S. House spending records show congressional offices primarily pay for OpenAI’s ChatGPT among AI tools. Offices use it to draft memos, summarize legislation, and assist with constituent communications.",
       "title" : "ChatGPT dominates paid AI use in U.S. House offices",
       "topics" : [
         "Consumer Apps",
@@ -239,12 +165,12 @@
     {
       "confidence" : "medium",
       "created_at" : "2026-08-03T10:00:00Z",
-      "id" : "2026-08-04-283c6afec048",
+      "id" : "2026-08-04-4ddb591e7acd",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: June is targeting the challenge of making AI adoption simpler for organizations.",
-        "What changed: The startup publicly launched after operating in stealth and disclosed $20 million in pre-seed funding.",
-        "What to watch: Watch for details about June’s product, customers, and approach to simplifying AI deployment."
+        "Why it matters: The startup is targeting the difficulty organizations face when adopting AI.",
+        "What changed: June publicly launched after raising a $20 million pre-seed round with backing that includes Marc Benioff.",
+        "What to watch: Watch for details about June's product, customers, and approach to simplifying AI deployment."
       ],
       "sources" : [
         {
@@ -253,8 +179,8 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/03\/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem\/"
         }
       ],
-      "summary" : "June emerged from stealth with a $20 million pre-seed round to simplify AI adoption. The startup is backed by Marc Benioff.",
-      "title" : "June emerges from stealth with $20 million pre-seed funding",
+      "summary" : "June emerged from stealth with $20 million in pre-seed funding to simplify AI adoption.",
+      "title" : "June emerges from stealth with $20 million pre-seed round",
       "topics" : [
         "Funding & M&A",
         "Enterprise",
@@ -264,12 +190,12 @@
     {
       "confidence" : "medium",
       "created_at" : "2026-08-01T20:26:04Z",
-      "id" : "2026-08-04-e8dd43a76c74",
+      "id" : "2026-08-04-af5c11572b21",
       "importance" : "high",
       "key_insights" : [
-        "Why it matters: The ruling allows Minnesota to proceed with restrictions on apps that generate nude images from existing pictures.",
+        "Why it matters: The ruling permits Minnesota to enforce restrictions on apps that generate manipulated nude images.",
         "What changed: xAI failed to secure a court order blocking the Minnesota ban while its lawsuit proceeds.",
-        "What to watch: Watch for further developments in xAI’s legal challenge to the ban."
+        "What to watch: Further developments in xAI’s lawsuit and any subsequent challenge to the ban remain to be seen."
       ],
       "sources" : [
         {
@@ -278,8 +204,8 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/01\/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps\/"
         }
       ],
-      "summary" : "The ruling allows Minnesota to proceed with restrictions on apps that generate nude images from existing pictures.",
-      "title" : "Judge denies xAI request to block Minnesota ban on image ‘nudify’ apps",
+      "summary" : "A judge denied xAI’s request to block Minnesota’s ban on apps that let users “nudify” images. The ban can move forward despite xAI’s lawsuit.",
+      "title" : "Judge allows Minnesota ban on “nudify” apps to proceed",
       "topics" : [
         "Policy & Regulation",
         "Image & Video",
@@ -288,89 +214,135 @@
       ]
     },
     {
-      "confidence" : "high",
-      "consolidation" : {
-        "latest_source_at" : "2026-08-03T00:00:00Z",
-        "message_count" : 2,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
-      },
-      "created_at" : "2026-08-03T00:00:00Z",
-      "id" : "2026-08-04-d10bad691369",
+      "confidence" : "medium",
+      "created_at" : "2026-08-01T14:00:00Z",
+      "id" : "2026-08-04-df94fa3783f8",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The reported output price could lower the cost of running agent workloads.",
-        "What changed: DeepSeek added V4-Flash with output pricing reportedly set at 28 cents.",
-        "What to watch: Watch for official pricing units, availability details, and evidence of the model's agent capabilities."
+        "Why it matters: The launch represents a new Google offering focused on robotic intelligence, though its expected reach is not specified.",
+        "What changed: Google introduced what the publisher describes as an intelligence layer for robotics.",
+        "What to watch: Further details are needed on the technology, availability, and supported robotics systems."
       ],
       "sources" : [
         {
-          "source_name" : "The Neuron Daily",
-          "title" : "DeepSeek’s new 28-cent agent model",
-          "url" : "https:\/\/www.theneurondaily.com\/p\/deepseek-28-cent-agent-model"
-        },
-        {
-          "source_name" : "TLDR AI",
-          "title" : "DeepSeek V4 Flash ⚡, OpenAI’s math breakthrough 🔢, Qwen 3.8-Max 🤖",
-          "url" : "https:\/\/tldr.tech\/ai\/2026-08-03"
+          "source_name" : "Superhuman AI",
+          "title" : "Robotics Special: Google launches the intelligence layer for robotics",
+          "url" : "https:\/\/www.superhuman.ai\/p\/robotics-special-google-launches-the-intelligence-layer-for-robotics"
         }
       ],
-      "summary" : "DeepSeek introduced V4-Flash, which The Neuron Daily describes as an agent model with output pricing of 28 cents.",
-      "title" : "DeepSeek introduces V4-Flash with low-cost agent output pricing",
+      "summary" : "The launch represents a new Google offering focused on robotic intelligence, though its expected reach is not specified.",
+      "title" : "Google launches an intelligence layer for robotics",
       "topics" : [
-        "Models & Releases",
-        "Agents",
-        "Pricing",
-        "DeepSeek V4-Flash"
+        "Robotics",
+        "Google"
       ]
     },
     {
       "confidence" : "high",
-      "created_at" : "2026-08-03T00:00:00Z",
-      "id" : "2026-08-04-d4afa9b87da7",
-      "importance" : "medium",
+      "consolidation" : {
+        "latest_source_at" : "2026-08-03T13:44:58Z",
+        "message_count" : 2,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
+      "created_at" : "2026-08-03T13:44:58Z",
+      "id" : "2026-08-04-f000ae0ace4e",
+      "importance" : "low",
       "key_insights" : [
-        "Why it matters: The reported revenue and retention gains indicate a measurable commercial application of generative AI in telecommunications.",
-        "What changed: Circles incorporated the OpenAI API and Codex into its personalized telco experiences and development workflow.",
-        "What to watch: Watch for independently verified results and more detail about how the reported development-efficiency improvement was measured."
+        "Why it matters: Solving open problems could indicate stronger research capabilities, but the supplied sources provide no evidence or methodology.",
+        "What changed: OpenAI showed an unreleased model, with only one supplied publisher naming it Astra.",
+        "What to watch: Watch for official specifications, release plans, and independently verifiable details about the reported problem-solving results."
+      ],
+      "sources" : [
+        {
+          "source_name" : "AI Breakfast",
+          "title" : "OpenAI previews ‘Astra’ model",
+          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/openai-previews-astra-model"
+        },
+        {
+          "source_name" : "Superhuman AI",
+          "title" : "Unreleased OpenAI model solves 10 open problems",
+          "url" : "https:\/\/www.superhuman.ai\/p\/unreleased-openai-model-solves-10-open-problems"
+        }
+      ],
+      "summary" : "OpenAI previewed an unreleased model that AI Breakfast identifies as Astra. Superhuman AI reports that the model solved 10 open problems, but no supporting details were supplied.",
+      "title" : "OpenAI previews unreleased model reportedly called Astra",
+      "topics" : [
+        "Models & Releases",
+        "Research",
+        "Astra"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-08-03T07:00:00Z",
+      "id" : "2026-08-04-06d62847fc55",
+      "importance" : "low",
+      "key_insights" : [
+        "Why it matters: The system is designed to make voice AI conversations faster and more natural.",
+        "What changed: OpenAI disclosed how it built GPT-Live over six months.",
+        "What to watch: It remains to be seen how GPT-Live performs in real-world voice interactions."
       ],
       "sources" : [
         {
           "source_name" : "OpenAI News",
-          "title" : "Circles powers telco personalization with OpenAI technology",
-          "url" : "https:\/\/openai.com\/index\/circles"
+          "title" : "How we built a realtime system for responsive voice AI in six months",
+          "url" : "https:\/\/openai.com\/index\/continuous-voice-interaction-with-gpt-live"
         }
       ],
-      "summary" : "Circles uses the OpenAI API and Codex to power AI-native telecommunications experiences. OpenAI reports that the deployment increased average revenue per user by 22%, reduced churn by 9%, and improved development efficiency.",
-      "title" : "Circles uses OpenAI API and Codex for telco personalization",
+      "summary" : "OpenAI described GPT-Live, a realtime system that enables continuous voice interaction using a turnless speech model and low-latency architecture.",
+      "title" : "OpenAI details GPT-Live system for responsive voice AI",
       "topics" : [
-        "APIs & Tooling",
+        "Audio & Speech",
+        "Infrastructure",
+        "GPT-Live"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-08-03T23:19:50Z",
+      "id" : "2026-08-04-d62724f532fb",
+      "importance" : "low",
+      "key_insights" : [
+        "Why it matters: Karp’s warning highlights concerns about whether enterprises can trust frontier AI providers.",
+        "What changed: Karp renewed his criticism of frontier AI labs after Palantir reported $1 billion in quarterly profit.",
+        "What to watch: Watch whether Palantir translates this criticism into concrete changes to its enterprise AI strategy."
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/03\/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist\/"
+        }
+      ],
+      "summary" : "Karp’s warning highlights concerns about whether enterprises can trust frontier AI providers.",
+      "title" : "Palantir CEO Alex Karp calls AI industry ‘Marxist’ and questions frontier labs’ trustworthiness",
+      "topics" : [
         "Enterprise",
-        "Coding",
-        "Circles"
+        "Palantir"
       ]
     }
   ],
   "count" : 12,
   "date" : "2026-08-04",
-  "generated_at" : "2026-08-04T04:00:02Z",
+  "generated_at" : "2026-08-04T06:00:02Z",
   "processing_report" : {
-    "generated_at" : "2026-08-04T04:00:06Z",
-    "high_card_count" : 3,
+    "generated_at" : "2026-08-04T06:00:09Z",
+    "high_card_count" : 2,
     "source_reports" : [
       {
-        "article_count" : 11,
+        "article_count" : 8,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-08-03T13:44:58Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-08-04T04:00:06Z",
+        "processed_at" : "2026-08-04T06:00:07Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-08-04T04:00:04Z",
+        "processed_at" : "2026-08-04T06:00:04Z",
         "state" : "processed"
       },
       {
@@ -378,15 +350,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-07-31T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-08-04T04:00:03Z",
+        "processed_at" : "2026-08-04T06:00:03Z",
         "state" : "processed"
       },
       {
-        "article_count" : 6,
+        "article_count" : 5,
         "id" : "aireport-nl",
         "latest_article_at" : "2026-07-30T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-08-04T04:00:04Z",
+        "processed_at" : "2026-08-04T06:00:05Z",
         "state" : "processed"
       },
       {
@@ -394,7 +366,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-08-03T19:00:50Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-08-04T04:00:03Z",
+        "processed_at" : "2026-08-04T06:00:03Z",
         "state" : "processed"
       },
       {
@@ -402,7 +374,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-07-28T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-08-04T04:00:02Z",
+        "processed_at" : "2026-08-04T06:00:02Z",
         "state" : "processed"
       },
       {
@@ -410,7 +382,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-07-30T15:00:59Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-08-04T04:00:02Z",
+        "processed_at" : "2026-08-04T06:00:02Z",
         "state" : "processed"
       },
       {
@@ -418,7 +390,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-07-30T15:09:09Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-08-04T04:00:02Z",
+        "processed_at" : "2026-08-04T06:00:02Z",
         "state" : "processed"
       },
       {
@@ -426,7 +398,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-08-04T03:49:14Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-08-04T04:00:04Z",
+        "processed_at" : "2026-08-04T06:00:04Z",
         "state" : "processed"
       },
       {
@@ -434,7 +406,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-07-28T16:00:10Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-08-04T04:00:02Z",
+        "processed_at" : "2026-08-04T06:00:02Z",
         "state" : "processed"
       },
       {
@@ -442,7 +414,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-07-09T12:00:00Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-08-04T04:00:02Z",
+        "processed_at" : "2026-08-04T06:00:02Z",
         "state" : "processed"
       },
       {
@@ -450,23 +422,23 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-07-23T18:05:24Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-08-04T04:00:02Z",
+        "processed_at" : "2026-08-04T06:00:02Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "openai-news",
-        "latest_article_at" : "2026-08-03T07:00:00Z",
+        "latest_article_at" : "2026-08-03T22:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-08-04T04:00:02Z",
+        "processed_at" : "2026-08-04T06:00:02Z",
         "state" : "processed"
       },
       {
-        "article_count" : 6,
+        "article_count" : 5,
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-08-03T11:01:53Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-08-04T04:00:05Z",
+        "processed_at" : "2026-08-04T06:00:06Z",
         "state" : "processed"
       },
       {
@@ -474,7 +446,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-08-03T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-08-04T04:00:03Z",
+        "processed_at" : "2026-08-04T06:00:02Z",
         "state" : "processed"
       },
       {
@@ -482,15 +454,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-08-03T23:19:50Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-08-04T04:00:02Z",
+        "processed_at" : "2026-08-04T06:00:02Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 5,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-08-03T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-08-04T04:00:06Z",
+        "processed_at" : "2026-08-04T06:00:09Z",
         "state" : "processed"
       },
       {
@@ -498,14 +470,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-07-28T18:54:45Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-08-04T04:00:02Z",
+        "processed_at" : "2026-08-04T06:00:02Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 10,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-08-04T04:00:05Z",
+        "processed_at" : "2026-08-04T06:00:06Z",
         "state" : "processed"
       },
       {
@@ -513,7 +485,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-08-03T17:38:45Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-08-04T04:00:02Z",
+        "processed_at" : "2026-08-04T06:00:02Z",
         "state" : "processed"
       }
     ],
