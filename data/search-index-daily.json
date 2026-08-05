@@ -2,6 +2,287 @@
   "cards" : [
     {
       "confidence" : "high",
+      "date" : "2026-08-05",
+      "id" : "2026-08-05-969e7518b003",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "The AI Report",
+          "title" : "️ Alibaba's Qwen beats GPT, Claude",
+          "url" : "https:\/\/newsletter.theaireport.ai\/p\/alibaba-s-qwen-beats-gpt-claude"
+        },
+        {
+          "source_name" : "Latent Space",
+          "title" : "Qwen 3.8 Max(2.4T) and 27B, new open weights models for Coding and Cowork",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-qwen-38-max24t-and-27b-new"
+        },
+        {
+          "source_name" : "The Verge AI",
+          "title" : "China’s Alibaba takes another swipe at America’s AI supremacy",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/974342\/alibaba-qwen-max-open-weight-ai"
+        },
+        {
+          "source_name" : "AI News (Swyx)",
+          "title" : "Qwen 3.8 Max",
+          "url" : "https:\/\/news.smol.ai\/issues\/26-08-03-qwen-38\/"
+        }
+      ],
+      "summary" : "Alibaba released Qwen3.8-Max, which it calls its largest and most capable AI model to date, and made it widely available to users. Two newsletters report that open weights are planned for next week.",
+      "title" : "Alibaba releases Qwen3.8-Max and plans open weights",
+      "topics" : [
+        "Models & Releases",
+        "Open Source",
+        "Pricing",
+        "Qwen3.8-Max"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-08-05",
+      "id" : "2026-08-05-8c584c637e56",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Unpacking ChatGPT Work: the Agent for a Billion Users",
+          "url" : "https:\/\/www.latent.space\/p\/unpacking-chatgpt-work"
+        },
+        {
+          "source_name" : "OpenAI News",
+          "title" : "New ways to learn and teach with ChatGPT Work and Codex",
+          "url" : "https:\/\/openai.com\/index\/learn-teach-chatgpt-work-codex"
+        }
+      ],
+      "summary" : "The plugins extend OpenAI’s agent tools into education workflows for teachers and students.",
+      "title" : "OpenAI introduces education plugins for ChatGPT Work and Codex",
+      "topics" : [
+        "Agents",
+        "Coding",
+        "Research",
+        "ChatGPT Work"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-08-05",
+      "id" : "2026-08-05-f7ba7cc831b6",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "OpenAI drags Apple’s lawsuit into the court of public opinion",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/974914\/openai-blog-response-apple-lawsuit-messages"
+        },
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Apple is getting this wrong",
+          "url" : "https:\/\/openai.com\/index\/apple-is-getting-this-wrong"
+        }
+      ],
+      "summary" : "OpenAI published messages and emails to challenge Apple’s allegations that it stole trade secrets and to correct claims about its employees. The company characterized the lawsuit as baseless, careless, aggressive and personal.",
+      "title" : "OpenAI publicly disputes Apple’s trade-secret lawsuit",
+      "topics" : [
+        "Policy & Regulation",
+        "OpenAI"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-08-05",
+      "id" : "2026-08-05-54fb6ea5a4c2",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "The Neuron Daily",
+          "title" : "Nvidia Built an AI Defense League",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/nvidia-built-an-ai-defense-league"
+        },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/04\/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress\/"
+        }
+      ],
+      "summary" : "Nvidia-backed Open Secure AI Alliance has released proposals for defending against AI agents one week after its formation. TechCrunch reports that the group has grown to more than 120 companies, while The Neuron says Nvidia and Microsoft launched it.",
+      "title" : "Open Secure AI Alliance proposes defenses against AI-agent threats",
+      "topics" : [
+        "Security",
+        "Agents",
+        "Open Source",
+        "Open Secure AI Alliance"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-08-05",
+      "id" : "2026-08-05-a7d40bcec880",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Third-party cyber evaluations involving OpenAI models",
+          "url" : "https:\/\/openai.com\/index\/third-party-cyber-evaluations-involving-openai-models"
+        }
+      ],
+      "summary" : "The incidents highlight risks that can arise when external parties conduct cybersecurity evaluations of AI models.",
+      "title" : "OpenAI outlines safeguards after third-party cybersecurity evaluation incidents",
+      "topics" : [
+        "Security",
+        "Safety",
+        "Benchmarks",
+        "OpenAI"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-08-05",
+      "id" : "2026-08-05-7702e6d31e82",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "Mistral AI",
+          "title" : "Introducing Shieldstral.",
+          "url" : "https:\/\/mistral.ai\/news\/shieldstral\/"
+        }
+      ],
+      "summary" : "Mistral AI released a 3B multimodal safety classifier and reported performance above models up to seven times larger.",
+      "title" : "Mistral AI introduces 3B open-weights multimodal safety classifier Shieldstral",
+      "topics" : [
+        "Safety",
+        "Models & Releases",
+        "Open Source",
+        "Shieldstral"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-05",
+      "id" : "2026-08-05-987d530ccd58",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "SpaceX made more revenue as an AI company than a space company",
+          "url" : "https:\/\/www.theverge.com\/science\/975335\/spacex-made-more-money-as-a-neocloud"
+        }
+      ],
+      "summary" : "The results show compute services generating more revenue for SpaceX than its space operations, according to the company’s quarterly earnings.",
+      "title" : "SpaceX reports $2.6 billion in AI revenue from compute deals",
+      "topics" : [
+        "Compute & Chips",
+        "Infrastructure",
+        "Enterprise",
+        "SpaceX"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-05",
+      "id" : "2026-08-05-f95c23aaa322",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/04\/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains\/"
+        }
+      ],
+      "summary" : "SaferAI reported that Z.ai’s open-weight GLM-5.2 approaches frontier AI capabilities but lacks key safety mitigations. The finding raises concern that safeguards and governance may lag increasingly capable open models.",
+      "title" : "SaferAI report says GLM-5.2 nears frontier capabilities while lacking key safeguards",
+      "topics" : [
+        "Safety",
+        "Open Source",
+        "Models & Releases",
+        "GLM-5.2"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-05",
+      "id" : "2026-08-05-f4a31a79c0d1",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Anthropic signs $10B deal with AI cloud startup Volta",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/04\/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta\/"
+        }
+      ],
+      "summary" : "The reported $10 billion value makes the agreement a material corporate move in AI cloud infrastructure.",
+      "title" : "Anthropic reportedly signs $10 billion cloud deal with Volta",
+      "topics" : [
+        "Compute & Chips",
+        "Infrastructure",
+        "Enterprise",
+        "Anthropic"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-05",
+      "id" : "2026-08-05-810e2e5c430a",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Spotify expands AI remix and covers project with Merlin partnership",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/04\/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort\/"
+        }
+      ],
+      "summary" : "Spotify added Merlin, which represents more than 30,000 independent labels and distributors, as a partner for its upcoming paid AI-powered remix and covers product. Participating artists will opt in, receive credit, and be compensated.",
+      "title" : "Spotify adds Merlin to AI remix and covers project",
+      "topics" : [
+        "Audio & Speech",
+        "Consumer Apps",
+        "Spotify"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-05",
+      "id" : "2026-08-05-deb4923b15f4",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Apple says more ex-employees may have taken confidential data to OpenAI",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/04\/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai\/"
+        }
+      ],
+      "summary" : "The filing indicates a potentially broader dispute over confidential information allegedly taken by former Apple employees.",
+      "title" : "Apple says trade secrets investigation involving OpenAI has widened",
+      "topics" : [
+        "Security",
+        "Policy & Regulation",
+        "Apple"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-08-05",
+      "id" : "2026-08-05-e370707179d6",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "How an OpenAI influencer trip backfired",
+          "url" : "https:\/\/www.theverge.com\/tech\/975173\/openai-influencers-brand-trip-ai-backlash-marketing"
+        },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Influencers draw backlash for attending OpenAI’s first luxury trip",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/03\/influencers-draw-backlash-for-attending-openais-first-luxury-trip\/"
+        }
+      ],
+      "summary" : "The backlash highlights public sensitivity around how OpenAI promotes its brand through influencers.",
+      "title" : "OpenAI’s first influencer brand trip draws online backlash",
+      "topics" : [
+        "Consumer Apps",
+        "OpenAI"
+      ]
+    },
+    {
+      "confidence" : "high",
       "date" : "2026-08-04",
       "id" : "2026-08-04-0f528cec049c",
       "importance" : "high",
