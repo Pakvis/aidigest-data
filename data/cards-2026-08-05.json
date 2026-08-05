@@ -4,17 +4,17 @@
       "confidence" : "high",
       "consolidation" : {
         "latest_source_at" : "2026-08-04T11:01:00Z",
-        "message_count" : 4,
+        "message_count" : 3,
         "reason" : "Multiple sources reported the same story.",
-        "source_count" : 4
+        "source_count" : 3
       },
       "created_at" : "2026-08-04T11:01:00Z",
-      "id" : "2026-08-05-969e7518b003",
+      "id" : "2026-08-05-22d2d637415c",
       "importance" : "high",
       "key_insights" : [
-        "Why it matters: The release expands Alibaba’s challenge to leading US and Chinese AI labs with a model aimed at frontier-level performance.",
-        "What changed: Qwen3.8-Max became broadly available, with Alibaba also disclosing API pricing and plans to release open weights.",
-        "What to watch: Watch whether the promised open weights arrive as scheduled and whether independent evaluations confirm Alibaba’s performance claims."
+        "Why it matters: The planned release would make Alibaba's new flagship available as an open-weight model for demanding coding and agentic workloads.",
+        "What changed: Alibaba introduced Qwen3.8-Max and committed to releasing its weights alongside Qwen3.8-27B.",
+        "What to watch: Watch whether Alibaba releases the promised weights next week and under what terms."
       ],
       "sources" : [
         {
@@ -28,22 +28,17 @@
           "url" : "https:\/\/www.latent.space\/p\/ainews-qwen-38-max24t-and-27b-new"
         },
         {
-          "source_name" : "The Verge AI",
-          "title" : "China’s Alibaba takes another swipe at America’s AI supremacy",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/974342\/alibaba-qwen-max-open-weight-ai"
-        },
-        {
           "source_name" : "AI News (Swyx)",
           "title" : "Qwen 3.8 Max",
           "url" : "https:\/\/news.smol.ai\/issues\/26-08-03-qwen-38\/"
         }
       ],
-      "summary" : "Alibaba released Qwen3.8-Max, which it describes as its largest and most capable AI model to date. The company said open weights for Qwen3.8-Max and Qwen3.8-27B will arrive next week.",
-      "title" : "Alibaba releases Qwen3.8-Max and plans open weights",
+      "summary" : "The planned release would make Alibaba's new flagship available as an open-weight model for demanding coding and agentic workloads.",
+      "title" : "Alibaba announces Qwen3.8-Max with open weights planned",
       "topics" : [
         "Models & Releases",
-        "Coding",
         "Open Source",
+        "Agents",
         "Qwen3.8-Max"
       ]
     },
@@ -59,9 +54,9 @@
       "id" : "2026-08-05-8c584c637e56",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The plugins extend OpenAI’s agent tools into education workflows spanning schools and colleges.",
-        "What changed: ChatGPT Work and Codex gained new plugins designed for educators and students.",
-        "What to watch: Watch for further details about plugin availability and how educators and students use them in practice."
+        "Why it matters: The plugins extend OpenAI’s agent tools into education workflows for teachers and students.",
+        "What changed: ChatGPT Work and Codex gained new plugins designed for education.",
+        "What to watch: Availability, institutional adoption, and the plugins’ effectiveness in classrooms remain to be established."
       ],
       "sources" : [
         {
@@ -75,11 +70,11 @@
           "url" : "https:\/\/openai.com\/index\/learn-teach-chatgpt-work-codex"
         }
       ],
-      "summary" : "The plugins extend OpenAI’s agent tools into education workflows spanning schools and colleges.",
+      "summary" : "The plugins extend OpenAI’s agent tools into education workflows for teachers and students.",
       "title" : "OpenAI introduces education plugins for ChatGPT Work and Codex",
       "topics" : [
         "Agents",
-        "APIs & Tooling",
+        "Coding",
         "Research",
         "ChatGPT Work"
       ]
@@ -87,37 +82,74 @@
     {
       "confidence" : "high",
       "consolidation" : {
-        "latest_source_at" : "2026-08-04T11:27:55Z",
+        "latest_source_at" : "2026-08-05T11:01:00Z",
         "message_count" : 2,
         "reason" : "Multiple sources reported the same story.",
         "source_count" : 2
       },
-      "created_at" : "2026-08-04T11:27:55Z",
-      "id" : "2026-08-05-857d48cd4dc0",
+      "created_at" : "2026-08-05T11:01:00Z",
+      "id" : "2026-08-05-041306d3609c",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The public release of communications raises the stakes in a legal dispute involving alleged trade-secret theft and employee conduct.",
-        "What changed: OpenAI moved beyond private litigation by publicly presenting communications that it says contradict central allegations in Apple’s lawsuit.",
-        "What to watch: Watch whether the disclosed communications affect subsequent court filings or how either party substantiates its claims."
+        "Why it matters: The filing broadens a trade secrets dispute involving confidential Apple information and former employees who moved to OpenAI.",
+        "What changed: Apple now alleges that additional former staff may have retained or accessed confidential information.",
+        "What to watch: Watch for further court filings that clarify how many former employees are implicated and what information Apple claims was involved."
       ],
       "sources" : [
         {
-          "source_name" : "The Verge AI",
-          "title" : "OpenAI drags Apple’s lawsuit into the court of public opinion",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/974914\/openai-blog-response-apple-lawsuit-messages"
+          "source_name" : "The AI Report",
+          "title" : "️ Apple widens OpenAI theft suit",
+          "url" : "https:\/\/newsletter.theaireport.ai\/p\/ny-halts-hyperscale-data-centers-ec3d35db3a0ace6e"
         },
         {
-          "source_name" : "OpenAI News",
-          "title" : "Apple is getting this wrong",
-          "url" : "https:\/\/openai.com\/index\/apple-is-getting-this-wrong"
+          "source_name" : "TechCrunch AI",
+          "title" : "Apple says more ex-employees may have taken confidential data to OpenAI",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/04\/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai\/"
         }
       ],
-      "summary" : "OpenAI published a rebuttal to Apple’s lawsuit accusing it of stealing trade secrets, disputing claims about its employees and releasing messages and emails to support its account. The company characterized Apple’s allegations as baseless, careless and personal.",
-      "title" : "OpenAI publicly challenges Apple’s trade-secret lawsuit",
+      "summary" : "Apple now alleges that additional former staff may have retained or accessed confidential information.",
+      "title" : "Apple widens trade secrets investigation involving former employees and OpenAI",
       "topics" : [
+        "Security",
         "Policy & Regulation",
-        "Enterprise",
-        "OpenAI"
+        "Apple"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-08-04T19:28:49Z",
+        "message_count" : 2,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
+      "created_at" : "2026-08-04T19:28:49Z",
+      "id" : "2026-08-05-6d810fbdbdf8",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: The alliance brings a large group of companies together to develop shared approaches to securing AI-agent systems.",
+        "What changed: The newly formed alliance released its first proposals for defenses against AI agents.",
+        "What to watch: Watch whether members turn the initial proposals into concrete, broadly adopted security practices."
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Neuron Daily",
+          "title" : "Nvidia Built an AI Defense League",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/nvidia-built-an-ai-defense-league"
+        },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/04\/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress\/"
+        }
+      ],
+      "summary" : "Nvidia has spearheaded the Open Secure AI Alliance, an industry group focused on AI security that has already released proposals for defending against AI agents. TechCrunch reports that the week-old alliance has grown to more than 120 companies, while The Neuron identifies Microsoft as a launch partner.",
+      "title" : "Nvidia-led Open Secure AI Alliance proposes defenses against AI agents",
+      "topics" : [
+        "Security",
+        "Agents",
+        "Open Source",
+        "Open Secure AI Alliance"
       ]
     },
     {
@@ -126,9 +158,9 @@
       "id" : "2026-08-05-a7d40bcec880",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: Third-party cybersecurity evaluations can expose weaknesses in how AI models are tested and handled.",
-        "What changed: OpenAI introduced new safeguards for cybersecurity testing and evaluation following the incidents.",
-        "What to watch: Watch for details on how the safeguards are implemented and whether external evaluators adopt them."
+        "Why it matters: Cybersecurity evaluations require safeguards that protect the testing process while preserving useful scrutiny of model capabilities.",
+        "What changed: OpenAI introduced new safeguards intended to strengthen how its models are tested and evaluated.",
+        "What to watch: Watch for further details on the incidents and evidence that the new safeguards improve future third-party evaluations."
       ],
       "sources" : [
         {
@@ -137,7 +169,7 @@
           "url" : "https:\/\/openai.com\/index\/third-party-cyber-evaluations-involving-openai-models"
         }
       ],
-      "summary" : "Third-party cybersecurity evaluations can expose weaknesses in how AI models are tested and handled.",
+      "summary" : "Cybersecurity evaluations require safeguards that protect the testing process while preserving useful scrutiny of model capabilities.",
       "title" : "OpenAI outlines safeguards after third-party cybersecurity evaluation incidents",
       "topics" : [
         "Security",
@@ -152,9 +184,9 @@
       "id" : "2026-08-05-bf4a8f924abf",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: Shieldstral offers an open-weights option for multimodal safety classification in a relatively compact model.",
-        "What changed: Mistral AI released a 3B multimodal model specifically designed for safety classification.",
-        "What to watch: Independent evaluations should test Mistral AI's performance claim across representative multimodal safety tasks."
+        "Why it matters: Shieldstral provides an open-weights option for multimodal safety classification.",
+        "What changed: Mistral AI released a 3B multimodal safety classifier under open weights.",
+        "What to watch: Watch whether independent evaluations confirm Mistral AI's performance claim."
       ],
       "sources" : [
         {
@@ -163,24 +195,50 @@
           "url" : "https:\/\/mistral.ai\/news\/shieldstral\/"
         }
       ],
-      "summary" : "Shieldstral offers an open-weights option for multimodal safety classification in a relatively compact model.",
+      "summary" : "Shieldstral provides an open-weights option for multimodal safety classification.",
       "title" : "Mistral AI introduces Shieldstral, a 3B open-weights safety classifier",
       "topics" : [
-        "Safety",
         "Models & Releases",
+        "Safety",
         "Open Source",
         "Shieldstral"
       ]
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-08-04T20:47:55Z",
-      "id" : "2026-08-05-82507be7db5f",
+      "created_at" : "2026-08-05T10:29:47Z",
+      "id" : "2026-08-05-1a087150262c",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: Compute services now generate more revenue for SpaceX than its space operations, according to the company’s earnings.",
-        "What changed: SpaceX signed compute deals with Anthropic in May and Google in June, placing it in competition with neocloud providers such as CoreWeave.",
-        "What to watch: Watch whether additional compute business can reduce the AI division’s losses."
+        "Why it matters: Excluding downloadable open models limits the framework’s coverage of potential cybersecurity risks from advanced AI.",
+        "What changed: The administration established a voluntary testing framework that reportedly does not assess open models.",
+        "What to watch: Watch whether the administration clarifies the framework or develops a separate approach for evaluating open models."
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Trump’s AI testing plan is limited and vague",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/975509\/white-house-ai-framework-open-models-excluded"
+        }
+      ],
+      "summary" : "Excluding downloadable open models limits the framework’s coverage of potential cybersecurity risks from advanced AI.",
+      "title" : "Trump administration AI testing framework excludes open models",
+      "topics" : [
+        "Policy & Regulation",
+        "Security",
+        "Open Source",
+        "Trump administration"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-08-04T20:47:55Z",
+      "id" : "2026-08-05-10e45f5f8f54",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: The reported results show AI computing services generating more revenue for SpaceX than its space business during the quarter.",
+        "What changed: SpaceX signed compute deals with Anthropic in May and Google in June, placing it in competition with providers such as CoreWeave.",
+        "What to watch: Watch whether SpaceX can continue expanding AI compute revenue while reducing the division's quarterly losses."
       ],
       "sources" : [
         {
@@ -189,8 +247,8 @@
           "url" : "https:\/\/www.theverge.com\/science\/975335\/spacex-made-more-money-as-a-neocloud"
         }
       ],
-      "summary" : "SpaceX reported that AI revenue more than tripled year over year to $2.6 billion, driven mainly by providing compute to other AI companies. The division lost $1.5 billion during the quarter.",
-      "title" : "SpaceX’s AI revenue surpassed its space revenue",
+      "summary" : "SpaceX reported that AI revenue more than tripled year over year to $2.6 billion, largely from providing computing capacity to other AI companies. Its AI division lost $1.5 billion during the quarter.",
+      "title" : "SpaceX reports $2.6 billion in quarterly AI revenue",
       "topics" : [
         "Compute & Chips",
         "Enterprise",
@@ -199,13 +257,38 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-08-04T20:05:26Z",
-      "id" : "2026-08-05-7b6f96ff94d6",
+      "created_at" : "2026-08-05T11:00:00Z",
+      "id" : "2026-08-05-66c895b95122",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: Powerful open-weight models without key safety mitigations could widen the gap between model capabilities and safeguards.",
-        "What changed: A new SaferAI report identified GLM-5.2 as approaching frontier capabilities despite lacking key safety mitigations.",
-        "What to watch: Watch whether Z.ai adds safety mitigations and whether governance frameworks adapt to increasingly capable open-weight models."
+        "Why it matters: The funding could help WindBorne expand the physical data collection and AI forecasting systems behind its weather predictions.",
+        "What changed: WindBorne secured $37 million in Series B financing to scale its weather balloons and AI forecasts.",
+        "What to watch: Watch whether the expansion produces commercially viable weather-forecasting services."
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "AI makes weather prediction better. Can WindBorne make it lucrative?",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/05\/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative\/"
+        }
+      ],
+      "summary" : "WindBorne Systems raised a $37 million Series B round to expand its weather-balloon operations and AI-based weather forecasting.",
+      "title" : "WindBorne Systems raises $37 million to scale weather balloons and AI forecasts",
+      "topics" : [
+        "Funding & M&A",
+        "Research",
+        "WindBorne Systems"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-08-04T20:05:26Z",
+      "id" : "2026-08-05-ce3643449be8",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: The report raises concern that increasingly capable open-weight models may advance faster than governance and safeguards.",
+        "What changed: SaferAI’s assessment identifies GLM-5.2 as an open-weight model approaching frontier capabilities despite missing key safety mitigations.",
+        "What to watch: Watch whether Z.ai adds safeguards and whether governance practices keep pace with more capable open-weight models."
       ],
       "sources" : [
         {
@@ -214,8 +297,8 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/04\/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains\/"
         }
       ],
-      "summary" : "SaferAI reported that Z.ai’s open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations. The finding renews concerns that safeguards and governance may not keep pace with increasingly capable open-weight models.",
-      "title" : "SaferAI report says GLM-5.2 nears frontier capabilities but lacks key safeguards",
+      "summary" : "SaferAI reported that Z.ai’s open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations.",
+      "title" : "SaferAI report says GLM-5.2 nears frontier capabilities without key safeguards",
       "topics" : [
         "Safety",
         "Open Source",
@@ -229,9 +312,9 @@
       "id" : "2026-08-05-1fa0ed16aaf2",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The reported $10 billion value makes this a material cloud infrastructure commitment by Anthropic.",
-        "What changed: Anthropic added Volta to its recent series of cloud partnerships through the reported deal.",
-        "What to watch: Watch for confirmation of the deal and further details about its scope and implementation."
+        "Why it matters: The reported $10 billion commitment represents a major corporate move in AI cloud infrastructure.",
+        "What changed: Anthropic reportedly added Volta to its growing roster of cloud partners through a $10 billion deal.",
+        "What to watch: Watch for confirmation of the agreement and details about its scope and terms."
       ],
       "sources" : [
         {
@@ -240,37 +323,12 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/04\/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta\/"
         }
       ],
-      "summary" : "The reported $10 billion value makes this a material cloud infrastructure commitment by Anthropic.",
+      "summary" : "The reported $10 billion commitment represents a major corporate move in AI cloud infrastructure.",
       "title" : "Anthropic reportedly signs $10 billion deal with AI cloud startup Volta",
       "topics" : [
         "Infrastructure",
-        "Compute & Chips",
+        "Enterprise",
         "Anthropic"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-08-04T19:28:49Z",
-      "id" : "2026-08-05-6d810fbdbdf8",
-      "importance" : "medium",
-      "key_insights" : [
-        "Why it matters: The alliance is coordinating industry work on defenses against security risks involving AI agents.",
-        "What changed: The week-old group released its first proposals and expanded to more than 120 companies.",
-        "What to watch: Watch whether the proposals develop into broadly adopted security practices or standards."
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/04\/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress\/"
-        }
-      ],
-      "summary" : "The alliance is coordinating industry work on defenses against security risks involving AI agents.",
-      "title" : "Nvidia-led Open Secure AI Alliance proposes defenses against AI agents",
-      "topics" : [
-        "Agents",
-        "Security",
-        "Open Secure AI Alliance"
       ]
     },
     {
@@ -279,9 +337,9 @@
       "id" : "2026-08-05-810e2e5c430a",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The partnership broadens potential participation in Spotify's planned AI music tool beyond Universal Music Group to Merlin's independent-label network.",
-        "What changed: Merlin joined Universal Music Group in backing a tool that will let fans create AI-generated covers and remixes of participating artists' music.",
-        "What to watch: Watch for Spotify to disclose the product's launch timing, availability, artist compensation terms, and opt-in controls."
+        "Why it matters: The Merlin partnership could extend the product to music from thousands of independent labels and distributors.",
+        "What changed: Merlin joined Universal Music Group in backing Spotify's planned tool for fan-created AI covers and remixes.",
+        "What to watch: Watch for launch details and which artists choose to participate."
       ],
       "sources" : [
         {
@@ -290,80 +348,20 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/04\/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort\/"
         }
       ],
-      "summary" : "Spotify added Merlin, which represents more than 30,000 independent labels and distributors, as a partner for its upcoming paid AI remix and covers tool. Participating artists must opt in and will receive credit and compensation.",
+      "summary" : "Spotify added Merlin, which represents more than 30,000 independent labels and distributors, as a backer of its upcoming paid AI remix and covers product. Participating artists will opt in, receive credit, and be compensated.",
       "title" : "Spotify adds Merlin to AI remix and covers project",
       "topics" : [
         "Audio & Speech",
         "Consumer Apps",
         "Spotify"
       ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-08-04T14:03:01Z",
-      "id" : "2026-08-05-deb4923b15f4",
-      "importance" : "medium",
-      "key_insights" : [
-        "Why it matters: The filing raises the prospect of a broader dispute over confidential information allegedly taken by former Apple employees.",
-        "What changed: Apple expanded its claims beyond the employees previously covered by its investigation.",
-        "What to watch: Watch for court findings or responses from the former employees and OpenAI that clarify whether confidential information was retained or accessed."
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Apple says more ex-employees may have taken confidential data to OpenAI",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/04\/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai\/"
-        }
-      ],
-      "summary" : "The filing raises the prospect of a broader dispute over confidential information allegedly taken by former Apple employees.",
-      "title" : "Apple says trade secrets investigation involving OpenAI has widened",
-      "topics" : [
-        "Security",
-        "Policy & Regulation",
-        "Apple"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "consolidation" : {
-        "latest_source_at" : "2026-08-04T17:46:41Z",
-        "message_count" : 2,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
-      },
-      "created_at" : "2026-08-04T17:46:41Z",
-      "id" : "2026-08-05-653baf13cfe9",
-      "importance" : "low",
-      "key_insights" : [
-        "Why it matters: The backlash highlights public sensitivity around OpenAI's use of conventional influencer marketing.",
-        "What changed: Several influencers began posting about attending OpenAI's first brand trip.",
-        "What to watch: Watch whether OpenAI or participating influencers provide further details or respond to the criticism."
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "How an OpenAI influencer trip backfired",
-          "url" : "https:\/\/www.theverge.com\/tech\/975173\/openai-influencers-brand-trip-ai-backlash-marketing"
-        },
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Influencers draw backlash for attending OpenAI’s first luxury trip",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/03\/influencers-draw-backlash-for-attending-openais-first-luxury-trip\/"
-        }
-      ],
-      "summary" : "The backlash highlights public sensitivity around OpenAI's use of conventional influencer marketing.",
-      "title" : "OpenAI influencer brand trip draws online backlash",
-      "topics" : [
-        "Consumer Apps",
-        "OpenAI"
-      ]
     }
   ],
   "count" : 12,
   "date" : "2026-08-05",
-  "generated_at" : "2026-08-05T10:00:02Z",
+  "generated_at" : "2026-08-05T12:00:02Z",
   "processing_report" : {
-    "generated_at" : "2026-08-05T10:00:07Z",
+    "generated_at" : "2026-08-05T12:00:06Z",
     "high_card_count" : 1,
     "source_reports" : [
       {
@@ -371,14 +369,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-08-03T13:44:58Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-08-05T10:00:06Z",
+        "processed_at" : "2026-08-05T12:00:06Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-08-05T10:00:05Z",
+        "processed_at" : "2026-08-05T12:00:05Z",
         "state" : "processed"
       },
       {
@@ -386,7 +384,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-08-04T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-08-05T10:00:03Z",
+        "processed_at" : "2026-08-05T12:00:03Z",
         "state" : "processed"
       },
       {
@@ -394,7 +392,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-07-30T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-08-05T10:00:04Z",
+        "processed_at" : "2026-08-05T12:00:05Z",
         "state" : "processed"
       },
       {
@@ -402,7 +400,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-08-03T19:00:50Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-08-05T10:00:03Z",
+        "processed_at" : "2026-08-05T12:00:03Z",
         "state" : "processed"
       },
       {
@@ -410,7 +408,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-08-04T13:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-08-05T10:00:03Z",
+        "processed_at" : "2026-08-05T12:00:03Z",
         "state" : "processed"
       },
       {
@@ -418,7 +416,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-07-30T15:00:59Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-08-05T10:00:03Z",
+        "processed_at" : "2026-08-05T12:00:03Z",
         "state" : "processed"
       },
       {
@@ -426,7 +424,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-08-04T13:58:29Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-08-05T10:00:02Z",
+        "processed_at" : "2026-08-05T12:00:03Z",
         "state" : "processed"
       },
       {
@@ -434,7 +432,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-08-05T01:21:47Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-08-05T10:00:04Z",
+        "processed_at" : "2026-08-05T12:00:04Z",
         "state" : "processed"
       },
       {
@@ -442,7 +440,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-07-28T16:00:10Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-08-05T10:00:03Z",
+        "processed_at" : "2026-08-05T12:00:03Z",
         "state" : "processed"
       },
       {
@@ -450,7 +448,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-08-04T12:00:26Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-08-05T10:00:03Z",
+        "processed_at" : "2026-08-05T12:00:03Z",
         "state" : "processed"
       },
       {
@@ -458,7 +456,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-07-23T18:05:24Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-08-05T10:00:03Z",
+        "processed_at" : "2026-08-05T12:00:03Z",
         "state" : "processed"
       },
       {
@@ -466,15 +464,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-08-04T19:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-08-05T10:00:03Z",
+        "processed_at" : "2026-08-05T12:00:03Z",
         "state" : "processed"
       },
       {
-        "article_count" : 5,
+        "article_count" : 6,
         "id" : "superhuman-ai",
-        "latest_article_at" : "2026-08-03T11:01:53Z",
+        "latest_article_at" : "2026-08-05T11:01:53Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-08-05T10:00:05Z",
+        "processed_at" : "2026-08-05T12:00:05Z",
         "state" : "processed"
       },
       {
@@ -482,23 +480,23 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-08-04T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-08-05T10:00:03Z",
+        "processed_at" : "2026-08-05T12:00:03Z",
         "state" : "processed"
       },
       {
         "article_count" : 13,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-08-04T20:05:26Z",
+        "latest_article_at" : "2026-08-05T11:00:00Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-08-05T10:00:02Z",
+        "processed_at" : "2026-08-05T12:00:02Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "the-ai-report",
-        "latest_article_at" : "2026-08-04T11:01:00Z",
+        "latest_article_at" : "2026-08-05T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-08-05T10:00:07Z",
+        "processed_at" : "2026-08-05T12:00:06Z",
         "state" : "processed"
       },
       {
@@ -506,22 +504,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-07-28T18:54:45Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-08-05T10:00:03Z",
+        "processed_at" : "2026-08-05T12:00:03Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-08-05T10:00:04Z",
+        "processed_at" : "2026-08-05T12:00:05Z",
         "state" : "processed"
       },
       {
-        "article_count" : 8,
+        "article_count" : 7,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-08-04T20:47:55Z",
+        "latest_article_at" : "2026-08-05T10:29:47Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-08-05T10:00:02Z",
+        "processed_at" : "2026-08-05T12:00:02Z",
         "state" : "processed"
       }
     ],
