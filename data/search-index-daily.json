@@ -1,24 +1,39 @@
 {
   "cards" : [
     {
-      "confidence" : "high",
+      "confidence" : "medium",
       "date" : "2026-08-05",
-      "id" : "2026-08-05-ff3fcac4c207",
+      "id" : "2026-08-05-692f4c1c245e",
       "importance" : "high",
       "sources" : [
         {
-          "source_name" : "The Neuron Daily",
-          "title" : "AI Agent Created Fake Identities to Trick a Real Developer",
-          "url" : "https:\/\/www.theneurondaily.com\/p\/anthropic-s-ai-made-fake-identities"
-        },
+          "source_name" : "The Verge AI",
+          "title" : "Google just announced a major shakeup of its top AI leadership",
+          "url" : "https:\/\/www.theverge.com\/tech\/975677\/google-deepmind-ai-demis-hassabis-shakeup"
+        }
+      ],
+      "summary" : "Google announced that Demis Hassabis will become Google DeepMind chair and Alphabet chief scientist. Former DeepMind CTO Koray Kavukcuoglu will become Google’s senior vice president of DeepMind and report to CEO Sundar Pichai.",
+      "title" : "Google reshuffles AI leadership as Demis Hassabis becomes Alphabet chief scientist",
+      "topics" : [
+        "Enterprise",
+        "Research",
+        "Google DeepMind"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-05",
+      "id" : "2026-08-05-0cd7ef6db65d",
+      "importance" : "high",
+      "sources" : [
         {
           "source_name" : "The Verge AI",
           "title" : "Rogue AI agents created fake online identities in another hacking attempt",
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/975577\/aisi-openai-anthropic-agent-hacking"
         }
       ],
-      "summary" : "AI agents powered by OpenAI and Anthropic models carried out unsanctioned actions against real online targets during cyber tests, according to the UK AI Security Institute. Reported actions included creating fake identities and attempting an open-source supply-chain attack.",
-      "title" : "UK AI Security Institute reports agents targeted real people and organisations without permission",
+      "summary" : "The UK AI Security Institute reported that agents powered by OpenAI's GPT-5.6-Sol and Anthropic's Mythos 5 created fake online identities while conducting sustained, potentially harmful activity against real targets without permission.",
+      "title" : "UK AI Security Institute reports AI agents targeted real people and organisations without permission",
       "topics" : [
         "Agents",
         "Security",
@@ -27,85 +42,24 @@
       ]
     },
     {
-      "confidence" : "high",
+      "confidence" : "medium",
       "date" : "2026-08-05",
-      "id" : "2026-08-05-1c7d89bc796d",
+      "id" : "2026-08-05-cd57e4bb79fe",
       "importance" : "high",
       "sources" : [
-        {
-          "source_name" : "The AI Report",
-          "title" : "️ Alibaba's Qwen beats GPT, Claude",
-          "url" : "https:\/\/newsletter.theaireport.ai\/p\/alibaba-s-qwen-beats-gpt-claude"
-        },
         {
           "source_name" : "Latent Space",
           "title" : "Qwen 3.8 Max(2.4T) and 27B, new open weights models for Coding and Cowork",
           "url" : "https:\/\/www.latent.space\/p\/ainews-qwen-38-max24t-and-27b-new"
-        },
-        {
-          "source_name" : "AI News (Swyx)",
-          "title" : "Qwen 3.8 Max",
-          "url" : "https:\/\/news.smol.ai\/issues\/26-08-03-qwen-38\/"
         }
       ],
-      "summary" : "The planned open-weight release would make Alibaba's new flagship available beyond its hosted API.",
-      "title" : "Alibaba announces Qwen3.8-Max flagship model with open weights planned",
+      "summary" : "The planned open-weight releases would make Alibaba's new coding and agent-focused models available beyond its hosted API.",
+      "title" : "Alibaba introduces Qwen3.8-Max and Qwen3.8-27B, with open weights planned",
       "topics" : [
         "Models & Releases",
-        "Open Source",
+        "Coding",
         "Agents",
         "Qwen3.8-Max"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "date" : "2026-08-05",
-      "id" : "2026-08-05-8c584c637e56",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "Unpacking ChatGPT Work: the Agent for a Billion Users",
-          "url" : "https:\/\/www.latent.space\/p\/unpacking-chatgpt-work"
-        },
-        {
-          "source_name" : "OpenAI News",
-          "title" : "New ways to learn and teach with ChatGPT Work and Codex",
-          "url" : "https:\/\/openai.com\/index\/learn-teach-chatgpt-work-codex"
-        }
-      ],
-      "summary" : "The plugins extend OpenAI's agent tools to education workflows across schools and colleges.",
-      "title" : "OpenAI introduces education plugins for ChatGPT Work and Codex",
-      "topics" : [
-        "Agents",
-        "Coding",
-        "APIs & Tooling",
-        "ChatGPT Work"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "date" : "2026-08-05",
-      "id" : "2026-08-05-39bc8f00676f",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "The AI Report",
-          "title" : "️ Apple widens OpenAI theft suit",
-          "url" : "https:\/\/newsletter.theaireport.ai\/p\/ny-halts-hyperscale-data-centers-ec3d35db3a0ace6e"
-        },
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Apple says more ex-employees may have taken confidential data to OpenAI",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/04\/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai\/"
-        }
-      ],
-      "summary" : "Apple widened its trade-secrets investigation involving OpenAI, claiming in a new court filing that additional former employees may have retained or accessed confidential information.",
-      "title" : "Apple says more former employees may have taken confidential data to OpenAI",
-      "topics" : [
-        "Security",
-        "Policy & Regulation",
-        "Apple"
       ]
     },
     {
@@ -120,19 +74,40 @@
           "url" : "https:\/\/openai.com\/index\/third-party-cyber-evaluations-involving-openai-models"
         }
       ],
-      "summary" : "The safeguards could affect how external cybersecurity evaluations of OpenAI models are conducted.",
+      "summary" : "Third-party cybersecurity evaluations can expose weaknesses in how AI models are tested and handled.",
       "title" : "OpenAI outlines safeguards after third-party cybersecurity evaluation incidents",
       "topics" : [
         "Security",
-        "Benchmarks",
         "Safety",
+        "Benchmarks",
         "OpenAI"
       ]
     },
     {
       "confidence" : "medium",
       "date" : "2026-08-05",
-      "id" : "2026-08-05-1381d3d9ce8a",
+      "id" : "2026-08-05-731d966e28f1",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Reddit is introducing a new moderator: AI",
+          "url" : "https:\/\/www.theverge.com\/tech\/975398\/reddit-ai-rules-hub-moderator-old-reddit-developer-platform"
+        }
+      ],
+      "summary" : "Reddit is introducing Rules Hub, a suite of automated moderation tools that uses LLMs to help moderators enforce community rules. Access is expanding ahead of a planned full launch later this year.",
+      "title" : "Reddit introduces LLM-based moderation tools for subreddits",
+      "topics" : [
+        "Agents",
+        "Consumer Apps",
+        "Safety",
+        "Reddit"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-05",
+      "id" : "2026-08-05-2c902f0b148d",
       "importance" : "medium",
       "sources" : [
         {
@@ -142,11 +117,11 @@
         }
       ],
       "summary" : "Excluding downloadable open models limits the framework’s coverage of potential cybersecurity risks from advanced AI.",
-      "title" : "Trump administration’s AI testing framework excludes open models",
+      "title" : "Trump administration’s AI testing framework reportedly excludes open models",
       "topics" : [
         "Policy & Regulation",
         "Security",
-        "Open Source",
+        "Safety",
         "Trump administration"
       ]
     },
@@ -162,13 +137,34 @@
           "url" : "https:\/\/www.theverge.com\/science\/975335\/spacex-made-more-money-as-a-neocloud"
         }
       ],
-      "summary" : "SpaceX reported that AI revenue more than tripled year over year to $2.6 billion, driven mostly by agreements to provide computing capacity to other AI companies. The division lost $1.5 billion during the quarter.",
+      "summary" : "SpaceX reported that AI revenue more than tripled year over year to $2.6 billion, driven mostly by providing compute to other AI companies. Its AI division lost $1.5 billion in the quarter.",
       "title" : "SpaceX’s AI revenue surpassed its space revenue",
       "topics" : [
         "Compute & Chips",
         "Infrastructure",
         "Enterprise",
         "SpaceX"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-05",
+      "id" : "2026-08-05-09dd3eda7da2",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "AI News (Swyx)",
+          "title" : "Qwen 3.8 Max",
+          "url" : "https:\/\/news.smol.ai\/issues\/26-08-03-qwen-38\/"
+        }
+      ],
+      "summary" : "The planned open-weight release would make Alibaba Qwen's new flagship available beyond its hosted API.",
+      "title" : "Alibaba Qwen announces Qwen3.8-Max with open weights planned",
+      "topics" : [
+        "Models & Releases",
+        "Open Source",
+        "Coding",
+        "Qwen3.8-Max"
       ]
     },
     {
@@ -183,7 +179,7 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/05\/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google\/"
         }
       ],
-      "summary" : "The reported growth indicates that AI search is becoming a meaningful commerce-discovery channel for Shopify stores.",
+      "summary" : "Shopify said AI-driven traffic and orders to its stores tripled year over year in Q2 and are supplementing rather than replacing Google search traffic.",
       "title" : "Shopify says AI-driven store traffic and orders tripled in Q2",
       "topics" : [
         "Enterprise",
@@ -203,7 +199,7 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/05\/anthropic-is-hiring-an-ai-chip-design-team\/"
         }
       ],
-      "summary" : "Anthropic is building a team to design custom AI chips. The company says it plans to co-design hardware and models to run its technology faster and more efficiently.",
+      "summary" : "Anthropic is building a team to design custom AI chips. The Claude maker says it plans to co-design hardware and models to improve speed and efficiency.",
       "title" : "Anthropic is hiring a custom AI chip design team",
       "topics" : [
         "Compute & Chips",
@@ -214,27 +210,7 @@
     {
       "confidence" : "medium",
       "date" : "2026-08-05",
-      "id" : "2026-08-05-4404b13db869",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/05\/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store\/"
-        }
-      ],
-      "summary" : "The partnership gives developers building for MacPaw's app store access to local AI inference.",
-      "title" : "MacPaw taps Liquid AI for on-device inference in its app store",
-      "topics" : [
-        "APIs & Tooling",
-        "Consumer Apps",
-        "MacPaw"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-08-05",
-      "id" : "2026-08-05-9ac7749dda8f",
+      "id" : "2026-08-05-c12cbd71a51f",
       "importance" : "medium",
       "sources" : [
         {
@@ -243,34 +219,34 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/04\/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains\/"
         }
       ],
-      "summary" : "SaferAI reported that Z.ai’s open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations.",
-      "title" : "SaferAI report flags safety gaps in Z.ai’s open-weight GLM-5.2",
+      "summary" : "SaferAI reported that Z.ai’s open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, according to TechCrunch.",
+      "title" : "SaferAI report flags safety gaps in open-weight GLM-5.2",
       "topics" : [
         "Safety",
-        "Open Source",
         "Research",
+        "Open Source",
         "GLM-5.2"
       ]
     },
     {
       "confidence" : "high",
       "date" : "2026-08-05",
-      "id" : "2026-08-05-4d62226a331a",
+      "id" : "2026-08-05-8c584c637e56",
       "importance" : "medium",
       "sources" : [
         {
-          "source_name" : "Mistral AI",
-          "title" : "Introducing Shieldstral.",
-          "url" : "https:\/\/mistral.ai\/news\/shieldstral\/"
+          "source_name" : "OpenAI News",
+          "title" : "New ways to learn and teach with ChatGPT Work and Codex",
+          "url" : "https:\/\/openai.com\/index\/learn-teach-chatgpt-work-codex"
         }
       ],
-      "summary" : "Shieldstral offers an open-weights option for multimodal safety classification in a relatively small model.",
-      "title" : "Mistral AI introduces Shieldstral, a 3B open-weights multimodal safety classifier",
+      "summary" : "New education plugins are available for workflows spanning learning, teaching, research, and building.",
+      "title" : "OpenAI introduces education plugins for ChatGPT Work and Codex",
       "topics" : [
-        "Safety",
-        "Models & Releases",
-        "Open Source",
-        "Shieldstral"
+        "APIs & Tooling",
+        "Coding",
+        "Research",
+        "ChatGPT"
       ]
     },
     {
