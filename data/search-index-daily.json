@@ -1,111 +1,24 @@
 {
   "cards" : [
     {
-      "confidence" : "high",
+      "confidence" : "medium",
       "date" : "2026-08-05",
-      "id" : "2026-08-05-22d2d637415c",
+      "id" : "2026-08-05-b00861340a10",
       "importance" : "high",
       "sources" : [
-        {
-          "source_name" : "The AI Report",
-          "title" : "️ Alibaba's Qwen beats GPT, Claude",
-          "url" : "https:\/\/newsletter.theaireport.ai\/p\/alibaba-s-qwen-beats-gpt-claude"
-        },
         {
           "source_name" : "Latent Space",
           "title" : "Qwen 3.8 Max(2.4T) and 27B, new open weights models for Coding and Cowork",
           "url" : "https:\/\/www.latent.space\/p\/ainews-qwen-38-max24t-and-27b-new"
-        },
-        {
-          "source_name" : "AI News (Swyx)",
-          "title" : "Qwen 3.8 Max",
-          "url" : "https:\/\/news.smol.ai\/issues\/26-08-03-qwen-38\/"
         }
       ],
-      "summary" : "The planned release would make Alibaba's new flagship available as an open-weight model for demanding coding and agentic workloads.",
-      "title" : "Alibaba announces Qwen3.8-Max with open weights planned",
+      "summary" : "The planned weight releases would make Alibaba's new flagship and smaller 27B model available beyond its hosted API.",
+      "title" : "Alibaba introduces Qwen3.8-Max and Qwen3.8-27B with open weights planned",
       "topics" : [
         "Models & Releases",
-        "Open Source",
-        "Agents",
-        "Qwen3.8-Max"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "date" : "2026-08-05",
-      "id" : "2026-08-05-8c584c637e56",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "Unpacking ChatGPT Work: the Agent for a Billion Users",
-          "url" : "https:\/\/www.latent.space\/p\/unpacking-chatgpt-work"
-        },
-        {
-          "source_name" : "OpenAI News",
-          "title" : "New ways to learn and teach with ChatGPT Work and Codex",
-          "url" : "https:\/\/openai.com\/index\/learn-teach-chatgpt-work-codex"
-        }
-      ],
-      "summary" : "The plugins extend OpenAI’s agent tools into education workflows for teachers and students.",
-      "title" : "OpenAI introduces education plugins for ChatGPT Work and Codex",
-      "topics" : [
         "Agents",
         "Coding",
-        "Research",
-        "ChatGPT Work"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "date" : "2026-08-05",
-      "id" : "2026-08-05-041306d3609c",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "The AI Report",
-          "title" : "️ Apple widens OpenAI theft suit",
-          "url" : "https:\/\/newsletter.theaireport.ai\/p\/ny-halts-hyperscale-data-centers-ec3d35db3a0ace6e"
-        },
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Apple says more ex-employees may have taken confidential data to OpenAI",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/04\/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai\/"
-        }
-      ],
-      "summary" : "Apple now alleges that additional former staff may have retained or accessed confidential information.",
-      "title" : "Apple widens trade secrets investigation involving former employees and OpenAI",
-      "topics" : [
-        "Security",
-        "Policy & Regulation",
-        "Apple"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "date" : "2026-08-05",
-      "id" : "2026-08-05-6d810fbdbdf8",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "The Neuron Daily",
-          "title" : "Nvidia Built an AI Defense League",
-          "url" : "https:\/\/www.theneurondaily.com\/p\/nvidia-built-an-ai-defense-league"
-        },
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/04\/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress\/"
-        }
-      ],
-      "summary" : "Nvidia has spearheaded the Open Secure AI Alliance, an industry group focused on AI security that has already released proposals for defending against AI agents. TechCrunch reports that the week-old alliance has grown to more than 120 companies, while The Neuron identifies Microsoft as a launch partner.",
-      "title" : "Nvidia-led Open Secure AI Alliance proposes defenses against AI agents",
-      "topics" : [
-        "Security",
-        "Agents",
-        "Open Source",
-        "Open Secure AI Alliance"
+        "Qwen3.8-Max"
       ]
     },
     {
@@ -120,34 +33,13 @@
           "url" : "https:\/\/openai.com\/index\/third-party-cyber-evaluations-involving-openai-models"
         }
       ],
-      "summary" : "Cybersecurity evaluations require safeguards that protect the testing process while preserving useful scrutiny of model capabilities.",
+      "summary" : "The incidents highlight security risks in how external parties test and evaluate AI models.",
       "title" : "OpenAI outlines safeguards after third-party cybersecurity evaluation incidents",
       "topics" : [
         "Security",
         "Benchmarks",
         "Safety",
         "OpenAI"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "date" : "2026-08-05",
-      "id" : "2026-08-05-bf4a8f924abf",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "Mistral AI",
-          "title" : "Introducing Shieldstral.",
-          "url" : "https:\/\/mistral.ai\/news\/shieldstral\/"
-        }
-      ],
-      "summary" : "Shieldstral provides an open-weights option for multimodal safety classification.",
-      "title" : "Mistral AI introduces Shieldstral, a 3B open-weights safety classifier",
-      "topics" : [
-        "Models & Releases",
-        "Safety",
-        "Open Source",
-        "Shieldstral"
       ]
     },
     {
@@ -166,7 +58,7 @@
       "title" : "Trump administration AI testing framework excludes open models",
       "topics" : [
         "Policy & Regulation",
-        "Security",
+        "Safety",
         "Open Source",
         "Trump administration"
       ]
@@ -183,7 +75,7 @@
           "url" : "https:\/\/www.theverge.com\/science\/975335\/spacex-made-more-money-as-a-neocloud"
         }
       ],
-      "summary" : "SpaceX reported that AI revenue more than tripled year over year to $2.6 billion, largely from providing computing capacity to other AI companies. Its AI division lost $1.5 billion during the quarter.",
+      "summary" : "SpaceX reported that AI revenue more than tripled year over year to $2.6 billion, largely from providing compute to other AI companies, according to The Verge. The division lost $1.5 billion during the quarter.",
       "title" : "SpaceX reports $2.6 billion in quarterly AI revenue",
       "topics" : [
         "Compute & Chips",
@@ -194,7 +86,48 @@
     {
       "confidence" : "medium",
       "date" : "2026-08-05",
-      "id" : "2026-08-05-66c895b95122",
+      "id" : "2026-08-05-e7bdef6d6947",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "AI News (Swyx)",
+          "title" : "Qwen 3.8 Max",
+          "url" : "https:\/\/news.smol.ai\/issues\/26-08-03-qwen-38\/"
+        }
+      ],
+      "summary" : "The planned release would make the weights of Alibaba Qwen's new flagship model openly available.",
+      "title" : "Alibaba announces Qwen3.8-Max, with open weights planned next week",
+      "topics" : [
+        "Models & Releases",
+        "Open Source",
+        "Agents",
+        "Qwen3.8-Max"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-05",
+      "id" : "2026-08-05-fc3a262e995b",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/05\/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store\/"
+        }
+      ],
+      "summary" : "The partnership could give app-store developers access to AI inference that runs locally on users’ devices.",
+      "title" : "MacPaw partners with Liquid AI for on-device inference in its app store",
+      "topics" : [
+        "APIs & Tooling",
+        "Consumer Apps",
+        "MacPaw"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-05",
+      "id" : "2026-08-05-6c646e9400ce",
       "importance" : "medium",
       "sources" : [
         {
@@ -203,8 +136,8 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/05\/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative\/"
         }
       ],
-      "summary" : "WindBorne Systems raised a $37 million Series B round to expand its weather-balloon operations and AI-based weather forecasting.",
-      "title" : "WindBorne Systems raises $37 million to scale weather balloons and AI forecasts",
+      "summary" : "WindBorne Systems raised a $37 million Series B round to expand its weather balloons and AI weather forecasts.",
+      "title" : "WindBorne raises $37 million to scale weather balloons and AI forecasting",
       "topics" : [
         "Funding & M&A",
         "Research",
@@ -214,7 +147,7 @@
     {
       "confidence" : "medium",
       "date" : "2026-08-05",
-      "id" : "2026-08-05-ce3643449be8",
+      "id" : "2026-08-05-656cc961ab4e",
       "importance" : "medium",
       "sources" : [
         {
@@ -223,8 +156,8 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/04\/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains\/"
         }
       ],
-      "summary" : "SaferAI reported that Z.ai’s open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations.",
-      "title" : "SaferAI report says GLM-5.2 nears frontier capabilities without key safeguards",
+      "summary" : "SaferAI reports that Z.ai’s open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations. The finding renews concerns that safeguards and governance may lag increasingly capable open models.",
+      "title" : "SaferAI report finds safety gaps in near-frontier open-weight GLM-5.2",
       "topics" : [
         "Safety",
         "Open Source",
@@ -235,7 +168,7 @@
     {
       "confidence" : "medium",
       "date" : "2026-08-05",
-      "id" : "2026-08-05-1fa0ed16aaf2",
+      "id" : "2026-08-05-f4a31a79c0d1",
       "importance" : "medium",
       "sources" : [
         {
@@ -244,12 +177,34 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/04\/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta\/"
         }
       ],
-      "summary" : "The reported $10 billion commitment represents a major corporate move in AI cloud infrastructure.",
-      "title" : "Anthropic reportedly signs $10 billion deal with AI cloud startup Volta",
+      "summary" : "The reported $10 billion value makes the agreement a potentially significant expansion of Anthropic’s cloud capacity partnerships.",
+      "title" : "Anthropic reportedly signs $10 billion cloud deal with Volta",
       "topics" : [
+        "Compute & Chips",
         "Infrastructure",
         "Enterprise",
         "Anthropic"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-05",
+      "id" : "2026-08-05-6d810fbdbdf8",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/04\/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress\/"
+        }
+      ],
+      "summary" : "The proposals represent an early industry effort to address security risks associated with AI agents.",
+      "title" : "Nvidia-led Open Secure AI Alliance proposes defenses against AI agents",
+      "topics" : [
+        "Agents",
+        "Security",
+        "Safety",
+        "Open Secure AI Alliance"
       ]
     },
     {
@@ -264,12 +219,32 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/04\/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort\/"
         }
       ],
-      "summary" : "Spotify added Merlin, which represents more than 30,000 independent labels and distributors, as a backer of its upcoming paid AI remix and covers product. Participating artists will opt in, receive credit, and be compensated.",
+      "summary" : "Spotify added Merlin, which represents more than 30,000 independent labels and distributors, as a partner for its upcoming paid AI remix and covers product. Participating artists will opt in, receive credit, and be compensated.",
       "title" : "Spotify adds Merlin to AI remix and covers project",
       "topics" : [
         "Audio & Speech",
         "Consumer Apps",
         "Spotify"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-05",
+      "id" : "2026-08-05-deb4923b15f4",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Apple says more ex-employees may have taken confidential data to OpenAI",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/04\/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai\/"
+        }
+      ],
+      "summary" : "The claim raises concerns about the handling of confidential information when employees move between major technology companies.",
+      "title" : "Apple says trade secrets investigation involving OpenAI has widened",
+      "topics" : [
+        "Security",
+        "Policy & Regulation",
+        "Apple"
       ]
     },
     {
