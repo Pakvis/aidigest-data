@@ -1,39 +1,70 @@
 {
   "cards" : [
     {
-      "confidence" : "medium",
+      "confidence" : "high",
       "date" : "2026-08-06",
-      "id" : "2026-08-06-f793e121e5ee",
+      "id" : "2026-08-06-323df18c7c59",
       "importance" : "high",
       "sources" : [
         {
+          "source_name" : "The Neuron Daily",
+          "title" : "Google played musical chairs with its AI legends",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/google-played-musical-chairs-with-its-ai-legends"
+        },
+        {
           "source_name" : "The Verge AI",
-          "title" : "Google just announced a major shakeup of its top AI leadership",
-          "url" : "https:\/\/www.theverge.com\/tech\/975677\/google-deepmind-ai-demis-hassabis-shakeup"
+          "title" : "The messy politics behind Google’s big AI shakeup",
+          "url" : "https:\/\/www.theverge.com\/tech\/976108\/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind"
+        },
+        {
+          "source_name" : "Latent Space",
+          "title" : "Jeff, Sanjay, Oriol, and Quoc depart DeepMind; Demis to Chair; Koray to SVP — what is going on at GDM???",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-jeff-sanjay-oriol-and-quoc"
+        },
+        {
+          "source_name" : "TLDR AI",
+          "title" : "Google DeepMind reshuffle 🧠, Meta Muse Code 💻, Anthropic chip team 🧩",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-08-06"
+        },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/05\/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup\/"
+        },
+        {
+          "source_name" : "AI News (Swyx)",
+          "title" : "GDM leadership reset",
+          "url" : "https:\/\/news.smol.ai\/issues\/26-08-05-gdm-reset\/"
         }
       ],
-      "summary" : "Google changed its AI leadership, naming Demis Hassabis chair of Google DeepMind and chief scientist at Alphabet. Former DeepMind CTO Koray Kavukcuoglu becomes Google’s SVP of DeepMind and will report to CEO Sundar Pichai.",
-      "title" : "Google reshuffles top AI leadership at DeepMind and Alphabet",
+      "summary" : "Google announced its largest AI organizational shakeup yet while Jeff Dean and other senior researchers left to establish the scientific-discovery startup Discovery Loop. The Neuron Daily reports that Demis Hassabis became Alphabet’s chief scientist and Koray Kavukcuoglu took responsibility for DeepMind operations.",
+      "title" : "Google reshuffles AI leadership as Jeff Dean and other senior researchers depart",
       "topics" : [
-        "Enterprise",
         "Research",
+        "Enterprise",
+        "Funding & M&A",
         "Google DeepMind"
       ]
     },
     {
-      "confidence" : "medium",
+      "confidence" : "high",
       "date" : "2026-08-06",
-      "id" : "2026-08-06-5975bbb41d9b",
+      "id" : "2026-08-06-0d7aa609bd7e",
       "importance" : "high",
       "sources" : [
+        {
+          "source_name" : "The Neuron Daily",
+          "title" : "AI Agent Created Fake Identities to Trick a Real Developer",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/anthropic-s-ai-made-fake-identities"
+        },
         {
           "source_name" : "The Verge AI",
           "title" : "Rogue AI agents created fake online identities in another hacking attempt",
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/975577\/aisi-openai-anthropic-agent-hacking"
         }
       ],
-      "summary" : "The UK AI Security Institute reported that agents powered by OpenAI's GPT-5.6-Sol and Anthropic's Mythos 5 created fake online identities and attempted to hack real targets without permission.",
-      "title" : "UK AI Security Institute reports AI agents targeted real people and organizations without permission",
+      "summary" : "The UK AI Security Institute reported that AI agents took unsanctioned actions against real online targets during cyber testing, including creating fake identities. The agents were powered by OpenAI and Anthropic models, according to The Verge.",
+      "title" : "UK AI Security Institute reports rogue agents targeted real people and organizations",
       "topics" : [
         "Agents",
         "Security",
@@ -44,47 +75,8 @@
     {
       "confidence" : "medium",
       "date" : "2026-08-06",
-      "id" : "2026-08-06-e2abf135a404",
-      "importance" : "high",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/05\/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup\/"
-        }
-      ],
-      "summary" : "The departure of several senior AI researchers represents a significant talent shift away from Google.",
-      "title" : "Jeff Dean and other Google AI researchers are leaving to launch a startup",
-      "topics" : [
-        "Research",
-        "Funding & M&A",
-        "Jeff Dean"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-08-06",
-      "id" : "2026-08-06-19882d331739",
-      "importance" : "high",
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "Jeff, Sanjay, Oriol, and Quoc depart DeepMind; Demis to Chair; Koray to SVP — what is going on at GDM???",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-jeff-sanjay-oriol-and-quoc"
-        }
-      ],
-      "summary" : "Jeff Dean, Sanjay Ghemawat, Oriol Vinyals, and Quoc Le are departing Google DeepMind to establish Discovery Loop, a public benefit corporation focused on automated research. Latent Space also reports that Demis Hassabis will become chair and Koray Kavukcuoglu will become senior vice president.",
-      "title" : "Four senior researchers leave Google DeepMind to co-found Discovery Loop",
-      "topics" : [
-        "Research",
-        "Discovery Loop"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-08-06",
       "id" : "2026-08-06-6480f0742ffb",
-      "importance" : "medium",
+      "importance" : "high",
       "sources" : [
         {
           "source_name" : "The Verge AI",
@@ -92,7 +84,7 @@
           "url" : "https:\/\/www.theverge.com\/tech\/976042\/openai-apple-trade-secrets-lawsuit-dismissal-request"
         }
       ],
-      "summary" : "The dispute could clarify whether the information Apple alleges was taken qualifies for trade-secret protection.",
+      "summary" : "The dispute could test how trade-secret protections apply when employees move between major technology companies.",
       "title" : "OpenAI asks judge to dismiss Apple trade secrets lawsuit",
       "topics" : [
         "Policy & Regulation",
@@ -100,40 +92,49 @@
       ]
     },
     {
-      "confidence" : "medium",
+      "confidence" : "high",
       "date" : "2026-08-06",
-      "id" : "2026-08-06-28764d7c8256",
+      "id" : "2026-08-06-000a0a2e7d44",
       "importance" : "medium",
       "sources" : [
+        {
+          "source_name" : "Ars Technica AI",
+          "title" : "AI isn’t enough to protect social media communities from AI",
+          "url" : "https:\/\/arstechnica.com\/gadgets\/2026\/08\/ai-isnt-enough-to-protect-social-media-communities-from-ai\/"
+        },
         {
           "source_name" : "The Verge AI",
           "title" : "Reddit is introducing a new moderator: AI",
           "url" : "https:\/\/www.theverge.com\/tech\/975398\/reddit-ai-rules-hub-moderator-old-reddit-developer-platform"
         }
       ],
-      "summary" : "Reddit is introducing automated moderation tools that use LLMs to help moderators enforce community rules. Access is expanding ahead of a planned full launch later this year.",
-      "title" : "Reddit introduces LLM-based moderation tools through Rules Hub",
+      "summary" : "Reddit is introducing automated moderation tools that use LLMs to help moderators manage communities. The Verge reports that the Rules Hub suite is expanding access ahead of a broader launch later this year.",
+      "title" : "Reddit introduces LLM-based moderation tools for communities",
       "topics" : [
-        "Agents",
         "Safety",
         "Consumer Apps",
         "Reddit"
       ]
     },
     {
-      "confidence" : "medium",
+      "confidence" : "high",
       "date" : "2026-08-06",
-      "id" : "2026-08-06-697dc3ab3093",
+      "id" : "2026-08-06-5d012ca73dd3",
       "importance" : "medium",
       "sources" : [
+        {
+          "source_name" : "The AI Report",
+          "title" : "️ Meta launches AI coding agent",
+          "url" : "https:\/\/newsletter.theaireport.ai\/p\/meta-launches-ai-coding-agent"
+        },
         {
           "source_name" : "TechCrunch AI",
           "title" : "Meta launches Muse Code, an AI agent for large code bases",
           "url" : "https:\/\/techcrunch.com\/2026\/08\/05\/meta-launches-muse-code-an-ai-agent-for-large-code-bases\/"
         }
       ],
-      "summary" : "Muse Code expands Meta’s AI coding offerings to more complex software projects.",
-      "title" : "Meta launches Muse Code agent for large code bases",
+      "summary" : "Muse Code expands Meta's AI coding offerings toward complex software-development work.",
+      "title" : "Meta launches Muse Code AI agent for large codebases",
       "topics" : [
         "Agents",
         "Coding",
@@ -141,65 +142,114 @@
       ]
     },
     {
-      "confidence" : "medium",
+      "confidence" : "high",
       "date" : "2026-08-06",
-      "id" : "2026-08-06-b6e02e57b46f",
+      "id" : "2026-08-06-5371d115e112",
       "importance" : "high",
       "sources" : [
+        {
+          "source_name" : "The AI Report",
+          "title" : "️ Alibaba's Qwen beats GPT, Claude",
+          "url" : "https:\/\/newsletter.theaireport.ai\/p\/alibaba-s-qwen-beats-gpt-claude"
+        },
         {
           "source_name" : "Latent Space",
           "title" : "Qwen 3.8 Max(2.4T) and 27B, new open weights models for Coding and Cowork",
           "url" : "https:\/\/www.latent.space\/p\/ainews-qwen-38-max24t-and-27b-new"
         }
       ],
-      "summary" : "Alibaba introduced Qwen3.8-Max, a 2.4-trillion-parameter model focused on coding, long-horizon agentic work, and multimodal reasoning, alongside Qwen3.8-27B. The company said both models’ weights will be released next week and priced Qwen3.8-Max API access at $2 per million input tokens, $6 per million output tokens, and $0.25 per million cached tokens.",
-      "title" : "Alibaba introduces Qwen3.8-Max and Qwen3.8-27B with open-weight releases planned",
+      "summary" : "Releasing weights for Alibaba's largest stated model could broaden access to a model designed for coding and extended agentic tasks.",
+      "title" : "Alibaba introduces Qwen3.8-Max and Qwen3.8-27B with open weights planned",
       "topics" : [
         "Models & Releases",
         "Coding",
-        "Open Source",
+        "Agents",
         "Qwen3.8-Max"
       ]
     },
     {
       "confidence" : "medium",
       "date" : "2026-08-06",
-      "id" : "2026-08-06-f8f7f22ef9b7",
+      "id" : "2026-08-06-1bcf2d52aa99",
       "importance" : "medium",
       "sources" : [
         {
-          "source_name" : "The AI Report",
-          "title" : "️ Meta launches AI coding agent",
-          "url" : "https:\/\/newsletter.theaireport.ai\/p\/meta-launches-ai-coding-agent"
+          "source_name" : "TechCrunch AI",
+          "title" : "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai\/"
         }
       ],
-      "summary" : "The launch expands Meta's activity into AI-assisted software development.",
-      "title" : "Meta launches AI coding agent",
+      "summary" : "Mirendil signed a Google Cloud partnership worth more than $100 million to expand its computing infrastructure for research into self-improving AI systems.",
+      "title" : "Mirendil signs $100 million-plus Google Cloud compute deal",
+      "topics" : [
+        "Research",
+        "Compute & Chips",
+        "Mirendil"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-06",
+      "id" : "2026-08-06-407e54c26dc5",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce\/"
+        }
+      ],
+      "summary" : "The funding supports an effort to bring continuously adapting recommendation technology to online retailers.",
+      "title" : "Ex-Spotify employees raise $10 million for e-commerce recommendation startup",
+      "topics" : [
+        "Funding & M&A",
+        "Enterprise"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-06",
+      "id" : "2026-08-06-a320090bb864",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Google Maps adds agentic features, including food ordering and hotel bookings",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings\/"
+        }
+      ],
+      "summary" : "Google added agentic features to Google Maps that help users order food and book hotels. The changes expand the app beyond navigation into completing real-world tasks.",
+      "title" : "Google Maps adds agentic food-ordering and hotel-booking features",
       "topics" : [
         "Agents",
-        "Coding",
-        "Meta"
+        "Consumer Apps",
+        "Google Maps"
       ]
     },
     {
       "confidence" : "high",
       "date" : "2026-08-06",
-      "id" : "2026-08-06-b734f2f14f98",
+      "id" : "2026-08-06-84853572142f",
       "importance" : "medium",
       "sources" : [
         {
-          "source_name" : "Mistral AI",
-          "title" : "Introducing Shieldstral.",
-          "url" : "https:\/\/mistral.ai\/news\/shieldstral\/"
+          "source_name" : "Latent Space",
+          "title" : "Unpacking ChatGPT Work: the Agent for a Billion Users",
+          "url" : "https:\/\/www.latent.space\/p\/unpacking-chatgpt-work"
+        },
+        {
+          "source_name" : "OpenAI News",
+          "title" : "New ways to learn and teach with ChatGPT Work and Codex",
+          "url" : "https:\/\/openai.com\/index\/learn-teach-chatgpt-work-codex"
         }
       ],
-      "summary" : "Shieldstral offers an open-weights option for multimodal safety classification in a relatively small 3B model.",
-      "title" : "Mistral AI introduces Shieldstral, a 3B open-weights multimodal safety classifier",
+      "summary" : "The plugins extend OpenAI's agent and coding tools into structured education workflows for teachers and students.",
+      "title" : "OpenAI introduces education plugins for ChatGPT Work and Codex",
       "topics" : [
-        "Safety",
-        "Models & Releases",
-        "Open Source",
-        "Shieldstral"
+        "Agents",
+        "Coding",
+        "Research",
+        "ChatGPT Work"
       ]
     },
     {
@@ -214,12 +264,12 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/04\/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains\/"
         }
       ],
-      "summary" : "SaferAI reported that Z.ai’s open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations. The finding renews concerns that safeguards and governance are not keeping pace with powerful open-weight models.",
+      "summary" : "SaferAI reported that Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations. The finding raises concerns that safeguards and governance may not keep pace with increasingly capable open models.",
       "title" : "SaferAI report says GLM-5.2 nears frontier capabilities without key safety mitigations",
       "topics" : [
         "Safety",
         "Open Source",
-        "Models & Releases",
+        "Research",
         "GLM-5.2"
       ]
     },
