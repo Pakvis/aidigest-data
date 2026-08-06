@@ -9,12 +9,12 @@
         "source_count" : 6
       },
       "created_at" : "2026-08-06T13:26:42Z",
-      "id" : "2026-08-06-17d6012dc28b",
+      "id" : "2026-08-06-233a44170740",
       "importance" : "high",
       "key_insights" : [
-        "Why it matters: The changes reorganize leadership at a major AI laboratory while moving several experienced Google researchers to a new scientific-discovery venture.",
-        "What changed: Google shifted DeepMind leadership responsibilities, and Jeff Dean, Sanjay Ghemawat, Oriol Vinyals, and Quoc Le reportedly departed to co-found Discovery Loop.",
-        "What to watch: Watch for Google’s formal description of Hassabis’s role and how the departures affect DeepMind’s research leadership."
+        "Why it matters: The reorganization changes leadership at Google's central AI research organization while moving several prominent researchers outside the company.",
+        "What changed: Hassabis received an Alphabet-wide scientific role, Kavukcuoglu took responsibility for DeepMind operations, and Jeff Dean, Sanjay Ghemawat, Oriol Vinyals, and Quoc Le were reported as Discovery Loop founders.",
+        "What to watch: Watch how Google divides authority between Hassabis and Kavukcuoglu and whether the departures affect DeepMind's research programs."
       ],
       "sources" : [
         {
@@ -48,12 +48,58 @@
           "url" : "https:\/\/news.smol.ai\/issues\/26-08-05-gdm-reset\/"
         }
       ],
-      "summary" : "Google announced its largest AI organization shakeup yet while several senior researchers left DeepMind to establish the scientific-discovery startup Discovery Loop. Newsletter accounts agree that Koray Kavukcuoglu will lead DeepMind operations but describe Demis Hassabis’s new position differently.",
-      "title" : "Google reorganizes AI leadership as senior DeepMind researchers depart",
+      "summary" : "The reorganization changes leadership at Google's central AI research organization while moving several prominent researchers outside the company.",
+      "title" : "Google reshuffles AI leadership as senior researchers launch Discovery Loop",
       "topics" : [
         "Research",
         "Enterprise",
         "Google DeepMind"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-08-06T15:10:32Z",
+        "message_count" : 4,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 4
+      },
+      "created_at" : "2026-08-06T15:10:32Z",
+      "id" : "2026-08-06-d7ceb3e3250c",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: The ruling could determine whether Apple’s trade secrets claims against OpenAI proceed in federal court.",
+        "What changed: OpenAI filed a dismissal motion and exhibits challenging Apple’s characterization and protection of the allegedly stolen information.",
+        "What to watch: Watch whether the judge accepts OpenAI’s arguments or allows Apple’s lawsuit to continue."
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "OpenAI says Apple’s own security practices undermine its trade secrets case",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case\/"
+        },
+        {
+          "source_name" : "The Verge AI",
+          "title" : "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
+          "url" : "https:\/\/www.theverge.com\/tech\/976042\/openai-apple-trade-secrets-lawsuit-dismissal-request"
+        },
+        {
+          "source_name" : "The AI Report",
+          "title" : "️ Apple widens OpenAI theft suit",
+          "url" : "https:\/\/newsletter.theaireport.ai\/p\/ny-halts-hyperscale-data-centers-ec3d35db3a0ace6e"
+        },
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Apple is getting this wrong",
+          "url" : "https:\/\/openai.com\/index\/apple-is-getting-this-wrong"
+        }
+      ],
+      "summary" : "The ruling could determine whether Apple’s trade secrets claims against OpenAI proceed in federal court.",
+      "title" : "OpenAI asks judge to dismiss Apple’s trade secrets lawsuit",
+      "topics" : [
+        "Policy & Regulation",
+        "Security",
+        "OpenAI"
       ]
     },
     {
@@ -68,9 +114,9 @@
       "id" : "2026-08-06-413c8bb58ae1",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: Removing text-chat limits gives free and Go users broader access to ChatGPT.",
-        "What changed: GPT-5.6 Sol was updated for better accuracy and consistency, while GPT-5.6 Luna access and reasoning controls were expanded for lower-cost tiers.",
-        "What to watch: Watch whether unlimited text chats remain subject to separate restrictions on advanced capabilities."
+        "Why it matters: Removing text-chat limits gives free and Go users broader access to ChatGPT without requiring a paid-tier upgrade.",
+        "What changed: GPT-5.6 Sol was improved, while free and Go users are gaining unlimited text chats and access to higher reasoning through a Think button.",
+        "What to watch: Watch whether OpenAI applies separate limits to higher-reasoning use despite removing limits from ordinary text chats."
       ],
       "sources" : [
         {
@@ -89,48 +135,13 @@
           "url" : "https:\/\/openai.com\/index\/improving-gpt-5-6-sol-in-chatgpt"
         }
       ],
-      "summary" : "Removing text-chat limits gives free and Go users broader access to ChatGPT.",
+      "summary" : "Removing text-chat limits gives free and Go users broader access to ChatGPT without requiring a paid-tier upgrade.",
       "title" : "OpenAI improves GPT-5.6 Sol and expands free access to GPT-5.6 Luna in ChatGPT",
       "topics" : [
         "Models & Releases",
         "Consumer Apps",
+        "Pricing",
         "ChatGPT"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "consolidation" : {
-        "latest_source_at" : "2026-08-06T15:10:32Z",
-        "message_count" : 2,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
-      },
-      "created_at" : "2026-08-06T15:10:32Z",
-      "id" : "2026-08-06-d7ceb3e3250c",
-      "importance" : "medium",
-      "key_insights" : [
-        "Why it matters: The dispute could clarify how trade secret protections apply when employees move between major technology companies.",
-        "What changed: OpenAI formally challenged Apple’s complaint, with TechCrunch reporting that its evidence includes claims about weaknesses in Apple’s security and employee offboarding practices.",
-        "What to watch: Watch whether the judge dismisses the case or allows Apple’s claims to proceed."
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "OpenAI says Apple’s own security practices undermine its trade secrets case",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case\/"
-        },
-        {
-          "source_name" : "The Verge AI",
-          "title" : "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
-          "url" : "https:\/\/www.theverge.com\/tech\/976042\/openai-apple-trade-secrets-lawsuit-dismissal-request"
-        }
-      ],
-      "summary" : "The dispute could clarify how trade secret protections apply when employees move between major technology companies.",
-      "title" : "OpenAI asks judge to dismiss Apple’s trade secrets lawsuit",
-      "topics" : [
-        "Policy & Regulation",
-        "Security",
-        "OpenAI"
       ]
     },
     {
@@ -142,12 +153,12 @@
         "source_count" : 2
       },
       "created_at" : "2026-08-06T11:01:00Z",
-      "id" : "2026-08-06-5d012ca73dd3",
+      "id" : "2026-08-06-c1fd5c789495",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: Muse Code expands Meta's AI coding tools into agent-based work on complex software.",
-        "What changed: Meta added a coding agent that it says can handle complex tasks across large codebases.",
-        "What to watch: Independent use will show how reliably Muse Code handles complex tasks in large codebases."
+        "Why it matters: Muse Code expands Meta’s AI coding offerings toward complex work in large software projects.",
+        "What changed: Meta added a coding agent that it says can handle complex tasks involving complex software.",
+        "What to watch: Watch whether Muse Code can reliably deliver on Meta’s claims when used with large, complex codebases."
       ],
       "sources" : [
         {
@@ -161,8 +172,8 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/05\/meta-launches-muse-code-an-ai-agent-for-large-code-bases\/"
         }
       ],
-      "summary" : "Muse Code expands Meta's AI coding tools into agent-based work on complex software.",
-      "title" : "Meta launches Muse Code AI agent for large codebases",
+      "summary" : "Muse Code expands Meta’s AI coding offerings toward complex work in large software projects.",
+      "title" : "Meta launches Muse Code agent for large codebases",
       "topics" : [
         "Agents",
         "Coding",
@@ -181,9 +192,9 @@
       "id" : "2026-08-06-5371d115e112",
       "importance" : "high",
       "key_insights" : [
-        "Why it matters: The planned release would add two new open-weight Qwen models, including a very large model designed for extended coding and agentic tasks.",
-        "What changed: Alibaba announced Qwen3.8-Max and Qwen3.8-27B, disclosed API pricing, and committed to releasing both models' weights next week.",
-        "What to watch: Watch whether the weights arrive as scheduled and whether independent testing supports Alibaba's capability claims."
+        "Why it matters: The planned open-weight releases could give developers access to new Qwen models designed for coding and extended agentic tasks.",
+        "What changed: Alibaba announced Qwen3.8-Max and Qwen3.8-27B and priced the Max API at $2 per million input tokens, $6 per million output tokens, and $0.25 per million cached tokens.",
+        "What to watch: Watch whether Alibaba releases the promised open weights next week and provides evidence for its long-horizon capability claims."
       ],
       "sources" : [
         {
@@ -197,11 +208,11 @@
           "url" : "https:\/\/www.latent.space\/p\/ainews-qwen-38-max24t-and-27b-new"
         }
       ],
-      "summary" : "Alibaba introduced Qwen3.8-Max, a 2.4-trillion-parameter model aimed at coding, long-horizon agentic work, and multimodal reasoning, and said its weights will be released next week alongside Qwen3.8-27B. Latent Space reports API pricing of $2 per million input tokens, $6 per million output tokens, and $0.25 per million cached tokens.",
+      "summary" : "The planned open-weight releases could give developers access to new Qwen models designed for coding and extended agentic tasks.",
       "title" : "Alibaba introduces Qwen3.8-Max and Qwen3.8-27B with open weights planned",
       "topics" : [
         "Models & Releases",
-        "Agents",
+        "Open Source",
         "Coding",
         "Qwen3.8-Max"
       ]
@@ -209,12 +220,12 @@
     {
       "confidence" : "high",
       "created_at" : "2026-08-06T15:06:15Z",
-      "id" : "2026-08-06-d8a1fdb66166",
+      "id" : "2026-08-06-5aadb8922d4a",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: Improved cyclone forecasting could make AI weather models more useful for severe-weather prediction.",
-        "What changed: Google DeepMind reported a cyclone-forecasting advance for WeatherNext.",
-        "What to watch: Watch for evaluation results that quantify the model's cyclone-forecasting performance."
+        "Why it matters: Improved cyclone forecasting could support earlier and more accurate assessments of severe weather.",
+        "What changed: Google DeepMind introduced WeatherNext with a claimed advance in AI-based cyclone forecasting.",
+        "What to watch: Independent evaluation and detailed performance evidence will be needed to assess the claimed breakthrough."
       ],
       "sources" : [
         {
@@ -223,8 +234,8 @@
           "url" : "https:\/\/deepmind.google\/blog\/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones\/"
         }
       ],
-      "summary" : "Google DeepMind says its WeatherNext AI model has achieved an advance in forecasting cyclones. No supporting evaluation details were supplied.",
-      "title" : "Google DeepMind reports WeatherNext advance in cyclone forecasting",
+      "summary" : "Improved cyclone forecasting could support earlier and more accurate assessments of severe weather.",
+      "title" : "Google DeepMind announces WeatherNext for cyclone forecasting",
       "topics" : [
         "Models & Releases",
         "Research",
@@ -235,12 +246,12 @@
     {
       "confidence" : "high",
       "created_at" : "2026-08-06T06:00:00Z",
-      "id" : "2026-08-06-8a9e02f329cd",
+      "id" : "2026-08-06-6ddf26708fb8",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The partnership brings an AI developer and a psychology organization together to address responsible AI use in youth mental health.",
-        "What changed: OpenAI and the APA established a three-year collaboration focused on guidance, resources, and safeguards.",
-        "What to watch: Watch for the specific guidance, resources, and safeguards the partnership produces."
+        "Why it matters: The collaboration applies mental-health expertise to guidance and safeguards for young people using AI.",
+        "What changed: OpenAI and the APA established a joint effort focused on responsible AI use and youth mental health.",
+        "What to watch: Watch for the specific guidance, resources, and safeguards produced through the collaboration."
       ],
       "sources" : [
         {
@@ -249,24 +260,23 @@
           "url" : "https:\/\/openai.com\/index\/openai-and-apa-partner-to-advance-responsible-ai"
         }
       ],
-      "summary" : "The partnership brings an AI developer and a psychology organization together to address responsible AI use in youth mental health.",
-      "title" : "OpenAI and APA begin three-year youth mental health AI partnership",
+      "summary" : "OpenAI and the American Psychological Association are working together on evidence-based guidance, resources, and safeguards for responsible AI use related to youth mental health.",
+      "title" : "OpenAI and APA collaborate on youth mental health and AI",
       "topics" : [
         "Safety",
-        "Science & Medicine",
-        "Policy & Regulation",
+        "Research",
         "OpenAI"
       ]
     },
     {
       "confidence" : "high",
       "created_at" : "2026-08-06T00:00:00Z",
-      "id" : "2026-08-06-537a643d7de7",
+      "id" : "2026-08-06-dadd7016ef12",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The data provides country-level visibility into how ChatGPT adoption and usage differ worldwide.",
-        "What changed: OpenAI Signals now presents new data on ChatGPT adoption, usage trends, and evolving behavior.",
-        "What to watch: Watch for specific country-level findings and methodology details that clarify how the reported trends were measured."
+        "Why it matters: The data provides a country-level view of how ChatGPT adoption and usage vary worldwide.",
+        "What changed: OpenAI Signals now includes data on global ChatGPT adoption, usage trends, and evolving user behavior.",
+        "What to watch: Further methodological details will determine how reliably the data can support comparisons between countries and over time."
       ],
       "sources" : [
         {
@@ -275,8 +285,8 @@
           "url" : "https:\/\/openai.com\/index\/how-the-world-is-putting-chatgpt-to-work"
         }
       ],
-      "summary" : "The data provides country-level visibility into how ChatGPT adoption and usage differ worldwide.",
-      "title" : "OpenAI Signals adds country-level data on global ChatGPT use",
+      "summary" : "OpenAI published new Signals data showing how people use ChatGPT worldwide, including country-level adoption, usage trends, and changing behavior.",
+      "title" : "OpenAI publishes country-level data on global ChatGPT usage",
       "topics" : [
         "Research",
         "Data",
@@ -287,12 +297,12 @@
     {
       "confidence" : "medium",
       "created_at" : "2026-08-06T17:39:43Z",
-      "id" : "2026-08-06-c82031c24fde",
+      "id" : "2026-08-06-203012bfaeec",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The measures could make Suno-generated music easier to identify and reduce its use in high-volume spam.",
-        "What changed: Suno outlined plans to introduce watermarking and change its download policy.",
-        "What to watch: Watch for implementation details, timing, and evidence that the measures reliably identify Suno-generated tracks."
+        "Why it matters: The changes could make Suno-generated music easier to identify and reduce its use in spam.",
+        "What changed: Suno outlined plans for new watermarking technology and changes to its download policy.",
+        "What to watch: Watch for implementation details and evidence that the measures reliably identify Suno-generated tracks and limit spam."
       ],
       "sources" : [
         {
@@ -301,8 +311,8 @@
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976289\/suno-ai-music-spam-watermark"
         }
       ],
-      "summary" : "Suno announced plans for new watermarking technology and a revised download policy intended to limit spammy AI tracks and improve transparency. The company says the measures align with emerging industry standards for identifying Suno-generated content.",
-      "title" : "Suno plans watermarking and download-policy changes for AI music",
+      "summary" : "The changes could make Suno-generated music easier to identify and reduce its use in spam.",
+      "title" : "Suno plans watermarking and download-policy changes for AI-generated music",
       "topics" : [
         "Audio & Speech",
         "Safety",
@@ -315,9 +325,9 @@
       "id" : "2026-08-06-16be185ae3d5",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The partnership gives Mirendil more computing infrastructure for research intended to accelerate scientific discovery and AI development.",
-        "What changed: Mirendil committed to a Google Cloud partnership valued at more than $100 million.",
-        "What to watch: Watch for evidence that the expanded infrastructure produces demonstrated advances in Mirendil’s self-improving AI research."
+        "Why it matters: The partnership gives Mirendil additional computing infrastructure for research into AI systems that can improve themselves.",
+        "What changed: Mirendil committed to a Google Cloud partnership valued at more than $100 million to scale its compute capacity.",
+        "What to watch: Watch for concrete research results demonstrating whether Mirendil's systems accelerate scientific discovery or AI development."
       ],
       "sources" : [
         {
@@ -326,12 +336,12 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai\/"
         }
       ],
-      "summary" : "The partnership gives Mirendil more computing infrastructure for research intended to accelerate scientific discovery and AI development.",
+      "summary" : "The partnership gives Mirendil additional computing infrastructure for research into AI systems that can improve themselves.",
       "title" : "Mirendil signs $100 million-plus Google Cloud compute partnership",
       "topics" : [
         "Research",
-        "Infrastructure",
         "Compute & Chips",
+        "Science & Medicine",
         "Mirendil"
       ]
     },
@@ -341,9 +351,9 @@
       "id" : "2026-08-06-6aed6304860a",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The additions broaden Google Maps from navigation toward completing consumer tasks.",
-        "What changed: Users can now use new agentic features for food ordering and hotel bookings.",
-        "What to watch: Watch how broadly the new task-completion features become available."
+        "Why it matters: The features expand Google Maps beyond navigation into completing real-world tasks.",
+        "What changed: Users can now use new Google Maps features for food ordering and hotel bookings.",
+        "What to watch: Watch how broadly Google makes these agentic features available."
       ],
       "sources" : [
         {
@@ -352,7 +362,7 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings\/"
         }
       ],
-      "summary" : "Google Maps added agentic features that help users order food and book hotels. Google aims to expand Maps beyond navigation into an assistant for completing real-world tasks.",
+      "summary" : "Google Maps added agentic features that help users order food and book hotels.",
       "title" : "Google Maps adds food ordering and hotel booking features",
       "topics" : [
         "Agents",
@@ -361,48 +371,37 @@
       ]
     },
     {
-      "confidence" : "high",
-      "consolidation" : {
-        "latest_source_at" : "2026-08-04T18:20:14Z",
-        "message_count" : 2,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
-      },
-      "created_at" : "2026-08-04T18:20:14Z",
-      "id" : "2026-08-06-84853572142f",
+      "confidence" : "medium",
+      "created_at" : "2026-08-04T20:05:26Z",
+      "id" : "2026-08-06-a9d1066e59cc",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The plugins extend OpenAI’s agent and coding tools into education workflows across schools and colleges.",
-        "What changed: ChatGPT Work and Codex gained plugins designed specifically for educators and students.",
-        "What to watch: Watch for details on availability, supported institutions, and how the plugins are used in classrooms."
+        "Why it matters: More capable open-weight models without key mitigations could widen the gap between model access and safety controls.",
+        "What changed: SaferAI’s new report identified GLM-5.2 as approaching frontier capabilities while lacking key safety mitigations.",
+        "What to watch: Watch whether Z.ai adds safety measures and whether governance frameworks adapt to more capable open-weight models."
       ],
       "sources" : [
         {
-          "source_name" : "Latent Space",
-          "title" : "Unpacking ChatGPT Work: the Agent for a Billion Users",
-          "url" : "https:\/\/www.latent.space\/p\/unpacking-chatgpt-work"
-        },
-        {
-          "source_name" : "OpenAI News",
-          "title" : "New ways to learn and teach with ChatGPT Work and Codex",
-          "url" : "https:\/\/openai.com\/index\/learn-teach-chatgpt-work-codex"
+          "source_name" : "TechCrunch AI",
+          "title" : "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/04\/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains\/"
         }
       ],
-      "summary" : "The plugins extend OpenAI’s agent and coding tools into education workflows across schools and colleges.",
-      "title" : "OpenAI introduces education plugins for ChatGPT Work and Codex",
+      "summary" : "SaferAI reported that Z.ai’s open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations. The finding renews concerns that safeguards and governance may lag increasingly capable open models.",
+      "title" : "SaferAI report says GLM-5.2 nears frontier capabilities with safety gaps",
       "topics" : [
-        "Agents",
-        "Coding",
+        "Safety",
+        "Open Source",
         "Research",
-        "ChatGPT Work"
+        "GLM-5.2"
       ]
     }
   ],
   "count" : 12,
   "date" : "2026-08-06",
-  "generated_at" : "2026-08-06T18:00:03Z",
+  "generated_at" : "2026-08-06T20:00:03Z",
   "processing_report" : {
-    "generated_at" : "2026-08-06T18:00:09Z",
+    "generated_at" : "2026-08-06T20:00:08Z",
     "high_card_count" : 2,
     "source_reports" : [
       {
@@ -410,14 +409,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-08-03T13:44:58Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-08-06T18:00:07Z",
+        "processed_at" : "2026-08-06T20:00:08Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-08-06T18:00:06Z",
+        "processed_at" : "2026-08-06T20:00:06Z",
         "state" : "processed"
       },
       {
@@ -425,7 +424,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-08-05T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-08-06T18:00:04Z",
+        "processed_at" : "2026-08-06T20:00:04Z",
         "state" : "processed"
       },
       {
@@ -433,15 +432,15 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-08-06T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-08-06T18:00:05Z",
+        "processed_at" : "2026-08-06T20:00:05Z",
         "state" : "processed"
       },
       {
         "article_count" : 18,
         "id" : "ars-technica-ai",
-        "latest_article_at" : "2026-08-06T11:00:44Z",
+        "latest_article_at" : "2026-08-06T19:04:57Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-08-06T18:00:04Z",
+        "processed_at" : "2026-08-06T20:00:04Z",
         "state" : "processed"
       },
       {
@@ -449,7 +448,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-08-04T13:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-08-06T18:00:03Z",
+        "processed_at" : "2026-08-06T20:00:04Z",
         "state" : "processed"
       },
       {
@@ -457,7 +456,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-08-06T15:06:15Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-08-06T18:00:03Z",
+        "processed_at" : "2026-08-06T20:00:04Z",
         "state" : "processed"
       },
       {
@@ -465,7 +464,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-08-06T00:00:00Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-08-06T18:00:03Z",
+        "processed_at" : "2026-08-06T20:00:04Z",
         "state" : "processed"
       },
       {
@@ -473,7 +472,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-08-06T04:34:11Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-08-06T18:00:05Z",
+        "processed_at" : "2026-08-06T20:00:05Z",
         "state" : "processed"
       },
       {
@@ -481,7 +480,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-07-28T16:00:10Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-08-06T18:00:03Z",
+        "processed_at" : "2026-08-06T20:00:04Z",
         "state" : "processed"
       },
       {
@@ -489,7 +488,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-08-04T12:00:26Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-08-06T18:00:03Z",
+        "processed_at" : "2026-08-06T20:00:04Z",
         "state" : "processed"
       },
       {
@@ -497,7 +496,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-07-23T18:05:24Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-08-06T18:00:03Z",
+        "processed_at" : "2026-08-06T20:00:04Z",
         "state" : "processed"
       },
       {
@@ -505,7 +504,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-08-06T10:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-08-06T18:00:03Z",
+        "processed_at" : "2026-08-06T20:00:04Z",
         "state" : "processed"
       },
       {
@@ -513,7 +512,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-08-05T11:01:53Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-08-06T18:00:05Z",
+        "processed_at" : "2026-08-06T20:00:05Z",
         "state" : "processed"
       },
       {
@@ -521,7 +520,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-08-06T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-08-06T18:00:03Z",
+        "processed_at" : "2026-08-06T20:00:04Z",
         "state" : "processed"
       },
       {
@@ -529,15 +528,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-08-06T17:34:42Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-08-06T18:00:03Z",
+        "processed_at" : "2026-08-06T20:00:03Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 11,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-08-06T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-08-06T18:00:09Z",
+        "processed_at" : "2026-08-06T20:00:08Z",
         "state" : "processed"
       },
       {
@@ -545,14 +544,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-08-05T14:13:12Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-08-06T18:00:03Z",
+        "processed_at" : "2026-08-06T20:00:04Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-08-06T18:00:05Z",
+        "processed_at" : "2026-08-06T20:00:05Z",
         "state" : "processed"
       },
       {
@@ -560,7 +559,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-08-06T17:39:43Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-08-06T18:00:03Z",
+        "processed_at" : "2026-08-06T20:00:03Z",
         "state" : "processed"
       }
     ],
