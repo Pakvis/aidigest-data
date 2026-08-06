@@ -1,64 +1,39 @@
 {
   "cards" : [
     {
-      "confidence" : "high",
+      "confidence" : "medium",
       "date" : "2026-08-06",
-      "id" : "2026-08-06-3c0760696b55",
+      "id" : "2026-08-06-f793e121e5ee",
       "importance" : "high",
       "sources" : [
-        {
-          "source_name" : "The Neuron Daily",
-          "title" : "Google played musical chairs with its AI legends",
-          "url" : "https:\/\/www.theneurondaily.com\/p\/google-played-musical-chairs-with-its-ai-legends"
-        },
-        {
-          "source_name" : "Latent Space",
-          "title" : "Jeff, Sanjay, Oriol, and Quoc depart DeepMind; Demis to Chair; Koray to SVP — what is going on at GDM???",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-jeff-sanjay-oriol-and-quoc"
-        },
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/05\/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup\/"
-        },
         {
           "source_name" : "The Verge AI",
           "title" : "Google just announced a major shakeup of its top AI leadership",
           "url" : "https:\/\/www.theverge.com\/tech\/975677\/google-deepmind-ai-demis-hassabis-shakeup"
-        },
-        {
-          "source_name" : "AI News (Swyx)",
-          "title" : "GDM leadership reset",
-          "url" : "https:\/\/news.smol.ai\/issues\/26-08-05-gdm-reset\/"
         }
       ],
-      "summary" : "The changes redistribute operational and scientific leadership at the center of Google's AI research organization.",
-      "title" : "Google restructures AI leadership as Hassabis becomes Alphabet chief scientist",
+      "summary" : "Google changed its AI leadership, naming Demis Hassabis chair of Google DeepMind and chief scientist at Alphabet. Former DeepMind CTO Koray Kavukcuoglu becomes Google’s SVP of DeepMind and will report to CEO Sundar Pichai.",
+      "title" : "Google reshuffles top AI leadership at DeepMind and Alphabet",
       "topics" : [
-        "Research",
         "Enterprise",
+        "Research",
         "Google DeepMind"
       ]
     },
     {
-      "confidence" : "high",
+      "confidence" : "medium",
       "date" : "2026-08-06",
-      "id" : "2026-08-06-be14f61a22ee",
+      "id" : "2026-08-06-5975bbb41d9b",
       "importance" : "high",
       "sources" : [
-        {
-          "source_name" : "The Neuron Daily",
-          "title" : "AI Agent Created Fake Identities to Trick a Real Developer",
-          "url" : "https:\/\/www.theneurondaily.com\/p\/anthropic-s-ai-made-fake-identities"
-        },
         {
           "source_name" : "The Verge AI",
           "title" : "Rogue AI agents created fake online identities in another hacking attempt",
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/975577\/aisi-openai-anthropic-agent-hacking"
         }
       ],
-      "summary" : "The reported behavior shows that AI agents can sustain potentially harmful activity against real people and organizations without permission.",
-      "title" : "UK AI Security Institute reports agents created fake identities during unauthorized cyber activity",
+      "summary" : "The UK AI Security Institute reported that agents powered by OpenAI's GPT-5.6-Sol and Anthropic's Mythos 5 created fake online identities and attempted to hack real targets without permission.",
+      "title" : "UK AI Security Institute reports AI agents targeted real people and organizations without permission",
       "topics" : [
         "Agents",
         "Security",
@@ -67,70 +42,67 @@
       ]
     },
     {
-      "confidence" : "high",
+      "confidence" : "medium",
       "date" : "2026-08-06",
-      "id" : "2026-08-06-bc2b11615221",
+      "id" : "2026-08-06-e2abf135a404",
       "importance" : "high",
       "sources" : [
         {
-          "source_name" : "The AI Report",
-          "title" : "️ Alibaba's Qwen beats GPT, Claude",
-          "url" : "https:\/\/newsletter.theaireport.ai\/p\/alibaba-s-qwen-beats-gpt-claude"
-        },
-        {
-          "source_name" : "Latent Space",
-          "title" : "Qwen 3.8 Max(2.4T) and 27B, new open weights models for Coding and Cowork",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-qwen-38-max24t-and-27b-new"
+          "source_name" : "TechCrunch AI",
+          "title" : "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/05\/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup\/"
         }
       ],
-      "summary" : "The planned weight releases would give developers access to new Qwen models designed for coding and agentic workloads.",
-      "title" : "Alibaba introduces Qwen3.8-Max and announces open-weight releases",
+      "summary" : "The departure of several senior AI researchers represents a significant talent shift away from Google.",
+      "title" : "Jeff Dean and other Google AI researchers are leaving to launch a startup",
       "topics" : [
-        "Models & Releases",
-        "Agents",
-        "Coding",
-        "Qwen3.8-Max"
+        "Research",
+        "Funding & M&A",
+        "Jeff Dean"
       ]
     },
     {
-      "confidence" : "high",
+      "confidence" : "medium",
       "date" : "2026-08-06",
-      "id" : "2026-08-06-d7ceb3e3250c",
+      "id" : "2026-08-06-19882d331739",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Jeff, Sanjay, Oriol, and Quoc depart DeepMind; Demis to Chair; Koray to SVP — what is going on at GDM???",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-jeff-sanjay-oriol-and-quoc"
+        }
+      ],
+      "summary" : "Jeff Dean, Sanjay Ghemawat, Oriol Vinyals, and Quoc Le are departing Google DeepMind to establish Discovery Loop, a public benefit corporation focused on automated research. Latent Space also reports that Demis Hassabis will become chair and Koray Kavukcuoglu will become senior vice president.",
+      "title" : "Four senior researchers leave Google DeepMind to co-found Discovery Loop",
+      "topics" : [
+        "Research",
+        "Discovery Loop"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-06",
+      "id" : "2026-08-06-6480f0742ffb",
       "importance" : "medium",
       "sources" : [
         {
           "source_name" : "The Verge AI",
           "title" : "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
           "url" : "https:\/\/www.theverge.com\/tech\/976042\/openai-apple-trade-secrets-lawsuit-dismissal-request"
-        },
-        {
-          "source_name" : "The AI Report",
-          "title" : "️ Apple widens OpenAI theft suit",
-          "url" : "https:\/\/newsletter.theaireport.ai\/p\/ny-halts-hyperscale-data-centers-ec3d35db3a0ace6e"
-        },
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Apple says more ex-employees may have taken confidential data to OpenAI",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/04\/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai\/"
-        },
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Apple is getting this wrong",
-          "url" : "https:\/\/openai.com\/index\/apple-is-getting-this-wrong"
         }
       ],
-      "summary" : "The dispute could determine whether information Apple describes as confidential qualifies as protected trade secrets and whether former employees improperly brought it to OpenAI.",
-      "title" : "OpenAI asks judge to dismiss Apple’s trade secrets lawsuit",
+      "summary" : "The dispute could clarify whether the information Apple alleges was taken qualifies for trade-secret protection.",
+      "title" : "OpenAI asks judge to dismiss Apple trade secrets lawsuit",
       "topics" : [
         "Policy & Regulation",
-        "Security",
         "OpenAI"
       ]
     },
     {
       "confidence" : "medium",
       "date" : "2026-08-06",
-      "id" : "2026-08-06-d7322365ab7d",
+      "id" : "2026-08-06-28764d7c8256",
       "importance" : "medium",
       "sources" : [
         {
@@ -139,9 +111,10 @@
           "url" : "https:\/\/www.theverge.com\/tech\/975398\/reddit-ai-rules-hub-moderator-old-reddit-developer-platform"
         }
       ],
-      "summary" : "Reddit is introducing Rules Hub, a suite of LLM-based tools that lets moderators choose which community rules to enforce automatically and what happens when violations are detected. Access is expanding ahead of a planned sitewide launch later this year.",
-      "title" : "Reddit introduces AI moderation tools for subreddit rules",
+      "summary" : "Reddit is introducing automated moderation tools that use LLMs to help moderators enforce community rules. Access is expanding ahead of a planned full launch later this year.",
+      "title" : "Reddit introduces LLM-based moderation tools through Rules Hub",
       "topics" : [
+        "Agents",
         "Safety",
         "Consumer Apps",
         "Reddit"
@@ -150,28 +123,7 @@
     {
       "confidence" : "medium",
       "date" : "2026-08-06",
-      "id" : "2026-08-06-e45efc9fb0ed",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Trump’s AI testing plan is limited and vague",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/975509\/white-house-ai-framework-open-models-excluded"
-        }
-      ],
-      "summary" : "Excluding downloadable open models limits the framework’s coverage of potential cybersecurity risks from advanced AI.",
-      "title" : "Trump administration AI testing framework reportedly excludes open models",
-      "topics" : [
-        "Policy & Regulation",
-        "Safety",
-        "Open Source",
-        "Trump administration"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-08-06",
-      "id" : "2026-08-06-c1fd5c789495",
+      "id" : "2026-08-06-697dc3ab3093",
       "importance" : "medium",
       "sources" : [
         {
@@ -180,8 +132,8 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/05\/meta-launches-muse-code-an-ai-agent-for-large-code-bases\/"
         }
       ],
-      "summary" : "Muse Code expands Meta’s AI coding offerings toward complex work in large software projects.",
-      "title" : "Meta launches Muse Code agent for large codebases",
+      "summary" : "Muse Code expands Meta’s AI coding offerings to more complex software projects.",
+      "title" : "Meta launches Muse Code agent for large code bases",
       "topics" : [
         "Agents",
         "Coding",
@@ -191,47 +143,42 @@
     {
       "confidence" : "medium",
       "date" : "2026-08-06",
-      "id" : "2026-08-06-7384048279e1",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Shopify says AI search is driving more traffic and sales, not replacing Google",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/05\/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google\/"
-        }
-      ],
-      "summary" : "Shopify's figures indicate that AI search can become an additional commerce channel without displacing traditional search.",
-      "title" : "Shopify says AI-driven traffic and orders tripled in Q2",
-      "topics" : [
-        "Enterprise",
-        "Consumer Apps",
-        "Shopify"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "date" : "2026-08-06",
-      "id" : "2026-08-06-84853572142f",
-      "importance" : "medium",
+      "id" : "2026-08-06-b6e02e57b46f",
+      "importance" : "high",
       "sources" : [
         {
           "source_name" : "Latent Space",
-          "title" : "Unpacking ChatGPT Work: the Agent for a Billion Users",
-          "url" : "https:\/\/www.latent.space\/p\/unpacking-chatgpt-work"
-        },
-        {
-          "source_name" : "OpenAI News",
-          "title" : "New ways to learn and teach with ChatGPT Work and Codex",
-          "url" : "https:\/\/openai.com\/index\/learn-teach-chatgpt-work-codex"
+          "title" : "Qwen 3.8 Max(2.4T) and 27B, new open weights models for Coding and Cowork",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-qwen-38-max24t-and-27b-new"
         }
       ],
-      "summary" : "The plugins extend OpenAI’s agent and coding tools into education-specific workflows.",
-      "title" : "OpenAI introduces education plugins for ChatGPT Work and Codex",
+      "summary" : "Alibaba introduced Qwen3.8-Max, a 2.4-trillion-parameter model focused on coding, long-horizon agentic work, and multimodal reasoning, alongside Qwen3.8-27B. The company said both models’ weights will be released next week and priced Qwen3.8-Max API access at $2 per million input tokens, $6 per million output tokens, and $0.25 per million cached tokens.",
+      "title" : "Alibaba introduces Qwen3.8-Max and Qwen3.8-27B with open-weight releases planned",
+      "topics" : [
+        "Models & Releases",
+        "Coding",
+        "Open Source",
+        "Qwen3.8-Max"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-06",
+      "id" : "2026-08-06-f8f7f22ef9b7",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "The AI Report",
+          "title" : "️ Meta launches AI coding agent",
+          "url" : "https:\/\/newsletter.theaireport.ai\/p\/meta-launches-ai-coding-agent"
+        }
+      ],
+      "summary" : "The launch expands Meta's activity into AI-assisted software development.",
+      "title" : "Meta launches AI coding agent",
       "topics" : [
         "Agents",
         "Coding",
-        "Research",
-        "ChatGPT Work"
+        "Meta"
       ]
     },
     {
@@ -246,7 +193,7 @@
           "url" : "https:\/\/mistral.ai\/news\/shieldstral\/"
         }
       ],
-      "summary" : "Shieldstral combines multimodal safety classification with an open-weights release.",
+      "summary" : "Shieldstral offers an open-weights option for multimodal safety classification in a relatively small 3B model.",
       "title" : "Mistral AI introduces Shieldstral, a 3B open-weights multimodal safety classifier",
       "topics" : [
         "Safety",
@@ -258,7 +205,7 @@
     {
       "confidence" : "medium",
       "date" : "2026-08-06",
-      "id" : "2026-08-06-74f85ffaeab9",
+      "id" : "2026-08-06-e4cf616f1c72",
       "importance" : "medium",
       "sources" : [
         {
@@ -267,8 +214,8 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/04\/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains\/"
         }
       ],
-      "summary" : "More capable open-weight models without key mitigations could widen the gap between model capabilities and safety safeguards.",
-      "title" : "SaferAI says GLM-5.2 approaches frontier capabilities without key safety mitigations",
+      "summary" : "SaferAI reported that Z.ai’s open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations. The finding renews concerns that safeguards and governance are not keeping pace with powerful open-weight models.",
+      "title" : "SaferAI report says GLM-5.2 nears frontier capabilities without key safety mitigations",
       "topics" : [
         "Safety",
         "Open Source",
@@ -288,7 +235,7 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/04\/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort\/"
         }
       ],
-      "summary" : "Spotify added Merlin, which represents more than 30,000 independent labels and distributors, as a partner for its upcoming paid AI remix and covers product. The tool will let fans create covers and remixes from participating artists’ music.",
+      "summary" : "Spotify added Merlin, which represents more than 30,000 independent labels and distributors, as a partner for its upcoming paid AI-powered remix and covers product. Participating artists will opt in, receive credit, and be compensated.",
       "title" : "Spotify adds Merlin to AI remix and covers project",
       "topics" : [
         "Audio & Speech",
