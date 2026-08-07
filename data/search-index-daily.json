@@ -3,7 +3,7 @@
     {
       "confidence" : "high",
       "date" : "2026-08-07",
-      "id" : "2026-08-07-8cb57b2c432e",
+      "id" : "2026-08-07-89efd2a6d6c6",
       "importance" : "high",
       "sources" : [
         {
@@ -42,8 +42,8 @@
           "url" : "https:\/\/news.smol.ai\/issues\/26-08-05-gdm-reset\/"
         }
       ],
-      "summary" : "The reorganization changes the leadership and senior research ranks of one of the AI industry's most prominent laboratories.",
-      "title" : "Google reshuffles AI leadership as senior DeepMind researchers leave for Discovery Loop",
+      "summary" : "The restructuring changes leadership and removes several senior engineering and research figures from Google DeepMind.",
+      "title" : "Google restructures AI leadership as senior DeepMind researchers form Discovery Loop",
       "topics" : [
         "Research",
         "Enterprise",
@@ -53,7 +53,7 @@
     {
       "confidence" : "high",
       "date" : "2026-08-07",
-      "id" : "2026-08-07-d4431775e04f",
+      "id" : "2026-08-07-d22dcd4faed4",
       "importance" : "high",
       "sources" : [
         {
@@ -67,8 +67,8 @@
           "url" : "https:\/\/www.theverge.com\/tech\/976042\/openai-apple-trade-secrets-lawsuit-dismissal-request"
         }
       ],
-      "summary" : "The ruling could determine whether Apple’s trade-secret claims against OpenAI proceed in federal court.",
-      "title" : "OpenAI asks judge to dismiss Apple’s trade secrets lawsuit",
+      "summary" : "The ruling could determine whether Apple’s trade secrets claims against OpenAI proceed in federal court.",
+      "title" : "OpenAI asks judge to dismiss Apple trade secrets lawsuit",
       "topics" : [
         "Policy & Regulation",
         "Security",
@@ -97,7 +97,7 @@
           "url" : "https:\/\/openai.com\/index\/improving-gpt-5-6-sol-in-chatgpt"
         }
       ],
-      "summary" : "OpenAI is improving GPT-5.6 Sol in ChatGPT and expanding GPT-5.6 Luna access for free users. Free and Go users will also receive unlimited text chats and a Think button for harder questions.",
+      "summary" : "OpenAI improved GPT-5.6 Sol in ChatGPT for greater accuracy and consistency and is expanding GPT-5.6 Luna access. Free and Go users are set to receive unlimited text chats and a Think button for harder questions starting next week.",
       "title" : "OpenAI improves GPT-5.6 Sol and expands free access to GPT-5.6 Luna",
       "topics" : [
         "Models & Releases",
@@ -122,18 +122,19 @@
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976431\/openai-chatgpt-battery-smart-speaker-rumor"
         }
       ],
-      "summary" : "OpenAI is reportedly developing a new AI smart speaker expected to cost more than $300. The Verge, citing Bloomberg’s Mark Gurman, describes it as a battery-powered, screenless device roughly the size of a hockey puck.",
+      "summary" : "OpenAI is reportedly developing a display-free AI smart speaker with former Apple designer Jony Ive, targeting a 2027 launch at more than $300. The Verge, citing Bloomberg, says it is battery-powered and roughly hockey puck-sized, with lights, cameras, sensors, and moving parts.",
       "title" : "OpenAI’s first Jony Ive-designed device reportedly takes shape as a compact smart speaker",
       "topics" : [
         "Hardware",
         "Consumer Apps",
+        "Audio & Speech",
         "OpenAI"
       ]
     },
     {
       "confidence" : "high",
       "date" : "2026-08-07",
-      "id" : "2026-08-07-a629946401e4",
+      "id" : "2026-08-07-e5f62dec699e",
       "importance" : "medium",
       "sources" : [
         {
@@ -147,11 +148,73 @@
           "url" : "https:\/\/arstechnica.com\/science\/2026\/08\/large-genome-models-used-to-design-new-viruses\/"
         }
       ],
-      "summary" : "The work demonstrates that genome models can produce complete, functional biological designs rather than only individual DNA or protein sequences.",
-      "title" : "Large genome models design viable viruses that infect bacteria",
+      "summary" : "Researchers used large genome models to generate genomes for viruses that infect bacteria. The generated viruses were closely related to an existing virus, and The Neuron Daily reports that they proved viable in a laboratory.",
+      "title" : "Large genome models used to design bacteriophage genomes",
       "topics" : [
         "Research",
+        "Models & Releases",
         "Safety"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-07",
+      "id" : "2026-08-07-bf11af97c92a",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Suno shares plans to combat spammy AI music",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976289\/suno-ai-music-spam-watermark"
+        }
+      ],
+      "summary" : "The measures could make Suno-generated music easier to identify and reduce its use in high-volume spam.",
+      "title" : "Suno plans watermarking and download policy to curb spammy AI music",
+      "topics" : [
+        "Audio & Speech",
+        "Safety",
+        "Suno"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-07",
+      "id" : "2026-08-07-37d271f91ded",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai\/"
+        }
+      ],
+      "summary" : "The agreement gives Mirendil additional compute infrastructure for research aimed at accelerating scientific discovery and AI development.",
+      "title" : "Mirendil signs $100 million-plus Google Cloud compute deal",
+      "topics" : [
+        "Research",
+        "Compute & Chips",
+        "Infrastructure",
+        "Mirendil"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-07",
+      "id" : "2026-08-07-becb4e4682a0",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Google Maps adds agentic features, including food ordering and hotel bookings",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings\/"
+        }
+      ],
+      "summary" : "Google Maps added agentic features that help users order food and book hotels. The additions expand Maps beyond navigation into completing real-world tasks.",
+      "title" : "Google Maps adds agentic food-ordering and hotel-booking features",
+      "topics" : [
+        "Agents",
+        "Consumer Apps",
+        "Google Maps"
       ]
     },
     {
@@ -171,7 +234,7 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/05\/meta-launches-muse-code-an-ai-agent-for-large-code-bases\/"
         }
       ],
-      "summary" : "Muse Code expands Meta's AI coding offerings toward complex software projects.",
+      "summary" : "Muse Code expands Meta's AI coding offerings toward complex software-development work.",
       "title" : "Meta launches Muse Code AI agent for large codebases",
       "topics" : [
         "Agents",
@@ -182,8 +245,54 @@
     {
       "confidence" : "high",
       "date" : "2026-08-07",
-      "id" : "2026-08-07-7597234796c7",
+      "id" : "2026-08-07-c462f32ee27c",
       "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "Mistral AI",
+          "title" : "Introducing Shieldstral.",
+          "url" : "https:\/\/mistral.ai\/news\/shieldstral\/"
+        }
+      ],
+      "summary" : "Shieldstral provides an open-weights option for multimodal safety classification in a relatively small model.",
+      "title" : "Mistral AI introduces Shieldstral, a 3B multimodal safety classifier",
+      "topics" : [
+        "Safety",
+        "Models & Releases",
+        "Open Source",
+        "Shieldstral"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-08-07",
+      "id" : "2026-08-07-d339fd7f677b",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "Superhuman AI",
+          "title" : "Former OpenAI researcher launches desktop agent",
+          "url" : "https:\/\/www.superhuman.ai\/p\/former-openai-researcher-launches-desktop-agent"
+        },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Hark previews its browser use agent for completing tasks",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/05\/hark-previews-its-browser-use-agent-for-completing-tasks\/"
+        }
+      ],
+      "summary" : "Hark previewed an agent designed to complete tasks through a browser. TechCrunch reports that Hark claims it is faster and cheaper than competing agents.",
+      "title" : "Hark previews browser-use agent for completing tasks",
+      "topics" : [
+        "Agents",
+        "Consumer Apps",
+        "Hark"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-08-07",
+      "id" : "2026-08-07-36408ef3e512",
+      "importance" : "low",
       "sources" : [
         {
           "source_name" : "OpenAI News",
@@ -191,113 +300,12 @@
           "url" : "https:\/\/openai.com\/index\/hsp-gruppe"
         }
       ],
-      "summary" : "The deployment shows how an enterprise is applying generative AI within professional tax advisory work.",
-      "title" : "HSP GRUPPE uses ChatGPT Enterprise for tax advisory",
+      "summary" : "The deployment illustrates how an advisory firm is applying enterprise AI to professional services work.",
+      "title" : "HSP GRUPPE uses ChatGPT Enterprise for tax advisory work",
       "topics" : [
         "Enterprise",
         "Consumer Apps",
         "HSP GRUPPE"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "date" : "2026-08-07",
-      "id" : "2026-08-07-a2806600b35e",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "Google DeepMind",
-          "title" : "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-          "url" : "https:\/\/deepmind.google\/blog\/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones\/"
-        }
-      ],
-      "summary" : "Google DeepMind announced that its WeatherNext AI model achieved a breakthrough in forecasting cyclones. No supporting performance details were supplied.",
-      "title" : "Google DeepMind says WeatherNext advances cyclone forecasting",
-      "topics" : [
-        "Research",
-        "Science & Medicine",
-        "WeatherNext"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-08-07",
-      "id" : "2026-08-07-bf11af97c92a",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Suno shares plans to combat spammy AI music",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976289\/suno-ai-music-spam-watermark"
-        }
-      ],
-      "summary" : "Identifying Suno-generated tracks could improve transparency around the origin of AI music.",
-      "title" : "Suno plans watermarking and download policy to curb spammy AI music",
-      "topics" : [
-        "Audio & Speech",
-        "Safety",
-        "Suno"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-08-07",
-      "id" : "2026-08-07-aabcf3677f7b",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company\/"
-        }
-      ],
-      "summary" : "Naïve raised $28.5 million for infrastructure it says can automate most of the work involved in setting up and running a company.",
-      "title" : "Naïve raises $28.5 million to automate business setup and operations",
-      "topics" : [
-        "Funding & M&A",
-        "Enterprise",
-        "Agents",
-        "Naïve"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-08-07",
-      "id" : "2026-08-07-37d271f91ded",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai\/"
-        }
-      ],
-      "summary" : "The agreement gives Mirendil additional computing infrastructure for research intended to accelerate scientific discovery and AI development.",
-      "title" : "Mirendil signs $100 million-plus Google Cloud compute deal",
-      "topics" : [
-        "Research",
-        "Compute & Chips",
-        "Mirendil"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-08-07",
-      "id" : "2026-08-07-becb4e4682a0",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Google Maps adds agentic features, including food ordering and hotel bookings",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings\/"
-        }
-      ],
-      "summary" : "The features expand Google Maps beyond navigation into assistance with real-world transactions.",
-      "title" : "Google Maps adds agentic food-ordering and hotel-booking features",
-      "topics" : [
-        "Agents",
-        "Consumer Apps",
-        "Google Maps"
       ]
     },
     {
