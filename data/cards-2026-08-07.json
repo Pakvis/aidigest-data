@@ -9,12 +9,12 @@
         "source_count" : 7
       },
       "created_at" : "2026-08-06T13:26:42Z",
-      "id" : "2026-08-07-4fe5b888324f",
+      "id" : "2026-08-07-c9774bd9cd6d",
       "importance" : "high",
       "key_insights" : [
-        "Why it matters: The reorganization changes leadership at Google’s central AI research organization while several prominent researchers depart.",
-        "What changed: Hassabis moved to an Alphabet-wide chief scientist role, Kavukcuoglu took operational leadership at DeepMind, and Jeff Dean, Sanjay Ghemawat, Oriol Vinyals, and Quoc Le were reported as founding Discovery Loop.",
-        "What to watch: Watch how the new leadership structure affects DeepMind’s research direction and whether Google announces further organizational changes."
+        "Why it matters: The reorganization changes leadership and removes several senior researchers from one of the AI industry’s most influential laboratories.",
+        "What changed: Hassabis moved to Alphabet chief scientist, Kavukcuoglu took responsibility for DeepMind operations, and several senior researchers departed for Discovery Loop.",
+        "What to watch: Watch whether the new leadership structure affects Google DeepMind’s research priorities, operations, or ability to retain senior talent."
       ],
       "sources" : [
         {
@@ -53,8 +53,8 @@
           "url" : "https:\/\/news.smol.ai\/issues\/26-08-05-gdm-reset\/"
         }
       ],
-      "summary" : "Google reorganized its AI leadership, moving Demis Hassabis into Alphabet’s chief scientist role and placing Koray Kavukcuoglu in charge of DeepMind operations. Two newsletters report that Jeff Dean and other senior researchers are leaving DeepMind to establish the research startup Discovery Loop.",
-      "title" : "Google reorganizes AI leadership as senior DeepMind researchers leave",
+      "summary" : "Google announced its largest AI organization shakeup yet, moving Demis Hassabis into Alphabet’s chief scientist role and assigning DeepMind operations to Koray Kavukcuoglu. Two sources report that Jeff Dean is launching or co-founding the research startup Discovery Loop, with one also naming Sanjay Ghemawat, Oriol Vinyals, and Quoc Le as co-founders.",
+      "title" : "Google reshuffles AI leadership as senior DeepMind researchers leave",
       "topics" : [
         "Research",
         "Enterprise",
@@ -73,9 +73,9 @@
       "id" : "2026-08-07-d4431775e04f",
       "importance" : "high",
       "key_insights" : [
-        "Why it matters: The motion directly challenges whether Apple can establish that the disputed information qualified as protected trade secrets.",
-        "What changed: OpenAI filed its formal dismissal request and court exhibits outlining its defense against Apple’s allegations.",
-        "What to watch: The federal judge must decide whether Apple’s complaint can proceed despite OpenAI’s challenges to the secrecy and protection of the disputed information."
+        "Why it matters: The ruling could shape a consequential trade secrets dispute between Apple and OpenAI.",
+        "What changed: OpenAI filed a dismissal motion challenging both Apple’s characterization of the information as trade secrets and its efforts to keep that information confidential.",
+        "What to watch: Watch whether the judge accepts OpenAI’s arguments about Apple’s security and employee offboarding practices."
       ],
       "sources" : [
         {
@@ -89,12 +89,53 @@
           "url" : "https:\/\/www.theverge.com\/tech\/976042\/openai-apple-trade-secrets-lawsuit-dismissal-request"
         }
       ],
-      "summary" : "The motion directly challenges whether Apple can establish that the disputed information qualified as protected trade secrets.",
+      "summary" : "The ruling could shape a consequential trade secrets dispute between Apple and OpenAI.",
       "title" : "OpenAI asks judge to dismiss Apple’s trade secrets lawsuit",
       "topics" : [
         "Policy & Regulation",
-        "Security",
         "OpenAI"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-08-06T17:34:42Z",
+        "message_count" : 3,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 3
+      },
+      "created_at" : "2026-08-06T17:34:42Z",
+      "id" : "2026-08-07-8fe9712a0deb",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: Removing text-chat limits gives free and Go users broader everyday access to ChatGPT.",
+        "What changed: GPT-5.6 Sol received accuracy and consistency improvements, while free and Go users are gaining unlimited text chats with GPT-5.6 Luna and a Think button.",
+        "What to watch: OpenAI reportedly plans to remove the text-chat limits and add the Think button next week, so the rollout and any remaining usage restrictions should be monitored."
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "ChatGPT brings unlimited text chats to free users",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/openai-brings-unlimited-chatgpt-text-chats-to-free-users\/"
+        },
+        {
+          "source_name" : "The Verge AI",
+          "title" : "OpenAI is giving ChatGPT free users unlimited text chats",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976239\/openai-chatgpt-free-go-text-chats"
+        },
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+          "url" : "https:\/\/openai.com\/index\/improving-gpt-5-6-sol-in-chatgpt"
+        }
+      ],
+      "summary" : "Removing text-chat limits gives free and Go users broader everyday access to ChatGPT.",
+      "title" : "OpenAI improves GPT-5.6 Sol and expands free ChatGPT access to GPT-5.6 Luna",
+      "topics" : [
+        "Models & Releases",
+        "Consumer Apps",
+        "Pricing",
+        "ChatGPT"
       ]
     },
     {
@@ -106,12 +147,12 @@
         "source_count" : 2
       },
       "created_at" : "2026-08-06T22:43:53Z",
-      "id" : "2026-08-07-95a4cd5ae8c5",
+      "id" : "2026-08-07-7e0a416d9981",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The device would extend OpenAI into dedicated consumer hardware rather than limiting its products to software.",
-        "What changed: New reports describe the previously mysterious device as a compact smart speaker expected to cost between $300 and $400.",
-        "What to watch: The final design, capabilities, price, and 2027 launch timing remain subject to change because the product has not been officially announced."
+        "Why it matters: The reported device would mark OpenAI’s move into dedicated consumer AI hardware.",
+        "What changed: New reports characterize the previously mysterious device as a compact smart speaker priced around $300 to $400.",
+        "What to watch: The design, capabilities, launch timing, and price remain unconfirmed and could change before release."
       ],
       "sources" : [
         {
@@ -125,49 +166,12 @@
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976431\/openai-chatgpt-battery-smart-speaker-rumor"
         }
       ],
-      "summary" : "OpenAI is reportedly developing a display-free AI smart speaker with former Apple designer Jony Ive, targeting a 2027 launch at a price above $300. The Verge, citing Bloomberg, says it will be battery-powered and roughly hockey puck-sized, with lights, cameras, sensors, and moving parts.",
-      "title" : "OpenAI’s first Jony Ive-designed device is reportedly a $300–$400 smart speaker",
+      "summary" : "OpenAI is reportedly developing a compact AI smart speaker expected to cost more than $300. The Verge, citing Bloomberg’s Mark Gurman, says the battery-powered, display-free device is planned for 2027 and includes moving parts, lights, cameras, and other sensors.",
+      "title" : "OpenAI’s first Jony Ive-designed device is reportedly a compact AI smart speaker",
       "topics" : [
         "Hardware",
         "Consumer Apps",
-        "Audio & Speech",
         "OpenAI"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "consolidation" : {
-        "latest_source_at" : "2026-08-06T17:34:42Z",
-        "message_count" : 2,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
-      },
-      "created_at" : "2026-08-06T17:34:42Z",
-      "id" : "2026-08-07-1b63700865ea",
-      "importance" : "medium",
-      "key_insights" : [
-        "Why it matters: Removing text-chat limits expands access to ChatGPT without requiring a paid upgrade.",
-        "What changed: Free and Go users will gain unlimited text chats and a Think button for more complex queries.",
-        "What to watch: Watch for the rollout next week and any conditions OpenAI attaches to unlimited text use."
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "ChatGPT brings unlimited text chats to free users",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/openai-brings-unlimited-chatgpt-text-chats-to-free-users\/"
-        },
-        {
-          "source_name" : "The Verge AI",
-          "title" : "OpenAI is giving ChatGPT free users unlimited text chats",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976239\/openai-chatgpt-free-go-text-chats"
-        }
-      ],
-      "summary" : "OpenAI will remove text-chat rate limits for ChatGPT users on its free and Go tiers starting next week. It is also adding a Think button that provides access to higher reasoning for harder questions.",
-      "title" : "OpenAI to give ChatGPT free and Go users unlimited text chats",
-      "topics" : [
-        "Consumer Apps",
-        "Pricing",
-        "ChatGPT"
       ]
     },
     {
@@ -182,9 +186,9 @@
       "id" : "2026-08-07-88149eccc33b",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: Muse Code expands Meta’s AI coding offerings to complex work in large software projects.",
-        "What changed: Meta added a coding agent focused on complex software tasks and large codebases.",
-        "What to watch: Watch for evidence of Muse Code’s performance on complex tasks in real-world codebases."
+        "Why it matters: Muse Code expands Meta's AI coding offerings to complex software projects.",
+        "What changed: Meta added a coding agent aimed at working across large codebases.",
+        "What to watch: Watch for evidence of how reliably Muse Code handles complex tasks in real-world repositories."
       ],
       "sources" : [
         {
@@ -198,7 +202,7 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/05\/meta-launches-muse-code-an-ai-agent-for-large-code-bases\/"
         }
       ],
-      "summary" : "Muse Code expands Meta’s AI coding offerings to complex work in large software projects.",
+      "summary" : "Muse Code expands Meta's AI coding offerings to complex software projects.",
       "title" : "Meta launches Muse Code agent for large codebases",
       "topics" : [
         "Agents",
@@ -209,12 +213,12 @@
     {
       "confidence" : "high",
       "created_at" : "2026-08-06T15:06:15Z",
-      "id" : "2026-08-07-9b746427d541",
+      "id" : "2026-08-07-d4927c8740a1",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: Improved cyclone forecasting could support earlier assessment of severe weather risks, although the supplied source does not quantify the improvement.",
-        "What changed: Google DeepMind reported a cyclone-forecasting advance achieved by WeatherNext.",
-        "What to watch: Watch for technical evidence describing WeatherNext's accuracy, forecast horizon, evaluation methods, and comparison with existing systems."
+        "Why it matters: Improved cyclone forecasting could be meaningful for weather prediction, though the supplied source does not quantify the advance.",
+        "What changed: Google DeepMind reported a cyclone-forecasting breakthrough from its WeatherNext AI model.",
+        "What to watch: Watch for published evaluation results and comparisons that substantiate the claimed breakthrough."
       ],
       "sources" : [
         {
@@ -223,73 +227,24 @@
           "url" : "https:\/\/deepmind.google\/blog\/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones\/"
         }
       ],
-      "summary" : "Improved cyclone forecasting could support earlier assessment of severe weather risks, although the supplied source does not quantify the improvement.",
-      "title" : "Google DeepMind reports cyclone forecasting advance with WeatherNext",
+      "summary" : "Google DeepMind announced that its WeatherNext AI model achieved a breakthrough in forecasting cyclones. No supporting performance details were supplied.",
+      "title" : "Google DeepMind announces WeatherNext cyclone forecasting advance",
       "topics" : [
         "Research",
         "Science & Medicine",
-        "WeatherNext"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "created_at" : "2026-08-06T10:00:00Z",
-      "id" : "2026-08-07-1fddefbc69d0",
-      "importance" : "medium",
-      "key_insights" : [
-        "Why it matters: The update improves GPT-5.6 Sol’s reliability and gives free users broader access to GPT-5.6 Luna.",
-        "What changed: GPT-5.6 Sol gained accuracy and consistency improvements, and GPT-5.6 Luna became available to free users for unlimited everyday chats.",
-        "What to watch: Watch for further details about the scope of the improvements and expanded free access."
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-          "url" : "https:\/\/openai.com\/index\/improving-gpt-5-6-sol-in-chatgpt"
-        }
-      ],
-      "summary" : "GPT-5.6 Sol gained accuracy and consistency improvements, and GPT-5.6 Luna became available to free users for unlimited everyday chats.",
-      "title" : "OpenAI improves GPT-5.6 Sol and expands free access to GPT-5.6 Luna in ChatGPT",
-      "topics" : [
         "Models & Releases",
-        "Consumer Apps",
-        "GPT-5.6"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "created_at" : "2026-08-06T06:00:00Z",
-      "id" : "2026-08-07-fcec5ed4df6b",
-      "importance" : "medium",
-      "key_insights" : [
-        "Why it matters: The collaboration addresses safeguards for young people using AI in a sensitive mental-health context.",
-        "What changed: OpenAI and the APA began advancing joint guidance, resources, and safeguards for responsible AI use and youth mental health.",
-        "What to watch: Watch for specific guidance, resources, safeguards, and evidence showing how they will be implemented."
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Working with the American Psychological Association on youth mental health and AI",
-          "url" : "https:\/\/openai.com\/index\/openai-and-apa-partner-to-advance-responsible-ai"
-        }
-      ],
-      "summary" : "OpenAI and the American Psychological Association are working together on evidence-based guidance, resources, and safeguards for responsible AI use related to youth mental health.",
-      "title" : "OpenAI and APA collaborate on youth mental health and AI",
-      "topics" : [
-        "Safety",
-        "Consumer Apps",
-        "OpenAI"
+        "WeatherNext"
       ]
     },
     {
       "confidence" : "medium",
       "created_at" : "2026-08-06T17:39:43Z",
-      "id" : "2026-08-07-7c1fd2aa9485",
+      "id" : "2026-08-07-bf11af97c92a",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The planned measures could make Suno-generated music easier to identify and limit the spread of spammy AI tracks.",
-        "What changed: Suno outlined plans for new watermarking technology and changes to its download policy.",
-        "What to watch: Watch for implementation details and evidence that the measures improve identification and reduce spam."
+        "Why it matters: Identifying Suno-generated music could improve transparency around the origin of AI tracks.",
+        "What changed: Suno outlined plans to introduce watermarking technology and a policy governing downloads.",
+        "What to watch: Watch for implementation details and evidence that the measures reduce the spread of spammy AI tracks."
       ],
       "sources" : [
         {
@@ -298,8 +253,8 @@
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976289\/suno-ai-music-spam-watermark"
         }
       ],
-      "summary" : "Suno announced plans to introduce watermarking technology and a new download policy to limit spammy AI tracks and improve transparency. The company says the measures align with emerging industry standards for identifying Suno-generated content.",
-      "title" : "Suno plans watermarking and download-policy changes for AI music",
+      "summary" : "Identifying Suno-generated music could improve transparency around the origin of AI tracks.",
+      "title" : "Suno plans watermarking and download policy to curb spammy AI music",
       "topics" : [
         "Audio & Speech",
         "Safety",
@@ -309,12 +264,12 @@
     {
       "confidence" : "medium",
       "created_at" : "2026-08-06T19:04:57Z",
-      "id" : "2026-08-07-8365e2e63904",
+      "id" : "2026-08-07-f16c61cc9b22",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The work shows that genome models can produce complete viral genomes rather than only DNA sequences encoding functional proteins.",
-        "What changed: Large genome models previously shown to generate protein-encoding DNA and mimic complex-cell gene structures were used to create bacteria-infecting viruses.",
-        "What to watch: Further research should clarify whether such models remain limited to generating close relatives of existing viruses."
+        "Why it matters: The work demonstrates that genome models can generate complete viral genomes, extending beyond their previously described production of DNA sequences encoding functional bacterial proteins.",
+        "What changed: Large genome models were used to create genomes for bacteria-infecting viruses related to an existing virus.",
+        "What to watch: Further work will need to clarify how broadly these models can generate functional viral genomes beyond close relatives of existing viruses."
       ],
       "sources" : [
         {
@@ -323,12 +278,37 @@
           "url" : "https:\/\/arstechnica.com\/science\/2026\/08\/large-genome-models-used-to-design-new-viruses\/"
         }
       ],
-      "summary" : "The work shows that genome models can produce complete viral genomes rather than only DNA sequences encoding functional proteins.",
-      "title" : "Large genome models generate genomes for bacteria-infecting viruses",
+      "summary" : "Researchers used large genome models to generate genomes for viruses that infect bacteria. The resulting viruses were closely related to an existing virus.",
+      "title" : "Large genome models designed new bacteria-infecting viruses",
       "topics" : [
         "Research",
-        "Safety",
-        "Science & Medicine"
+        "Safety"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-08-06T17:00:37Z",
+      "id" : "2026-08-07-aabcf3677f7b",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: The funding supports an effort to extend AI-driven automation from software creation into broader company operations.",
+        "What changed: Naïve secured $28.5 million to develop its business setup and operations automation infrastructure.",
+        "What to watch: Watch for evidence showing which business processes the system can reliably automate in practice."
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company\/"
+        }
+      ],
+      "summary" : "Naïve raised $28.5 million for infrastructure it claims can automate most of the work involved in setting up and running a business.",
+      "title" : "Naïve raises $28.5 million to automate business setup and operations",
+      "topics" : [
+        "Funding & M&A",
+        "Agents",
+        "Enterprise",
+        "Naïve"
       ]
     },
     {
@@ -337,8 +317,8 @@
       "id" : "2026-08-07-082f9ceea9d8",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The agreement gives Mirendil additional compute infrastructure for research intended to accelerate scientific discovery and AI development.",
-        "What changed: Mirendil committed to a Google Cloud partnership worth more than $100 million.",
+        "Why it matters: The agreement gives Mirendil additional computing infrastructure for research intended to support scientific discovery and AI development.",
+        "What changed: Mirendil committed to a Google Cloud partnership valued at more than $100 million.",
         "What to watch: Watch whether the expanded infrastructure produces concrete research results in self-improving AI systems."
       ],
       "sources" : [
@@ -348,7 +328,7 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai\/"
         }
       ],
-      "summary" : "Mirendil signed a Google Cloud partnership valued at more than $100 million to expand its compute infrastructure for research into self-improving AI systems.",
+      "summary" : "The agreement gives Mirendil additional computing infrastructure for research intended to support scientific discovery and AI development.",
       "title" : "Mirendil signs Google Cloud deal worth more than $100 million",
       "topics" : [
         "Research",
@@ -360,12 +340,12 @@
     {
       "confidence" : "medium",
       "created_at" : "2026-08-06T12:30:00Z",
-      "id" : "2026-08-07-7637de36b775",
+      "id" : "2026-08-07-becb4e4682a0",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The features make Google Maps capable of helping users complete tasks directly, rather than only finding places and routes.",
-        "What changed: Google Maps gained agentic capabilities for food ordering and hotel bookings.",
-        "What to watch: It remains to be seen how broadly these features will be available and what other tasks Google may add."
+        "Why it matters: The features broaden Google Maps from providing directions toward assisting with real-world transactions.",
+        "What changed: Google Maps gained capabilities for food ordering and hotel bookings.",
+        "What to watch: Watch for further details about availability and how the new booking and ordering features work."
       ],
       "sources" : [
         {
@@ -374,51 +354,77 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings\/"
         }
       ],
-      "summary" : "Google added agentic features to Maps that can help users order food and book hotels. The launch expands Maps beyond navigation into completing real-world tasks.",
-      "title" : "Google Maps adds food ordering and hotel booking features",
+      "summary" : "Google added agentic features to Maps that can help users order food and book hotels. TechCrunch reports that the changes are intended to expand Maps beyond navigation into completing real-world tasks.",
+      "title" : "Google Maps adds agentic food-ordering and hotel-booking features",
       "topics" : [
-        "Agents",
         "Consumer Apps",
+        "Agents",
         "Google Maps"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-08-04T12:00:26Z",
+      "id" : "2026-08-07-183995cf5c23",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: Shieldstral offers an open-weights option for multimodal safety classification in a relatively small model.",
+        "What changed: Mistral AI released a 3B multimodal safety classifier and reported performance above models up to seven times larger.",
+        "What to watch: Watch for independent evaluations of Mistral AI's performance claim."
+      ],
+      "sources" : [
+        {
+          "source_name" : "Mistral AI",
+          "title" : "Introducing Shieldstral.",
+          "url" : "https:\/\/mistral.ai\/news\/shieldstral\/"
+        }
+      ],
+      "summary" : "Shieldstral offers an open-weights option for multimodal safety classification in a relatively small model.",
+      "title" : "Mistral AI introduces Shieldstral, a 3B open-weights multimodal safety classifier",
+      "topics" : [
+        "Safety",
+        "Models & Releases",
+        "Open Source",
+        "Shieldstral"
       ]
     }
   ],
   "count" : 12,
   "date" : "2026-08-07",
-  "generated_at" : "2026-08-07T04:00:03Z",
+  "generated_at" : "2026-08-07T06:00:03Z",
   "processing_report" : {
-    "generated_at" : "2026-08-07T04:00:08Z",
+    "generated_at" : "2026-08-07T06:00:08Z",
     "high_card_count" : 2,
     "source_reports" : [
       {
-        "article_count" : 10,
+        "article_count" : 8,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-08-03T13:44:58Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-08-07T04:00:08Z",
+        "processed_at" : "2026-08-07T06:00:08Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-08-07T04:00:07Z",
+        "processed_at" : "2026-08-07T06:00:08Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "ai-news",
-        "latest_article_at" : "2026-08-05T05:44:39Z",
+        "latest_article_at" : "2026-08-06T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-08-07T04:00:04Z",
+        "processed_at" : "2026-08-07T06:00:04Z",
         "state" : "processed"
       },
       {
-        "article_count" : 5,
+        "article_count" : 4,
         "id" : "aireport-nl",
-        "latest_article_at" : "2026-08-06T10:00:00Z",
+        "latest_article_at" : "2026-07-30T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-08-07T04:00:05Z",
+        "processed_at" : "2026-08-07T06:00:06Z",
         "state" : "processed"
       },
       {
@@ -426,7 +432,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-08-06T19:04:57Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-08-07T04:00:04Z",
+        "processed_at" : "2026-08-07T06:00:04Z",
         "state" : "processed"
       },
       {
@@ -434,7 +440,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-08-04T13:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-08-07T04:00:03Z",
+        "processed_at" : "2026-08-07T06:00:03Z",
         "state" : "processed"
       },
       {
@@ -442,7 +448,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-08-06T15:06:15Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-08-07T04:00:04Z",
+        "processed_at" : "2026-08-07T06:00:03Z",
         "state" : "processed"
       },
       {
@@ -450,15 +456,15 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-08-06T00:00:00Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-08-07T04:00:04Z",
+        "processed_at" : "2026-08-07T06:00:03Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "latent-space",
-        "latest_article_at" : "2026-08-06T04:34:11Z",
+        "latest_article_at" : "2026-08-07T05:13:46Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-08-07T04:00:05Z",
+        "processed_at" : "2026-08-07T06:00:05Z",
         "state" : "processed"
       },
       {
@@ -466,7 +472,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-07-28T16:00:10Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-08-07T04:00:03Z",
+        "processed_at" : "2026-08-07T06:00:03Z",
         "state" : "processed"
       },
       {
@@ -474,7 +480,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-08-04T12:00:26Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-08-07T04:00:04Z",
+        "processed_at" : "2026-08-07T06:00:03Z",
         "state" : "processed"
       },
       {
@@ -482,7 +488,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-07-23T18:05:24Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-08-07T04:00:04Z",
+        "processed_at" : "2026-08-07T06:00:03Z",
         "state" : "processed"
       },
       {
@@ -490,15 +496,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-08-06T10:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-08-07T04:00:03Z",
+        "processed_at" : "2026-08-07T06:00:03Z",
         "state" : "processed"
       },
       {
-        "article_count" : 6,
+        "article_count" : 5,
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-08-05T11:01:53Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-08-07T04:00:05Z",
+        "processed_at" : "2026-08-07T06:00:06Z",
         "state" : "processed"
       },
       {
@@ -506,7 +512,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-08-06T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-08-07T04:00:04Z",
+        "processed_at" : "2026-08-07T06:00:03Z",
         "state" : "processed"
       },
       {
@@ -514,15 +520,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-08-06T22:43:53Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-08-07T04:00:03Z",
+        "processed_at" : "2026-08-07T06:00:03Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 10,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-08-06T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-08-07T04:00:08Z",
+        "processed_at" : "2026-08-07T06:00:08Z",
         "state" : "processed"
       },
       {
@@ -530,14 +536,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-08-05T14:13:12Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-08-07T04:00:04Z",
+        "processed_at" : "2026-08-07T06:00:03Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 10,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-08-07T04:00:05Z",
+        "processed_at" : "2026-08-07T06:00:07Z",
         "state" : "processed"
       },
       {
@@ -545,7 +551,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-08-06T20:55:39Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-08-07T04:00:03Z",
+        "processed_at" : "2026-08-07T06:00:03Z",
         "state" : "processed"
       }
     ],
