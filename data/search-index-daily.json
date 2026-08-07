@@ -3,7 +3,7 @@
     {
       "confidence" : "high",
       "date" : "2026-08-07",
-      "id" : "2026-08-07-89efd2a6d6c6",
+      "id" : "2026-08-07-c9774bd9cd6d",
       "importance" : "high",
       "sources" : [
         {
@@ -18,8 +18,8 @@
         },
         {
           "source_name" : "The Verge AI",
-          "title" : "The messy politics behind Google’s big AI shakeup",
-          "url" : "https:\/\/www.theverge.com\/tech\/976108\/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind"
+          "title" : "What’s behind the Google AI shake-up",
+          "url" : "https:\/\/www.theverge.com\/podcast\/976784\/google-deepmind-ai-race-vergecast"
         },
         {
           "source_name" : "Latent Space",
@@ -42,8 +42,8 @@
           "url" : "https:\/\/news.smol.ai\/issues\/26-08-05-gdm-reset\/"
         }
       ],
-      "summary" : "The reorganization changes leadership and removes several prominent researchers from one of the industry’s most influential AI laboratories.",
-      "title" : "Google restructures AI leadership as senior DeepMind researchers form Discovery Loop",
+      "summary" : "Google reorganized its AI leadership, moving Demis Hassabis into Alphabet’s chief scientist role and assigning DeepMind operations to Koray Kavukcuoglu. Multiple senior researchers, including Jeff Dean, are leaving to establish the research startup Discovery Loop.",
+      "title" : "Google reshuffles AI leadership as senior DeepMind researchers leave",
       "topics" : [
         "Research",
         "Enterprise",
@@ -51,9 +51,54 @@
       ]
     },
     {
+      "confidence" : "medium",
+      "date" : "2026-08-07",
+      "id" : "2026-08-07-455797bff193",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "AMD buys Taalas",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-amd-buys-taalas"
+        }
+      ],
+      "summary" : "AMD has acquired custom AI chip company Taalas, according to Latent Space. No transaction terms or integration details were provided.",
+      "title" : "AMD acquires Taalas",
+      "topics" : [
+        "Funding & M&A",
+        "Compute & Chips",
+        "AMD"
+      ]
+    },
+    {
       "confidence" : "high",
       "date" : "2026-08-07",
-      "id" : "2026-08-07-4725c05680b8",
+      "id" : "2026-08-07-d4431775e04f",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "OpenAI says Apple’s own security practices undermine its trade secrets case",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case\/"
+        },
+        {
+          "source_name" : "The Verge AI",
+          "title" : "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
+          "url" : "https:\/\/www.theverge.com\/tech\/976042\/openai-apple-trade-secrets-lawsuit-dismissal-request"
+        }
+      ],
+      "summary" : "The motion challenges whether Apple’s information legally qualifies as protected trade secrets and whether Apple took reasonable steps to secure it.",
+      "title" : "OpenAI asks judge to dismiss Apple’s trade secrets lawsuit",
+      "topics" : [
+        "Policy & Regulation",
+        "Security",
+        "OpenAI"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-08-07",
+      "id" : "2026-08-07-1fddefbc69d0",
       "importance" : "medium",
       "sources" : [
         {
@@ -82,20 +127,26 @@
           "url" : "https:\/\/openai.com\/index\/improving-gpt-5-6-sol-in-chatgpt"
         }
       ],
-      "summary" : "OpenAI improved GPT-5.6 Sol in ChatGPT for greater accuracy and consistency and is expanding GPT-5.6 Luna access. Free and Go users are set to receive unlimited text chats and a Think button for harder questions.",
-      "title" : "OpenAI improves GPT-5.6 Sol and expands free access to GPT-5.6 Luna",
+      "summary" : "Removing text-chat limits gives free and Go users broader access to ChatGPT while adding an explicit option for higher reasoning.",
+      "title" : "OpenAI improves GPT-5.6 Sol and expands free access to GPT-5.6 Luna in ChatGPT",
       "topics" : [
         "Models & Releases",
         "Consumer Apps",
+        "Pricing",
         "ChatGPT"
       ]
     },
     {
       "confidence" : "high",
       "date" : "2026-08-07",
-      "id" : "2026-08-07-c21416eb841c",
+      "id" : "2026-08-07-889b45aef917",
       "importance" : "medium",
       "sources" : [
+        {
+          "source_name" : "Ars Technica AI",
+          "title" : "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+          "url" : "https:\/\/arstechnica.com\/gadgets\/2026\/08\/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive\/"
+        },
         {
           "source_name" : "TechCrunch AI",
           "title" : "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
@@ -107,12 +158,58 @@
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976431\/openai-chatgpt-battery-smart-speaker-rumor"
         }
       ],
-      "summary" : "The device would extend OpenAI into dedicated consumer hardware rather than limiting its products to software.",
-      "title" : "OpenAI and Jony Ive reportedly plan a $300–$400 screenless smart speaker",
+      "summary" : "OpenAI is reportedly developing a battery-powered, display-free smart speaker with former Apple designer Jony Ive. Reports indicate a possible 2027 launch and a price between $300 and $400.",
+      "title" : "OpenAI and Jony Ive reportedly plan a puck-sized smart speaker priced above $300",
       "topics" : [
         "Hardware",
         "Consumer Apps",
+        "Audio & Speech",
         "OpenAI"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-08-07",
+      "id" : "2026-08-07-e6e953dcc76f",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "The Neuron Daily",
+          "title" : "AI made viruses. Agents made a backroom chat.",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/ai-made-viruses-agents-made-a-backroom-chat"
+        },
+        {
+          "source_name" : "Ars Technica AI",
+          "title" : "Large genome models used to design new viruses",
+          "url" : "https:\/\/arstechnica.com\/science\/2026\/08\/large-genome-models-used-to-design-new-viruses\/"
+        }
+      ],
+      "summary" : "The work shows that genome-generating AI can produce biological designs that become viable viruses in laboratory conditions.",
+      "title" : "Large genome models used to design viable bacteria-infecting viruses",
+      "topics" : [
+        "Research",
+        "Safety"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-08-07",
+      "id" : "2026-08-07-0dc4becc72c4",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Responding to the next frontier of critical cyber capabilities",
+          "url" : "https:\/\/openai.com\/index\/responding-next-frontier-critical-cyber-capabilities"
+        }
+      ],
+      "summary" : "The evaluations provide an early view of Astra's critical cyber capabilities and OpenAI's approach to managing associated risks.",
+      "title" : "OpenAI shares preliminary cybersecurity evaluations for Astra",
+      "topics" : [
+        "Security",
+        "Safety",
+        "Benchmarks",
+        "Astra"
       ]
     },
     {
@@ -127,7 +224,7 @@
           "url" : "https:\/\/openai.com\/index\/hsp-gruppe"
         }
       ],
-      "summary" : "The deployment shows how an advisory firm is building AI capabilities around professional tax and client-service workflows.",
+      "summary" : "The case shows how a tax advisory firm is applying enterprise AI to professional services work.",
       "title" : "HSP GRUPPE adopts ChatGPT Enterprise for tax advisory work",
       "topics" : [
         "Enterprise",
@@ -137,47 +234,27 @@
     {
       "confidence" : "medium",
       "date" : "2026-08-07",
-      "id" : "2026-08-07-ebe2575b9e86",
+      "id" : "2026-08-07-5d2fe85b31b6",
       "importance" : "medium",
       "sources" : [
         {
-          "source_name" : "The Verge AI",
-          "title" : "Suno shares plans to combat spammy AI music",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976289\/suno-ai-music-spam-watermark"
+          "source_name" : "TechCrunch AI",
+          "title" : "Cloudflare launches Kitesurf, a browser built for AI agents",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/07\/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents\/"
         }
       ],
-      "summary" : "Suno announced plans for new watermarking technology and a download policy intended to limit spammy AI tracks and improve transparency.",
-      "title" : "Suno plans watermarking and download policy changes for AI-generated music",
+      "summary" : "Lower compute requirements could help developers run browser-based AI agents more efficiently.",
+      "title" : "Cloudflare launches Kitesurf browser for AI agents",
       "topics" : [
-        "Audio & Speech",
-        "Safety",
-        "Suno"
+        "Agents",
+        "Infrastructure",
+        "Kitesurf"
       ]
     },
     {
       "confidence" : "medium",
       "date" : "2026-08-07",
-      "id" : "2026-08-07-8365e2e63904",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "Ars Technica AI",
-          "title" : "Large genome models used to design new viruses",
-          "url" : "https:\/\/arstechnica.com\/science\/2026\/08\/large-genome-models-used-to-design-new-viruses\/"
-        }
-      ],
-      "summary" : "The work demonstrates that genome models can generate complete viral genomes rather than only DNA sequences encoding functional proteins.",
-      "title" : "Large genome models generate genomes for bacteria-infecting viruses",
-      "topics" : [
-        "Research",
-        "Science & Medicine",
-        "Models & Releases"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-08-07",
-      "id" : "2026-08-07-84a07145f381",
+      "id" : "2026-08-07-6ab562bae28f",
       "importance" : "medium",
       "sources" : [
         {
@@ -186,119 +263,55 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/07\/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function\/"
         }
       ],
-      "summary" : "The search test shows Airbnb applying AI to a core user-facing product experience.",
-      "title" : "Airbnb to debut AI-powered search experience with a toggle",
+      "summary" : "The test shows Airbnb applying AI to both its customer search experience and product-development process.",
+      "title" : "Airbnb tests AI-powered search with a toggle",
       "topics" : [
         "Consumer Apps",
+        "Agents",
         "Airbnb"
       ]
     },
     {
       "confidence" : "medium",
       "date" : "2026-08-07",
-      "id" : "2026-08-07-aabcf3677f7b",
+      "id" : "2026-08-07-752f36c131fc",
       "importance" : "medium",
       "sources" : [
         {
-          "source_name" : "TechCrunch AI",
-          "title" : "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company\/"
+          "source_name" : "Superhuman AI",
+          "title" : "Former OpenAI researcher launches desktop agent",
+          "url" : "https:\/\/www.superhuman.ai\/p\/former-openai-researcher-launches-desktop-agent"
         }
       ],
-      "summary" : "Naïve raised $28.5 million for infrastructure it claims can automate most of the work involved in setting up and running a company.",
-      "title" : "Naïve raises $28.5 million to automate business setup and operations",
+      "summary" : "The launch adds another product to the emerging desktop-agent category.",
+      "title" : "Former OpenAI researcher launches desktop agent",
       "topics" : [
-        "Funding & M&A",
-        "Agents",
-        "Enterprise",
-        "Naïve"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-08-07",
-      "id" : "2026-08-07-455797bff193",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "AMD buys Taalas",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-amd-buys-taalas"
-        }
-      ],
-      "summary" : "AMD has acquired Taalas, according to Latent Space. No financial terms or integration plans were provided in the supplied material.",
-      "title" : "AMD acquires Taalas",
-      "topics" : [
-        "Funding & M&A",
-        "Compute & Chips",
-        "AMD"
+        "Agents"
       ]
     },
     {
       "confidence" : "high",
       "date" : "2026-08-07",
-      "id" : "2026-08-07-d22dcd4faed4",
+      "id" : "2026-08-07-a0d9ba38171b",
       "importance" : "medium",
       "sources" : [
         {
-          "source_name" : "TechCrunch AI",
-          "title" : "OpenAI says Apple’s own security practices undermine its trade secrets case",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case\/"
+          "source_name" : "The AI Report",
+          "title" : "️ Meta launches AI coding agent",
+          "url" : "https:\/\/newsletter.theaireport.ai\/p\/meta-launches-ai-coding-agent"
         },
         {
-          "source_name" : "The Verge AI",
-          "title" : "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
-          "url" : "https:\/\/www.theverge.com\/tech\/976042\/openai-apple-trade-secrets-lawsuit-dismissal-request"
-        }
-      ],
-      "summary" : "The case could clarify how trade secret protections apply when employees move between major technology companies.",
-      "title" : "OpenAI asks judge to dismiss Apple trade secrets lawsuit",
-      "topics" : [
-        "Policy & Regulation",
-        "Enterprise",
-        "OpenAI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-08-07",
-      "id" : "2026-08-07-07137bdb4ead",
-      "importance" : "medium",
-      "sources" : [
-        {
           "source_name" : "TechCrunch AI",
-          "title" : "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai\/"
+          "title" : "Meta launches Muse Code, an AI agent for large code bases",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/05\/meta-launches-muse-code-an-ai-agent-for-large-code-bases\/"
         }
       ],
-      "summary" : "The agreement gives Mirendil additional computing infrastructure for research aimed at accelerating scientific discovery and AI development.",
-      "title" : "Mirendil signs $100 million-plus Google Cloud partnership",
-      "topics" : [
-        "Infrastructure",
-        "Research",
-        "Compute & Chips",
-        "Mirendil"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-08-07",
-      "id" : "2026-08-07-becb4e4682a0",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Google Maps adds agentic features, including food ordering and hotel bookings",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings\/"
-        }
-      ],
-      "summary" : "Google added agentic features to Google Maps that help users order food and book hotels.",
-      "title" : "Google Maps adds agentic food-ordering and hotel-booking features",
+      "summary" : "Muse Code expands Meta’s AI coding offerings toward complex work in large software projects.",
+      "title" : "Meta launches Muse Code AI agent for large codebases",
       "topics" : [
         "Agents",
-        "Consumer Apps",
-        "APIs & Tooling",
-        "Google Maps"
+        "Coding",
+        "Muse Code"
       ]
     },
     {
