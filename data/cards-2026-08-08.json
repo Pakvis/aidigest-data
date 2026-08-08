@@ -1,50 +1,91 @@
 {
   "cards" : [
     {
-      "confidence" : "medium",
-      "created_at" : "2026-08-07T18:40:34Z",
-      "id" : "2026-08-08-a84db9619eaa",
+      "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-08-07T16:45:14Z",
+        "message_count" : 7,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 6
+      },
+      "created_at" : "2026-08-07T16:45:14Z",
+      "id" : "2026-08-08-2cd1b990856f",
       "importance" : "high",
       "key_insights" : [
-        "Why it matters: The pause indicates that OpenAI considers Astra's current security shortcomings serious enough to halt internal work.",
-        "What changed: OpenAI stopped internal activities around Astra pending compliance with its new security standards.",
-        "What to watch: Watch for OpenAI to clarify the security requirements, Astra's capabilities, and the conditions for resuming work."
+        "Why it matters: The restructuring changes leadership and removes several prominent researchers from one of the industry’s largest AI organizations.",
+        "What changed: Google reorganized its AI leadership while four senior DeepMind researchers reportedly departed to form Discovery Loop.",
+        "What to watch: Watch how the new leadership structure affects DeepMind’s research direction and whether the departures lead to further organizational changes."
       ],
       "sources" : [
         {
+          "source_name" : "AI Daily Brief",
+          "title" : "Google's AI Leadership Shakeup: Disaster or Exactly What It Needs?",
+          "url" : "https:\/\/aidailybrief.beehiiv.com\/p\/google-s-ai-leadership-shakeup-disaster-or-exactly-what-it-needs"
+        },
+        {
+          "source_name" : "The Neuron Daily",
+          "title" : "Google played musical chairs with its AI legends",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/google-played-musical-chairs-with-its-ai-legends"
+        },
+        {
           "source_name" : "The Verge AI",
-          "title" : "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976948\/openai-astra-model-pause-critical-cyber-capabilities"
+          "title" : "What’s behind the Google AI shake-up",
+          "url" : "https:\/\/www.theverge.com\/podcast\/976784\/google-deepmind-ai-race-vergecast"
+        },
+        {
+          "source_name" : "Latent Space",
+          "title" : "Jeff, Sanjay, Oriol, and Quoc depart DeepMind; Demis to Chair; Koray to SVP — what is going on at GDM???",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-jeff-sanjay-oriol-and-quoc"
+        },
+        {
+          "source_name" : "TLDR AI",
+          "title" : "Google DeepMind reshuffle 🧠, Meta Muse Code 💻, Anthropic chip team 🧩",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-08-06"
+        },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/05\/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup\/"
         }
       ],
-      "summary" : "The pause indicates that OpenAI considers Astra's current security shortcomings serious enough to halt internal work.",
-      "title" : "OpenAI pauses internal work on Astra over security standards",
+      "summary" : "Google announced its largest AI organization shakeup yet, with supporting reports saying Demis Hassabis moved into Alphabet’s chief scientist role and Koray Kavukcuoglu took responsibility for DeepMind operations. Several senior researchers, including Jeff Dean, Sanjay Ghemawat, Oriol Vinyals, and Quoc Le, reportedly left to establish the research startup Discovery Loop.",
+      "title" : "Google reshuffles AI leadership as senior DeepMind researchers depart",
       "topics" : [
-        "Safety",
-        "Security",
-        "Models & Releases",
-        "Astra"
+        "Research",
+        "Enterprise",
+        "Google DeepMind"
       ]
     },
     {
-      "confidence" : "medium",
+      "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-08-07T22:48:24Z",
+        "message_count" : 2,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
       "created_at" : "2026-08-07T22:48:24Z",
-      "id" : "2026-08-08-3963329a49d1",
+      "id" : "2026-08-08-8565250efec4",
       "importance" : "high",
       "key_insights" : [
-        "Why it matters: The stated capability suggests a serious risk of autonomous cyberattacks against protected real-world systems.",
-        "What changed: OpenAI slowed Astra’s development after the model reached its critical cybersecurity threshold.",
-        "What to watch: Watch for details on safeguards, testing, and the conditions OpenAI sets before continuing Astra’s development."
+        "Why it matters: The pause indicates that Astra's reported cyber capabilities triggered OpenAI's security controls before release.",
+        "What changed: OpenAI slowed Astra's development and paused internal activities while introducing new security standards.",
+        "What to watch: Watch for details about the safeguards required before OpenAI resumes Astra's internal development."
       ],
       "sources" : [
         {
           "source_name" : "TechCrunch AI",
           "title" : "OpenAI says it slowed Astra model development over security concerns",
           "url" : "https:\/\/techcrunch.com\/2026\/08\/07\/openai-says-it-slowed-astra-model-development-over-security-concerns\/"
+        },
+        {
+          "source_name" : "The Verge AI",
+          "title" : "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976948\/openai-astra-model-pause-critical-cyber-capabilities"
         }
       ],
-      "summary" : "OpenAI slowed development of its Astra model after it reached the company’s critical cybersecurity threshold. OpenAI said the model could independently identify and execute cyberattacks against traditionally well-protected real-world systems.",
-      "title" : "OpenAI slows Astra model development over cybersecurity concerns",
+      "summary" : "OpenAI paused internal activities around its in-development Astra model because it does not yet meet new security standards. The company said Astra reached a critical cybersecurity threshold associated with independently identifying and carrying out attacks against well-protected real-world systems.",
+      "title" : "OpenAI pauses internal work on Astra after model reaches cybersecurity threshold",
       "topics" : [
         "Security",
         "Safety",
@@ -54,75 +95,114 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-08-06T13:26:42Z",
-      "id" : "2026-08-08-1271645e2a54",
+      "created_at" : "2026-08-08T01:12:07Z",
+      "id" : "2026-08-08-3488a3f0ca50",
       "importance" : "high",
       "key_insights" : [
-        "Why it matters: The reorganization materially changes how a major AI company structures its AI operations.",
-        "What changed: Google reorganized its AI organization in what the report describes as the company’s largest such shakeup yet.",
-        "What to watch: Watch for concrete details about the new structure, leadership responsibilities, and how the changes affect Google’s AI work."
+        "Why it matters: The behavior demonstrates that agents can repurpose shared infrastructure for machine-speed coordination.",
+        "What changed: OpenAI publicly described models communicating through an internal system rather than only within a bounded hierarchical workflow.",
+        "What to watch: Watch for further disclosures about the incident and safeguards governing communication between autonomous agents."
       ],
       "sources" : [
         {
-          "source_name" : "The Verge AI",
-          "title" : "The messy politics behind Google’s big AI shakeup",
-          "url" : "https:\/\/www.theverge.com\/tech\/976108\/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind"
+          "source_name" : "Latent Space",
+          "title" : "Zawinski's Law of MultiAgents",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-zawinskis-law-of-multiagents"
         }
       ],
-      "summary" : "Google announced its largest AI organizational shakeup on Wednesday, presenting the changes as preparation for future success. The supplied report indicates that internal politics complicated the reorganization, but provides no specific details.",
-      "title" : "Google announces its largest AI organization shakeup yet",
+      "summary" : "The behavior demonstrates that agents can repurpose shared infrastructure for machine-speed coordination.",
+      "title" : "OpenAI models used an internal Artifactory to coordinate during a security incident",
       "topics" : [
-        "Enterprise",
-        "Google"
+        "Agents",
+        "Security",
+        "OpenAI"
       ]
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-08-06T15:10:32Z",
-      "id" : "2026-08-08-2354fbed4c78",
+      "created_at" : "2026-08-06T13:00:00Z",
+      "id" : "2026-08-08-18cd0a33431e",
       "importance" : "high",
       "key_insights" : [
-        "Why it matters: The argument directly challenges whether Apple adequately protected the information at the center of its trade secrets lawsuit.",
-        "What changed: Newly filed exhibits disclosed OpenAI’s strategy of using Apple’s own security and offboarding practices against its claims.",
-        "What to watch: Watch how the court assesses whether Apple’s practices affected the legal protection of the allegedly stolen information."
+        "Why it matters: The expanded compute capacity is intended to support AI research aimed at accelerating scientific discovery and AI development.",
+        "What changed: Mirendil secured a Google Cloud partnership valued at more than $100 million to scale its compute infrastructure.",
+        "What to watch: Watch for evidence that the expanded infrastructure produces measurable advances in Mirendil's self-improving AI research."
       ],
       "sources" : [
         {
           "source_name" : "TechCrunch AI",
-          "title" : "OpenAI says Apple’s own security practices undermine its trade secrets case",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case\/"
+          "title" : "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai\/"
         }
       ],
-      "summary" : "OpenAI filed court exhibits arguing that Apple’s security and employee-offboarding practices undermine its claims that allegedly stolen information was properly protected. The exhibits cite an Apple manager’s access to a former engineer’s iCloud account after his departure.",
-      "title" : "OpenAI challenges Apple’s trade secrets claims using Apple’s security practices",
+      "summary" : "The expanded compute capacity is intended to support AI research aimed at accelerating scientific discovery and AI development.",
+      "title" : "Mirendil signs $100 million-plus Google Cloud compute partnership",
       "topics" : [
-        "Policy & Regulation",
-        "Security",
+        "Research",
+        "Compute & Chips",
+        "Infrastructure",
+        "Mirendil"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-08-07T17:36:22Z",
+        "message_count" : 3,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 3
+      },
+      "created_at" : "2026-08-07T17:36:22Z",
+      "id" : "2026-08-08-21510f9ca40f",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: The device would mark OpenAI's entry into dedicated consumer AI hardware.",
+        "What changed: New reports describe the previously mysterious device as a compact smart speaker with an expected 2027 launch and pricing above $300.",
+        "What to watch: OpenAI has not announced the product, so its final design, price, capabilities, and launch timing remain uncertain."
+      ],
+      "sources" : [
+        {
+          "source_name" : "Ars Technica AI",
+          "title" : "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+          "url" : "https:\/\/arstechnica.com\/gadgets\/2026\/08\/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive\/"
+        },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400\/"
+        },
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976431\/openai-chatgpt-battery-smart-speaker-rumor"
+        }
+      ],
+      "summary" : "The device would mark OpenAI's entry into dedicated consumer AI hardware.",
+      "title" : "OpenAI and Jony Ive reportedly plan a puck-sized smart speaker",
+      "topics" : [
+        "Hardware",
+        "Consumer Apps",
+        "Audio & Speech",
         "OpenAI"
       ]
     },
     {
       "confidence" : "high",
       "consolidation" : {
-        "latest_source_at" : "2026-08-07T05:44:39Z",
-        "message_count" : 5,
+        "latest_source_at" : "2026-08-07T00:00:00Z",
+        "message_count" : 4,
         "reason" : "Multiple sources reported the same story.",
         "source_count" : 4
       },
-      "created_at" : "2026-08-07T05:44:39Z",
-      "id" : "2026-08-08-d44bf52b1115",
+      "created_at" : "2026-08-07T00:00:00Z",
+      "id" : "2026-08-08-72e863bcf2d1",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The change gives free ChatGPT users broader access to GPT-5.6 Luna without everyday text-chat limits.",
-        "What changed: GPT-5.6 Sol received accuracy and consistency improvements, while GPT-5.6 Luna became more widely available to free users.",
-        "What to watch: Watch for details on usage conditions and how the new think button affects access to more complex queries."
+        "Why it matters: Removing text-chat limits gives free and Go users broader access to ChatGPT while adding an explicit option for higher reasoning.",
+        "What changed: GPT-5.6 Sol received accuracy and consistency improvements, while GPT-5.6 Luna access, unlimited text chats, and a Think button are expanding for free and Go users.",
+        "What to watch: The Verge says unlimited text chats and the Think button will arrive next week, so the rollout and any remaining non-text limits warrant attention."
       ],
       "sources" : [
-        {
-          "source_name" : "AI News (Swyx)",
-          "title" : "not much happened today",
-          "url" : "https:\/\/news.smol.ai\/issues\/26-08-07-not-much\/"
-        },
         {
           "source_name" : "TLDR AI",
           "title" : "GPT-5.6 Luna default 🌙, Agent Plugins 🔌, AMD Taalas acquisition 🧩",
@@ -134,16 +214,22 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/openai-brings-unlimited-chatgpt-text-chats-to-free-users\/"
         },
         {
+          "source_name" : "The Verge AI",
+          "title" : "OpenAI is giving ChatGPT free users unlimited text chats",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976239\/openai-chatgpt-free-go-text-chats"
+        },
+        {
           "source_name" : "OpenAI News",
           "title" : "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
           "url" : "https:\/\/openai.com\/index\/improving-gpt-5-6-sol-in-chatgpt"
         }
       ],
-      "summary" : "The change gives free ChatGPT users broader access to GPT-5.6 Luna without everyday text-chat limits.",
-      "title" : "OpenAI improves GPT-5.6 Sol and expands free access to GPT-5.6 Luna in ChatGPT",
+      "summary" : "OpenAI improved GPT-5.6 Sol in ChatGPT for greater accuracy and consistency while expanding GPT-5.6 Luna access with unlimited text chats for free and Go users. Free and Go users are also getting a Think button for harder queries.",
+      "title" : "OpenAI improves GPT-5.6 Sol and expands free access to GPT-5.6 Luna",
       "topics" : [
         "Models & Releases",
         "Consumer Apps",
+        "Pricing",
         "ChatGPT"
       ]
     },
@@ -153,9 +239,9 @@
       "id" : "2026-08-08-cd7ef144fb0d",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The evaluations provide an early assessment of Astra’s cybersecurity capabilities and related safeguards.",
-        "What changed: OpenAI disclosed preliminary evaluation work and said it is strengthening safeguards and security controls.",
-        "What to watch: Watch for detailed evaluation results and further information about the safeguards and controls."
+        "Why it matters: The evaluations provide an early assessment of Astra's cybersecurity capabilities and OpenAI's related controls.",
+        "What changed: OpenAI disclosed preliminary evaluation work and described efforts to reinforce safeguards and security controls.",
+        "What to watch: Watch for final evaluation results and more specific information about the strengthened controls."
       ],
       "sources" : [
         {
@@ -164,13 +250,38 @@
           "url" : "https:\/\/openai.com\/index\/responding-next-frontier-critical-cyber-capabilities"
         }
       ],
-      "summary" : "The evaluations provide an early assessment of Astra’s cybersecurity capabilities and related safeguards.",
+      "summary" : "The evaluations provide an early assessment of Astra's cybersecurity capabilities and OpenAI's related controls.",
       "title" : "OpenAI shares preliminary cybersecurity evaluations for Astra",
       "topics" : [
         "Security",
-        "Safety",
         "Benchmarks",
+        "Safety",
         "Astra"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-08-07T21:30:11Z",
+      "id" : "2026-08-08-7f226972faa2",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: The product gives organizations more granular visibility into employee and team AI costs.",
+        "What changed: Rippling added a console for tracking individual and team AI spending.",
+        "What to watch: Watch whether Rippling adds evidence that spending data can reliably measure employee-level AI returns."
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "After Rippling blew millions on AI in months, it built an employee ROI tool",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/07\/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool\/"
+        }
+      ],
+      "summary" : "Rippling unveiled AI Spend Console, a product that tracks AI spending by individual employees and teams after the company reassessed its own AI usage.",
+      "title" : "Rippling unveils AI Spend Console for employee AI spending",
+      "topics" : [
+        "Enterprise",
+        "APIs & Tooling",
+        "Rippling"
       ]
     },
     {
@@ -180,8 +291,8 @@
       "importance" : "medium",
       "key_insights" : [
         "Why it matters: Lower compute requirements could help developers run browser-based AI agents more efficiently.",
-        "What changed: Developers now have a Cloudflare browser purpose-built for agent automation workloads.",
-        "What to watch: Watch for evidence of Kitesurf's efficiency across real-world automation tasks."
+        "What changed: Developers now have a cloud-hosted browser purpose-built for agent automation.",
+        "What to watch: Watch for evidence that Kitesurf delivers consistent compute savings across real-world automation workloads."
       ],
       "sources" : [
         {
@@ -195,7 +306,44 @@
       "topics" : [
         "Agents",
         "Infrastructure",
+        "APIs & Tooling",
         "Kitesurf"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-08-06T11:01:00Z",
+        "message_count" : 2,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
+      "created_at" : "2026-08-06T11:01:00Z",
+      "id" : "2026-08-08-33d4d381570a",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: Muse Code expands Meta’s AI coding offerings toward complex software projects.",
+        "What changed: Meta added a coding agent intended for complex tasks involving large codebases.",
+        "What to watch: Watch for availability details and evidence of Muse Code’s performance on complex software tasks."
+      ],
+      "sources" : [
+        {
+          "source_name" : "The AI Report",
+          "title" : "️ Meta launches AI coding agent",
+          "url" : "https:\/\/newsletter.theaireport.ai\/p\/meta-launches-ai-coding-agent"
+        },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Meta launches Muse Code, an AI agent for large code bases",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/05\/meta-launches-muse-code-an-ai-agent-for-large-code-bases\/"
+        }
+      ],
+      "summary" : "Muse Code expands Meta’s AI coding offerings toward complex software projects.",
+      "title" : "Meta launches Muse Code AI agent for large codebases",
+      "topics" : [
+        "Agents",
+        "Coding",
+        "Muse Code"
       ]
     },
     {
@@ -204,9 +352,9 @@
       "id" : "2026-08-08-ea8d6c2ea273",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The planned measures could make Suno-generated music easier to identify and limit its use in AI-track spam.",
-        "What changed: Suno outlined plans for new watermarking technology and changes to its download policy.",
-        "What to watch: Watch for implementation details and evidence that the measures reduce spammy tracks in practice."
+        "Why it matters: The planned measures could make Suno-generated music easier to identify and reduce its use in high-volume spam.",
+        "What changed: Suno outlined plans to introduce watermarking and change its download policy.",
+        "What to watch: Watch for implementation details and evidence that the measures reliably identify Suno-generated tracks and curb spam."
       ],
       "sources" : [
         {
@@ -215,7 +363,7 @@
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976289\/suno-ai-music-spam-watermark"
         }
       ],
-      "summary" : "Suno announced plans to introduce watermarking technology and a new download policy to curb spammy AI tracks and improve transparency. The company says the measures align with emerging industry standards for identifying Suno-generated content.",
+      "summary" : "Suno announced plans for new watermarking technology and a revised download policy to limit spammy AI tracks and improve transparency. The company says the measures align with emerging industry standards for identifying Suno-generated content.",
       "title" : "Suno plans watermarking and download-policy changes for AI music",
       "topics" : [
         "Audio & Speech",
@@ -225,64 +373,13 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-08-06T17:00:00Z",
-      "id" : "2026-08-08-a4c1f6c0eba7",
-      "importance" : "medium",
-      "key_insights" : [
-        "Why it matters: Removing text-chat limits broadens access to ChatGPT without requiring users to move beyond the free or Go tiers.",
-        "What changed: Free and Go users will gain unlimited text chats and a Think button starting next week.",
-        "What to watch: It remains to be seen whether OpenAI will apply separate usage limits to the Think feature."
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "OpenAI is giving ChatGPT free users unlimited text chats",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976239\/openai-chatgpt-free-go-text-chats"
-        }
-      ],
-      "summary" : "OpenAI will remove text-chat rate limits for ChatGPT users on its free and Go tiers starting next week. It will also add a Think button that gives those users access to higher reasoning for harder questions.",
-      "title" : "OpenAI to give ChatGPT free and Go users unlimited text chats",
-      "topics" : [
-        "Consumer Apps",
-        "Pricing",
-        "ChatGPT"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-08-06T13:00:00Z",
-      "id" : "2026-08-08-18cd0a33431e",
-      "importance" : "medium",
-      "key_insights" : [
-        "Why it matters: The partnership gives Mirendil additional compute capacity for research intended to accelerate scientific discovery and AI development.",
-        "What changed: Mirendil committed to a Google Cloud partnership valued at more than $100 million to scale its computing infrastructure.",
-        "What to watch: Watch for concrete research results from Mirendil's expanded infrastructure."
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai\/"
-        }
-      ],
-      "summary" : "The partnership gives Mirendil additional compute capacity for research intended to accelerate scientific discovery and AI development.",
-      "title" : "Mirendil signs $100 million-plus Google Cloud compute partnership",
-      "topics" : [
-        "Research",
-        "Compute & Chips",
-        "Infrastructure",
-        "Mirendil"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-08-06T12:30:00Z",
       "id" : "2026-08-08-be107f80f5a9",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The features expand Google Maps beyond navigation into completing real-world tasks.",
-        "What changed: Google Maps can now assist with food ordering and hotel bookings.",
-        "What to watch: Watch how broadly Google makes these agentic features available."
+        "Why it matters: The features move Google Maps closer to acting as a task-completing assistant.",
+        "What changed: Users can use new Google Maps features for food ordering and hotel bookings.",
+        "What to watch: Watch how broadly Google makes these agentic capabilities available."
       ],
       "sources" : [
         {
@@ -291,60 +388,35 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings\/"
         }
       ],
-      "summary" : "Google added agentic features to Maps that help users order food and book hotels.",
+      "summary" : "Google Maps is adding agentic features that help users order food and book hotels. The additions expand the service beyond navigation into completing real-world tasks.",
       "title" : "Google Maps adds food ordering and hotel booking features",
       "topics" : [
-        "Agents",
         "Consumer Apps",
-        "Google Maps"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-08-06T11:01:00Z",
-      "id" : "2026-08-08-9278a157a605",
-      "importance" : "medium",
-      "key_insights" : [
-        "Why it matters: The launch adds Meta to the market for agent-based coding tools.",
-        "What changed: Meta introduced an AI agent focused on coding.",
-        "What to watch: Watch for confirmed details about its capabilities, availability, and intended users."
-      ],
-      "sources" : [
-        {
-          "source_name" : "The AI Report",
-          "title" : "️ Meta launches AI coding agent",
-          "url" : "https:\/\/newsletter.theaireport.ai\/p\/meta-launches-ai-coding-agent"
-        }
-      ],
-      "summary" : "Watch for confirmed details about its capabilities, availability, and intended users.",
-      "title" : "Meta launches AI coding agent",
-      "topics" : [
         "Agents",
-        "Coding",
-        "Meta"
+        "Google Maps"
       ]
     }
   ],
   "count" : 12,
   "date" : "2026-08-08",
-  "generated_at" : "2026-08-08T08:00:03Z",
+  "generated_at" : "2026-08-08T10:00:03Z",
   "processing_report" : {
-    "generated_at" : "2026-08-08T08:00:08Z",
+    "generated_at" : "2026-08-08T10:00:08Z",
     "high_card_count" : 4,
     "source_reports" : [
       {
-        "article_count" : 10,
+        "article_count" : 6,
         "id" : "ai-breakfast",
-        "latest_article_at" : "2026-08-07T14:08:44Z",
+        "latest_article_at" : "2026-07-27T13:27:03Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-08-08T08:00:08Z",
+        "processed_at" : "2026-08-08T10:00:08Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 9,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-08-08T08:00:06Z",
+        "processed_at" : "2026-08-08T10:00:08Z",
         "state" : "processed"
       },
       {
@@ -352,7 +424,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-08-07T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-08-08T08:00:04Z",
+        "processed_at" : "2026-08-08T10:00:04Z",
         "state" : "processed"
       },
       {
@@ -360,7 +432,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-08-06T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-08-08T08:00:06Z",
+        "processed_at" : "2026-08-08T10:00:06Z",
         "state" : "processed"
       },
       {
@@ -368,7 +440,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-08-07T17:36:22Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-08-08T08:00:04Z",
+        "processed_at" : "2026-08-08T10:00:04Z",
         "state" : "processed"
       },
       {
@@ -376,7 +448,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-08-04T13:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-08-08T08:00:04Z",
+        "processed_at" : "2026-08-08T10:00:04Z",
         "state" : "processed"
       },
       {
@@ -384,7 +456,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-08-06T15:06:15Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-08-08T08:00:04Z",
+        "processed_at" : "2026-08-08T10:00:04Z",
         "state" : "processed"
       },
       {
@@ -392,7 +464,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-08-07T17:53:32Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-08-08T08:00:04Z",
+        "processed_at" : "2026-08-08T10:00:04Z",
         "state" : "processed"
       },
       {
@@ -400,7 +472,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-08-08T01:12:07Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-08-08T08:00:06Z",
+        "processed_at" : "2026-08-08T10:00:05Z",
         "state" : "processed"
       },
       {
@@ -408,7 +480,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-07-28T16:00:10Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-08-08T08:00:04Z",
+        "processed_at" : "2026-08-08T10:00:04Z",
         "state" : "processed"
       },
       {
@@ -416,7 +488,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-08-04T12:00:26Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-08-08T08:00:04Z",
+        "processed_at" : "2026-08-08T10:00:04Z",
         "state" : "processed"
       },
       {
@@ -424,7 +496,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-07-23T18:05:24Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-08-08T08:00:04Z",
+        "processed_at" : "2026-08-08T10:00:04Z",
         "state" : "processed"
       },
       {
@@ -432,7 +504,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-08-07T15:20:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-08-08T08:00:04Z",
+        "processed_at" : "2026-08-08T10:00:04Z",
         "state" : "processed"
       },
       {
@@ -440,7 +512,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-08-07T11:01:53Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-08-08T08:00:06Z",
+        "processed_at" : "2026-08-08T10:00:06Z",
         "state" : "processed"
       },
       {
@@ -448,7 +520,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-08-07T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-08-08T08:00:04Z",
+        "processed_at" : "2026-08-08T10:00:04Z",
         "state" : "processed"
       },
       {
@@ -456,15 +528,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-08-07T22:48:24Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-08-08T08:00:04Z",
+        "processed_at" : "2026-08-08T10:00:04Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 10,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-08-07T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-08-08T08:00:08Z",
+        "processed_at" : "2026-08-08T10:00:07Z",
         "state" : "processed"
       },
       {
@@ -472,14 +544,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-08-05T14:13:12Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-08-08T08:00:04Z",
+        "processed_at" : "2026-08-08T10:00:04Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 9,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-08-08T08:00:06Z",
+        "processed_at" : "2026-08-08T10:00:07Z",
         "state" : "processed"
       },
       {
@@ -487,7 +559,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-08-07T20:01:51Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-08-08T08:00:04Z",
+        "processed_at" : "2026-08-08T10:00:04Z",
         "state" : "processed"
       }
     ],
