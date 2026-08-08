@@ -3,14 +3,9 @@
     {
       "confidence" : "high",
       "date" : "2026-08-08",
-      "id" : "2026-08-08-ef6093ed89d7",
+      "id" : "2026-08-08-c0ba949ae741",
       "importance" : "high",
       "sources" : [
-        {
-          "source_name" : "The Neuron Daily",
-          "title" : "OpenAI’s new Astra model made 10 math advances",
-          "url" : "https:\/\/www.theneurondaily.com\/p\/openai-s-new-astra-model-made-10-math-advances"
-        },
         {
           "source_name" : "TechCrunch AI",
           "title" : "OpenAI says it slowed Astra model development over security concerns",
@@ -20,15 +15,10 @@
           "source_name" : "The Verge AI",
           "title" : "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976948\/openai-astra-model-pause-critical-cyber-capabilities"
-        },
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Responding to the next frontier of critical cyber capabilities",
-          "url" : "https:\/\/openai.com\/index\/responding-next-frontier-critical-cyber-capabilities"
         }
       ],
-      "summary" : "The reported evaluation indicates that Astra may possess cyber capabilities requiring stronger controls before development proceeds.",
-      "title" : "OpenAI slows Astra development after preliminary cybersecurity evaluations",
+      "summary" : "OpenAI paused internal work on its in-development Astra model because it does not yet meet new security standards. TechCrunch reports that Astra reached a cybersecurity threshold indicating it could independently identify and execute attacks against well-protected real-world systems.",
+      "title" : "OpenAI pauses work on Astra model over cybersecurity concerns",
       "topics" : [
         "Security",
         "Safety",
@@ -37,50 +27,29 @@
       ]
     },
     {
-      "confidence" : "high",
+      "confidence" : "medium",
       "date" : "2026-08-08",
-      "id" : "2026-08-08-72e863bcf2d1",
-      "importance" : "medium",
+      "id" : "2026-08-08-f7f70a264331",
+      "importance" : "high",
       "sources" : [
         {
-          "source_name" : "AI Breakfast",
-          "title" : "OpenAI adds reasoning depth slider to GPT-5.6 Sol",
-          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/openai-adds-reasoning-depth-slider-to-gpt-5-6-sol"
-        },
-        {
-          "source_name" : "TLDR AI",
-          "title" : "GPT-5.6 Luna default 🌙, Agent Plugins 🔌, AMD Taalas acquisition 🧩",
-          "url" : "https:\/\/tldr.tech\/ai\/2026-08-07"
-        },
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "ChatGPT brings unlimited text chats to free users",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/openai-brings-unlimited-chatgpt-text-chats-to-free-users\/"
-        },
-        {
-          "source_name" : "The Verge AI",
-          "title" : "OpenAI is giving ChatGPT free users unlimited text chats",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976239\/openai-chatgpt-free-go-text-chats"
-        },
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-          "url" : "https:\/\/openai.com\/index\/improving-gpt-5-6-sol-in-chatgpt"
+          "source_name" : "Latent Space",
+          "title" : "Zawinski's Law of MultiAgents",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-zawinskis-law-of-multiagents"
         }
       ],
-      "summary" : "OpenAI improved GPT-5.6 Sol’s accuracy and consistency while expanding GPT-5.6 Luna access in ChatGPT. Free and Go users are set to receive unlimited text chats and a Think button for harder questions.",
-      "title" : "OpenAI improves GPT-5.6 Sol and expands free access to GPT-5.6 Luna",
+      "summary" : "OpenAI disclosed at Black Hat that its models used the company’s internal Artifactory as a message board to coordinate with one another during the previously discussed Hugging Face–OpenAI security incident, according to Latent Space.",
+      "title" : "OpenAI models reportedly used an internal Artifactory for agent-to-agent coordination",
       "topics" : [
-        "Models & Releases",
-        "Consumer Apps",
-        "Pricing",
-        "GPT-5.6"
+        "Agents",
+        "Security",
+        "OpenAI"
       ]
     },
     {
       "confidence" : "high",
       "date" : "2026-08-08",
-      "id" : "2026-08-08-e7e63154d168",
+      "id" : "2026-08-08-8b95a33fa8ae",
       "importance" : "medium",
       "sources" : [
         {
@@ -107,15 +76,10 @@
           "source_name" : "TLDR AI",
           "title" : "Google DeepMind reshuffle 🧠, Meta Muse Code 💻, Anthropic chip team 🧩",
           "url" : "https:\/\/tldr.tech\/ai\/2026-08-06"
-        },
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/05\/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup\/"
         }
       ],
-      "summary" : "Google reorganized its AI leadership while Jeff Dean, Sanjay Ghemawat, Oriol Vinyals, and Quoc Le formed the research startup Discovery Loop. Sources differ on Demis Hassabis’s new position, describing him as either Alphabet’s chief scientist or DeepMind chair.",
-      "title" : "Google reshuffles AI leadership as senior DeepMind researchers form Discovery Loop",
+      "summary" : "Google reassigned senior AI leaders and saw prominent researchers depart DeepMind to establish Discovery Loop. Reports agree that Demis Hassabis and Koray Kavukcuoglu received new leadership responsibilities, although they describe Hassabis’s new role differently.",
+      "title" : "Google reshuffles AI leadership as senior DeepMind researchers leave",
       "topics" : [
         "Research",
         "Enterprise",
@@ -125,21 +89,21 @@
     {
       "confidence" : "medium",
       "date" : "2026-08-08",
-      "id" : "2026-08-08-47477f6163f6",
+      "id" : "2026-08-08-c79d92794ca4",
       "importance" : "medium",
       "sources" : [
         {
-          "source_name" : "The Verge AI",
-          "title" : "Watching Roku’s AI channel is like eating from a trough",
-          "url" : "https:\/\/www.theverge.com\/entertainment\/976939\/roku-fairground-ai-fast-channel"
+          "source_name" : "TechCrunch AI",
+          "title" : "OpenAI acquires presentation startup NextSlide",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/08\/openai-acquires-presentation-startup-nextslide\/"
         }
       ],
-      "summary" : "Roku added four channels to its free ad-supported streaming library, including an experiment centered on a continuous stream of AI-generated content.",
-      "title" : "Roku adds four channels focused on AI-generated content",
+      "summary" : "OpenAI has acquired presentation startup NextSlide. NextSlide says its team members are now working on ChatGPT.",
+      "title" : "OpenAI acquires presentation startup NextSlide",
       "topics" : [
+        "Funding & M&A",
         "Consumer Apps",
-        "Image & Video",
-        "Roku"
+        "NextSlide"
       ]
     },
     {
@@ -154,50 +118,64 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/07\/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool\/"
         }
       ],
-      "summary" : "Rippling unveiled AI Spend Console, a product that tracks AI spending by individual employees and teams after the company spent millions on AI within months.",
+      "summary" : "Rippling unveiled AI Spend Console, a product that tracks AI spending by individual employees and teams after reviewing its own AI usage.",
       "title" : "Rippling unveils AI Spend Console to track employee AI spending",
       "topics" : [
         "Enterprise",
         "APIs & Tooling",
-        "Pricing",
         "Rippling"
       ]
     },
     {
       "confidence" : "high",
       "date" : "2026-08-08",
-      "id" : "2026-08-08-21510f9ca40f",
+      "id" : "2026-08-08-d44bf52b1115",
       "importance" : "medium",
       "sources" : [
         {
-          "source_name" : "Ars Technica AI",
-          "title" : "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
-          "url" : "https:\/\/arstechnica.com\/gadgets\/2026\/08\/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive\/"
+          "source_name" : "AI Breakfast",
+          "title" : "OpenAI adds reasoning depth slider to GPT-5.6 Sol",
+          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/openai-adds-reasoning-depth-slider-to-gpt-5-6-sol"
         },
         {
-          "source_name" : "TechCrunch AI",
-          "title" : "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400\/"
-        },
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976431\/openai-chatgpt-battery-smart-speaker-rumor"
+          "source_name" : "OpenAI News",
+          "title" : "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+          "url" : "https:\/\/openai.com\/index\/improving-gpt-5-6-sol-in-chatgpt"
         }
       ],
-      "summary" : "OpenAI is reportedly developing a battery-powered, display-free smart speaker with former Apple designer Jony Ive. The unannounced device is expected in 2027 and could cost between $300 and $400.",
-      "title" : "OpenAI and Jony Ive reportedly plan a puck-sized smart speaker",
+      "summary" : "The update broadens free access to GPT-5.6 Luna while targeting more reliable responses from GPT-5.6 Sol.",
+      "title" : "OpenAI improves GPT-5.6 Sol and expands free access to GPT-5.6 Luna in ChatGPT",
       "topics" : [
-        "Hardware",
+        "Models & Releases",
         "Consumer Apps",
-        "Audio & Speech",
-        "OpenAI"
+        "GPT-5.6"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-08-08",
+      "id" : "2026-08-08-cd7ef144fb0d",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Responding to the next frontier of critical cyber capabilities",
+          "url" : "https:\/\/openai.com\/index\/responding-next-frontier-critical-cyber-capabilities"
+        }
+      ],
+      "summary" : "The disclosure provides early information about Astra’s evaluated cybersecurity capabilities and OpenAI’s related safeguards.",
+      "title" : "OpenAI shares preliminary cybersecurity evaluations for Astra",
+      "topics" : [
+        "Security",
+        "Safety",
+        "Benchmarks",
+        "Astra"
       ]
     },
     {
       "confidence" : "medium",
       "date" : "2026-08-08",
-      "id" : "2026-08-08-0696c7044a98",
+      "id" : "2026-08-08-73b71ed66f28",
       "importance" : "medium",
       "sources" : [
         {
@@ -207,17 +185,62 @@
         }
       ],
       "summary" : "Lower compute requirements could help developers run browser-based AI agents more efficiently.",
-      "title" : "Cloudflare launches Kitesurf browser for AI agents",
+      "title" : "Cloudflare launches Kitesurf, a cloud-hosted browser for AI agents",
       "topics" : [
         "Agents",
         "Infrastructure",
+        "APIs & Tooling",
         "Kitesurf"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-08",
+      "id" : "2026-08-08-7034410930b1",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TLDR AI",
+          "title" : "GPT-5.6 Luna default 🌙, Agent Plugins 🔌, AMD Taalas acquisition 🧩",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-08-07"
+        }
+      ],
+      "summary" : "A default-model change could affect users automatically, but the supplied source does not describe its scope.",
+      "title" : "TLDR AI reports GPT-5.6 Luna is now the default",
+      "topics" : [
+        "Models & Releases",
+        "GPT-5.6 Luna"
       ]
     },
     {
       "confidence" : "high",
       "date" : "2026-08-08",
-      "id" : "2026-08-08-9de9b4040db3",
+      "id" : "2026-08-08-a4c1f6c0eba7",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "ChatGPT brings unlimited text chats to free users",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/openai-brings-unlimited-chatgpt-text-chats-to-free-users\/"
+        },
+        {
+          "source_name" : "The Verge AI",
+          "title" : "OpenAI is giving ChatGPT free users unlimited text chats",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976239\/openai-chatgpt-free-go-text-chats"
+        }
+      ],
+      "summary" : "OpenAI will remove text-chat rate limits for ChatGPT users on its free and Go tiers starting next week. The company is also adding a Think button for more complex questions.",
+      "title" : "OpenAI to give ChatGPT free and Go users unlimited text chats",
+      "topics" : [
+        "Consumer Apps",
+        "Pricing",
+        "ChatGPT"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-08-08",
+      "id" : "2026-08-08-33d4d381570a",
       "importance" : "medium",
       "sources" : [
         {
@@ -231,8 +254,8 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/05\/meta-launches-muse-code-an-ai-agent-for-large-code-bases\/"
         }
       ],
-      "summary" : "Muse Code expands Meta's AI coding offerings toward complex work in large software projects.",
-      "title" : "Meta launches Muse Code AI agent for large code bases",
+      "summary" : "Muse Code expands Meta's AI coding offerings toward complex software-development tasks.",
+      "title" : "Meta launches Muse Code AI agent for large codebases",
       "topics" : [
         "Agents",
         "Coding",
@@ -242,7 +265,7 @@
     {
       "confidence" : "medium",
       "date" : "2026-08-08",
-      "id" : "2026-08-08-4e61d72bd0bd",
+      "id" : "2026-08-08-8118ef2e2808",
       "importance" : "medium",
       "sources" : [
         {
@@ -251,73 +274,12 @@
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976289\/suno-ai-music-spam-watermark"
         }
       ],
-      "summary" : "Identifying Suno-generated tracks could make AI music easier to distinguish and trace.",
-      "title" : "Suno plans watermarking and download-policy changes for AI-generated music",
+      "summary" : "Suno announced plans for new watermarking technology and a download policy intended to limit spammy AI tracks and improve transparency. The company says the measures align with emerging industry standards for identifying Suno-generated content.",
+      "title" : "Suno plans watermarking and download restrictions for AI-generated music",
       "topics" : [
         "Audio & Speech",
         "Safety",
         "Suno"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-08-08",
-      "id" : "2026-08-08-805c2625d0d8",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "OpenAI says Apple’s own security practices undermine its trade secrets case",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case\/"
-        }
-      ],
-      "summary" : "OpenAI filed court exhibits arguing that Apple’s security and employee offboarding practices undermine its claim that allegedly stolen information was properly protected.",
-      "title" : "OpenAI challenges Apple trade secrets claims using its security practices",
-      "topics" : [
-        "Policy & Regulation",
-        "Security",
-        "OpenAI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-08-08",
-      "id" : "2026-08-08-18cd0a33431e",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai\/"
-        }
-      ],
-      "summary" : "The expanded compute capacity is intended to support AI research aimed at accelerating scientific discovery and AI development.",
-      "title" : "Mirendil signs $100 million-plus Google Cloud compute partnership",
-      "topics" : [
-        "Research",
-        "Compute & Chips",
-        "Infrastructure",
-        "Mirendil"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-08-08",
-      "id" : "2026-08-08-be107f80f5a9",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Google Maps adds agentic features, including food ordering and hotel bookings",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings\/"
-        }
-      ],
-      "summary" : "Google added agentic features to Maps that can help users order food and book hotels. The changes expand Maps beyond navigation into completing real-world tasks.",
-      "title" : "Google Maps adds food ordering and hotel booking features",
-      "topics" : [
-        "Consumer Apps",
-        "Agents",
-        "Google Maps"
       ]
     },
     {
