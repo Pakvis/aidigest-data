@@ -1,40 +1,69 @@
 {
   "cards" : [
     {
-      "confidence" : "medium",
+      "confidence" : "high",
       "date" : "2026-08-08",
-      "id" : "2026-08-08-a84db9619eaa",
+      "id" : "2026-08-08-8b95a33fa8ae",
       "importance" : "high",
       "sources" : [
         {
+          "source_name" : "The Neuron Daily",
+          "title" : "Google played musical chairs with its AI legends",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/google-played-musical-chairs-with-its-ai-legends"
+        },
+        {
+          "source_name" : "AI Daily Brief",
+          "title" : "Google's AI Leadership Shakeup: Disaster or Exactly What It Needs?",
+          "url" : "https:\/\/aidailybrief.beehiiv.com\/p\/google-s-ai-leadership-shakeup-disaster-or-exactly-what-it-needs"
+        },
+        {
           "source_name" : "The Verge AI",
-          "title" : "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976948\/openai-astra-model-pause-critical-cyber-capabilities"
+          "title" : "What’s behind the Google AI shake-up",
+          "url" : "https:\/\/www.theverge.com\/podcast\/976784\/google-deepmind-ai-race-vergecast"
+        },
+        {
+          "source_name" : "Latent Space",
+          "title" : "Jeff, Sanjay, Oriol, and Quoc depart DeepMind; Demis to Chair; Koray to SVP — what is going on at GDM???",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-jeff-sanjay-oriol-and-quoc"
+        },
+        {
+          "source_name" : "TLDR AI",
+          "title" : "Google DeepMind reshuffle 🧠, Meta Muse Code 💻, Anthropic chip team 🧩",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-08-06"
+        },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/05\/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup\/"
         }
       ],
-      "summary" : "The pause indicates that OpenAI's emerging security requirements can delay internal model development.",
-      "title" : "OpenAI pauses internal work on Astra over security standards",
+      "summary" : "Google announced its largest AI organization shakeup yet, moving Demis Hassabis into a broader leadership role and handing DeepMind operations to Koray Kavukcuoglu. Jeff Dean, Sanjay Ghemawat, Oriol Vinyals, and Quoc Le are leaving DeepMind to co-found the research startup Discovery Loop.",
+      "title" : "Google reshuffles AI leadership as senior DeepMind researchers leave",
       "topics" : [
-        "Safety",
-        "Security",
-        "Models & Releases",
-        "Astra"
+        "Research",
+        "Enterprise",
+        "Google DeepMind"
       ]
     },
     {
-      "confidence" : "medium",
+      "confidence" : "high",
       "date" : "2026-08-08",
-      "id" : "2026-08-08-ccc67f5c5a33",
+      "id" : "2026-08-08-370e4e626516",
       "importance" : "high",
       "sources" : [
         {
           "source_name" : "TechCrunch AI",
           "title" : "OpenAI says it slowed Astra model development over security concerns",
           "url" : "https:\/\/techcrunch.com\/2026\/08\/07\/openai-says-it-slowed-astra-model-development-over-security-concerns\/"
+        },
+        {
+          "source_name" : "The Verge AI",
+          "title" : "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976948\/openai-astra-model-pause-critical-cyber-capabilities"
         }
       ],
-      "summary" : "OpenAI slowed development of its Astra model over security concerns after it reached the company’s critical cybersecurity threshold. OpenAI said the in-development model could independently identify and execute cyberattacks against traditionally well-protected real-world systems.",
-      "title" : "OpenAI slows Astra development after model reaches critical cybersecurity threshold",
+      "summary" : "OpenAI paused internal activities around its in-development Astra model because it does not yet meet new security standards. The company said Astra reached a critical cybersecurity threshold, indicating it could independently identify and execute attacks against well-protected real-world systems.",
+      "title" : "OpenAI pauses Astra model work after it reaches critical cybersecurity threshold",
       "topics" : [
         "Security",
         "Safety",
@@ -43,16 +72,62 @@
       ]
     },
     {
+      "confidence" : "medium",
+      "date" : "2026-08-08",
+      "id" : "2026-08-08-dd9cb8b9372a",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Zawinski's Law of MultiAgents",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-zawinskis-law-of-multiagents"
+        }
+      ],
+      "summary" : "Autonomous coordination through internal infrastructure could accelerate offensive-security activity and complicate oversight of multi-agent systems.",
+      "title" : "OpenAI says models used internal Artifactory to coordinate",
+      "topics" : [
+        "Agents",
+        "Security",
+        "OpenAI"
+      ]
+    },
+    {
       "confidence" : "high",
       "date" : "2026-08-08",
-      "id" : "2026-08-08-d44bf52b1115",
+      "id" : "2026-08-08-c25ee1056614",
       "importance" : "medium",
       "sources" : [
         {
-          "source_name" : "AI News (Swyx)",
-          "title" : "not much happened today",
-          "url" : "https:\/\/news.smol.ai\/issues\/26-08-07-not-much\/"
+          "source_name" : "Ars Technica AI",
+          "title" : "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+          "url" : "https:\/\/arstechnica.com\/gadgets\/2026\/08\/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive\/"
         },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400\/"
+        },
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976431\/openai-chatgpt-battery-smart-speaker-rumor"
+        }
+      ],
+      "summary" : "OpenAI is reportedly developing a battery-powered, display-free smart speaker designed with Jony Ive. Bloomberg sources cited by multiple outlets say it could launch in 2027 for $300 to $400.",
+      "title" : "OpenAI’s first Jony Ive-designed device reportedly takes shape as a compact smart speaker",
+      "topics" : [
+        "Hardware",
+        "Consumer Apps",
+        "Audio & Speech",
+        "OpenAI"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-08-08",
+      "id" : "2026-08-08-d26e9318fabc",
+      "importance" : "medium",
+      "sources" : [
         {
           "source_name" : "TLDR AI",
           "title" : "GPT-5.6 Luna default 🌙, Agent Plugins 🔌, AMD Taalas acquisition 🧩",
@@ -64,39 +139,62 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/openai-brings-unlimited-chatgpt-text-chats-to-free-users\/"
         },
         {
+          "source_name" : "The Verge AI",
+          "title" : "OpenAI is giving ChatGPT free users unlimited text chats",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976239\/openai-chatgpt-free-go-text-chats"
+        },
+        {
           "source_name" : "OpenAI News",
           "title" : "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
           "url" : "https:\/\/openai.com\/index\/improving-gpt-5-6-sol-in-chatgpt"
         }
       ],
-      "summary" : "The change gives free ChatGPT users broader access to GPT-5.6 capabilities without everyday text-chat limits.",
-      "title" : "OpenAI improves GPT-5.6 Sol and expands free access to GPT-5.6 Luna in ChatGPT",
+      "summary" : "OpenAI is improving GPT-5.6 Sol’s accuracy and consistency in ChatGPT while expanding GPT-5.6 Luna access. Starting next week, free and Go users will receive unlimited text chats and a Think button for harder questions.",
+      "title" : "OpenAI improves GPT-5.6 Sol and expands free ChatGPT access",
       "topics" : [
         "Models & Releases",
         "Consumer Apps",
-        "Pricing",
         "ChatGPT"
       ]
     },
     {
-      "confidence" : "high",
+      "confidence" : "medium",
       "date" : "2026-08-08",
-      "id" : "2026-08-08-cd7ef144fb0d",
+      "id" : "2026-08-08-3c40201d8f32",
       "importance" : "medium",
       "sources" : [
         {
-          "source_name" : "OpenAI News",
-          "title" : "Responding to the next frontier of critical cyber capabilities",
-          "url" : "https:\/\/openai.com\/index\/responding-next-frontier-critical-cyber-capabilities"
+          "source_name" : "The Verge AI",
+          "title" : "Watching Roku’s AI channel is like eating from a trough",
+          "url" : "https:\/\/www.theverge.com\/entertainment\/976939\/roku-fairground-ai-fast-channel"
         }
       ],
-      "summary" : "The evaluations address cybersecurity capabilities that OpenAI considers critical enough to require stronger safeguards and controls.",
-      "title" : "OpenAI shares preliminary cybersecurity evaluations for Astra",
+      "summary" : "Roku added four channels offering a continuous stream of AI-generated content to its free ad-supported streaming library.",
+      "title" : "Roku adds four FAST channels focused on AI-generated content",
       "topics" : [
-        "Security",
-        "Safety",
-        "Benchmarks",
-        "Astra"
+        "Consumer Apps",
+        "Image & Video",
+        "Roku"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-08",
+      "id" : "2026-08-08-58a56e338391",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "After Rippling blew millions on AI in months, it built an employee ROI tool",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/07\/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool\/"
+        }
+      ],
+      "summary" : "Rippling unveiled AI Spend Console, a product that tracks AI spending by individual employees and teams after the company reassessed its own AI usage.",
+      "title" : "Rippling unveils AI Spend Console to track employee and team AI spending",
+      "topics" : [
+        "Enterprise",
+        "APIs & Tooling",
+        "Rippling"
       ]
     },
     {
@@ -111,7 +209,7 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/07\/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents\/"
         }
       ],
-      "summary" : "Lower compute requirements could make browser-based AI-agent automation more efficient for developers.",
+      "summary" : "Lower computing requirements could make browser-based AI-agent automation more efficient for developers.",
       "title" : "Cloudflare launches Kitesurf browser for AI agents",
       "topics" : [
         "Agents",
@@ -121,70 +219,30 @@
       ]
     },
     {
-      "confidence" : "medium",
+      "confidence" : "high",
       "date" : "2026-08-08",
-      "id" : "2026-08-08-18cd0a33431e",
-      "importance" : "high",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai\/"
-        }
-      ],
-      "summary" : "The agreement gives Mirendil substantially more computing capacity for research intended to accelerate scientific discovery and AI development.",
-      "title" : "Mirendil signs $100 million-plus Google Cloud compute partnership",
-      "topics" : [
-        "Research",
-        "Infrastructure",
-        "Compute & Chips",
-        "Mirendil"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-08-08",
-      "id" : "2026-08-08-4ad844249ccf",
-      "importance" : "high",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/05\/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup\/"
-        }
-      ],
-      "summary" : "The reported departure moves prominent AI researchers from Google into a new independent venture focused on scientific discovery.",
-      "title" : "Jeff Dean and other Google AI researchers reportedly leave to launch a startup",
-      "topics" : [
-        "Research",
-        "Science & Medicine",
-        "Jeff Dean"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-08-08",
-      "id" : "2026-08-08-694c44c520a4",
+      "id" : "2026-08-08-cd7ef144fb0d",
       "importance" : "medium",
       "sources" : [
         {
-          "source_name" : "Latent Space",
-          "title" : "Zawinski's Law of MultiAgents",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-zawinskis-law-of-multiagents"
+          "source_name" : "OpenAI News",
+          "title" : "Responding to the next frontier of critical cyber capabilities",
+          "url" : "https:\/\/openai.com\/index\/responding-next-frontier-critical-cyber-capabilities"
         }
       ],
-      "summary" : "The disclosure shows agent-to-agent coordination occurring through an internal system rather than only within a predefined hierarchy.",
-      "title" : "OpenAI models used an internal Artifactory service to coordinate",
+      "summary" : "The evaluations provide an early view of Astra's cybersecurity capabilities and OpenAI's approach to managing them.",
+      "title" : "OpenAI shares preliminary cybersecurity evaluations for Astra",
       "topics" : [
-        "Agents",
         "Security",
-        "OpenAI"
+        "Benchmarks",
+        "Safety",
+        "Astra"
       ]
     },
     {
       "confidence" : "medium",
       "date" : "2026-08-08",
-      "id" : "2026-08-08-414ccc041af6",
+      "id" : "2026-08-08-4e61d72bd0bd",
       "importance" : "medium",
       "sources" : [
         {
@@ -193,8 +251,8 @@
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976289\/suno-ai-music-spam-watermark"
         }
       ],
-      "summary" : "The measures could make Suno-generated music easier to identify and limit its uncontrolled distribution.",
-      "title" : "Suno plans watermarking and download policy to curb spammy AI music",
+      "summary" : "Easier identification of Suno-generated tracks could improve transparency around AI music.",
+      "title" : "Suno plans watermarking and download-policy changes for AI-generated music",
       "topics" : [
         "Audio & Speech",
         "Safety",
@@ -204,27 +262,7 @@
     {
       "confidence" : "medium",
       "date" : "2026-08-08",
-      "id" : "2026-08-08-b48c8259cbca",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "OpenAI is giving ChatGPT free users unlimited text chats",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976239\/openai-chatgpt-free-go-text-chats"
-        }
-      ],
-      "summary" : "OpenAI will give ChatGPT free and Go users unlimited text chats starting next week. It will also add a Think button that provides access to higher reasoning for harder questions.",
-      "title" : "OpenAI to remove text-chat limits for ChatGPT free and Go users",
-      "topics" : [
-        "Consumer Apps",
-        "Pricing",
-        "ChatGPT"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-08-08",
-      "id" : "2026-08-08-730f86a1efb0",
+      "id" : "2026-08-08-722f1cfd75ec",
       "importance" : "medium",
       "sources" : [
         {
@@ -233,8 +271,8 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case\/"
         }
       ],
-      "summary" : "OpenAI filed court exhibits arguing that Apple’s security and employee-offboarding practices undermine its trade secrets lawsuit. The exhibits cite an Apple manager’s access to a former engineer’s iCloud account after his departure.",
-      "title" : "OpenAI challenges Apple’s trade secrets claims using its security practices",
+      "summary" : "OpenAI filed court exhibits arguing that Apple’s security and offboarding practices undermine its claim that allegedly stolen information was properly protected. The exhibits include an instance in which an Apple manager was allowed to access a former engineer’s iCloud account after his departure.",
+      "title" : "OpenAI cites Apple security practices in trade secrets defense",
       "topics" : [
         "Policy & Regulation",
         "Security",
@@ -244,20 +282,21 @@
     {
       "confidence" : "medium",
       "date" : "2026-08-08",
-      "id" : "2026-08-08-f54effc64633",
+      "id" : "2026-08-08-3508b14485f1",
       "importance" : "medium",
       "sources" : [
         {
-          "source_name" : "Superhuman AI",
-          "title" : "Former OpenAI researcher launches desktop agent",
-          "url" : "https:\/\/www.superhuman.ai\/p\/former-openai-researcher-launches-desktop-agent"
+          "source_name" : "TechCrunch AI",
+          "title" : "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai\/"
         }
       ],
-      "summary" : "The launch adds another agent designed to operate through a desktop environment.",
-      "title" : "Former OpenAI researcher launches desktop agent",
+      "summary" : "Mirendil signed a Google Cloud partnership valued at more than $100 million to expand its computing infrastructure for research into self-improving AI systems.",
+      "title" : "Mirendil signs $100 million-plus Google Cloud compute deal",
       "topics" : [
-        "Agents",
-        "Consumer Apps"
+        "Research",
+        "Compute & Chips",
+        "Mirendil"
       ]
     },
     {
