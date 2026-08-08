@@ -1,6 +1,265 @@
 {
   "cards" : [
     {
+      "confidence" : "medium",
+      "date" : "2026-08-08",
+      "id" : "2026-08-08-81ce3d82a10d",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976948\/openai-astra-model-pause-critical-cyber-capabilities"
+        }
+      ],
+      "summary" : "The pause shows OpenAI withholding an in-development model from internal use until it satisfies stricter security requirements.",
+      "title" : "OpenAI pauses internal work on Astra over new security standards",
+      "topics" : [
+        "Safety",
+        "Security",
+        "Models & Releases",
+        "Astra"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-08",
+      "id" : "2026-08-08-ccc67f5c5a33",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "OpenAI says it slowed Astra model development over security concerns",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/07\/openai-says-it-slowed-astra-model-development-over-security-concerns\/"
+        }
+      ],
+      "summary" : "OpenAI slowed development of its Astra model over security concerns. The company said the model could independently identify and execute cyberattacks against traditionally well-protected real-world systems.",
+      "title" : "OpenAI slows Astra development after model reaches critical cybersecurity threshold",
+      "topics" : [
+        "Safety",
+        "Security",
+        "Models & Releases",
+        "Astra"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-08",
+      "id" : "2026-08-08-1271645e2a54",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "The messy politics behind Google’s big AI shakeup",
+          "url" : "https:\/\/www.theverge.com\/tech\/976108\/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind"
+        }
+      ],
+      "summary" : "The reorganization changes how one of the largest AI companies structures its work.",
+      "title" : "Google announces its largest AI organization shakeup yet",
+      "topics" : [
+        "Enterprise",
+        "Google"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-08",
+      "id" : "2026-08-08-9aefa55d5476",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Jeff, Sanjay, Oriol, and Quoc depart DeepMind; Demis to Chair; Koray to SVP — what is going on at GDM???",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-jeff-sanjay-oriol-and-quoc"
+        }
+      ],
+      "summary" : "The coordinated departure moves several of Google and DeepMind’s most senior engineering and research leaders into a new AI research venture.",
+      "title" : "Jeff Dean, Sanjay Ghemawat, Oriol Vinyals and Quoc Le leave DeepMind to found Discovery Loop",
+      "topics" : [
+        "Research",
+        "Funding & M&A",
+        "DeepMind"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-08-08",
+      "id" : "2026-08-08-67168d9872e8",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "AI News (Swyx)",
+          "title" : "not much happened today",
+          "url" : "https:\/\/news.smol.ai\/issues\/26-08-07-not-much\/"
+        },
+        {
+          "source_name" : "TLDR AI",
+          "title" : "GPT-5.6 Luna default 🌙, Agent Plugins 🔌, AMD Taalas acquisition 🧩",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-08-07"
+        },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "ChatGPT brings unlimited text chats to free users",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/openai-brings-unlimited-chatgpt-text-chats-to-free-users\/"
+        },
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+          "url" : "https:\/\/openai.com\/index\/improving-gpt-5-6-sol-in-chatgpt"
+        }
+      ],
+      "summary" : "The update gives free ChatGPT users broader access to GPT-5.6 capabilities without everyday text-chat limits.",
+      "title" : "ChatGPT improves GPT-5.6 Sol and expands free access to GPT-5.6 Luna",
+      "topics" : [
+        "Models & Releases",
+        "Consumer Apps",
+        "GPT-5.6"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-08-08",
+      "id" : "2026-08-08-cd7ef144fb0d",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Responding to the next frontier of critical cyber capabilities",
+          "url" : "https:\/\/openai.com\/index\/responding-next-frontier-critical-cyber-capabilities"
+        }
+      ],
+      "summary" : "The evaluations provide an early view of Astra’s cybersecurity capabilities and OpenAI’s approach to managing associated risks.",
+      "title" : "OpenAI shares preliminary cybersecurity evaluations for Astra",
+      "topics" : [
+        "Security",
+        "Safety",
+        "Benchmarks",
+        "Astra"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-08",
+      "id" : "2026-08-08-0696c7044a98",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Cloudflare launches Kitesurf, a browser built for AI agents",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/07\/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents\/"
+        }
+      ],
+      "summary" : "Lower compute requirements could help developers run browser-based AI agents more efficiently.",
+      "title" : "Cloudflare launches Kitesurf browser for AI agents",
+      "topics" : [
+        "Agents",
+        "Infrastructure",
+        "APIs & Tooling",
+        "Kitesurf"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-08",
+      "id" : "2026-08-08-df83d823bceb",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "AI Breakfast",
+          "title" : "OpenAI adds reasoning depth slider to GPT-5.6 Sol",
+          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/openai-adds-reasoning-depth-slider-to-gpt-5-6-sol"
+        }
+      ],
+      "summary" : "The control gives users a new way to adjust reasoning depth in GPT-5.6 Sol.",
+      "title" : "OpenAI adds reasoning depth slider to GPT-5.6 Sol",
+      "topics" : [
+        "Models & Releases",
+        "Consumer Apps",
+        "GPT-5.6 Sol"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-08",
+      "id" : "2026-08-08-4e61d72bd0bd",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Suno shares plans to combat spammy AI music",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976289\/suno-ai-music-spam-watermark"
+        }
+      ],
+      "summary" : "The changes could make Suno-generated music easier to identify and reduce its use in spam.",
+      "title" : "Suno plans watermarking and download-policy changes for AI-generated music",
+      "topics" : [
+        "Audio & Speech",
+        "Safety",
+        "Suno"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-08",
+      "id" : "2026-08-08-efe369e3b974",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "OpenAI is giving ChatGPT free users unlimited text chats",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976239\/openai-chatgpt-free-go-text-chats"
+        }
+      ],
+      "summary" : "OpenAI will remove text-chat rate limits for ChatGPT users on its free and Go tiers starting next week. It will also add a Think button that provides access to higher reasoning for harder questions.",
+      "title" : "ChatGPT free and Go tiers to get unlimited text chats",
+      "topics" : [
+        "Consumer Apps",
+        "Pricing",
+        "ChatGPT"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-08",
+      "id" : "2026-08-08-a9d1c7804bee",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "OpenAI says Apple’s own security practices undermine its trade secrets case",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case\/"
+        }
+      ],
+      "summary" : "OpenAI filed court exhibits arguing that Apple’s security and employee offboarding practices undermine its claim that allegedly stolen information was properly protected.",
+      "title" : "OpenAI argues Apple’s security practices weaken its trade secrets case",
+      "topics" : [
+        "Policy & Regulation",
+        "Security",
+        "OpenAI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-08",
+      "id" : "2026-08-08-5b6f972afbf0",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai\/"
+        }
+      ],
+      "summary" : "The agreement gives Mirendil additional computing infrastructure for research intended to accelerate scientific discovery and AI development.",
+      "title" : "Mirendil signs $100M-plus Google Cloud partnership for AI research compute",
+      "topics" : [
+        "Research",
+        "Compute & Chips",
+        "Enterprise",
+        "Mirendil"
+      ]
+    },
+    {
       "confidence" : "high",
       "date" : "2026-08-07",
       "id" : "2026-08-07-29428bb0762f",
