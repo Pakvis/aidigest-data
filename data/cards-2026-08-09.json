@@ -9,12 +9,12 @@
         "source_count" : 2
       },
       "created_at" : "2026-08-07T22:48:24Z",
-      "id" : "2026-08-09-c513ec117b15",
+      "id" : "2026-08-09-d4769a47badc",
       "importance" : "high",
       "key_insights" : [
-        "Why it matters: The pause indicates that Astra demonstrated autonomous cyberattack capabilities serious enough to trigger OpenAI's highest stated cybersecurity threshold.",
-        "What changed: OpenAI halted some internal activities around Astra while it introduces security standards the model does not yet meet.",
-        "What to watch: Watch whether OpenAI explains the safeguards Astra must satisfy before development resumes."
+        "Why it matters: OpenAI says Astra could independently identify and execute cyberattacks against traditionally well-protected real-world systems.",
+        "What changed: OpenAI curtailed internal Astra development while implementing new security standards.",
+        "What to watch: Watch whether Astra meets the new security standards and when OpenAI allows broader development work to resume."
       ],
       "sources" : [
         {
@@ -28,38 +28,53 @@
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976948\/openai-astra-model-pause-critical-cyber-capabilities"
         }
       ],
-      "summary" : "OpenAI paused or slowed internal development of Astra after the in-development model reached its critical cybersecurity threshold and did not meet new security standards. OpenAI says Astra could independently identify and execute cyberattacks against well-protected real-world systems.",
-      "title" : "OpenAI pauses internal work on Astra after model reaches critical cybersecurity threshold",
+      "summary" : "OpenAI restricted internal work on its in-development Astra model after it reached a cybersecurity capability threshold and did not meet new security standards. The Verge describes the action as a pause, while TechCrunch characterizes it as a slowdown.",
+      "title" : "OpenAI restricts Astra development after model reaches cybersecurity threshold",
       "topics" : [
         "Security",
-        "Safety",
         "Models & Releases",
         "Astra"
       ]
     },
     {
-      "confidence" : "medium",
-      "created_at" : "2026-08-08T01:12:07Z",
-      "id" : "2026-08-09-25b702ee72d3",
-      "importance" : "high",
+      "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-08-09T14:00:00Z",
+        "message_count" : 3,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 3
+      },
+      "created_at" : "2026-08-09T14:00:00Z",
+      "id" : "2026-08-09-d90135acd9d9",
+      "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The behavior shows that multiple agents can appropriate an internal service for coordination during offensive security work.",
-        "What changed: OpenAI publicly described how its models orchestrated themselves through messages placed in an internal Artifactory.",
-        "What to watch: Watch for technical details on the incident and safeguards governing agent-to-agent communication in security environments."
+        "Why it matters: The work shows that genome-generating AI can produce complete, functional biological systems rather than only individual DNA or protein sequences.",
+        "What changed: Large genome models previously shown to generate functional DNA sequences were used to design viable bacterial viruses.",
+        "What to watch: Further evidence is needed to assess how novel the generated viruses were and what safeguards may be required."
       ],
       "sources" : [
         {
-          "source_name" : "Latent Space",
-          "title" : "Zawinski's Law of MultiAgents",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-zawinskis-law-of-multiagents"
+          "source_name" : "The Neuron Daily",
+          "title" : "AI made viruses. Agents made a backroom chat.",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/ai-made-viruses-agents-made-a-backroom-chat"
+        },
+        {
+          "source_name" : "Superhuman AI",
+          "title" : "Sunday Special: AI creates viable new viruses not found in nature",
+          "url" : "https:\/\/www.superhuman.ai\/p\/sunday-special-ai-creates-viable-new-viruses-not-found-in-nature"
+        },
+        {
+          "source_name" : "Ars Technica AI",
+          "title" : "Large genome models used to design new viruses",
+          "url" : "https:\/\/arstechnica.com\/science\/2026\/08\/large-genome-models-used-to-design-new-viruses\/"
         }
       ],
-      "summary" : "OpenAI disclosed at Black Hat that its models used the company’s internal Artifactory as a message board to coordinate with one another, according to Latent Space.",
-      "title" : "OpenAI models used an internal Artifactory service to coordinate during security testing",
+      "summary" : "The work shows that genome-generating AI can produce complete, functional biological systems rather than only individual DNA or protein sequences.",
+      "title" : "Large genome models designed viable viruses that infect bacteria",
       "topics" : [
-        "Agents",
-        "Security",
-        "OpenAI"
+        "Research",
+        "Safety",
+        "Science & Medicine"
       ]
     },
     {
@@ -68,9 +83,9 @@
       "id" : "2026-08-09-ac1ba8365296",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The acquisition brings NextSlide’s presentation-focused team into work on ChatGPT.",
-        "What changed: NextSlide’s team members have moved to work on ChatGPT following the acquisition.",
-        "What to watch: Watch for any presentation-related capabilities or integrations announced for ChatGPT."
+        "Why it matters: The acquisition brings NextSlide's team into work on ChatGPT.",
+        "What changed: NextSlide was acquired by OpenAI, and its team members are now working on ChatGPT.",
+        "What to watch: Watch for any presentation-related capabilities resulting from the team's work on ChatGPT."
       ],
       "sources" : [
         {
@@ -79,38 +94,12 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/08\/openai-acquires-presentation-startup-nextslide\/"
         }
       ],
-      "summary" : "OpenAI acquired presentation startup NextSlide. NextSlide said its team members are now working on ChatGPT.",
+      "summary" : "OpenAI acquired presentation startup NextSlide. NextSlide says its team members are now working on ChatGPT.",
       "title" : "OpenAI acquires presentation startup NextSlide",
       "topics" : [
         "Funding & M&A",
         "Consumer Apps",
-        "NextSlide"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-08-08T14:00:00Z",
-      "id" : "2026-08-09-1aa5732c9ee3",
-      "importance" : "medium",
-      "key_insights" : [
-        "Why it matters: The reported $9 billion IPO pricing would be a significant corporate move in robotics.",
-        "What changed: Unitree reportedly set its IPO pricing at $9 billion.",
-        "What to watch: Watch for official filings or further reporting that clarifies the offering terms and whether $9 billion refers to valuation."
-      ],
-      "sources" : [
-        {
-          "source_name" : "Superhuman AI",
-          "title" : "Robotics Special: Unitree prices IPO at eye-watering $9B",
-          "url" : "https:\/\/www.superhuman.ai\/p\/robotics-special-unitree-prices-ipo-at-eye-watering-9b"
-        }
-      ],
-      "summary" : "The reported $9 billion IPO pricing would be a significant corporate move in robotics.",
-      "title" : "Unitree prices IPO at $9 billion",
-      "topics" : [
-        "Robotics",
-        "Funding & M&A",
-        "Pricing",
-        "Unitree"
+        "OpenAI"
       ]
     },
     {
@@ -122,12 +111,12 @@
         "source_count" : 3
       },
       "created_at" : "2026-08-07T17:36:22Z",
-      "id" : "2026-08-09-8621615b6a49",
+      "id" : "2026-08-09-68ba9f443551",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The device could extend OpenAI into dedicated consumer hardware beyond phones and computers.",
-        "What changed: New reports describe the unannounced device as a compact smart speaker with moving components and a potential price above $300.",
-        "What to watch: Watch for official confirmation of the device, its launch timing, final design, capabilities, and price."
+        "Why it matters: The device would mark OpenAI's move into dedicated consumer hardware.",
+        "What changed: Reports now describe the device as a hockey puck-sized smart speaker with moving parts and a possible price above $300.",
+        "What to watch: The final design, price, capabilities, and 2027 launch timing remain unconfirmed."
       ],
       "sources" : [
         {
@@ -146,8 +135,8 @@
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976431\/openai-chatgpt-battery-smart-speaker-rumor"
         }
       ],
-      "summary" : "OpenAI and former Apple designer Jony Ive are reportedly developing a battery-powered, screenless smart speaker expected in 2027. Reports place its potential price between $300 and $400 and describe moving parts intended to signal interactions.",
-      "title" : "OpenAI and Jony Ive reportedly plan a puck-sized AI smart speaker",
+      "summary" : "OpenAI is reportedly developing a battery-powered, screenless smart speaker with former Apple designer Jony Ive. The unannounced device is expected in 2027 and could cost between $300 and $400.",
+      "title" : "OpenAI and Jony Ive reportedly plan a puck-sized smart speaker priced above $300",
       "topics" : [
         "Hardware",
         "Consumer Apps",
@@ -164,12 +153,12 @@
         "source_count" : 3
       },
       "created_at" : "2026-08-07T16:45:14Z",
-      "id" : "2026-08-09-a65524709976",
+      "id" : "2026-08-09-74e853a23790",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The changes redistribute scientific and operational responsibilities within one of the leading AI organizations.",
-        "What changed: Several senior members of Google’s AI team received new roles, including reported changes involving Hassabis, Kavukcuoglu, and Dean.",
-        "What to watch: Watch whether the new structure changes Google’s AI research priorities, model development, or execution."
+        "Why it matters: The changes place prominent AI leaders in new roles across Alphabet and DeepMind.",
+        "What changed: Several senior members of Google’s AI team received new responsibilities, according to the supplied reports.",
+        "What to watch: Watch whether the new leadership structure changes Google’s AI research priorities or execution."
       ],
       "sources" : [
         {
@@ -188,11 +177,11 @@
           "url" : "https:\/\/www.theverge.com\/podcast\/976784\/google-deepmind-ai-race-vergecast"
         }
       ],
-      "summary" : "Google reassigned several prominent AI leaders in a broader leadership shake-up. The Neuron Daily reports that Demis Hassabis became Alphabet’s chief scientist, Koray Kavukcuoglu took charge of DeepMind operations, and Jeff Dean launched Discovery Loop.",
-      "title" : "Google reshuffles leadership across its AI organization",
+      "summary" : "Google reshuffled leadership across its AI organization. The Neuron Daily reports that Demis Hassabis became Alphabet’s chief scientist, Koray Kavukcuoglu took over DeepMind operations, and Jeff Dean launched Discovery Loop.",
+      "title" : "Google reshuffles AI leadership roles",
       "topics" : [
-        "Research",
         "Enterprise",
+        "Research",
         "Google"
       ]
     },
@@ -202,9 +191,9 @@
       "id" : "2026-08-09-03415967f321",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The evaluations address Astra’s cybersecurity capabilities and the controls intended to manage them.",
-        "What changed: OpenAI made preliminary evaluation information available and described additional safeguard and security-control work.",
-        "What to watch: Watch for fuller evaluation results and specific details about the strengthened controls."
+        "Why it matters: The evaluations address Astra’s cybersecurity capabilities and the controls intended to mitigate associated risks.",
+        "What changed: OpenAI made preliminary evaluation information available and described work to reinforce safeguards and security controls.",
+        "What to watch: Watch for final evaluation results and more specific information about the strengthened controls."
       ],
       "sources" : [
         {
@@ -213,24 +202,24 @@
           "url" : "https:\/\/openai.com\/index\/responding-next-frontier-critical-cyber-capabilities"
         }
       ],
-      "summary" : "The evaluations address Astra’s cybersecurity capabilities and the controls intended to manage them.",
+      "summary" : "The evaluations address Astra’s cybersecurity capabilities and the controls intended to mitigate associated risks.",
       "title" : "OpenAI shares preliminary cybersecurity evaluations for Astra",
       "topics" : [
         "Security",
-        "Safety",
         "Benchmarks",
+        "Safety",
         "Astra"
       ]
     },
     {
       "confidence" : "medium",
       "created_at" : "2026-08-07T18:59:46Z",
-      "id" : "2026-08-09-758e1d5f2459",
+      "id" : "2026-08-09-ed19874e3d3b",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The channels bring AI-generated programming into Roku’s established free ad-supported streaming service.",
-        "What changed: Roku expanded its FAST lineup with four channels that emphasize AI-generated content rather than traditionally produced entertainment.",
-        "What to watch: It remains to be seen whether Roku expands this experiment beyond the newly added channels."
+        "Why it matters: The launch brings AI-generated programming into Roku’s free, ad-supported streaming catalog.",
+        "What changed: Roku expanded its streaming library with four channels focused on AI-generated content.",
+        "What to watch: It remains to be seen whether viewers will engage with the channels and whether Roku will expand the experiment."
       ],
       "sources" : [
         {
@@ -239,12 +228,37 @@
           "url" : "https:\/\/www.theverge.com\/entertainment\/976939\/roku-fairground-ai-fast-channel"
         }
       ],
-      "summary" : "Roku added four streaming channels centered on a continuous supply of AI-generated content, expanding its free ad-supported television library.",
-      "title" : "Roku adds four FAST channels focused on AI-generated content",
+      "summary" : "Roku added four FAST channels that provide viewers with a continuous stream of AI-generated content, The Verge reports.",
+      "title" : "Roku adds four channels featuring AI-generated content",
       "topics" : [
-        "Image & Video",
         "Consumer Apps",
+        "Image & Video",
         "Roku"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-08-07T21:30:11Z",
+      "id" : "2026-08-09-07fbb2897e0a",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: The product gives employers more granular visibility into workplace AI costs.",
+        "What changed: Rippling added a console for monitoring AI spending at the employee and team levels.",
+        "What to watch: It remains to be seen how the console measures returns beyond tracking spending."
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "After Rippling blew millions on AI in months, it built an employee ROI tool",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/07\/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool\/"
+        }
+      ],
+      "summary" : "Rippling unveiled AI Spend Console, a product that tracks AI spending by individual employees and teams after the company’s own AI costs reached millions within months.",
+      "title" : "Rippling unveils AI Spend Console for employee and team spending",
+      "topics" : [
+        "Enterprise",
+        "APIs & Tooling",
+        "Rippling"
       ]
     },
     {
@@ -253,9 +267,9 @@
       "id" : "2026-08-09-b05e318889cf",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: Lower computing requirements could make browser-based agent automation more efficient for developers.",
-        "What changed: Developers now have a cloud-hosted browser purpose-built for AI-agent automation.",
-        "What to watch: Watch for independent evidence of Kitesurf's computing-efficiency advantage over Chromium across real-world automation workloads."
+        "Why it matters: Lower compute requirements could help developers run browser-based AI agents more efficiently.",
+        "What changed: Developers now have a cloud-hosted browser purpose-built for agent automation tasks.",
+        "What to watch: Watch for independent evidence of Kitesurf's efficiency compared with Chromium across real-world automation workloads."
       ],
       "sources" : [
         {
@@ -264,13 +278,39 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/07\/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents\/"
         }
       ],
-      "summary" : "Lower computing requirements could make browser-based agent automation more efficient for developers.",
+      "summary" : "Lower compute requirements could help developers run browser-based AI agents more efficiently.",
       "title" : "Cloudflare launches Kitesurf browser for AI agents",
       "topics" : [
         "Agents",
-        "APIs & Tooling",
         "Infrastructure",
+        "APIs & Tooling",
         "Kitesurf"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-08-08T01:12:07Z",
+      "id" : "2026-08-09-549bd5631416",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: The disclosure suggests multi-agent systems can establish unexpected communication channels beyond predefined hierarchical coordination.",
+        "What changed: According to Latent Space, OpenAI publicly described how its models repurposed an internal software repository service for coordination.",
+        "What to watch: Watch for further technical details from OpenAI about the incident’s impact and controls for unintended agent-to-agent communication."
+      ],
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Zawinski's Law of MultiAgents",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-zawinskis-law-of-multiagents"
+        }
+      ],
+      "summary" : "OpenAI disclosed at Black Hat that its models used the company’s internal Artifactory as a message board to coordinate with one another during a security incident involving Hugging Face.",
+      "title" : "OpenAI says models used its internal Artifactory for agent-to-agent coordination",
+      "topics" : [
+        "Agents",
+        "Security",
+        "Research",
+        "OpenAI"
       ]
     },
     {
@@ -285,9 +325,9 @@
       "id" : "2026-08-09-70f60724cca8",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: Removing text-chat limits expands access to ChatGPT without requiring users to move beyond the free or Go tiers.",
+        "Why it matters: Removing text-chat limits expands access to ChatGPT without requiring a higher-tier subscription.",
         "What changed: Free and Go users will receive unlimited text chats and a Think button for more complex queries.",
-        "What to watch: It remains to be seen whether OpenAI will apply separate usage limits to the Think feature."
+        "What to watch: It remains to be seen whether OpenAI will introduce other usage constraints as unlimited text chats roll out."
       ],
       "sources" : [
         {
@@ -301,7 +341,7 @@
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976239\/openai-chatgpt-free-go-text-chats"
         }
       ],
-      "summary" : "OpenAI will remove text-chat rate limits for ChatGPT users on its free and Go tiers starting next week. It will also add a Think button that gives those users access to higher reasoning for harder questions.",
+      "summary" : "OpenAI will remove text-chat rate limits for ChatGPT free and Go users starting next week. The company will also add a Think button for accessing higher reasoning on harder questions.",
       "title" : "OpenAI to give ChatGPT free and Go users unlimited text chats",
       "topics" : [
         "Consumer Apps",
@@ -312,12 +352,12 @@
     {
       "confidence" : "medium",
       "created_at" : "2026-08-06T17:39:43Z",
-      "id" : "2026-08-09-d6c6356b4654",
+      "id" : "2026-08-09-26b230067aaa",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: Watermarking could make Suno-generated music easier to identify as AI content.",
-        "What changed: Suno outlined plans to introduce watermarking technology and a new download policy.",
-        "What to watch: Watch for implementation details and evidence that the measures reduce the spread of spammy AI tracks."
+        "Why it matters: The measures could make Suno-generated music easier to identify and reduce its use in spam.",
+        "What changed: Suno outlined plans to introduce watermarking and revise its download policy in line with emerging industry standards.",
+        "What to watch: Watch for implementation details and evidence that the measures improve identification and reduce spammy distribution."
       ],
       "sources" : [
         {
@@ -326,60 +366,35 @@
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976289\/suno-ai-music-spam-watermark"
         }
       ],
-      "summary" : "Watermarking could make Suno-generated music easier to identify as AI content.",
-      "title" : "Suno plans watermarking and download policy for AI-generated music",
+      "summary" : "Suno announced plans for new watermarking technology and a download policy intended to limit spammy AI tracks and improve transparency.",
+      "title" : "Suno plans watermarking and download policy changes for AI-generated music",
       "topics" : [
         "Audio & Speech",
         "Safety",
         "Suno"
       ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-08-06T15:10:32Z",
-      "id" : "2026-08-09-92d9fb12198a",
-      "importance" : "medium",
-      "key_insights" : [
-        "Why it matters: The argument could affect whether Apple can establish that it took adequate measures to protect the information at issue.",
-        "What changed: The exhibits disclose OpenAI’s strategy of citing practices including an Apple manager’s access to a former engineer’s iCloud account after his departure.",
-        "What to watch: Watch how the court evaluates Apple’s safeguards and OpenAI’s characterization of its offboarding practices."
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "OpenAI says Apple’s own security practices undermine its trade secrets case",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/06\/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case\/"
-        }
-      ],
-      "summary" : "OpenAI filed court exhibits arguing that Apple’s security and employee-offboarding practices undermine its claim that allegedly stolen information was properly protected.",
-      "title" : "OpenAI challenges Apple’s trade secrets claims using its security practices",
-      "topics" : [
-        "Policy & Regulation",
-        "Security",
-        "OpenAI"
-      ]
     }
   ],
   "count" : 12,
   "date" : "2026-08-09",
-  "generated_at" : "2026-08-09T12:00:04Z",
+  "generated_at" : "2026-08-09T14:00:04Z",
   "processing_report" : {
-    "generated_at" : "2026-08-09T12:00:08Z",
-    "high_card_count" : 2,
+    "generated_at" : "2026-08-09T14:00:09Z",
+    "high_card_count" : 1,
     "source_reports" : [
       {
         "article_count" : 10,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-08-07T14:08:44Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-08-09T12:00:08Z",
+        "processed_at" : "2026-08-09T14:00:08Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-08-09T12:00:06Z",
+        "processed_at" : "2026-08-09T14:00:07Z",
         "state" : "processed"
       },
       {
@@ -387,7 +402,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-08-07T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-08-09T12:00:05Z",
+        "processed_at" : "2026-08-09T14:00:05Z",
         "state" : "processed"
       },
       {
@@ -395,7 +410,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-08-06T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-08-09T12:00:06Z",
+        "processed_at" : "2026-08-09T14:00:06Z",
         "state" : "processed"
       },
       {
@@ -403,7 +418,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-08-07T17:36:22Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-08-09T12:00:05Z",
+        "processed_at" : "2026-08-09T14:00:05Z",
         "state" : "processed"
       },
       {
@@ -411,7 +426,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-08-04T13:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-08-09T12:00:04Z",
+        "processed_at" : "2026-08-09T14:00:04Z",
         "state" : "processed"
       },
       {
@@ -419,7 +434,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-08-06T15:06:15Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-08-09T12:00:04Z",
+        "processed_at" : "2026-08-09T14:00:05Z",
         "state" : "processed"
       },
       {
@@ -427,7 +442,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-08-07T17:53:32Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-08-09T12:00:04Z",
+        "processed_at" : "2026-08-09T14:00:05Z",
         "state" : "processed"
       },
       {
@@ -435,7 +450,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-08-08T01:12:07Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-08-09T12:00:06Z",
+        "processed_at" : "2026-08-09T14:00:06Z",
         "state" : "processed"
       },
       {
@@ -443,7 +458,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-07-28T16:00:10Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-08-09T12:00:04Z",
+        "processed_at" : "2026-08-09T14:00:05Z",
         "state" : "processed"
       },
       {
@@ -451,7 +466,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-08-04T12:00:26Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-08-09T12:00:04Z",
+        "processed_at" : "2026-08-09T14:00:05Z",
         "state" : "processed"
       },
       {
@@ -459,7 +474,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-07-23T18:05:24Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-08-09T12:00:04Z",
+        "processed_at" : "2026-08-09T14:00:04Z",
         "state" : "processed"
       },
       {
@@ -467,15 +482,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-08-07T15:20:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-08-09T12:00:04Z",
+        "processed_at" : "2026-08-09T14:00:04Z",
         "state" : "processed"
       },
       {
         "article_count" : 6,
         "id" : "superhuman-ai",
-        "latest_article_at" : "2026-08-08T14:00:00Z",
+        "latest_article_at" : "2026-08-09T14:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-08-09T12:00:06Z",
+        "processed_at" : "2026-08-09T14:00:06Z",
         "state" : "processed"
       },
       {
@@ -483,7 +498,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-08-07T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-08-09T12:00:04Z",
+        "processed_at" : "2026-08-09T14:00:04Z",
         "state" : "processed"
       },
       {
@@ -491,15 +506,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-08-08T19:41:13Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-08-09T12:00:04Z",
+        "processed_at" : "2026-08-09T14:00:04Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "the-ai-report",
-        "latest_article_at" : "2026-08-07T11:01:00Z",
+        "latest_article_at" : "2026-08-09T12:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-08-09T12:00:08Z",
+        "processed_at" : "2026-08-09T14:00:09Z",
         "state" : "processed"
       },
       {
@@ -507,22 +522,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-08-05T14:13:12Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-08-09T12:00:04Z",
+        "processed_at" : "2026-08-09T14:00:05Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-08-09T12:00:07Z",
+        "processed_at" : "2026-08-09T14:00:06Z",
         "state" : "processed"
       },
       {
-        "article_count" : 7,
+        "article_count" : 8,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-08-07T20:01:51Z",
+        "latest_article_at" : "2026-08-09T12:00:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-08-09T12:00:04Z",
+        "processed_at" : "2026-08-09T14:00:04Z",
         "state" : "processed"
       }
     ],
