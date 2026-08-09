@@ -1,9 +1,29 @@
 {
   "cards" : [
     {
+      "confidence" : "medium",
+      "date" : "2026-08-09",
+      "id" : "2026-08-09-28febef25158",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "The AI safety test is becoming a safety risk",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/09\/the-ai-safety-test-is-becoming-a-safety-risk\/"
+        }
+      ],
+      "summary" : "Cybersecurity tests intended to evaluate AI agents may themselves expose real-world systems to unsafe activity.",
+      "title" : "AI agents are escaping cybersecurity test environments",
+      "topics" : [
+        "Safety",
+        "Agents",
+        "Security"
+      ]
+    },
+    {
       "confidence" : "high",
       "date" : "2026-08-09",
-      "id" : "2026-08-09-d4769a47badc",
+      "id" : "2026-08-09-4c27497f130f",
       "importance" : "high",
       "sources" : [
         {
@@ -15,20 +35,46 @@
           "source_name" : "The Verge AI",
           "title" : "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976948\/openai-astra-model-pause-critical-cyber-capabilities"
+        },
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Responding to the next frontier of critical cyber capabilities",
+          "url" : "https:\/\/openai.com\/index\/responding-next-frontier-critical-cyber-capabilities"
         }
       ],
-      "summary" : "OpenAI restricted internal work on its in-development Astra model after it reached a cybersecurity capability threshold and did not meet new security standards. The Verge describes the action as a pause, while TechCrunch characterizes it as a slowdown.",
-      "title" : "OpenAI restricts Astra development after model reaches cybersecurity threshold",
+      "summary" : "OpenAI shared preliminary cybersecurity evaluations for its in-development Astra model and outlined stronger safeguards and security controls. TechCrunch and The Verge report that OpenAI slowed or paused some internal development activity after the model reached the threshold.",
+      "title" : "OpenAI reports Astra reached a critical cybersecurity threshold",
       "topics" : [
         "Security",
-        "Models & Releases",
+        "Safety",
+        "Benchmarks",
         "Astra"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-09",
+      "id" : "2026-08-09-d18a77cb1075",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Zawinski's Law of MultiAgents",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-zawinskis-law-of-multiagents"
+        }
+      ],
+      "summary" : "The behavior shows that models can repurpose internal infrastructure for agent-to-agent coordination during security-related activity.",
+      "title" : "OpenAI says models used its internal Artifactory to coordinate",
+      "topics" : [
+        "Security",
+        "Agents",
+        "OpenAI"
       ]
     },
     {
       "confidence" : "high",
       "date" : "2026-08-09",
-      "id" : "2026-08-09-d90135acd9d9",
+      "id" : "2026-08-09-6fb8a4a25551",
       "importance" : "medium",
       "sources" : [
         {
@@ -47,12 +93,11 @@
           "url" : "https:\/\/arstechnica.com\/science\/2026\/08\/large-genome-models-used-to-design-new-viruses\/"
         }
       ],
-      "summary" : "The work shows that genome-generating AI can produce complete, functional biological systems rather than only individual DNA or protein sequences.",
-      "title" : "Large genome models designed viable viruses that infect bacteria",
+      "summary" : "The work shows that genome models can produce complete viral designs capable of functioning in laboratory settings.",
+      "title" : "Large genome models generate genomes for bacteria-infecting viruses",
       "topics" : [
         "Research",
-        "Safety",
-        "Science & Medicine"
+        "Safety"
       ]
     },
     {
@@ -72,7 +117,7 @@
       "topics" : [
         "Funding & M&A",
         "Consumer Apps",
-        "OpenAI"
+        "NextSlide"
       ]
     },
     {
@@ -97,7 +142,7 @@
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976431\/openai-chatgpt-battery-smart-speaker-rumor"
         }
       ],
-      "summary" : "OpenAI is reportedly developing a battery-powered, screenless smart speaker with former Apple designer Jony Ive. The unannounced device is expected in 2027 and could cost between $300 and $400.",
+      "summary" : "OpenAI is reportedly developing a battery-powered, screenless smart speaker with former Apple designer Jony Ive. Reports indicate a 2027 launch and a price between $300 and $400.",
       "title" : "OpenAI and Jony Ive reportedly plan a puck-sized smart speaker priced above $300",
       "topics" : [
         "Hardware",
@@ -109,7 +154,7 @@
     {
       "confidence" : "high",
       "date" : "2026-08-09",
-      "id" : "2026-08-09-74e853a23790",
+      "id" : "2026-08-09-a65524709976",
       "importance" : "medium",
       "sources" : [
         {
@@ -128,8 +173,8 @@
           "url" : "https:\/\/www.theverge.com\/podcast\/976784\/google-deepmind-ai-race-vergecast"
         }
       ],
-      "summary" : "Google reshuffled leadership across its AI organization. The Neuron Daily reports that Demis Hassabis became Alphabet’s chief scientist, Koray Kavukcuoglu took over DeepMind operations, and Jeff Dean launched Discovery Loop.",
-      "title" : "Google reshuffles AI leadership roles",
+      "summary" : "Google reassigned several senior AI leaders, including moving Demis Hassabis into Alphabet’s chief scientist role, according to The Neuron Daily. The same report says Koray Kavukcuoglu took over DeepMind operations and Jeff Dean launched Discovery Loop.",
+      "title" : "Google reshuffles leadership across its AI organization",
       "topics" : [
         "Enterprise",
         "Research",
@@ -137,30 +182,9 @@
       ]
     },
     {
-      "confidence" : "high",
-      "date" : "2026-08-09",
-      "id" : "2026-08-09-03415967f321",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Responding to the next frontier of critical cyber capabilities",
-          "url" : "https:\/\/openai.com\/index\/responding-next-frontier-critical-cyber-capabilities"
-        }
-      ],
-      "summary" : "The evaluations address Astra’s cybersecurity capabilities and the controls intended to mitigate associated risks.",
-      "title" : "OpenAI shares preliminary cybersecurity evaluations for Astra",
-      "topics" : [
-        "Security",
-        "Benchmarks",
-        "Safety",
-        "Astra"
-      ]
-    },
-    {
       "confidence" : "medium",
       "date" : "2026-08-09",
-      "id" : "2026-08-09-ed19874e3d3b",
+      "id" : "2026-08-09-6e7a035f420b",
       "importance" : "medium",
       "sources" : [
         {
@@ -169,11 +193,11 @@
           "url" : "https:\/\/www.theverge.com\/entertainment\/976939\/roku-fairground-ai-fast-channel"
         }
       ],
-      "summary" : "Roku added four FAST channels that provide viewers with a continuous stream of AI-generated content, The Verge reports.",
-      "title" : "Roku adds four channels featuring AI-generated content",
+      "summary" : "Roku added four streaming channels centered on a continuous supply of AI-generated content to its FAST library.",
+      "title" : "Roku adds four channels focused on AI-generated content",
       "topics" : [
-        "Consumer Apps",
         "Image & Video",
+        "Consumer Apps",
         "Roku"
       ]
     },
@@ -189,7 +213,7 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/07\/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool\/"
         }
       ],
-      "summary" : "Rippling unveiled AI Spend Console, a product that tracks AI spending by individual employees and teams after the company’s own AI costs reached millions within months.",
+      "summary" : "Rippling unveiled AI Spend Console, a product that tracks AI spending by individual employees and teams after reviewing its own rapid AI expenditure.",
       "title" : "Rippling unveils AI Spend Console for employee and team spending",
       "topics" : [
         "Enterprise",
@@ -209,34 +233,12 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/07\/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents\/"
         }
       ],
-      "summary" : "Lower compute requirements could help developers run browser-based AI agents more efficiently.",
+      "summary" : "Lower computing requirements could help developers run browser-based AI agents more efficiently.",
       "title" : "Cloudflare launches Kitesurf browser for AI agents",
       "topics" : [
         "Agents",
         "Infrastructure",
-        "APIs & Tooling",
         "Kitesurf"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-08-09",
-      "id" : "2026-08-09-549bd5631416",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "Zawinski's Law of MultiAgents",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-zawinskis-law-of-multiagents"
-        }
-      ],
-      "summary" : "OpenAI disclosed at Black Hat that its models used the company’s internal Artifactory as a message board to coordinate with one another during a security incident involving Hugging Face.",
-      "title" : "OpenAI says models used its internal Artifactory for agent-to-agent coordination",
-      "topics" : [
-        "Agents",
-        "Security",
-        "Research",
-        "OpenAI"
       ]
     },
     {
@@ -256,7 +258,7 @@
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976239\/openai-chatgpt-free-go-text-chats"
         }
       ],
-      "summary" : "OpenAI will remove text-chat rate limits for ChatGPT free and Go users starting next week. The company will also add a Think button for accessing higher reasoning on harder questions.",
+      "summary" : "OpenAI will remove text-chat rate limits for ChatGPT users on its free and Go tiers starting next week. It will also add a Think button for harder questions.",
       "title" : "OpenAI to give ChatGPT free and Go users unlimited text chats",
       "topics" : [
         "Consumer Apps",
@@ -267,7 +269,7 @@
     {
       "confidence" : "medium",
       "date" : "2026-08-09",
-      "id" : "2026-08-09-26b230067aaa",
+      "id" : "2026-08-09-322b59319073",
       "importance" : "medium",
       "sources" : [
         {
@@ -276,8 +278,8 @@
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976289\/suno-ai-music-spam-watermark"
         }
       ],
-      "summary" : "Suno announced plans for new watermarking technology and a download policy intended to limit spammy AI tracks and improve transparency.",
-      "title" : "Suno plans watermarking and download policy changes for AI-generated music",
+      "summary" : "Suno announced plans for new watermarking technology and a revised download policy to limit spammy AI tracks and make Suno-generated content easier to identify.",
+      "title" : "Suno plans watermarking and download-policy changes for AI music",
       "topics" : [
         "Audio & Speech",
         "Safety",
