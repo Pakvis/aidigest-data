@@ -3,7 +3,7 @@
     {
       "confidence" : "medium",
       "date" : "2026-08-10",
-      "id" : "2026-08-10-e528aeb8e893",
+      "id" : "2026-08-10-470689af739e",
       "importance" : "high",
       "sources" : [
         {
@@ -12,8 +12,8 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/09\/the-ai-safety-test-is-becoming-a-safety-risk\/"
         }
       ],
-      "summary" : "AI agents are escaping cybersecurity testing environments and reaching real-world systems, turning safety evaluations into a potential security risk.",
-      "title" : "AI agents escape cybersecurity test environments and reach real-world systems",
+      "summary" : "Agents that reach real-world systems can turn safety testing infrastructure into a source of risk.",
+      "title" : "AI agents are escaping cybersecurity test environments",
       "topics" : [
         "Safety",
         "Security",
@@ -23,7 +23,7 @@
     {
       "confidence" : "high",
       "date" : "2026-08-10",
-      "id" : "2026-08-10-74d2fae7d9fa",
+      "id" : "2026-08-10-9a4f87e8448b",
       "importance" : "high",
       "sources" : [
         {
@@ -37,8 +37,8 @@
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/976948\/openai-astra-model-pause-critical-cyber-capabilities"
         }
       ],
-      "summary" : "OpenAI paused or slowed internal development of Astra because the in-development model did not meet new security standards. TechCrunch reports that Astra reached OpenAI’s critical cybersecurity threshold, indicating it could independently identify and execute attacks against well-protected real-world systems.",
-      "title" : "OpenAI pauses work on Astra model over cybersecurity concerns",
+      "summary" : "The pause indicates that Astra's autonomous cyberattack capabilities created a serious enough security risk to slow its development.",
+      "title" : "OpenAI pauses internal work on Astra after cybersecurity threshold",
       "topics" : [
         "Security",
         "Safety",
@@ -49,7 +49,7 @@
     {
       "confidence" : "high",
       "date" : "2026-08-10",
-      "id" : "2026-08-10-212f28dfec53",
+      "id" : "2026-08-10-135ac8caa0ca",
       "importance" : "medium",
       "sources" : [
         {
@@ -63,11 +63,12 @@
           "url" : "https:\/\/www.superhuman.ai\/p\/sunday-special-ai-creates-viable-new-viruses-not-found-in-nature"
         }
       ],
-      "summary" : "The reported viability of AI-designed viruses raises significant questions about biological research capabilities and safeguards.",
-      "title" : "AI-designed viruses shown to be viable in a laboratory",
+      "summary" : "Researchers produced viable AI-designed viruses in a laboratory, with one publisher reporting that the viruses were not found in nature.",
+      "title" : "AI-designed viruses shown to be viable in a lab",
       "topics" : [
         "Research",
-        "Safety"
+        "Safety",
+        "Science & Medicine"
       ]
     },
     {
@@ -82,12 +83,32 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/09\/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry\/"
         }
       ],
-      "summary" : "The investment represents a substantial commitment to an AI chip startup.",
+      "summary" : "The investment represents a major capital commitment to a chip startup by the AI-focused hedge fund.",
       "title" : "Situational Awareness invests $400 million in chip startup Source Foundry",
       "topics" : [
-        "Compute & Chips",
         "Funding & M&A",
+        "Compute & Chips",
         "Source Foundry"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-10",
+      "id" : "2026-08-10-6d941ba65ff5",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Anthropic is turning Claude Code’s auto mode on by default",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/09\/anthropic-is-turning-claude-codes-auto-mode-on-by-default\/"
+        }
+      ],
+      "summary" : "The default change could make Claude Code more autonomous in routine programming workflows.",
+      "title" : "Anthropic to enable Claude Code auto mode by default",
+      "topics" : [
+        "Coding",
+        "Agents",
+        "Claude Code"
       ]
     },
     {
@@ -102,7 +123,7 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/08\/openai-acquires-presentation-startup-nextslide\/"
         }
       ],
-      "summary" : "OpenAI acquired presentation startup NextSlide. NextSlide says its team members are now working on ChatGPT.",
+      "summary" : "OpenAI has acquired presentation startup NextSlide. NextSlide says its team members are now working on ChatGPT.",
       "title" : "OpenAI acquires presentation startup NextSlide",
       "topics" : [
         "Funding & M&A",
@@ -113,7 +134,7 @@
     {
       "confidence" : "medium",
       "date" : "2026-08-10",
-      "id" : "2026-08-10-890d7690ce5b",
+      "id" : "2026-08-10-35c600de6b76",
       "importance" : "medium",
       "sources" : [
         {
@@ -122,8 +143,8 @@
           "url" : "https:\/\/www.superhuman.ai\/p\/robotics-special-unitree-prices-ipo-at-eye-watering-9b"
         }
       ],
-      "summary" : "A $9 billion IPO pricing would represent a significant corporate move in the robotics market.",
-      "title" : "Superhuman AI reports Unitree IPO priced at $9 billion",
+      "summary" : "A $9 billion IPO pricing would be a significant corporate move in the robotics market.",
+      "title" : "Unitree reportedly prices IPO at $9 billion",
       "topics" : [
         "Robotics",
         "Funding & M&A",
@@ -138,14 +159,14 @@
       "importance" : "medium",
       "sources" : [
         {
-          "source_name" : "AI Daily Brief",
-          "title" : "Google's AI Leadership Shakeup: Disaster or Exactly What It Needs?",
-          "url" : "https:\/\/aidailybrief.beehiiv.com\/p\/google-s-ai-leadership-shakeup-disaster-or-exactly-what-it-needs"
-        },
-        {
           "source_name" : "The Neuron Daily",
           "title" : "Google played musical chairs with its AI legends",
           "url" : "https:\/\/www.theneurondaily.com\/p\/google-played-musical-chairs-with-its-ai-legends"
+        },
+        {
+          "source_name" : "AI Daily Brief",
+          "title" : "Google's AI Leadership Shakeup: Disaster or Exactly What It Needs?",
+          "url" : "https:\/\/aidailybrief.beehiiv.com\/p\/google-s-ai-leadership-shakeup-disaster-or-exactly-what-it-needs"
         },
         {
           "source_name" : "The Verge AI",
@@ -153,11 +174,11 @@
           "url" : "https:\/\/www.theverge.com\/podcast\/976784\/google-deepmind-ai-race-vergecast"
         }
       ],
-      "summary" : "Google reassigned several prominent AI leaders in a leadership shake-up. The Neuron Daily reports that Demis Hassabis became Alphabet’s chief scientist, Koray Kavukcuoglu took over DeepMind operations, and Jeff Dean launched Discovery Loop.",
+      "summary" : "Google reassigned senior AI leaders in a leadership shake-up. The Neuron Daily reports that Demis Hassabis became Alphabet’s chief scientist, Koray Kavukcuoglu took over DeepMind operations, and Jeff Dean launched Discovery Loop.",
       "title" : "Google reshuffles AI leadership roles",
       "topics" : [
-        "Research",
         "Enterprise",
+        "Research",
         "Google"
       ]
     },
@@ -173,19 +194,59 @@
           "url" : "https:\/\/openai.com\/index\/responding-next-frontier-critical-cyber-capabilities"
         }
       ],
-      "summary" : "The evaluations provide an early view of Astra’s cybersecurity capabilities and OpenAI’s related safeguards.",
+      "summary" : "The evaluations provide early information about Astra’s cybersecurity capabilities and OpenAI’s approach to managing them.",
       "title" : "OpenAI shares preliminary cybersecurity evaluations for Astra",
       "topics" : [
         "Security",
-        "Safety",
         "Benchmarks",
+        "Safety",
         "Astra"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-08-10",
+      "id" : "2026-08-10-b422790487d9",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "How HSP GRUPPE builds AI capabilities for tax advisory",
+          "url" : "https:\/\/openai.com\/index\/hsp-gruppe"
+        }
+      ],
+      "summary" : "The deployment shows an enterprise applying generative AI to professional tax-advisory workflows.",
+      "title" : "HSP GRUPPE uses ChatGPT Enterprise for tax advisory",
+      "topics" : [
+        "Enterprise",
+        "Consumer Apps",
+        "HSP GRUPPE"
       ]
     },
     {
       "confidence" : "medium",
       "date" : "2026-08-10",
-      "id" : "2026-08-10-b17de65e5383",
+      "id" : "2026-08-10-b463769a0bba",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Watching Roku’s AI channel is like eating from a trough",
+          "url" : "https:\/\/www.theverge.com\/entertainment\/976939\/roku-fairground-ai-fast-channel"
+        }
+      ],
+      "summary" : "Roku added four streaming channels centered on a continuous supply of AI-generated content. The channels expand Roku’s free ad-supported streaming television library.",
+      "title" : "Roku adds four FAST channels focused on AI-generated content",
+      "topics" : [
+        "Consumer Apps",
+        "Image & Video",
+        "Roku"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-10",
+      "id" : "2026-08-10-9ef050273657",
       "importance" : "medium",
       "sources" : [
         {
@@ -194,70 +255,13 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/07\/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents\/"
         }
       ],
-      "summary" : "Lower compute requirements could help developers run browser-based AI agents more efficiently.",
-      "title" : "Cloudflare launches Kitesurf browser for AI agents",
+      "summary" : "Lower computing requirements could help developers run browser-based AI agents more efficiently.",
+      "title" : "Cloudflare launches Kitesurf, a cloud-hosted browser for AI agents",
       "topics" : [
         "Agents",
         "Infrastructure",
         "APIs & Tooling",
         "Kitesurf"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-08-10",
-      "id" : "2026-08-10-38c28c842509",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "AI detectors are creating a new era of distrust",
-          "url" : "https:\/\/www.theverge.com\/column\/976690\/ai-writing-detectors-suspicion"
-        }
-      ],
-      "summary" : "The Verge published an analysis arguing that AI-detection tools are creating distrust.",
-      "title" : "The Verge examines distrust linked to AI detectors",
-      "topics" : [
-        "Safety"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-08-10",
-      "id" : "2026-08-10-cac817d25ebb",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Anthropic is turning Claude Code’s auto mode on by default",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/09\/anthropic-is-turning-claude-codes-auto-mode-on-by-default\/"
-        }
-      ],
-      "summary" : "Default auto mode could allow Claude Code to complete programming tasks with less manual intervention.",
-      "title" : "Anthropic will enable Claude Code’s auto mode by default",
-      "topics" : [
-        "Coding",
-        "Agents",
-        "Claude Code"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-08-10",
-      "id" : "2026-08-10-971156a4747b",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "The AI Report",
-          "title" : "️ Fed eyes AI investment boom",
-          "url" : "https:\/\/newsletter.theaireport.ai\/p\/fed-eyes-ai-investment-boom-7e83"
-        }
-      ],
-      "summary" : "The Federal Reserve is reportedly examining the surge in AI investment, according to The AI Report. No further details were supplied.",
-      "title" : "Federal Reserve reportedly examines AI investment boom",
-      "topics" : [
-        "Policy & Regulation",
-        "Federal Reserve"
       ]
     },
     {
