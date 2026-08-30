@@ -3,78 +3,6 @@
     {
       "confidence" : "high",
       "consolidation" : {
-        "latest_source_at" : "2026-08-29T18:41:59Z",
-        "message_count" : 2,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
-      },
-      "created_at" : "2026-08-29T18:41:59Z",
-      "id" : "2026-08-30-198255b67bda",
-      "importance" : "medium",
-      "key_insights" : [
-        "Why it matters: The lawsuit could materially affect how AI companies source and use copyrighted material.",
-        "What changed: Two major music publishers have opened a broad copyright case against Anthropic that TechCrunch says focuses on alleged illegal piracy.",
-        "What to watch: Watch whether the court accepts the publishers’ infringement claims and how it assesses the scope and value of any damages."
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/29\/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft\/"
-        },
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Sony Music Publishing and Warner Chappell are suing Anthropic",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/986438\/sony-music-warner-chappell-anthropic-lawsuit-copyright"
-        }
-      ],
-      "summary" : "Sony Music Publishing and Warner Chappell filed a lawsuit against Anthropic alleging intellectual property theft involving copyrighted works. The Verge reports that the case was filed in California federal court and seeks damages for tens of thousands of works.",
-      "title" : "Sony Music Publishing and Warner Chappell sue Anthropic over alleged copyright infringement",
-      "topics" : [
-        "Policy & Regulation",
-        "Data",
-        "Anthropic"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "consolidation" : {
-        "latest_source_at" : "2026-08-28T12:46:12Z",
-        "message_count" : 2,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
-      },
-      "created_at" : "2026-08-28T12:46:12Z",
-      "id" : "2026-08-30-977b120da90b",
-      "importance" : "high",
-      "key_insights" : [
-        "Why it matters: The ruling limits the administration’s ability to exclude Anthropic from government supply chains through the challenged designation.",
-        "What changed: Anthropic won its legal challenge to the Pentagon’s supply-chain risk label.",
-        "What to watch: TechCrunch reports that Anthropic’s second Pentagon lawsuit remains pending in Washington."
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/28\/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label\/"
-        },
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Anthropic was illegally blacklisted by the Trump administration, court rules",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/985947\/anthropic-supply-chain-risk-lawsuit-judge-ruling"
-        }
-      ],
-      "summary" : "A federal judge ruled that the Trump administration illegally labeled Anthropic a Pentagon supply-chain risk, giving the AI company a court victory.",
-      "title" : "Federal judge rules Pentagon’s Anthropic blacklist illegal",
-      "topics" : [
-        "Policy & Regulation",
-        "Enterprise",
-        "Anthropic"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "consolidation" : {
         "latest_source_at" : "2026-08-29T05:11:52Z",
         "message_count" : 2,
         "reason" : "Multiple sources reported the same story.",
@@ -82,11 +10,11 @@
       },
       "created_at" : "2026-08-29T05:11:52Z",
       "id" : "2026-08-30-faf518c637be",
-      "importance" : "medium",
+      "importance" : "high",
       "key_insights" : [
-        "Why it matters: The decision changes Cursor’s access to OpenAI models and may affect its model offerings.",
-        "What changed: OpenAI decided to end its model-supply contract with Cursor after SpaceX completed the acquisition.",
-        "What to watch: Watch for details on the wind-down timeline and how Cursor replaces affected OpenAI model access."
+        "Why it matters: Ending OpenAI model access changes a significant supplier relationship for Cursor following its acquisition.",
+        "What changed: OpenAI decided to stop providing its models to Cursor under their existing contract.",
+        "What to watch: Watch for details on the wind-down timeline and how Cursor will replace the affected OpenAI models."
       ],
       "sources" : [
         {
@@ -100,38 +28,109 @@
           "url" : "https:\/\/openai.com\/index\/our-decision-on-cursor-following-its-acquisition-by-spacex"
         }
       ],
-      "summary" : "The decision changes Cursor’s access to OpenAI models and may affect its model offerings.",
+      "summary" : "Ending OpenAI model access changes a significant supplier relationship for Cursor following its acquisition.",
       "title" : "OpenAI to wind down model contract with Cursor after SpaceX acquisition",
       "topics" : [
         "Coding",
-        "APIs & Tooling",
+        "Models & Releases",
         "Enterprise",
         "Cursor"
       ]
     },
     {
-      "confidence" : "medium",
-      "created_at" : "2026-08-28T16:28:40Z",
-      "id" : "2026-08-30-59204e32c5cc",
+      "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-08-29T18:41:59Z",
+        "message_count" : 2,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
+      "created_at" : "2026-08-29T18:41:59Z",
+      "id" : "2026-08-30-198255b67bda",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The change could reduce public scrutiny of air pollution from new data centers and other industrial developments.",
-        "What changed: The EPA plans to end a federal requirement for public notice and comment on certain industrial air-permit applications.",
-        "What to watch: Watch whether the rule is formally withdrawn and what public-participation requirements remain for affected permits."
+        "Why it matters: The case could materially affect how courts assess copyright liability for AI companies accused of using pirated works.",
+        "What changed: Two major music publishers filed a lawsuit against Anthropic in federal court over alleged infringement involving copyrighted works.",
+        "What to watch: Watch whether the court accepts the publishers’ piracy claims and how it determines the scope of any damages."
       ],
       "sources" : [
         {
+          "source_name" : "TechCrunch AI",
+          "title" : "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/29\/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft\/"
+        },
+        {
           "source_name" : "The Verge AI",
-          "title" : "Trump’s EPA wants to let data centers hide their air pollution",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/986176\/data-center-pollution-epa-rule-change-air-permit"
+          "title" : "Sony Music Publishing and Warner Chappell are suing Anthropic",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/986438\/sony-music-warner-chappell-anthropic-lawsuit-copyright"
         }
       ],
-      "summary" : "The US Environmental Protection Agency plans to eliminate a federal rule requiring public notice and comment when certain industrial sites, including data centers, apply for air permits. Advocates say nearby residents could lose advance warning and an opportunity to weigh in.",
-      "title" : "EPA plans to remove public-notice requirement for certain air permits",
+      "summary" : "Sony Music Publishing and Warner Chappell sued Anthropic, alleging widespread intellectual property theft and illegal piracy. The Verge reports that the case covers tens of thousands of copyrighted works and could seek several billion dollars in damages.",
+      "title" : "Sony Music Publishing and Warner Chappell sue Anthropic over alleged copyright infringement",
       "topics" : [
         "Policy & Regulation",
+        "Anthropic"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-08-28T12:46:12Z",
+        "message_count" : 2,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
+      "created_at" : "2026-08-28T12:46:12Z",
+      "id" : "2026-08-30-1248e852a67a",
+      "importance" : "high",
+      "key_insights" : [
+        "Why it matters: The ruling limits the government’s ability to use national-security designations against an AI supplier.",
+        "What changed: Anthropic secured a court victory against the Pentagon designation that restricted its status as a government supplier.",
+        "What to watch: A second Pentagon lawsuit involving Anthropic remains pending in Washington, according to TechCrunch."
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/28\/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label\/"
+        },
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Anthropic was illegally blacklisted by the Trump administration, court rules",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/985947\/anthropic-supply-chain-risk-lawsuit-judge-ruling"
+        }
+      ],
+      "summary" : "A federal judge ruled that the Trump administration illegally designated Anthropic a Pentagon supply-chain risk. The Verge reported that the judge also found the blacklisting unconstitutional.",
+      "title" : "Federal judge rules Pentagon illegally blacklisted Anthropic",
+      "topics" : [
+        "Policy & Regulation",
+        "Enterprise",
+        "Anthropic"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-08-30T15:00:00Z",
+      "id" : "2026-08-30-2e801f0efd5c",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: Caterpillar’s experience deploying autonomous equipment in remote industrial environments could inform its approach to operational AI systems.",
+        "What changed: The company is extending expertise gained from mining automation into AI deployment.",
+        "What to watch: Watch for specific AI products, deployment methods, customers, or timelines from Caterpillar."
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Caterpillar is bringing to AI deployment what it learned from automating mining",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/30\/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining\/"
+        }
+      ],
+      "summary" : "Caterpillar is applying lessons from decades of operating autonomous machines at remote mining sites to AI deployment.",
+      "title" : "Caterpillar applies mining automation experience to AI deployment",
+      "topics" : [
+        "Enterprise",
         "Infrastructure",
-        "US Environmental Protection Agency"
+        "Caterpillar"
       ]
     },
     {
@@ -140,9 +139,9 @@
       "id" : "2026-08-30-244466dc5c08",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The financing highlights the substantial capital required to expand AI computing capacity.",
-        "What changed: Lambda added $1 billion in private debt to finance more Nvidia AI chips for Microsoft leases.",
-        "What to watch: Watch how quickly Lambda deploys the financed chips and expands its leasing capacity."
+        "Why it matters: The financing underscores the high capital requirements of expanding AI computing infrastructure.",
+        "What changed: Lambda obtained $1 billion in private debt to finance additional Nvidia chip purchases.",
+        "What to watch: Watch whether the debt-funded chips expand Lambda’s leasing capacity for Microsoft as planned."
       ],
       "sources" : [
         {
@@ -156,18 +155,45 @@
       "topics" : [
         "Compute & Chips",
         "Funding & M&A",
+        "Infrastructure",
         "Lambda"
       ]
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-08-28T18:19:40Z",
-      "id" : "2026-08-30-7ad81852e5fa",
+      "created_at" : "2026-08-28T19:30:38Z",
+      "id" : "2026-08-30-028747479c79",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The reported interest suggests investors and potential acquirers see commercial value in companies built around freely available model weights.",
-        "What changed: Open-weight AI companies are reportedly becoming sought-after acquisition targets in Silicon Valley.",
-        "What to watch: Watch for announced transactions or investment figures that substantiate the reported trend."
+        "Why it matters: The result suggests automated systems may improve targeted behavior while preserving broader performance.",
+        "What changed: The systems improved performance on all 10 supplied benchmarks without reported overall performance degradation.",
+        "What to watch: Further methodological details and independent replication are needed to establish how broadly the result applies."
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "An Anthropic researcher just gave us a peek at self-improving AI",
+          "url" : "https:\/\/techcrunch.com\/2026\/08\/28\/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai\/"
+        }
+      ],
+      "summary" : "An Anthropic researcher demonstrated automated systems that improved performance on 10 benchmarks targeting specific misaligned behaviors without reducing overall performance, according to TechCrunch.",
+      "title" : "Anthropic researcher demonstrates automated improvement across 10 benchmarks",
+      "topics" : [
+        "Research",
+        "Benchmarks",
+        "Safety",
+        "Anthropic"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-08-28T18:19:40Z",
+      "id" : "2026-08-30-c53a2b547350",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: The reported investment interest suggests buyers see commercial value in companies built around freely available models.",
+        "What changed: TechCrunch identifies open-weight AI companies as prominent acquisition targets amid increased capital inflows.",
+        "What to watch: Watch for announced acquisitions or disclosed investments that substantiate the reported trend."
       ],
       "sources" : [
         {
@@ -176,83 +202,48 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/28\/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets\/"
         }
       ],
-      "summary" : "TechCrunch reports that Silicon Valley buyers are increasingly targeting open-weight AI companies as capital flows into businesses that give models away.",
-      "title" : "TechCrunch reports rising acquisition interest in open-weight AI companies",
+      "summary" : "Open-weight AI companies are attracting acquisition interest in Silicon Valley, according to TechCrunch. The report says significant capital is flowing into businesses that give away models.",
+      "title" : "Open-weight AI companies emerge as acquisition targets",
       "topics" : [
         "Funding & M&A",
-        "Open Source",
-        "Models & Releases"
+        "Open Source"
       ]
     },
     {
       "confidence" : "high",
-      "created_at" : "2026-08-28T02:00:00Z",
-      "id" : "2026-08-30-7dd04e9df365",
+      "consolidation" : {
+        "latest_source_at" : "2026-08-28T17:58:54Z",
+        "message_count" : 3,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 3
+      },
+      "created_at" : "2026-08-28T17:58:54Z",
+      "id" : "2026-08-30-cde2ef4c8924",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The accelerator supports a small cohort of Thai startups working to move AI prototypes toward deployable products.",
-        "What changed: Ten startups in health, wellness, and education will participate in the new eight-week program.",
-        "What to watch: Watch whether participating startups successfully develop their prototypes into trusted products."
+        "Why it matters: The standard could extend AI agents beyond software-based tasks to operating physical equipment through a common interface.",
+        "What changed: Anthropic added a proposed translation layer between AI agents and different types of hardware.",
+        "What to watch: Watch for details on supported devices, safety controls, availability, and adoption outside laboratory equipment."
       ],
       "sources" : [
         {
-          "source_name" : "OpenAI News",
-          "title" : "Supporting Thailand’s next generation of AI startups",
-          "url" : "https:\/\/openai.com\/index\/supporting-next-generation-ai-startups-thailand"
-        }
-      ],
-      "summary" : "OpenAI and Thailand’s Ministry of Higher Education, Science, Research and Innovation launched an eight-week accelerator for 10 health, wellness, and education startups. The program aims to help participants turn AI prototypes into trusted products.",
-      "title" : "OpenAI and Thailand’s MHESI launch AI startup accelerator",
-      "topics" : [
-        "Enterprise",
-        "Models & Releases",
-        "OpenAI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-08-27T19:30:00Z",
-      "id" : "2026-08-30-1b04642ae300",
-      "importance" : "medium",
-      "key_insights" : [
-        "Why it matters: The integration makes purchased books directly usable as source material for questions and AI-generated content.",
-        "What changed: Users can now bring titles from Google Play Books into Gemini Notebook through the Expert Intelligence feature.",
-        "What to watch: It remains to be seen how accurately the app answers questions and generates materials from book content."
-      ],
-      "sources" : [
+          "source_name" : "The Neuron Daily",
+          "title" : "Anthropic wants Claude operating real lab gear",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/anthropic-wants-claude-operating-real-lab-gear"
+        },
         {
-          "source_name" : "The Verge AI",
-          "title" : "Google’s AI note-taking app now allows you to interact with books",
-          "url" : "https:\/\/www.theverge.com\/tech\/985567\/google-gemini-notebook-expert-sources-books"
-        }
-      ],
-      "summary" : "The integration makes purchased books directly usable as source material for questions and AI-generated content.",
-      "title" : "Gemini Notebook adds support for purchased Google Play Books",
-      "topics" : [
-        "Consumer Apps",
-        "Data",
-        "Gemini Notebook"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-08-27T22:15:43Z",
-      "id" : "2026-08-30-cb28b0c44111",
-      "importance" : "medium",
-      "key_insights" : [
-        "Why it matters: The proposed standard extends agent interactions beyond software and digital content to physical hardware.",
-        "What changed: Anthropic created a translation layer designed to connect AI agents with multiple types of devices through standardized drivers.",
-        "What to watch: It remains to be seen which devices will support the standard and how broadly it will be adopted."
-      ],
-      "sources" : [
+          "source_name" : "AI Breakfast",
+          "title" : "Anthropic just taught Claude how to run the lab equipment",
+          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/anthropic-just-taught-claude-how-to-run-the-lab-equipment"
+        },
         {
           "source_name" : "Ars Technica AI",
           "title" : "Anthropic's new hardware standard lets AI agents control the physical world",
           "url" : "https:\/\/arstechnica.com\/ai\/2026\/08\/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world\/"
         }
       ],
-      "summary" : "The proposed standard extends agent interactions beyond software and digital content to physical hardware.",
-      "title" : "Anthropic introduces Model Hardware Standard for AI-controlled devices",
+      "summary" : "Anthropic introduced the Model Hardware Standard, a set of standardized drivers intended to connect AI agents with physical devices. Ars Technica describes support for arbitrary devices, while two newsletters specifically report Claude interacting with laboratory equipment.",
+      "title" : "Anthropic introduces Model Hardware Standard for AI agent device control",
       "topics" : [
         "Agents",
         "Hardware",
@@ -261,14 +252,89 @@
       ]
     },
     {
-      "confidence" : "medium",
-      "created_at" : "2026-08-28T12:21:06Z",
-      "id" : "2026-08-30-9f4e27bedac7",
+      "confidence" : "high",
+      "created_at" : "2026-08-28T02:00:00Z",
+      "id" : "2026-08-30-7dd04e9df365",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The move gives OpenAI an executive with experience at Meta to oversee operations across parts of the Asia-Pacific region.",
+        "Why it matters: The program supports AI product development in Thailand across health, wellness, and education.",
+        "What changed: Ten startups will receive eight weeks of accelerator support to develop their AI prototypes into products.",
+        "What to watch: Watch whether participating startups convert their prototypes into deployed products."
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Supporting Thailand’s next generation of AI startups",
+          "url" : "https:\/\/openai.com\/index\/supporting-next-generation-ai-startups-thailand"
+        }
+      ],
+      "summary" : "The program supports AI product development in Thailand across health, wellness, and education.",
+      "title" : "OpenAI and Thailand’s MHESI launch AI startup accelerator",
+      "topics" : [
+        "Enterprise",
+        "Research",
+        "OpenAI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-08-28T16:28:40Z",
+      "id" : "2026-08-30-f02745b72b71",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: The change could limit nearby residents’ ability to learn about and respond to proposed industrial air pollution before construction begins.",
+        "What changed: The EPA plans to remove the public notice and comment process for certain industrial air-permit applications.",
+        "What to watch: Watch whether the rule is formally withdrawn and which air-permit applications become exempt from public participation."
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Trump’s EPA wants to let data centers hide their air pollution",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/986176\/data-center-pollution-epa-rule-change-air-permit"
+        }
+      ],
+      "summary" : "The US Environmental Protection Agency plans to eliminate a federal rule requiring public notice and an opportunity to comment when certain industrial sites apply for air permits. The change would apply to data centers and other industrial developments.",
+      "title" : "EPA plans to remove public notice and comment requirement for certain air permits",
+      "topics" : [
+        "Policy & Regulation",
+        "Infrastructure",
+        "EPA"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-08-27T19:30:00Z",
+      "id" : "2026-08-30-8e83c8eab151",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: The integration makes purchased books directly usable as source material for AI-assisted research and content creation.",
+        "What changed: Users can now bring titles purchased through Google Play Books directly into Gemini Notebook.",
+        "What to watch: Watch how accurately the feature answers questions and generates outputs from book content."
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Google’s AI note-taking app now allows you to interact with books",
+          "url" : "https:\/\/www.theverge.com\/tech\/985567\/google-gemini-notebook-expert-sources-books"
+        }
+      ],
+      "summary" : "The integration makes purchased books directly usable as source material for AI-assisted research and content creation.",
+      "title" : "Google’s Gemini Notebook adds support for purchased Google Play Books",
+      "topics" : [
+        "Consumer Apps",
+        "Data",
+        "Gemini Notebook"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-08-28T12:21:06Z",
+      "id" : "2026-08-30-02d6b75b9ab9",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: The move gives OpenAI an executive with experience operating in Asian markets.",
         "What changed: Devanathan is moving from Meta to a role overseeing some OpenAI operations across Southeast Asia and Australia.",
-        "What to watch: Watch for further details about the scope of Devanathan’s role and the operations she will oversee."
+        "What to watch: Watch for further details about her responsibilities and which markets fall under her remit."
       ],
       "sources" : [
         {
@@ -277,75 +343,34 @@
           "url" : "https:\/\/techcrunch.com\/2026\/08\/28\/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india\/"
         }
       ],
-      "summary" : "Sandhya Devanathan is leaving Meta for OpenAI, where she will oversee some operations across Southeast Asia and Australia.",
-      "title" : "Meta executive Sandhya Devanathan leaves for OpenAI role",
+      "summary" : "Sandhya Devanathan is leaving Meta for OpenAI, where she will oversee some operations across Southeast Asia and Australia. Her departure comes as Meta faces growing scrutiny in India.",
+      "title" : "Meta executive Sandhya Devanathan joins OpenAI in regional operations role",
       "topics" : [
         "Enterprise",
         "Sandhya Devanathan"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-08-30T15:00:00Z",
-      "id" : "2026-08-30-2e801f0efd5c",
-      "importance" : "low",
-      "key_insights" : [
-        "Why it matters: Caterpillar's experience deploying autonomous machinery in remote industrial settings may inform how it approaches operational AI systems.",
-        "What changed: The company is extending lessons from mining automation into its AI deployment work.",
-        "What to watch: Watch for details about the AI systems, deployment methods, and operational results."
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Caterpillar is bringing to AI deployment what it learned from automating mining",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/30\/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining\/"
-        }
-      ],
-      "summary" : "Caterpillar is applying experience gained from decades of operating autonomous machines at remote mining sites to AI deployment.",
-      "title" : "Caterpillar applies mining automation experience to AI deployment",
-      "topics" : [
-        "Enterprise",
-        "Infrastructure",
-        "Caterpillar"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-08-29T12:00:00Z",
-      "id" : "2026-08-30-cf5c49c32077",
-      "importance" : "low",
-      "key_insights" : [
-        "Why it matters: The investigations highlight growing difficulty in distinguishing human-made music from AI-generated work derived from artists' output.",
-        "What changed: More sophisticated audio-generation tools and platforms have increased the volume and realism of AI-generated music online.",
-        "What to watch: Watch whether platforms or creators adopt clearer disclosure practices for AI-generated music."
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Musicians-turned-detectives are hunting for AI grifters",
-          "url" : "https:\/\/www.theverge.com\/entertainment\/985866\/h4rris-nihil-young-edm-suno-ai"
-        }
-      ],
-      "summary" : "Musicians are scrutinizing online music suspected of using AI-derived melodies or vocals after some creators denied using generative tools until public pressure prompted disclosure.",
-      "title" : "Musicians investigate suspected AI-generated music presented as human-made",
-      "topics" : [
-        "Audio & Speech",
-        "Consumer Apps"
       ]
     }
   ],
   "count" : 12,
   "date" : "2026-08-30",
-  "generated_at" : "2026-08-30T16:01:00Z",
+  "generated_at" : "2026-08-30T18:01:00Z",
   "processing_report" : {
-    "generated_at" : "2026-08-30T16:01:07Z",
-    "high_card_count" : 1,
+    "generated_at" : "2026-08-30T18:01:04Z",
+    "high_card_count" : 2,
     "source_reports" : [
       {
-        "article_count" : 8,
+        "article_count" : 11,
+        "id" : "ai-breakfast",
+        "latest_article_at" : "2026-08-28T17:58:54Z",
+        "name" : "AI Breakfast",
+        "processed_at" : "2026-08-30T18:01:04Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-08-30T16:01:05Z",
+        "processed_at" : "2026-08-30T18:01:03Z",
         "state" : "processed"
       },
       {
@@ -353,7 +378,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-08-26T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-08-30T16:01:01Z",
+        "processed_at" : "2026-08-30T18:01:01Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 3,
+        "id" : "aireport-nl",
+        "latest_article_at" : "2026-08-25T10:00:00Z",
+        "name" : "AI Report (NL)",
+        "processed_at" : "2026-08-30T18:01:02Z",
         "state" : "processed"
       },
       {
@@ -361,7 +394,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-08-27T22:15:43Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-08-30T16:01:01Z",
+        "processed_at" : "2026-08-30T18:01:01Z",
         "state" : "processed"
       },
       {
@@ -369,7 +402,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-08-27T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-08-30T16:01:01Z",
+        "processed_at" : "2026-08-30T18:01:01Z",
         "state" : "processed"
       },
       {
@@ -377,7 +410,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-08-27T16:11:32Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-08-30T16:01:01Z",
+        "processed_at" : "2026-08-30T18:01:01Z",
         "state" : "processed"
       },
       {
@@ -385,7 +418,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-08-28T00:00:00Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-08-30T16:01:01Z",
+        "processed_at" : "2026-08-30T18:01:01Z",
         "state" : "processed"
       },
       {
@@ -393,7 +426,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-08-29T05:11:52Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-08-30T16:01:01Z",
+        "processed_at" : "2026-08-30T18:01:01Z",
         "state" : "processed"
       },
       {
@@ -401,7 +434,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-07-28T16:00:10Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-08-30T16:01:01Z",
+        "processed_at" : "2026-08-30T18:01:01Z",
         "state" : "processed"
       },
       {
@@ -409,7 +442,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-08-24T16:02:41Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-08-30T16:01:01Z",
+        "processed_at" : "2026-08-30T18:01:01Z",
         "state" : "processed"
       },
       {
@@ -417,7 +450,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-07-23T18:05:24Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-08-30T16:01:01Z",
+        "processed_at" : "2026-08-30T18:01:01Z",
         "state" : "processed"
       },
       {
@@ -425,15 +458,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-08-28T06:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-08-30T16:01:01Z",
+        "processed_at" : "2026-08-30T18:01:01Z",
         "state" : "processed"
       },
       {
-        "article_count" : 3,
+        "article_count" : 8,
         "id" : "superhuman-ai",
-        "latest_article_at" : "2026-08-28T11:02:50Z",
+        "latest_article_at" : "2026-08-29T14:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-08-30T16:01:05Z",
+        "processed_at" : "2026-08-30T18:01:03Z",
         "state" : "processed"
       },
       {
@@ -441,23 +474,23 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-08-28T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-08-30T16:01:01Z",
+        "processed_at" : "2026-08-30T18:01:01Z",
         "state" : "processed"
       },
       {
-        "article_count" : 18,
+        "article_count" : 17,
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-08-30T15:00:00Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-08-30T16:01:01Z",
+        "processed_at" : "2026-08-30T18:01:01Z",
         "state" : "processed"
       },
       {
-        "article_count" : 3,
+        "article_count" : 12,
         "id" : "the-ai-report",
-        "latest_article_at" : "2026-08-27T11:01:00Z",
+        "latest_article_at" : "2026-08-30T12:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-08-30T16:01:06Z",
+        "processed_at" : "2026-08-30T18:01:04Z",
         "state" : "processed"
       },
       {
@@ -465,14 +498,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-08-21T21:14:29Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-08-30T16:01:01Z",
+        "processed_at" : "2026-08-30T18:01:01Z",
         "state" : "processed"
       },
       {
-        "article_count" : 8,
+        "article_count" : 12,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-08-30T16:01:05Z",
+        "processed_at" : "2026-08-30T18:01:03Z",
         "state" : "processed"
       },
       {
@@ -480,24 +513,8 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-08-29T18:19:53Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-08-30T16:01:01Z",
+        "processed_at" : "2026-08-30T18:01:01Z",
         "state" : "processed"
-      },
-      {
-        "article_count" : 0,
-        "id" : "ai-breakfast",
-        "message" : "Source returned no usable AI articles.",
-        "name" : "AI Breakfast",
-        "processed_at" : "2026-08-30T16:01:07Z",
-        "state" : "empty"
-      },
-      {
-        "article_count" : 0,
-        "id" : "aireport-nl",
-        "message" : "Source returned no usable AI articles.",
-        "name" : "AI Report (NL)",
-        "processed_at" : "2026-08-30T16:01:03Z",
-        "state" : "empty"
       }
     ],
     "state" : "complete"
