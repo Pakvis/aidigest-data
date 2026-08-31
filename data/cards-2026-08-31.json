@@ -2,53 +2,6 @@
   "cards" : [
     {
       "confidence" : "medium",
-      "created_at" : "2026-08-29T05:11:52Z",
-      "id" : "2026-08-31-d837e271169f",
-      "importance" : "high",
-      "key_insights" : [
-        "Why it matters: This move highlights the competitive edge of Claude models in coding.",
-        "What changed: OpenAI has removed Cursor from its platform.",
-        "What to watch: Future developments in AI coding tools."
-      ],
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "OpenAI shuts off Cursor",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-openai-shuts-off-cursor"
-        }
-      ],
-      "summary" : "OpenAI shut down the Cursor tool, which was previously featured in the GPT-5 launch video.",
-      "title" : "OpenAI shuts off Cursor",
-      "topics" : [
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "created_at" : "2026-08-28T06:00:00Z",
-      "id" : "2026-08-31-a36c42ee2a74",
-      "importance" : "high",
-      "key_insights" : [
-        "Why it matters: The termination of the contract is significant as it marks a major shift in the landscape of AI development and deployment, with OpenAI News exiting the market for Cursor's services.",
-        "What changed: OpenAI News will no longer provide models to Cursor, which will likely impact the company's operations and future plans.",
-        "What to watch: The implications of this decision for the AI industry and the potential impact on other companies that rely on OpenAI's models will be closely monitored."
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Our decision on Cursor following its acquisition by SpaceX",
-          "url" : "https:\/\/openai.com\/index\/our-decision-on-cursor-following-its-acquisition-by-spacex"
-        }
-      ],
-      "summary" : "The termination of the contract is significant as it marks a major shift in the landscape of AI development and deployment, with OpenAI News exiting the market for Cursor's services.",
-      "title" : "OpenAI News announces the termination of its contract with Cursor following its acquisition by SpaceX.",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-08-31T02:34:00Z",
       "id" : "2026-08-31-51f839523fd1",
       "importance" : "medium",
@@ -91,6 +44,30 @@
       "title" : "Open-weight AI companies are the Valley’s hottest acquisition targets",
       "topics" : [
         "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-08-29T05:11:52Z",
+      "id" : "2026-08-31-d837e271169f",
+      "importance" : "high",
+      "key_insights" : [
+        "Why it matters: This move highlights the competitive edge of Claude models in coding.",
+        "What changed: OpenAI has removed Cursor from its platform.",
+        "What to watch: Future developments in AI coding tools."
+      ],
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "OpenAI shuts off Cursor",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-openai-shuts-off-cursor"
+        }
+      ],
+      "summary" : "OpenAI shut down the Cursor tool, which was previously featured in the GPT-5 launch video.",
+      "title" : "OpenAI shuts off Cursor",
+      "topics" : [
+        "Claude",
+        "GPT"
       ]
     },
     {
@@ -256,6 +233,30 @@
     },
     {
       "confidence" : "medium",
+      "created_at" : "2026-08-28T17:58:54Z",
+      "id" : "2026-08-31-e1aedcaba172",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: This development could enhance the capabilities of AI models, making them more versatile and capable of performing complex tasks.",
+        "What changed: Claude's ability to operate lab equipment has been improved, potentially leading to new applications and innovations.",
+        "What to watch: Future developments in AI and its integration with laboratory equipment will be closely monitored."
+      ],
+      "sources" : [
+        {
+          "source_name" : "AI Breakfast",
+          "title" : "Anthropic just taught Claude how to run the lab equipment",
+          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/anthropic-just-taught-claude-how-to-run-the-lab-equipment"
+        }
+      ],
+      "summary" : "Anthropic has taught Claude to operate lab equipment, a significant advancement in the AI field.",
+      "title" : "Anthropic just taught Claude how to run the lab equipmen",
+      "topics" : [
+        "Anthropic",
+        "Claude"
+      ]
+    },
+    {
+      "confidence" : "medium",
       "created_at" : "2026-08-30T15:00:00Z",
       "id" : "2026-08-31-f8fa6a02ecb8",
       "importance" : "low",
@@ -280,24 +281,24 @@
   ],
   "count" : 12,
   "date" : "2026-08-31",
-  "generated_at" : "2026-08-31T04:01:00Z",
+  "generated_at" : "2026-08-31T06:01:00Z",
   "processing_report" : {
-    "generated_at" : "2026-08-31T04:01:04Z",
-    "high_card_count" : 3,
+    "generated_at" : "2026-08-31T06:01:05Z",
+    "high_card_count" : 2,
     "source_reports" : [
       {
-        "article_count" : 10,
+        "article_count" : 9,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-08-28T17:58:54Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-08-31T04:01:04Z",
+        "processed_at" : "2026-08-31T06:01:05Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-08-31T04:01:03Z",
+        "processed_at" : "2026-08-31T06:01:03Z",
         "state" : "processed"
       },
       {
@@ -305,15 +306,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-08-26T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-08-31T04:01:01Z",
+        "processed_at" : "2026-08-31T06:01:01Z",
         "state" : "processed"
       },
       {
-        "article_count" : 3,
+        "article_count" : 2,
         "id" : "aireport-nl",
-        "latest_article_at" : "2026-08-25T10:00:00Z",
+        "latest_article_at" : "2026-08-20T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-08-31T04:01:02Z",
+        "processed_at" : "2026-08-31T06:01:02Z",
         "state" : "processed"
       },
       {
@@ -321,7 +322,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-08-27T22:15:43Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-08-31T04:01:01Z",
+        "processed_at" : "2026-08-31T06:01:01Z",
         "state" : "processed"
       },
       {
@@ -329,7 +330,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-08-27T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-08-31T04:01:01Z",
+        "processed_at" : "2026-08-31T06:01:01Z",
         "state" : "processed"
       },
       {
@@ -337,7 +338,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-08-27T16:11:32Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-08-31T04:01:01Z",
+        "processed_at" : "2026-08-31T06:01:01Z",
         "state" : "processed"
       },
       {
@@ -345,7 +346,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-08-28T00:00:00Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-08-31T04:01:01Z",
+        "processed_at" : "2026-08-31T06:01:01Z",
         "state" : "processed"
       },
       {
@@ -353,7 +354,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-08-29T05:11:52Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-08-31T04:01:01Z",
+        "processed_at" : "2026-08-31T06:01:01Z",
         "state" : "processed"
       },
       {
@@ -361,7 +362,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-07-28T16:00:10Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-08-31T04:01:01Z",
+        "processed_at" : "2026-08-31T06:01:01Z",
         "state" : "processed"
       },
       {
@@ -369,7 +370,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-08-24T16:02:41Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-08-31T04:01:01Z",
+        "processed_at" : "2026-08-31T06:01:01Z",
         "state" : "processed"
       },
       {
@@ -377,7 +378,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-08-31T00:24:35Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-08-31T04:01:01Z",
+        "processed_at" : "2026-08-31T06:01:01Z",
         "state" : "processed"
       },
       {
@@ -385,15 +386,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-08-28T06:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-08-31T04:01:00Z",
+        "processed_at" : "2026-08-31T06:01:01Z",
         "state" : "processed"
       },
       {
-        "article_count" : 8,
+        "article_count" : 7,
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-08-29T14:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-08-31T04:01:03Z",
+        "processed_at" : "2026-08-31T06:01:04Z",
         "state" : "processed"
       },
       {
@@ -401,7 +402,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-08-28T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-08-31T04:01:01Z",
+        "processed_at" : "2026-08-31T06:01:01Z",
         "state" : "processed"
       },
       {
@@ -409,15 +410,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-08-31T02:34:00Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-08-31T04:01:00Z",
+        "processed_at" : "2026-08-31T06:01:00Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 9,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-08-30T12:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-08-31T04:01:03Z",
+        "processed_at" : "2026-08-31T06:01:05Z",
         "state" : "processed"
       },
       {
@@ -425,14 +426,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-08-21T21:14:29Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-08-31T04:01:01Z",
+        "processed_at" : "2026-08-31T06:01:01Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-08-31T04:01:03Z",
+        "processed_at" : "2026-08-31T06:01:03Z",
         "state" : "processed"
       },
       {
@@ -440,7 +441,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-08-29T18:19:53Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-08-31T04:01:00Z",
+        "processed_at" : "2026-08-31T06:01:01Z",
         "state" : "processed"
       }
     ],
