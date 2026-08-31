@@ -1,6 +1,24 @@
 {
   "cards" : [
     {
+      "confidence" : "high",
+      "date" : "2026-08-31",
+      "id" : "2026-08-31-91b7fe425efb",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "A milestone in expanding access to AI",
+          "url" : "https:\/\/openai.com\/index\/expanding-access-to-ai-with-chatgpt-ads"
+        }
+      ],
+      "summary" : "This milestone in expanding access to AI is significant for the industry and users alike.",
+      "title" : "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "topics" : [
+        "ChatGPT"
+      ]
+    },
+    {
       "confidence" : "medium",
       "date" : "2026-08-31",
       "id" : "2026-08-31-6586b8494c2d",
@@ -16,6 +34,42 @@
       "title" : "Pocket's AI made my game ideas real. Now Meta controls the results.",
       "topics" : [
         "Coding"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-31",
+      "id" : "2026-08-31-aeb4cb82705e",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
+          "url" : "https:\/\/www.theverge.com\/podcast\/986661\/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras"
+        }
+      ],
+      "summary" : "Hochul's stance on AI could influence how the state regulates and develops AI technologies.",
+      "title" : "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-31",
+      "id" : "2026-08-31-a943d9e72e92",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "ChatGPT to face tougher regulation in the EU",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/986682\/openai-chatgpt-eu-dsa"
+        }
+      ],
+      "summary" : "That's because ChatGPT is now considered a Very Large Online Search Engine under the EU's Digital Services Act, a set of laws regulating major online services and platforms.",
+      "title" : "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union.",
+      "topics" : [
+        "ChatGPT"
       ]
     },
     {
@@ -76,6 +130,24 @@
     {
       "confidence" : "medium",
       "date" : "2026-08-31",
+      "id" : "2026-08-31-9ab192ad94ee",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TLDR AI",
+          "title" : "OpenAI Cursor split 💔, self-improving AI 🧠, GPT-6 Astra 🚀",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-08-31"
+        }
+      ],
+      "summary" : "OpenAI announced a split in its Cursor team, which is focused on self-improving AI.",
+      "title" : "OpenAI Cursor split 💔, self-improving AI 🧠, GPT-6 Astra 🚀",
+      "topics" : [
+        "GPT"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-08-31",
       "id" : "2026-08-31-5d1a0d0832b2",
       "importance" : "medium",
       "sources" : [
@@ -113,42 +185,6 @@
     {
       "confidence" : "medium",
       "date" : "2026-08-31",
-      "id" : "2026-08-31-1eed513e8090",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Nvidia’s AI advantage is moving beyond the GPU",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/29\/nvidias-ai-advantage-is-moving-beyond-the-gpu\/"
-        }
-      ],
-      "summary" : "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
-      "title" : "Nvidia's AI advantage is moving beyond the GPU",
-      "topics" : [
-        "Compute"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-08-31",
-      "id" : "2026-08-31-7841087d4724",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "Superhuman AI",
-          "title" : "Robotics Special: Records tumble at China's World Humanoid Robot Games",
-          "url" : "https:\/\/www.superhuman.ai\/p\/robotics-special-records-tumble-at-china-s-world-humanoid-robot-games"
-        }
-      ],
-      "summary" : "This event highlights advancements in humanoid robotics and sets new benchmarks for performance.",
-      "title" : "Records tumble at China's World Humanoid Robot Games",
-      "topics" : [
-        "Robotics"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-08-31",
       "id" : "2026-08-31-da94e4ba69b2",
       "importance" : "medium",
       "sources" : [
@@ -178,42 +214,6 @@
       ],
       "summary" : "The US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create.",
       "title" : "Trump’s EPA wants to let data centers hide their air pollution",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-08-31",
-      "id" : "2026-08-31-7187fc65a57a",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Neocloud Lambda secures $1B in debt to buy more chips",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/28\/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips\/"
-        }
-      ],
-      "summary" : "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft.",
-      "title" : "Neocloud Lambda secures $1B in debt to buy more chips",
-      "topics" : [
-        "Compute"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-08-31",
-      "id" : "2026-08-31-f8fa6a02ecb8",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Caterpillar is bringing to AI deployment what it learned from automating mining",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/30\/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining\/"
-        }
-      ],
-      "summary" : "Caterpillar has spent decades putting autonomous machines to work at remote mining sites.",
-      "title" : "Caterpillar is bringing to AI deployment what it learned from automating mining",
       "topics" : [
         "AI"
       ]
