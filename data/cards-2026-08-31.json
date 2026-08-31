@@ -210,29 +210,6 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-08-28T07:12:10Z",
-      "id" : "2026-08-31-aa28e88c2d89",
-      "importance" : "medium",
-      "key_insights" : [
-        "Why it matters: Achieving AGI would represent a significant milestone in artificial intelligence, potentially transforming industries and society.",
-        "What changed: OpenAI's goal to reach AGI by 2026 indicates a strategic focus on advancing AI capabilities.",
-        "What to watch: The company's progress towards AGI will be closely monitored to assess its potential impact on the AI landscape."
-      ],
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "OpenAI to reach AGI bar by end-2026",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-openai-to-reach-agi-bar-by"
-        }
-      ],
-      "summary" : "OpenAI aims to achieve artificial general intelligence by the end of 2026, according to Latent Space.",
-      "title" : "OpenAI to reach AGI bar by end-2026",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-08-28T17:58:54Z",
       "id" : "2026-08-31-e1aedcaba172",
       "importance" : "medium",
@@ -253,6 +230,29 @@
       "topics" : [
         "Anthropic",
         "Claude"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-08-28T11:02:50Z",
+      "id" : "2026-08-31-f651b68c7315",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: Nvidia is a major player in the AI industry, and Huang's comments could have a significant impact on the industry.",
+        "What changed: Huang's comments suggest that AI is reaching a new level of maturity and potential.",
+        "What to watch: Investors and analysts will be closely watching Nvidia's AI initiatives and how they will evolve in the coming years."
+      ],
+      "sources" : [
+        {
+          "source_name" : "Superhuman AI",
+          "title" : "AI is hitting an inflection point, says Jensen",
+          "url" : "https:\/\/www.superhuman.ai\/p\/ai-is-hitting-an-inflection-point-says-jensen"
+        }
+      ],
+      "summary" : "Nvidia is a major player in the AI industry, and Huang's comments could have a significant impact on the industry.",
+      "title" : "Jensen Huang says AI is hitting an inflection poin",
+      "topics" : [
+        "AI"
       ]
     },
     {
@@ -281,24 +281,24 @@
   ],
   "count" : 12,
   "date" : "2026-08-31",
-  "generated_at" : "2026-08-31T06:01:00Z",
+  "generated_at" : "2026-08-31T08:01:00Z",
   "processing_report" : {
-    "generated_at" : "2026-08-31T06:01:05Z",
+    "generated_at" : "2026-08-31T08:01:06Z",
     "high_card_count" : 2,
     "source_reports" : [
       {
-        "article_count" : 9,
+        "article_count" : 7,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-08-28T17:58:54Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-08-31T06:01:05Z",
+        "processed_at" : "2026-08-31T08:01:06Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 8,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-08-31T06:01:03Z",
+        "processed_at" : "2026-08-31T08:01:04Z",
         "state" : "processed"
       },
       {
@@ -306,15 +306,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-08-26T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-08-31T06:01:01Z",
+        "processed_at" : "2026-08-31T08:01:01Z",
         "state" : "processed"
       },
       {
-        "article_count" : 2,
+        "article_count" : 1,
         "id" : "aireport-nl",
-        "latest_article_at" : "2026-08-20T10:00:00Z",
+        "latest_article_at" : "2026-08-13T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-08-31T06:01:02Z",
+        "processed_at" : "2026-08-31T08:01:02Z",
         "state" : "processed"
       },
       {
@@ -322,7 +322,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-08-27T22:15:43Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-08-31T06:01:01Z",
+        "processed_at" : "2026-08-31T08:01:01Z",
         "state" : "processed"
       },
       {
@@ -330,7 +330,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-08-27T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-08-31T06:01:01Z",
+        "processed_at" : "2026-08-31T08:01:01Z",
         "state" : "processed"
       },
       {
@@ -338,7 +338,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-08-27T16:11:32Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-08-31T06:01:01Z",
+        "processed_at" : "2026-08-31T08:01:01Z",
         "state" : "processed"
       },
       {
@@ -346,7 +346,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-08-28T00:00:00Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-08-31T06:01:01Z",
+        "processed_at" : "2026-08-31T08:01:01Z",
         "state" : "processed"
       },
       {
@@ -354,7 +354,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-08-29T05:11:52Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-08-31T06:01:01Z",
+        "processed_at" : "2026-08-31T08:01:01Z",
         "state" : "processed"
       },
       {
@@ -362,7 +362,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-07-28T16:00:10Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-08-31T06:01:01Z",
+        "processed_at" : "2026-08-31T08:01:01Z",
         "state" : "processed"
       },
       {
@@ -370,7 +370,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-08-24T16:02:41Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-08-31T06:01:01Z",
+        "processed_at" : "2026-08-31T08:01:01Z",
         "state" : "processed"
       },
       {
@@ -378,7 +378,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-08-31T00:24:35Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-08-31T06:01:01Z",
+        "processed_at" : "2026-08-31T08:01:01Z",
         "state" : "processed"
       },
       {
@@ -386,15 +386,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-08-28T06:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-08-31T06:01:01Z",
+        "processed_at" : "2026-08-31T08:01:01Z",
         "state" : "processed"
       },
       {
-        "article_count" : 7,
+        "article_count" : 6,
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-08-29T14:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-08-31T06:01:04Z",
+        "processed_at" : "2026-08-31T08:01:04Z",
         "state" : "processed"
       },
       {
@@ -402,7 +402,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-08-28T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-08-31T06:01:01Z",
+        "processed_at" : "2026-08-31T08:01:01Z",
         "state" : "processed"
       },
       {
@@ -410,15 +410,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-08-31T02:34:00Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-08-31T06:01:00Z",
+        "processed_at" : "2026-08-31T08:01:00Z",
         "state" : "processed"
       },
       {
-        "article_count" : 9,
+        "article_count" : 7,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-08-30T12:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-08-31T06:01:05Z",
+        "processed_at" : "2026-08-31T08:01:05Z",
         "state" : "processed"
       },
       {
@@ -426,14 +426,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-08-21T21:14:29Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-08-31T06:01:01Z",
+        "processed_at" : "2026-08-31T08:01:01Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 6,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-08-31T06:01:03Z",
+        "processed_at" : "2026-08-31T08:01:05Z",
         "state" : "processed"
       },
       {
@@ -441,7 +441,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-08-29T18:19:53Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-08-31T06:01:01Z",
+        "processed_at" : "2026-08-31T08:01:01Z",
         "state" : "processed"
       }
     ],
