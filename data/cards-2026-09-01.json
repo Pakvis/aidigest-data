@@ -2,6 +2,29 @@
   "cards" : [
     {
       "confidence" : "medium",
+      "created_at" : "2026-09-01T13:00:00Z",
+      "id" : "2026-09-01-04311af25711",
+      "importance" : "high",
+      "key_insights" : [
+        "Why it matters: DLSS 5 is expected to significantly enhance gaming performance by leveraging AI-driven upscaling, which could redefine the capabilities of modern GPUs.",
+        "What changed: DLSS 5 will be available on RTX 50-series desktop and laptop GPUs and through GeForce Now cloud gaming, marking a major expansion of its accessibility.",
+        "What to watch: Gamers and tech enthusiasts should closely monitor the performance of DLSS 5 in NBA 2K27 and other games to assess its impact on gaming experiences."
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
+          "url" : "https:\/\/www.theverge.com\/tech\/986378\/nvidia-dlss-5-launch-nba-2k27"
+        }
+      ],
+      "summary" : "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smoothing for video games, but worse.\" DLSS 5 will officially be available on RTX 50-series desktop and laptop GPUs and through GeForce Now cloud gaming, though the only game with the tech so far is NBA 2K27 - which is launching September 3rd at 9PM PT on PC.",
+      "title" : "Nvidia's controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
+      "topics" : [
+        "Compute"
+      ]
+    },
+    {
+      "confidence" : "medium",
       "created_at" : "2026-08-31T15:34:58Z",
       "id" : "2026-09-01-74d9738673e9",
       "importance" : "high",
@@ -132,52 +155,6 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-08-31T14:00:00Z",
-      "id" : "2026-09-01-ceec38a9e0c0",
-      "importance" : "medium",
-      "key_insights" : [
-        "Why it matters: Hochul's stance on AI could influence how the state regulates and develops AI technologies.",
-        "What changed: Hochul's comments suggest a shift in the state's approach to AI safety and ethics.",
-        "What to watch: The implications of Hochul's views on AI regulation and policy development."
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
-          "url" : "https:\/\/www.theverge.com\/podcast\/986661\/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras"
-        }
-      ],
-      "summary" : "Hochul's stance on AI could influence how the state regulates and develops AI technologies.",
-      "title" : "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-08-31T13:27:36Z",
-      "id" : "2026-09-01-e87cea385413",
-      "importance" : "medium",
-      "key_insights" : [
-        "Why it matters: OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union.",
-        "What changed: That's because ChatGPT is now considered a Very Large Online Search Engine under the EU's Digital Services Act, a set of laws regulating major online services and platforms.",
-        "What to watch: For ChatGPT, look for concrete timing, affected users, product details, or independent confirmation."
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "ChatGPT to face tougher regulation in the EU",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/986682\/openai-chatgpt-eu-dsa"
-        }
-      ],
-      "summary" : "That's because ChatGPT is now considered a Very Large Online Search Engine under the EU's Digital Services Act, a set of laws regulating major online services and platforms.",
-      "title" : "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union.",
-      "topics" : [
-        "ChatGPT"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-09-01T00:13:00Z",
       "id" : "2026-09-01-f8394b559113",
       "importance" : "medium",
@@ -290,28 +267,51 @@
       "topics" : [
         "AI"
       ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-01T11:02:52Z",
+      "id" : "2026-09-01-a338f8cf5ade",
+      "importance" : "medium",
+      "key_insights" : [
+        "Why it matters: This is a significant development in AI technology, marking a major advancement in the field.",
+        "What changed: Real-time AI video is now available, which could have a significant impact on various industries.",
+        "What to watch: Keep an eye on how this technology is implemented and its potential applications."
+      ],
+      "sources" : [
+        {
+          "source_name" : "Superhuman AI",
+          "title" : "Real-time AI video has arrived (already)",
+          "url" : "https:\/\/www.superhuman.ai\/p\/real-time-ai-video-has-arrived-already"
+        }
+      ],
+      "summary" : "This is a significant development in AI technology, marking a major advancement in the field.",
+      "title" : "Real-time AI video has arrived (already)",
+      "topics" : [
+        "Claude"
+      ]
     }
   ],
   "count" : 12,
   "date" : "2026-09-01",
-  "generated_at" : "2026-09-01T12:01:00Z",
+  "generated_at" : "2026-09-01T14:01:00Z",
   "processing_report" : {
-    "generated_at" : "2026-09-01T12:01:04Z",
-    "high_card_count" : 4,
+    "generated_at" : "2026-09-01T14:01:05Z",
+    "high_card_count" : 5,
     "source_reports" : [
       {
         "article_count" : 11,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-09-01T02:41:11Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-01T12:01:04Z",
+        "processed_at" : "2026-09-01T14:01:05Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 10,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-01T12:01:03Z",
+        "processed_at" : "2026-09-01T14:01:03Z",
         "state" : "processed"
       },
       {
@@ -319,15 +319,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-08-31T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-01T12:01:01Z",
+        "processed_at" : "2026-09-01T14:01:01Z",
         "state" : "processed"
       },
       {
-        "article_count" : 3,
+        "article_count" : 2,
         "id" : "aireport-nl",
         "latest_article_at" : "2026-09-01T06:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-01T12:01:02Z",
+        "processed_at" : "2026-09-01T14:01:02Z",
         "state" : "processed"
       },
       {
@@ -335,7 +335,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-08-31T10:00:34Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-01T12:01:01Z",
+        "processed_at" : "2026-09-01T14:01:01Z",
         "state" : "processed"
       },
       {
@@ -343,7 +343,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-08-27T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-01T12:01:01Z",
+        "processed_at" : "2026-09-01T14:01:01Z",
         "state" : "processed"
       },
       {
@@ -351,7 +351,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-08-27T16:11:32Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-01T12:01:01Z",
+        "processed_at" : "2026-09-01T14:01:01Z",
         "state" : "processed"
       },
       {
@@ -359,7 +359,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-08-28T00:00:00Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-01T12:01:01Z",
+        "processed_at" : "2026-09-01T14:01:00Z",
         "state" : "processed"
       },
       {
@@ -367,7 +367,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-09-01T04:36:54Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-01T12:01:01Z",
+        "processed_at" : "2026-09-01T14:01:01Z",
         "state" : "processed"
       },
       {
@@ -375,7 +375,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-07-28T16:00:10Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-01T12:01:01Z",
+        "processed_at" : "2026-09-01T14:01:01Z",
         "state" : "processed"
       },
       {
@@ -383,7 +383,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-08-24T16:02:41Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-01T12:01:01Z",
+        "processed_at" : "2026-09-01T14:01:01Z",
         "state" : "processed"
       },
       {
@@ -391,7 +391,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-08-31T00:24:35Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-01T12:01:01Z",
+        "processed_at" : "2026-09-01T14:01:01Z",
         "state" : "processed"
       },
       {
@@ -399,7 +399,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-08-31T07:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-01T12:01:01Z",
+        "processed_at" : "2026-09-01T14:01:00Z",
         "state" : "processed"
       },
       {
@@ -407,15 +407,15 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-09-01T11:02:52Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-01T12:01:03Z",
+        "processed_at" : "2026-09-01T14:01:04Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "tldr-ai",
-        "latest_article_at" : "2026-08-31T00:00:00Z",
+        "latest_article_at" : "2026-09-01T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-01T12:01:01Z",
+        "processed_at" : "2026-09-01T14:01:01Z",
         "state" : "processed"
       },
       {
@@ -423,7 +423,7 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-09-01T00:13:00Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-01T12:01:00Z",
+        "processed_at" : "2026-09-01T14:01:00Z",
         "state" : "processed"
       },
       {
@@ -431,7 +431,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-09-01T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-01T12:01:03Z",
+        "processed_at" : "2026-09-01T14:01:04Z",
         "state" : "processed"
       },
       {
@@ -439,22 +439,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-08-21T21:14:29Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-01T12:01:01Z",
+        "processed_at" : "2026-09-01T14:01:01Z",
         "state" : "processed"
       },
       {
         "article_count" : 10,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-01T12:01:02Z",
+        "processed_at" : "2026-09-01T14:01:02Z",
         "state" : "processed"
       },
       {
         "article_count" : 9,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-08-31T15:34:58Z",
+        "latest_article_at" : "2026-09-01T13:00:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-01T12:01:01Z",
+        "processed_at" : "2026-09-01T14:01:01Z",
         "state" : "processed"
       }
     ],
