@@ -1,6 +1,53 @@
 {
   "cards" : [
     {
+      "confidence" : "high",
+      "created_at" : "2026-09-01T17:08:51Z",
+      "id" : "2026-09-01-192ea1501f53",
+      "importance" : "high",
+      "key_insights" : [
+        "Why it matters: This development could have a significant impact on the field of artificial intelligence, as it could lead to more advanced video understanding capabilities.",
+        "What changed: Gemini is designed to understand videos in a more agentic way, which means that it can take actions based on the information it receives from the video.",
+        "What to watch: Keep an eye on how Gemini is used in the real world, as it could have a major impact on the way we interact with technology."
+      ],
+      "sources" : [
+        {
+          "source_name" : "Google DeepMind",
+          "title" : "Introducing agentic video understanding with Gemini",
+          "url" : "https:\/\/deepmind.google\/blog\/introducing-agentic-video-in-gemini\/"
+        }
+      ],
+      "summary" : "Google DeepMind has introduced a new model called Gemini, which is designed to understand videos in a more agentic way.",
+      "title" : "Google DeepMind introduces agentic video understanding with Gemini",
+      "topics" : [
+        "Gemini"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-01T16:00:00Z",
+      "id" : "2026-09-01-6d1e134033e8",
+      "importance" : "high",
+      "key_insights" : [
+        "Why it matters: This tool represents a significant advancement in AI-driven image editing, offering users more control and precision in their creative processes.",
+        "What changed: Google Pics introduces new features that enhance the user experience by allowing for more detailed and accurate image manipulation.",
+        "What to watch: Users should keep an eye on how Google Pics integrates with other AI tools and its potential impact on the image editing industry."
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Google Pics is like Canva, but with even more AI",
+          "url" : "https:\/\/www.theverge.com\/tech\/987423\/google-pics-ai-image-editor-generator"
+        }
+      ],
+      "summary" : "Google Pics is a new AI-powered image editing tool that allows users to manipulate images with greater precision.",
+      "title" : "Google Pics is like Canva, but with even more AI",
+      "topics" : [
+        "Gemini",
+        "Image Models"
+      ]
+    },
+    {
       "confidence" : "medium",
       "created_at" : "2026-09-01T13:00:00Z",
       "id" : "2026-09-01-04311af25711",
@@ -65,6 +112,29 @@
       ],
       "summary" : "This could revolutionize how families manage their schedules and communications.",
       "title" : "Fambot introduces an 'AI chief of staff' for families",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-01T16:17:15Z",
+      "id" : "2026-09-01-ac65355956fe",
+      "importance" : "high",
+      "key_insights" : [
+        "Why it matters: This shift could impact how AI projects attract and manage contributors, potentially affecting the development and adoption of AI technologies.",
+        "What changed: Top AI-native open source projects are no longer accepting PRs.",
+        "What to watch: For AI, look for concrete timing, affected users, product details, or independent confirmation."
+      ],
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "PRs NOT Welcome: How Top AI Open Source Projects Are Managing Thousands of Contributors",
+          "url" : "https:\/\/www.latent.space\/p\/pr-not-welcome"
+        }
+      ],
+      "summary" : "Top AI-native open source projects are shutting PRs off because they've found a better way.",
+      "title" : "PRs NOT Welcome: How Top AI Open Source Projects Are Managing Thousands of Contributors",
       "topics" : [
         "AI"
       ]
@@ -166,24 +236,29 @@
     {
       "confidence" : "high",
       "consolidation" : {
-        "latest_source_at" : "2026-08-31T20:13:45Z",
-        "message_count" : 2,
+        "latest_source_at" : "2026-09-01T17:00:00Z",
+        "message_count" : 3,
         "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
+        "source_count" : 3
       },
-      "created_at" : "2026-08-31T20:13:45Z",
-      "id" : "2026-09-01-6a7f8d625292",
+      "created_at" : "2026-09-01T17:00:00Z",
+      "id" : "2026-09-01-993b7aefd880",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: This move underscores the Pentagon's commitment to integrating advanced AI technologies into its operations.",
-        "What changed: The Pentagon will now have access to a variety of AI tools through a centralized platform.",
-        "What to watch: Future developments in AI integration within military operations."
+        "Why it matters: OpenAI said that the integration provides read-only access to health records for clinicians.",
+        "What changed: ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+        "What to watch: For ChatGPT, Research, Agents, look for concrete timing, affected users, product details, or independent confirmation."
       ],
       "sources" : [
         {
           "source_name" : "TechCrunch AI",
-          "title" : "The Pentagon now has its own version of ChatGPT and Grok",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/31\/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok\/"
+          "title" : "ChatGPT Health adds Epic integration for clinicians to import patient data",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/01\/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data\/"
+        },
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+          "url" : "https:\/\/openai.com\/index\/chatgpt-connects-health-records-and-healthcare-sources"
         },
         {
           "source_name" : "AI News (Swyx)",
@@ -191,127 +266,60 @@
           "url" : "https:\/\/news.smol.ai\/issues\/26-08-31-not-much\/"
         }
       ],
-      "summary" : "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
-      "title" : "The Pentagon now has its own version of ChatGPT and Grok",
+      "summary" : "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+      "title" : "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
       "topics" : [
         "ChatGPT",
-        "Gemini",
-        "Tooling"
+        "Research",
+        "Agents"
       ]
     },
     {
-      "confidence" : "medium",
-      "created_at" : "2026-09-01T00:13:00Z",
-      "id" : "2026-09-01-f8394b559113",
+      "confidence" : "high",
+      "created_at" : "2026-09-01T17:00:00Z",
+      "id" : "2026-09-01-120e1bc02027",
       "importance" : "medium",
       "key_insights" : [
-        "Why it matters: The revelation of data theft by a former employee could have serious implications for Apple's reputation and its operations.",
-        "What changed: Apple may need to take further action to prevent similar incidents from happening in the future.",
-        "What to watch: The outcome of the investigation will be closely watched by investors and the public."
+        "Why it matters: AI agents are a key component of AI-native companies.",
+        "What changed: Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations.",
+        "What to watch: For Workflows, Agents, Enterprise, look for concrete timing, affected users, product details, or independent confirmation."
       ],
       "sources" : [
         {
-          "source_name" : "TechCrunch AI",
-          "title" : "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/31\/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai\/"
+          "source_name" : "OpenAI News",
+          "title" : "How AI-native companies turn workflows into operating capability",
+          "url" : "https:\/\/openai.com\/index\/ai-native-company-workflows"
         }
       ],
-      "summary" : "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
-      "title" : "Apple shares 'shocking evidence' against former employee accused of stealing company data for OpenAI",
+      "summary" : "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+      "title" : "OpenAI News: How AI-native companies turn workflows into operating capability",
       "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-08-31T18:35:11Z",
-      "id" : "2026-09-01-15f6e160c742",
-      "importance" : "medium",
-      "key_insights" : [
-        "Why it matters: This funding could significantly enhance police training and decision-making, potentially improving public safety.",
-        "What changed: The startup has secured substantial funding to develop its AI-powered tool for law enforcement.",
-        "What to watch: The effectiveness and adoption of Blue Voice by police departments will be crucial in determining its impact on law enforcement practices."
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/31\/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers\/"
-        }
-      ],
-      "summary" : "A Harvard Law dropout raised $6 million for Blue Voice, a tool designed to help police officers understand department-specific laws and protocols.",
-      "title" : "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
-      "topics" : [
-        "Tooling"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-01T02:41:11Z",
-      "id" : "2026-09-01-b2aa2e3efecf",
-      "importance" : "medium",
-      "key_insights" : [
-        "Why it matters: The acquisition of OpenAI by SpaceX could have significant implications for the development and deployment of AI technologies.",
-        "What changed: OpenAI has cut access to its Cursor tool following the acquisition of the company by SpaceX.",
-        "What to watch: The implications of this acquisition for the AI industry and the potential impact on OpenAI's future developments will be closely watched."
-      ],
-      "sources" : [
-        {
-          "source_name" : "AI Breakfast",
-          "title" : "OpenAI cuts Cursor access following SpaceX buyout",
-          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/openai-cuts-cursor-access-following-spacex-buyout"
-        }
-      ],
-      "summary" : "OpenAI has cut access to its Cursor tool following the acquisition of the company by SpaceX.",
-      "title" : "OpenAI cuts Cursor access following SpaceX buyou",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-01T11:02:52Z",
-      "id" : "2026-09-01-a338f8cf5ade",
-      "importance" : "medium",
-      "key_insights" : [
-        "Why it matters: This is a significant development in AI technology, marking a major advancement in the field.",
-        "What changed: Real-time AI video is now available, which could have a significant impact on various industries.",
-        "What to watch: Keep an eye on how this technology is implemented and its potential applications."
-      ],
-      "sources" : [
-        {
-          "source_name" : "Superhuman AI",
-          "title" : "Real-time AI video has arrived (already)",
-          "url" : "https:\/\/www.superhuman.ai\/p\/real-time-ai-video-has-arrived-already"
-        }
-      ],
-      "summary" : "This is a significant development in AI technology, marking a major advancement in the field.",
-      "title" : "Real-time AI video has arrived (already)",
-      "topics" : [
-        "Claude"
+        "Workflows",
+        "Agents",
+        "Enterprise"
       ]
     }
   ],
   "count" : 12,
   "date" : "2026-09-01",
-  "generated_at" : "2026-09-01T16:01:00Z",
+  "generated_at" : "2026-09-01T18:01:00Z",
   "processing_report" : {
-    "generated_at" : "2026-09-01T16:01:04Z",
-    "high_card_count" : 7,
+    "generated_at" : "2026-09-01T18:01:05Z",
+    "high_card_count" : 10,
     "source_reports" : [
       {
-        "article_count" : 11,
+        "article_count" : 10,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-09-01T02:41:11Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-01T16:01:04Z",
+        "processed_at" : "2026-09-01T18:01:05Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-01T16:01:04Z",
+        "processed_at" : "2026-09-01T18:01:03Z",
         "state" : "processed"
       },
       {
@@ -319,15 +327,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-08-31T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-01T16:01:01Z",
+        "processed_at" : "2026-09-01T18:01:01Z",
         "state" : "processed"
       },
       {
-        "article_count" : 3,
+        "article_count" : 2,
         "id" : "aireport-nl",
         "latest_article_at" : "2026-09-01T06:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-01T16:01:02Z",
+        "processed_at" : "2026-09-01T18:01:02Z",
         "state" : "processed"
       },
       {
@@ -335,23 +343,23 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-08-31T10:00:34Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-01T16:01:01Z",
+        "processed_at" : "2026-09-01T18:01:01Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "google-ai-blog",
-        "latest_article_at" : "2026-08-27T16:00:00Z",
+        "latest_article_at" : "2026-09-01T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-01T16:01:01Z",
+        "processed_at" : "2026-09-01T18:01:01Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "deepmind-blog",
-        "latest_article_at" : "2026-08-27T16:11:32Z",
+        "latest_article_at" : "2026-09-01T17:08:51Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-01T16:01:01Z",
+        "processed_at" : "2026-09-01T18:01:01Z",
         "state" : "processed"
       },
       {
@@ -359,15 +367,15 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-09-01T00:00:00Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-01T16:01:00Z",
+        "processed_at" : "2026-09-01T18:01:01Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "latent-space",
-        "latest_article_at" : "2026-09-01T04:36:54Z",
+        "latest_article_at" : "2026-09-01T16:17:15Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-01T16:01:01Z",
+        "processed_at" : "2026-09-01T18:01:01Z",
         "state" : "processed"
       },
       {
@@ -375,7 +383,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-07-28T16:00:10Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-01T16:01:01Z",
+        "processed_at" : "2026-09-01T18:01:01Z",
         "state" : "processed"
       },
       {
@@ -383,7 +391,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-08-24T16:02:41Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-01T16:01:01Z",
+        "processed_at" : "2026-09-01T18:01:01Z",
         "state" : "processed"
       },
       {
@@ -391,23 +399,23 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-08-31T00:24:35Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-01T16:01:01Z",
+        "processed_at" : "2026-09-01T18:01:01Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "openai-news",
-        "latest_article_at" : "2026-08-31T07:00:00Z",
+        "latest_article_at" : "2026-09-01T17:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-01T16:01:01Z",
+        "processed_at" : "2026-09-01T18:01:00Z",
         "state" : "processed"
       },
       {
-        "article_count" : 8,
+        "article_count" : 5,
         "id" : "superhuman-ai",
-        "latest_article_at" : "2026-09-01T11:02:52Z",
+        "latest_article_at" : "2026-08-29T14:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-01T16:01:04Z",
+        "processed_at" : "2026-09-01T18:01:04Z",
         "state" : "processed"
       },
       {
@@ -415,23 +423,23 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-09-01T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-01T16:01:01Z",
+        "processed_at" : "2026-09-01T18:01:01Z",
         "state" : "processed"
       },
       {
         "article_count" : 15,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-09-01T15:45:51Z",
+        "latest_article_at" : "2026-09-01T17:35:37Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-01T16:01:00Z",
+        "processed_at" : "2026-09-01T18:01:00Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 11,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-09-01T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-01T16:01:03Z",
+        "processed_at" : "2026-09-01T18:01:05Z",
         "state" : "processed"
       },
       {
@@ -439,22 +447,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-08-21T21:14:29Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-01T16:01:01Z",
+        "processed_at" : "2026-09-01T18:01:01Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 9,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-01T16:01:03Z",
+        "processed_at" : "2026-09-01T18:01:04Z",
         "state" : "processed"
       },
       {
         "article_count" : 9,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-09-01T13:00:00Z",
+        "latest_article_at" : "2026-09-01T16:00:52Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-01T16:01:01Z",
+        "processed_at" : "2026-09-01T18:01:01Z",
         "state" : "processed"
       }
     ],

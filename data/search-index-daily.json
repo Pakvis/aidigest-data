@@ -1,6 +1,43 @@
 {
   "cards" : [
     {
+      "confidence" : "high",
+      "date" : "2026-09-01",
+      "id" : "2026-09-01-192ea1501f53",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "Google DeepMind",
+          "title" : "Introducing agentic video understanding with Gemini",
+          "url" : "https:\/\/deepmind.google\/blog\/introducing-agentic-video-in-gemini\/"
+        }
+      ],
+      "summary" : "Google DeepMind has introduced a new model called Gemini, which is designed to understand videos in a more agentic way.",
+      "title" : "Google DeepMind introduces agentic video understanding with Gemini",
+      "topics" : [
+        "Gemini"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-09-01",
+      "id" : "2026-09-01-6d1e134033e8",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Google Pics is like Canva, but with even more AI",
+          "url" : "https:\/\/www.theverge.com\/tech\/987423\/google-pics-ai-image-editor-generator"
+        }
+      ],
+      "summary" : "Google Pics is a new AI-powered image editing tool that allows users to manipulate images with greater precision.",
+      "title" : "Google Pics is like Canva, but with even more AI",
+      "topics" : [
+        "Gemini",
+        "Image Models"
+      ]
+    },
+    {
       "confidence" : "medium",
       "date" : "2026-09-01",
       "id" : "2026-09-01-04311af25711",
@@ -50,6 +87,24 @@
       ],
       "summary" : "This could revolutionize how families manage their schedules and communications.",
       "title" : "Fambot introduces an 'AI chief of staff' for families",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-09-01",
+      "id" : "2026-09-01-ac65355956fe",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "PRs NOT Welcome: How Top AI Open Source Projects Are Managing Thousands of Contributors",
+          "url" : "https:\/\/www.latent.space\/p\/pr-not-welcome"
+        }
+      ],
+      "summary" : "Top AI-native open source projects are shutting PRs off because they've found a better way.",
+      "title" : "PRs NOT Welcome: How Top AI Open Source Projects Are Managing Thousands of Contributors",
       "topics" : [
         "AI"
       ]
@@ -131,13 +186,18 @@
     {
       "confidence" : "high",
       "date" : "2026-09-01",
-      "id" : "2026-09-01-6a7f8d625292",
+      "id" : "2026-09-01-993b7aefd880",
       "importance" : "medium",
       "sources" : [
         {
           "source_name" : "TechCrunch AI",
-          "title" : "The Pentagon now has its own version of ChatGPT and Grok",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/31\/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok\/"
+          "title" : "ChatGPT Health adds Epic integration for clinicians to import patient data",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/01\/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data\/"
+        },
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+          "url" : "https:\/\/openai.com\/index\/chatgpt-connects-health-records-and-healthcare-sources"
         },
         {
           "source_name" : "AI News (Swyx)",
@@ -145,84 +205,32 @@
           "url" : "https:\/\/news.smol.ai\/issues\/26-08-31-not-much\/"
         }
       ],
-      "summary" : "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
-      "title" : "The Pentagon now has its own version of ChatGPT and Grok",
+      "summary" : "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+      "title" : "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
       "topics" : [
         "ChatGPT",
-        "Gemini",
-        "Tooling"
+        "Research",
+        "Agents"
       ]
     },
     {
-      "confidence" : "medium",
+      "confidence" : "high",
       "date" : "2026-09-01",
-      "id" : "2026-09-01-f8394b559113",
+      "id" : "2026-09-01-120e1bc02027",
       "importance" : "medium",
       "sources" : [
         {
-          "source_name" : "TechCrunch AI",
-          "title" : "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/31\/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai\/"
+          "source_name" : "OpenAI News",
+          "title" : "How AI-native companies turn workflows into operating capability",
+          "url" : "https:\/\/openai.com\/index\/ai-native-company-workflows"
         }
       ],
-      "summary" : "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
-      "title" : "Apple shares 'shocking evidence' against former employee accused of stealing company data for OpenAI",
+      "summary" : "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+      "title" : "OpenAI News: How AI-native companies turn workflows into operating capability",
       "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-09-01",
-      "id" : "2026-09-01-15f6e160c742",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
-          "url" : "https:\/\/techcrunch.com\/2026\/08\/31\/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers\/"
-        }
-      ],
-      "summary" : "A Harvard Law dropout raised $6 million for Blue Voice, a tool designed to help police officers understand department-specific laws and protocols.",
-      "title" : "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
-      "topics" : [
-        "Tooling"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-09-01",
-      "id" : "2026-09-01-b2aa2e3efecf",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "AI Breakfast",
-          "title" : "OpenAI cuts Cursor access following SpaceX buyout",
-          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/openai-cuts-cursor-access-following-spacex-buyout"
-        }
-      ],
-      "summary" : "OpenAI has cut access to its Cursor tool following the acquisition of the company by SpaceX.",
-      "title" : "OpenAI cuts Cursor access following SpaceX buyou",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-09-01",
-      "id" : "2026-09-01-a338f8cf5ade",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "Superhuman AI",
-          "title" : "Real-time AI video has arrived (already)",
-          "url" : "https:\/\/www.superhuman.ai\/p\/real-time-ai-video-has-arrived-already"
-        }
-      ],
-      "summary" : "This is a significant development in AI technology, marking a major advancement in the field.",
-      "title" : "Real-time AI video has arrived (already)",
-      "topics" : [
-        "Claude"
+        "Workflows",
+        "Agents",
+        "Enterprise"
       ]
     },
     {
