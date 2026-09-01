@@ -26,29 +26,6 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-08-31T10:00:34Z",
-      "id" : "2026-09-01-7152093e61b2",
-      "importance" : "high",
-      "key_insights" : [
-        "Why it matters: Meta's acquisition of Pocket could significantly influence the development and distribution of interactive apps.",
-        "What changed: The relatively recent rise of AI-assisted coding tools and the whole concept of \"vibe coding\" have effectively upended entire software development workflows.",
-        "What to watch: Users should be aware of Meta's potential influence on the app's features and updates."
-      ],
-      "sources" : [
-        {
-          "source_name" : "Ars Technica AI",
-          "title" : "Pocket's AI made my game ideas real. Now Meta controls the results.",
-          "url" : "https:\/\/arstechnica.com\/gaming\/2026\/08\/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results\/"
-        }
-      ],
-      "summary" : "Pocket, a mobile app that allows users to create interactive \"gizmos\" by typing prompts, was acquired by Meta in March.",
-      "title" : "Pocket's AI made my game ideas real. Now Meta controls the results.",
-      "topics" : [
-        "Coding"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-09-01T04:36:54Z",
       "id" : "2026-09-01-237c4fab88a0",
       "importance" : "high",
@@ -92,6 +69,29 @@
       "title" : "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
       "topics" : [
         "ChatGPT"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-08-31T10:00:34Z",
+      "id" : "2026-09-01-7152093e61b2",
+      "importance" : "high",
+      "key_insights" : [
+        "Why it matters: Meta's acquisition of Pocket could significantly influence the development and distribution of interactive apps.",
+        "What changed: The relatively recent rise of AI-assisted coding tools and the whole concept of \"vibe coding\" have effectively upended entire software development workflows.",
+        "What to watch: Users should be aware of Meta's potential influence on the app's features and updates."
+      ],
+      "sources" : [
+        {
+          "source_name" : "Ars Technica AI",
+          "title" : "Pocket's AI made my game ideas real. Now Meta controls the results.",
+          "url" : "https:\/\/arstechnica.com\/gaming\/2026\/08\/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results\/"
+        }
+      ],
+      "summary" : "Pocket, a mobile app that allows users to create interactive \"gizmos\" by typing prompts, was acquired by Meta in March.",
+      "title" : "Pocket's AI made my game ideas real. Now Meta controls the results.",
+      "topics" : [
+        "Coding"
       ]
     },
     {
@@ -294,24 +294,24 @@
   ],
   "count" : 12,
   "date" : "2026-09-01",
-  "generated_at" : "2026-09-01T08:01:00Z",
+  "generated_at" : "2026-09-01T10:01:00Z",
   "processing_report" : {
-    "generated_at" : "2026-09-01T08:01:05Z",
+    "generated_at" : "2026-09-01T10:01:05Z",
     "high_card_count" : 4,
     "source_reports" : [
       {
-        "article_count" : 9,
+        "article_count" : 11,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-09-01T02:41:11Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-01T08:01:05Z",
+        "processed_at" : "2026-09-01T10:01:05Z",
         "state" : "processed"
       },
       {
-        "article_count" : 9,
+        "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-01T08:01:04Z",
+        "processed_at" : "2026-09-01T10:01:03Z",
         "state" : "processed"
       },
       {
@@ -319,7 +319,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-08-31T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-01T08:01:01Z",
+        "processed_at" : "2026-09-01T10:01:01Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 3,
+        "id" : "aireport-nl",
+        "latest_article_at" : "2026-09-01T06:00:00Z",
+        "name" : "AI Report (NL)",
+        "processed_at" : "2026-09-01T10:01:02Z",
         "state" : "processed"
       },
       {
@@ -327,7 +335,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-08-31T10:00:34Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-01T08:01:01Z",
+        "processed_at" : "2026-09-01T10:01:01Z",
         "state" : "processed"
       },
       {
@@ -335,7 +343,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-08-27T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-01T08:01:01Z",
+        "processed_at" : "2026-09-01T10:01:01Z",
         "state" : "processed"
       },
       {
@@ -343,7 +351,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-08-27T16:11:32Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-01T08:01:01Z",
+        "processed_at" : "2026-09-01T10:01:00Z",
         "state" : "processed"
       },
       {
@@ -351,7 +359,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-08-28T00:00:00Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-01T08:01:01Z",
+        "processed_at" : "2026-09-01T10:01:00Z",
         "state" : "processed"
       },
       {
@@ -359,7 +367,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-09-01T04:36:54Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-01T08:01:01Z",
+        "processed_at" : "2026-09-01T10:01:01Z",
         "state" : "processed"
       },
       {
@@ -367,7 +375,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-07-28T16:00:10Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-01T08:01:01Z",
+        "processed_at" : "2026-09-01T10:01:01Z",
         "state" : "processed"
       },
       {
@@ -375,7 +383,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-08-24T16:02:41Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-01T08:01:01Z",
+        "processed_at" : "2026-09-01T10:01:01Z",
         "state" : "processed"
       },
       {
@@ -383,7 +391,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-08-31T00:24:35Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-01T08:01:01Z",
+        "processed_at" : "2026-09-01T10:01:01Z",
         "state" : "processed"
       },
       {
@@ -391,15 +399,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-08-31T07:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-01T08:01:01Z",
+        "processed_at" : "2026-09-01T10:01:01Z",
         "state" : "processed"
       },
       {
-        "article_count" : 6,
+        "article_count" : 8,
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-08-31T11:02:54Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-01T08:01:04Z",
+        "processed_at" : "2026-09-01T10:01:03Z",
         "state" : "processed"
       },
       {
@@ -407,7 +415,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-08-31T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-01T08:01:01Z",
+        "processed_at" : "2026-09-01T10:01:01Z",
         "state" : "processed"
       },
       {
@@ -415,15 +423,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-09-01T00:13:00Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-01T08:01:00Z",
+        "processed_at" : "2026-09-01T10:01:00Z",
         "state" : "processed"
       },
       {
-        "article_count" : 9,
+        "article_count" : 12,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-08-31T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-01T08:01:05Z",
+        "processed_at" : "2026-09-01T10:01:03Z",
         "state" : "processed"
       },
       {
@@ -431,14 +439,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-08-21T21:14:29Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-01T08:01:01Z",
+        "processed_at" : "2026-09-01T10:01:01Z",
         "state" : "processed"
       },
       {
-        "article_count" : 9,
+        "article_count" : 10,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-01T08:01:04Z",
+        "processed_at" : "2026-09-01T10:01:03Z",
         "state" : "processed"
       },
       {
@@ -446,16 +454,8 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-08-31T15:34:58Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-01T08:01:01Z",
+        "processed_at" : "2026-09-01T10:01:00Z",
         "state" : "processed"
-      },
-      {
-        "article_count" : 0,
-        "id" : "aireport-nl",
-        "message" : "Source returned no usable AI articles.",
-        "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-01T08:01:02Z",
-        "state" : "empty"
       }
     ],
     "state" : "complete"
