@@ -64,6 +64,24 @@
     {
       "confidence" : "medium",
       "date" : "2026-09-02",
+      "id" : "2026-09-02-3a4a4599acbd",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "NYC bans AI use for students until they reach high school",
+          "url" : "https:\/\/www.theverge.com\/policy\/988228\/nyc-ai-restrictions-in-schools-chatbot-ban"
+        }
+      ],
+      "summary" : "NYC's Department of Education will bar teachers from using AI tools to grade assignments and keep students from using the technology in the classroom until they enter high school.",
+      "title" : "NYC bans AI use for students until they reach high school",
+      "topics" : [
+        "Tooling"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-09-02",
       "id" : "2026-09-02-95ea512d2d2f",
       "importance" : "high",
       "sources" : [
@@ -102,20 +120,19 @@
     {
       "confidence" : "medium",
       "date" : "2026-09-02",
-      "id" : "2026-09-02-2c8a05fa51e2",
+      "id" : "2026-09-02-75b068e25317",
       "importance" : "high",
       "sources" : [
         {
-          "source_name" : "The Verge AI",
-          "title" : "Google Pics is like Canva, but with even more AI",
-          "url" : "https:\/\/www.theverge.com\/tech\/987423\/google-pics-ai-image-editor-generator"
+          "source_name" : "TechCrunch AI",
+          "title" : "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/02\/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam\/"
         }
       ],
-      "summary" : "Google Pics is a new AI-powered image editing tool that allows users to manipulate images with greater precision.",
-      "title" : "Google Pics is like Canva, but with even more AI",
+      "summary" : "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
+      "title" : "Amazon's Alexa Shopping AI now detects scams",
       "topics" : [
-        "Gemini",
-        "Image Models"
+        "AI"
       ]
     },
     {
@@ -134,42 +151,6 @@
       "title" : "OpenAI's Astra model is on the way — and very good at breaking into computer systems",
       "topics" : [
         "LLMs"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-09-02",
-      "id" : "2026-09-02-cb626a5fe1fd",
-      "importance" : "high",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/01\/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use\/"
-        }
-      ],
-      "summary" : "This is a major development in the AI industry, as it will help companies better understand and manage the AI agents they use.",
-      "title" : "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-      "topics" : [
-        "Agents"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-09-02",
-      "id" : "2026-09-02-c2f63357c218",
-      "importance" : "high",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Fambot introduces an ‘AI chief of staff’ for families",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/01\/fambot-introduces-an-ai-chief-of-staff-for-families\/"
-        }
-      ],
-      "summary" : "This could revolutionize how families manage their schedules and communications.",
-      "title" : "Fambot introduces an 'AI chief of staff' for families",
-      "topics" : [
-        "AI"
       ]
     },
     {
@@ -211,19 +192,38 @@
     {
       "confidence" : "medium",
       "date" : "2026-09-02",
-      "id" : "2026-09-02-5e47dc035f49",
+      "id" : "2026-09-02-2c8a05fa51e2",
       "importance" : "high",
       "sources" : [
         {
           "source_name" : "The Verge AI",
-          "title" : "Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
-          "url" : "https:\/\/www.theverge.com\/tech\/986378\/nvidia-dlss-5-launch-nba-2k27"
+          "title" : "Google Pics is like Canva, but with even more AI",
+          "url" : "https:\/\/www.theverge.com\/tech\/987423\/google-pics-ai-image-editor-generator"
         }
       ],
-      "summary" : "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smoothing for video games, but worse.\" DLSS 5 will officially be available on RTX 50-series desktop and laptop GPUs and through GeForce Now cloud gaming, though the only game with the tech so far is NBA 2K27 - which is launching September 3rd at 9PM PT on PC.",
-      "title" : "Nvidia's controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
+      "summary" : "Google Pics is a new AI-powered image editing tool that allows users to manipulate images with greater precision.",
+      "title" : "Google Pics is like Canva, but with even more AI",
       "topics" : [
-        "Compute"
+        "Gemini",
+        "Image Models"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-09-02",
+      "id" : "2026-09-02-cb626a5fe1fd",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/01\/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use\/"
+        }
+      ],
+      "summary" : "This is a major development in the AI industry, as it will help companies better understand and manage the AI agents they use.",
+      "title" : "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+      "topics" : [
+        "Agents"
       ]
     },
     {
