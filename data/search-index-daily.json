@@ -2,6 +2,244 @@
   "cards" : [
     {
       "confidence" : "high",
+      "date" : "2026-09-03",
+      "id" : "2026-09-03-5167181998d9",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/988742\/google-gemini-3-8-flash"
+        },
+        {
+          "source_name" : "AI News (Swyx)",
+          "title" : "not much happened today",
+          "url" : "https:\/\/news.smol.ai\/issues\/26-08-31-not-much\/"
+        }
+      ],
+      "summary" : "Google claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 per million input tokens and $3.75 per million output tokens, but could still end up costing users more.",
+      "title" : "Google says its new Gemini 3.8 Flash model 'works harder' but might cost more",
+      "topics" : [
+        "Gemini",
+        "Pricing",
+        "Tooling"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-09-03",
+      "id" : "2026-09-03-e67208b7594b",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Claude Fable\/Mythos 5.1: new SOTA model, 75% cache price cut but 70% more output tokens",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-claude-fablemythos-51-new"
+        },
+        {
+          "source_name" : "AI News (Swyx)",
+          "title" : "Claude Fable 5.1 and Claude Mythos 5.1",
+          "url" : "https:\/\/news.smol.ai\/issues\/26-09-01-claude-mythos-51\/"
+        }
+      ],
+      "summary" : "The launch of these models is significant as they represent a major advancement in AI capabilities for coding and knowledge work.",
+      "title" : "Anthropic launches Claude Fable 5.1 and Claude Mythos 5.1",
+      "topics" : [
+        "Claude",
+        "Anthropic",
+        "Pricing"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-09-03",
+      "id" : "2026-09-03-4bd41a37531b",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "Google DeepMind",
+          "title" : "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+          "url" : "https:\/\/deepmind.google\/blog\/introducing-gemini-3-8-flash-and-38-flash-cyber\/"
+        }
+      ],
+      "summary" : "AI enthusiasts and researchers will closely monitor the release of Gemini 3.8 Flash and 3.8 Flash Cyber to assess their performance and potential impact on the AI industry.",
+      "title" : "Google DeepMind Introduces Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "topics" : [
+        "Gemini"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-09-03",
+      "id" : "2026-09-03-c60276d7c317",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Researchers fear safety disaster ahead of OpenAI’s Astra release",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/988334\/openai-astra-ai-monitoring-safety"
+        }
+      ],
+      "summary" : "Researchers are warning that the new model could be the single worst development for AI security\/safety to date.",
+      "title" : "Researchers fear safety disaster ahead of OpenAI’s Astra release",
+      "topics" : [
+        "Safety"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-09-03",
+      "id" : "2026-09-03-f4e5e6b77883",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "NYC bans AI use for students until they reach high school",
+          "url" : "https:\/\/www.theverge.com\/policy\/988228\/nyc-ai-restrictions-in-schools-chatbot-ban"
+        }
+      ],
+      "summary" : "NYC's Department of Education will bar teachers from using AI tools to grade assignments and keep students from using the technology in the classroom until they enter high school.",
+      "title" : "NYC bans AI use for students until they reach high school",
+      "topics" : [
+        "Tooling"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-09-03",
+      "id" : "2026-09-03-1eed047cdd29",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/02\/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say\/"
+        }
+      ],
+      "summary" : "The acquisition leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+      "title" : "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-09-03",
+      "id" : "2026-09-03-d1b8ecccbe80",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "OpenAI’s new reasoning technique alarms AI safety experts",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/02\/openais-new-reasoning-technique-alarms-ai-safety-experts\/"
+        }
+      ],
+      "summary" : "OpenAI's new Astra model will use \"recurrent depth,\" a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+      "title" : "OpenAI's new reasoning technique alarms AI safety experts",
+      "topics" : [
+        "Safety"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-09-03",
+      "id" : "2026-09-03-a1638864c829",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/02\/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments\/"
+        }
+      ],
+      "summary" : "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
+      "title" : "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+      "topics" : [
+        "Agents",
+        "Enterprise",
+        "Tooling"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-09-03",
+      "id" : "2026-09-03-d81cfb8fb0dd",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/02\/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam\/"
+        }
+      ],
+      "summary" : "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
+      "title" : "Amazon's Alexa Shopping AI now detects scams",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-09-03",
+      "id" : "2026-09-03-b784b4ea4374",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "ChatGPT Health adds Epic integration for clinicians to import patient data",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/01\/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data\/"
+        },
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+          "url" : "https:\/\/openai.com\/index\/chatgpt-connects-health-records-and-healthcare-sources"
+        }
+      ],
+      "summary" : "This integration will enable clinicians to securely access patient context, medical research, and more.",
+      "title" : "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "topics" : [
+        "ChatGPT",
+        "Research"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-09-03",
+      "id" : "2026-09-03-1ecc50fa28ea",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "Google DeepMind",
+          "title" : "Introducing agentic video understanding with Gemini",
+          "url" : "https:\/\/deepmind.google\/blog\/introducing-agentic-video-in-gemini\/"
+        }
+      ],
+      "summary" : "Google DeepMind has introduced a new model called Gemini, which is designed to understand videos in a more agentic way.",
+      "title" : "Google DeepMind introduces agentic video understanding with Gemini",
+      "topics" : [
+        "Gemini"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-09-03",
+      "id" : "2026-09-03-547fd968254c",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Path to Astra: critical capabilities and frontier safeguards",
+          "url" : "https:\/\/openai.com\/index\/path-to-astra"
+        }
+      ],
+      "summary" : "This achievement underscores OpenAI's commitment to ensuring the safety and reliability of its AI models, which is crucial for maintaining public trust and compliance with evolving cybersecurity standards.",
+      "title" : "OpenAI's Astra Model Achieves Critical Cybersecurity Capability",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "high",
       "date" : "2026-09-02",
       "id" : "2026-09-02-0f56bd6f73f4",
       "importance" : "high",
