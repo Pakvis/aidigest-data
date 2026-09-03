@@ -3,29 +3,6 @@
     {
       "confidence" : "high",
       "date" : "2026-09-03",
-      "id" : "2026-09-03-9f88e118f998",
-      "importance" : "high",
-      "sources" : [
-        {
-          "source_name" : "The AI Report",
-          "title" : "️Anthropic ships cheaper Fable 5.1",
-          "url" : "https:\/\/newsletter.theaireport.ai\/p\/anthropic-ships-cheaper-fable-5-1"
-        },
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Anthropic’s new Fable release is cheaper, less restrictive",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/01\/anthropics-new-fable-release-is-cheaper-less-restrictive\/"
-        }
-      ],
-      "summary" : "This release could significantly impact the accessibility and adoption of AI models.",
-      "title" : "Anthropic's new Fable release is cheaper, less restrictive",
-      "topics" : [
-        "Anthropic"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "date" : "2026-09-03",
       "id" : "2026-09-03-9fd151b1effd",
       "importance" : "high",
       "sources" : [
@@ -42,21 +19,22 @@
       ]
     },
     {
-      "confidence" : "high",
+      "confidence" : "medium",
       "date" : "2026-09-03",
-      "id" : "2026-09-03-4bd41a37531b",
+      "id" : "2026-09-03-8b3ebc0d4caa",
       "importance" : "high",
       "sources" : [
         {
-          "source_name" : "Google DeepMind",
-          "title" : "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-          "url" : "https:\/\/deepmind.google\/blog\/introducing-gemini-3-8-flash-and-38-flash-cyber\/"
+          "source_name" : "The Verge AI",
+          "title" : "Nvidia launches free tool that links idle computers into a personal AI data center",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/989435\/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook"
         }
       ],
-      "summary" : "AI enthusiasts and researchers will closely monitor the release of Gemini 3.8 Flash and 3.8 Flash Cyber to assess their performance and potential impact on the AI industry.",
-      "title" : "Google DeepMind Introduces Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "summary" : "Nvidia announced its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio.",
+      "title" : "Nvidia launches free tool that links idle computers into a personal AI data center",
       "topics" : [
-        "Gemini"
+        "Tooling",
+        "Inference"
       ]
     },
     {
@@ -75,24 +53,6 @@
       "title" : "Google says its AI weather model is getting better",
       "topics" : [
         "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-09-03",
-      "id" : "2026-09-03-c60276d7c317",
-      "importance" : "high",
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Researchers fear safety disaster ahead of OpenAI’s Astra release",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/988334\/openai-astra-ai-monitoring-safety"
-        }
-      ],
-      "summary" : "Researchers are warning that the new model could be the single worst development for AI security\/safety to date.",
-      "title" : "Researchers fear safety disaster ahead of OpenAI’s Astra release",
-      "topics" : [
-        "Safety"
       ]
     },
     {
@@ -154,42 +114,17 @@
     {
       "confidence" : "high",
       "date" : "2026-09-03",
-      "id" : "2026-09-03-e67208b7594b",
-      "importance" : "high",
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "Claude Fable\/Mythos 5.1: new SOTA model, 75% cache price cut but 70% more output tokens",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-claude-fablemythos-51-new"
-        },
-        {
-          "source_name" : "AI News (Swyx)",
-          "title" : "Claude Fable 5.1 and Claude Mythos 5.1",
-          "url" : "https:\/\/news.smol.ai\/issues\/26-09-01-claude-mythos-51\/"
-        }
-      ],
-      "summary" : "The launch of these models is significant as they represent a major advancement in AI capabilities for coding and knowledge work.",
-      "title" : "Anthropic launches Claude Fable 5.1 and Claude Mythos 5.1",
-      "topics" : [
-        "Claude",
-        "Anthropic",
-        "Pricing"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "date" : "2026-09-03",
-      "id" : "2026-09-03-1ecc50fa28ea",
+      "id" : "2026-09-03-4bd41a37531b",
       "importance" : "high",
       "sources" : [
         {
           "source_name" : "Google DeepMind",
-          "title" : "Introducing agentic video understanding with Gemini",
-          "url" : "https:\/\/deepmind.google\/blog\/introducing-agentic-video-in-gemini\/"
+          "title" : "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+          "url" : "https:\/\/deepmind.google\/blog\/introducing-gemini-3-8-flash-and-38-flash-cyber\/"
         }
       ],
-      "summary" : "Google DeepMind has introduced a new model called Gemini, which is designed to understand videos in a more agentic way.",
-      "title" : "Google DeepMind introduces agentic video understanding with Gemini",
+      "summary" : "AI enthusiasts and researchers will closely monitor the release of Gemini 3.8 Flash and 3.8 Flash Cyber to assess their performance and potential impact on the AI industry.",
+      "title" : "Google DeepMind Introduces Gemini 3.8 Flash and 3.8 Flash Cyber",
       "topics" : [
         "Gemini"
       ]
@@ -215,19 +150,75 @@
     {
       "confidence" : "medium",
       "date" : "2026-09-03",
-      "id" : "2026-09-03-f4e5e6b77883",
+      "id" : "2026-09-03-c60276d7c317",
       "importance" : "high",
       "sources" : [
         {
           "source_name" : "The Verge AI",
-          "title" : "NYC bans AI use for students until they reach high school",
-          "url" : "https:\/\/www.theverge.com\/policy\/988228\/nyc-ai-restrictions-in-schools-chatbot-ban"
+          "title" : "Researchers fear safety disaster ahead of OpenAI’s Astra release",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/988334\/openai-astra-ai-monitoring-safety"
         }
       ],
-      "summary" : "NYC's Department of Education will bar teachers from using AI tools to grade assignments and keep students from using the technology in the classroom until they enter high school.",
-      "title" : "NYC bans AI use for students until they reach high school",
+      "summary" : "Researchers are warning that the new model could be the single worst development for AI security\/safety to date.",
+      "title" : "Researchers fear safety disaster ahead of OpenAI’s Astra release",
       "topics" : [
+        "Safety"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-09-03",
+      "id" : "2026-09-03-a1638864c829",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/02\/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments\/"
+        }
+      ],
+      "summary" : "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
+      "title" : "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+      "topics" : [
+        "Agents",
+        "Enterprise",
         "Tooling"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-09-03",
+      "id" : "2026-09-03-d81cfb8fb0dd",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/02\/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam\/"
+        }
+      ],
+      "summary" : "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
+      "title" : "Amazon's Alexa Shopping AI now detects scams",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-09-03",
+      "id" : "2026-09-03-ee14853b83f8",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/01\/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems\/"
+        }
+      ],
+      "summary" : "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+      "title" : "OpenAI's Astra model is on the way — and very good at breaking into computer systems",
+      "topics" : [
+        "LLMs"
       ]
     },
     {
