@@ -44,26 +44,6 @@
     {
       "confidence" : "medium",
       "date" : "2026-09-03",
-      "id" : "2026-09-03-5167181998d9",
-      "importance" : "high",
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/988742\/google-gemini-3-8-flash"
-        }
-      ],
-      "summary" : "Google claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 per million input tokens and $3.75 per million output tokens, but could still end up costing users more.",
-      "title" : "Google says its new Gemini 3.8 Flash model 'works harder' but might cost more",
-      "topics" : [
-        "Gemini",
-        "Pricing",
-        "Tooling"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-09-03",
       "id" : "2026-09-03-c60276d7c317",
       "importance" : "high",
       "sources" : [
@@ -238,6 +218,24 @@
         "Claude",
         "Anthropic",
         "Pricing"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-09-03",
+      "id" : "2026-09-03-1ecc50fa28ea",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "Google DeepMind",
+          "title" : "Introducing agentic video understanding with Gemini",
+          "url" : "https:\/\/deepmind.google\/blog\/introducing-agentic-video-in-gemini\/"
+        }
+      ],
+      "summary" : "Google DeepMind has introduced a new model called Gemini, which is designed to understand videos in a more agentic way.",
+      "title" : "Google DeepMind introduces agentic video understanding with Gemini",
+      "topics" : [
+        "Gemini"
       ]
     },
     {
