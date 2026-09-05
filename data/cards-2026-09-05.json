@@ -97,28 +97,6 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-09-04T16:21:11Z",
-      "id" : "2026-09-05-ae5a9fe3de61",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/04\/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge\/"
-        }
-      ],
-      "summary" : "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge. It's the latest failure of OpenAI's internal monitoring and security systems.",
-      "summary_method" : "source-extract",
-      "title" : "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-      "topics" : [
-        "Agents"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-09-02T22:44:56Z",
       "id" : "2026-09-05-d370cb55a6b1",
       "importance" : "high",
@@ -137,6 +115,28 @@
       "title" : "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
       "topics" : [
         "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-04T16:21:11Z",
+      "id" : "2026-09-05-ae5a9fe3de61",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/04\/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge\/"
+        }
+      ],
+      "summary" : "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge. It's the latest failure of OpenAI's internal monitoring and security systems.",
+      "summary_method" : "source-extract",
+      "title" : "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+      "topics" : [
+        "Agents"
       ]
     },
     {
@@ -229,9 +229,53 @@
         "Agents",
         "Benchmarks"
       ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-04T21:12:11Z",
+      "id" : "2026-09-05-e827083ed771",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/04\/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing\/"
+        }
+      ],
+      "summary" : "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+      "summary_method" : "source-extract",
+      "title" : "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "topics" : [
+        "Anthropic"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-05T15:01:02Z",
+      "id" : "2026-09-05-d43c0f6e02c1",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot",
+          "url" : "https:\/\/www.latent.space\/p\/grok-bot"
+        }
+      ],
+      "summary" : "Grok Bot feels like unboxing a new MacBook.",
+      "summary_method" : "source-extract",
+      "title" : "OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot",
+      "topics" : [
+        "OpenClaw"
+      ]
     }
   ],
-  "count" : 10,
+  "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 5,
@@ -239,9 +283,9 @@
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-05",
-  "generated_at" : "2026-09-05T16:01:00Z",
+  "generated_at" : "2026-09-05T18:01:00Z",
   "processing_report" : {
-    "generated_at" : "2026-09-05T16:01:04Z",
+    "generated_at" : "2026-09-05T18:01:05Z",
     "high_card_count" : 4,
     "source_reports" : [
       {
@@ -249,14 +293,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-09-04T13:36:18Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-05T16:01:04Z",
+        "processed_at" : "2026-09-05T18:01:04Z",
         "state" : "processed"
       },
       {
         "article_count" : 10,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-05T16:01:03Z",
+        "processed_at" : "2026-09-05T18:01:05Z",
         "state" : "processed"
       },
       {
@@ -264,7 +308,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-09-03T09:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-05T16:01:02Z",
+        "processed_at" : "2026-09-05T18:01:03Z",
         "state" : "processed"
       },
       {
@@ -272,7 +316,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-08-31T10:00:34Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-05T16:01:01Z",
+        "processed_at" : "2026-09-05T18:01:01Z",
         "state" : "processed"
       },
       {
@@ -280,7 +324,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-02T15:40:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-05T16:01:01Z",
+        "processed_at" : "2026-09-05T18:01:01Z",
         "state" : "processed"
       },
       {
@@ -288,7 +332,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-03T15:02:08Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-05T16:01:01Z",
+        "processed_at" : "2026-09-05T18:01:01Z",
         "state" : "processed"
       },
       {
@@ -296,7 +340,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-09-03T13:13:48Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-05T16:01:01Z",
+        "processed_at" : "2026-09-05T18:01:00Z",
         "state" : "processed"
       },
       {
@@ -304,7 +348,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-09-05T15:01:02Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-05T16:01:01Z",
+        "processed_at" : "2026-09-05T18:01:01Z",
         "state" : "processed"
       },
       {
@@ -312,7 +356,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-02T06:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-05T16:01:01Z",
+        "processed_at" : "2026-09-05T18:01:01Z",
         "state" : "processed"
       },
       {
@@ -320,7 +364,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-08-24T16:02:41Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-05T16:01:01Z",
+        "processed_at" : "2026-09-05T18:01:01Z",
         "state" : "processed"
       },
       {
@@ -328,7 +372,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-08-31T00:24:35Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-05T16:01:01Z",
+        "processed_at" : "2026-09-05T18:01:01Z",
         "state" : "processed"
       },
       {
@@ -336,7 +380,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-09-03T13:15:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-05T16:01:01Z",
+        "processed_at" : "2026-09-05T18:01:01Z",
         "state" : "processed"
       },
       {
@@ -344,7 +388,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-09-05T14:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-05T16:01:03Z",
+        "processed_at" : "2026-09-05T18:01:04Z",
         "state" : "processed"
       },
       {
@@ -352,7 +396,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-09-04T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-05T16:01:01Z",
+        "processed_at" : "2026-09-05T18:01:01Z",
         "state" : "processed"
       },
       {
@@ -360,7 +404,7 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-09-04T23:15:11Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-05T16:01:00Z",
+        "processed_at" : "2026-09-05T18:01:01Z",
         "state" : "processed"
       },
       {
@@ -368,7 +412,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-09-04T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-05T16:01:04Z",
+        "processed_at" : "2026-09-05T18:01:04Z",
         "state" : "processed"
       },
       {
@@ -376,14 +420,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-04T16:06:01Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-05T16:01:01Z",
+        "processed_at" : "2026-09-05T18:01:01Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 8,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-05T16:01:03Z",
+        "processed_at" : "2026-09-05T18:01:04Z",
         "state" : "processed"
       },
       {
@@ -391,7 +435,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-09-05T11:15:55Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-05T16:01:00Z",
+        "processed_at" : "2026-09-05T18:01:00Z",
         "state" : "processed"
       },
       {
@@ -399,7 +443,7 @@
         "id" : "ai-news",
         "message" : "HTTP 402 from news.smol.ai",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-05T16:01:00Z",
+        "processed_at" : "2026-09-05T18:01:00Z",
         "state" : "failed"
       }
     ],
