@@ -2,6 +2,28 @@
   "cards" : [
     {
       "confidence" : "medium",
+      "created_at" : "2026-09-04T10:41:48Z",
+      "id" : "2026-09-06-b2bba505fd92",
+      "importance" : "high",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/990060\/altman-apologizes-messy-astra-rollout"
+        }
+      ],
+      "summary" : "Just hours after OpenAI launched GPT-6 Astra , CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting.",
+      "summary_method" : "source-extract",
+      "title" : "Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users",
+      "topics" : [
+        "GPT"
+      ]
+    },
+    {
+      "confidence" : "medium",
       "created_at" : "2026-09-04T13:36:18Z",
       "id" : "2026-09-06-ef2e162f6eca",
       "importance" : "high",
@@ -21,28 +43,6 @@
       "topics" : [
         "GPT",
         "Gemini"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-04T10:41:48Z",
-      "id" : "2026-09-06-b2bba505fd92",
-      "importance" : "high",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/990060\/altman-apologizes-messy-astra-rollout"
-        }
-      ],
-      "summary" : "Just hours after OpenAI launched GPT-6 Astra , CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting.",
-      "summary_method" : "source-extract",
-      "title" : "Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users",
-      "topics" : [
-        "GPT"
       ]
     },
     {
@@ -93,28 +93,6 @@
       "title" : "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
       "topics" : [
         "Agents"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "created_at" : "2026-09-03T13:15:00Z",
-      "id" : "2026-09-06-c0db2a7495ef",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Daybreak for Frontline Defenders: $1B to protect essential services",
-          "url" : "https:\/\/openai.com\/index\/daybreak-for-frontline-defenders"
-        }
-      ],
-      "summary" : "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-      "summary_method" : "source-extract",
-      "title" : "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "topics" : [
-        "AI"
       ]
     },
     {
@@ -272,17 +250,17 @@
       ]
     }
   ],
-  "count" : 12,
+  "count" : 11,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 5,
-    "summary" : "• OpenAI ships GPT-6 Astra and calls it the AGI era\n• Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users\n• Rogue OpenAI agents appear to have organized another attack using a German wiki",
+    "source_count" : 4,
+    "summary" : "• Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users\n• OpenAI ships GPT-6 Astra and calls it the AGI era\n• Rogue OpenAI agents appear to have organized another attack using a German wiki",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-06",
-  "generated_at" : "2026-09-06T12:00:49Z",
+  "generated_at" : "2026-09-06T14:02:17Z",
   "processing_report" : {
-    "generated_at" : "2026-09-06T12:00:54Z",
+    "generated_at" : "2026-09-06T14:02:21Z",
     "high_card_count" : 2,
     "source_reports" : [
       {
@@ -290,14 +268,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-09-04T13:36:18Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-06T12:00:54Z",
+        "processed_at" : "2026-09-06T14:02:21Z",
         "state" : "processed"
       },
       {
         "article_count" : 10,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-06T12:00:52Z",
+        "processed_at" : "2026-09-06T14:02:19Z",
         "state" : "processed"
       },
       {
@@ -305,7 +283,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-09-03T09:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-06T12:00:51Z",
+        "processed_at" : "2026-09-06T14:02:19Z",
         "state" : "processed"
       },
       {
@@ -313,7 +291,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-08-31T10:00:34Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-06T12:00:50Z",
+        "processed_at" : "2026-09-06T14:02:18Z",
         "state" : "processed"
       },
       {
@@ -321,7 +299,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-02T15:40:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-06T12:00:50Z",
+        "processed_at" : "2026-09-06T14:02:17Z",
         "state" : "processed"
       },
       {
@@ -329,7 +307,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-03T15:02:08Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-06T12:00:50Z",
+        "processed_at" : "2026-09-06T14:02:17Z",
         "state" : "processed"
       },
       {
@@ -337,7 +315,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-09-03T13:13:48Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-06T12:00:50Z",
+        "processed_at" : "2026-09-06T14:02:17Z",
         "state" : "processed"
       },
       {
@@ -345,7 +323,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-09-05T15:01:02Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-06T12:00:50Z",
+        "processed_at" : "2026-09-06T14:02:18Z",
         "state" : "processed"
       },
       {
@@ -353,7 +331,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-02T06:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-06T12:00:50Z",
+        "processed_at" : "2026-09-06T14:02:17Z",
         "state" : "processed"
       },
       {
@@ -361,7 +339,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-08-24T16:02:41Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-06T12:00:50Z",
+        "processed_at" : "2026-09-06T14:02:17Z",
         "state" : "processed"
       },
       {
@@ -369,7 +347,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-08-31T00:24:35Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-06T12:00:50Z",
+        "processed_at" : "2026-09-06T14:02:18Z",
         "state" : "processed"
       },
       {
@@ -377,7 +355,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-09-03T13:15:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-06T12:00:50Z",
+        "processed_at" : "2026-09-06T14:02:17Z",
         "state" : "processed"
       },
       {
@@ -385,7 +363,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-09-05T14:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-06T12:00:52Z",
+        "processed_at" : "2026-09-06T14:02:19Z",
         "state" : "processed"
       },
       {
@@ -393,7 +371,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-09-04T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-06T12:00:50Z",
+        "processed_at" : "2026-09-06T14:02:17Z",
         "state" : "processed"
       },
       {
@@ -401,15 +379,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-09-05T22:49:55Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-06T12:00:50Z",
+        "processed_at" : "2026-09-06T14:02:17Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "the-ai-report",
-        "latest_article_at" : "2026-09-04T11:01:00Z",
+        "latest_article_at" : "2026-09-06T12:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-06T12:00:53Z",
+        "processed_at" : "2026-09-06T14:02:20Z",
         "state" : "processed"
       },
       {
@@ -417,14 +395,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-04T16:06:01Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-06T12:00:51Z",
+        "processed_at" : "2026-09-06T14:02:18Z",
         "state" : "processed"
       },
       {
         "article_count" : 10,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-06T12:00:51Z",
+        "processed_at" : "2026-09-06T14:02:19Z",
         "state" : "processed"
       },
       {
@@ -432,7 +410,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-09-05T11:15:55Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-06T12:00:50Z",
+        "processed_at" : "2026-09-06T14:02:17Z",
         "state" : "processed"
       },
       {
@@ -440,7 +418,7 @@
         "id" : "ai-news",
         "message" : "HTTP 402 from news.smol.ai",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-06T12:00:50Z",
+        "processed_at" : "2026-09-06T14:02:17Z",
         "state" : "failed"
       }
     ],
