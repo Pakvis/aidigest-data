@@ -1,6 +1,25 @@
 {
   "cards" : [
     {
+      "confidence" : "high",
+      "date" : "2026-09-06",
+      "id" : "2026-09-06-3c28dbe8333c",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Research acceleration: The view inside OpenAI",
+          "url" : "https:\/\/openai.com\/index\/research-acceleration-view-inside-openai"
+        }
+      ],
+      "summary" : "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "title" : "Research acceleration: The view inside OpenAI",
+      "topics" : [
+        "Research",
+        "Agents"
+      ]
+    },
+    {
       "confidence" : "medium",
       "date" : "2026-09-06",
       "id" : "2026-09-06-b2bba505fd92",
@@ -16,25 +35,6 @@
       "title" : "Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users",
       "topics" : [
         "GPT"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-09-06",
-      "id" : "2026-09-06-ef2e162f6eca",
-      "importance" : "high",
-      "sources" : [
-        {
-          "source_name" : "AI Breakfast",
-          "title" : "OpenAI ships GPT-6 Astra and calls it the AGI era",
-          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/openai-ships-gpt-6-astra-and-calls-it-the-agi-era"
-        }
-      ],
-      "summary" : "OpenAI's GPT-6 Astra is the first model rated Critical for cyber, Nvidia acquires Hugging Face for $12.93B, Google gates Gemini 3.8 Flash Cyber, and Meta returns to the frontier.",
-      "title" : "OpenAI ships GPT-6 Astra and calls it the AGI era",
-      "topics" : [
-        "GPT",
-        "Gemini"
       ]
     },
     {
@@ -148,24 +148,6 @@
     {
       "confidence" : "medium",
       "date" : "2026-09-06",
-      "id" : "2026-09-06-75924a6ae28f",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot",
-          "url" : "https:\/\/www.latent.space\/p\/grok-bot"
-        }
-      ],
-      "summary" : "Grok Bot feels like unboxing a new MacBook.",
-      "title" : "OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot",
-      "topics" : [
-        "OpenClaw"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-09-06",
       "id" : "2026-09-06-4ed2282cb0c2",
       "importance" : "low",
       "sources" : [
@@ -197,6 +179,42 @@
       "title" : "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
       "topics" : [
         "Anthropic"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-09-06",
+      "id" : "2026-09-06-1ae3de8ec61a",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+          "url" : "https:\/\/techcrunch.com\/podcast\/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack\/"
+        }
+      ],
+      "summary" : "Apple’s Ternus era begins as Nvidia bets on the whole AI stack. It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in.",
+      "title" : "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-09-06",
+      "id" : "2026-09-06-75924a6ae28f",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot",
+          "url" : "https:\/\/www.latent.space\/p\/grok-bot"
+        }
+      ],
+      "summary" : "Grok Bot feels like unboxing a new MacBook.",
+      "title" : "OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot",
+      "topics" : [
+        "OpenClaw"
       ]
     },
     {

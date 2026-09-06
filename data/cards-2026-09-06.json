@@ -1,6 +1,29 @@
 {
   "cards" : [
     {
+      "confidence" : "high",
+      "created_at" : "2026-09-06T08:00:00Z",
+      "id" : "2026-09-06-3c28dbe8333c",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Research acceleration: The view inside OpenAI",
+          "url" : "https:\/\/openai.com\/index\/research-acceleration-view-inside-openai"
+        }
+      ],
+      "summary" : "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "summary_method" : "source-extract",
+      "title" : "Research acceleration: The view inside OpenAI",
+      "topics" : [
+        "Research",
+        "Agents"
+      ]
+    },
+    {
       "confidence" : "medium",
       "created_at" : "2026-09-04T10:41:48Z",
       "id" : "2026-09-06-b2bba505fd92",
@@ -20,29 +43,6 @@
       "title" : "Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users",
       "topics" : [
         "GPT"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-04T13:36:18Z",
-      "id" : "2026-09-06-ef2e162f6eca",
-      "importance" : "high",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "AI Breakfast",
-          "title" : "OpenAI ships GPT-6 Astra and calls it the AGI era",
-          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/openai-ships-gpt-6-astra-and-calls-it-the-agi-era"
-        }
-      ],
-      "summary" : "OpenAI's GPT-6 Astra is the first model rated Critical for cyber, Nvidia acquires Hugging Face for $12.93B, Google gates Gemini 3.8 Flash Cyber, and Meta returns to the frontier.",
-      "summary_method" : "source-extract",
-      "title" : "OpenAI ships GPT-6 Astra and calls it the AGI era",
-      "topics" : [
-        "GPT",
-        "Gemini"
       ]
     },
     {
@@ -185,28 +185,6 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-09-05T15:01:02Z",
-      "id" : "2026-09-06-75924a6ae28f",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot",
-          "url" : "https:\/\/www.latent.space\/p\/grok-bot"
-        }
-      ],
-      "summary" : "Grok Bot feels like unboxing a new MacBook.",
-      "summary_method" : "source-extract",
-      "title" : "OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot",
-      "topics" : [
-        "OpenClaw"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-09-04T17:51:35Z",
       "id" : "2026-09-06-4ed2282cb0c2",
       "importance" : "low",
@@ -248,34 +226,78 @@
       "topics" : [
         "Anthropic"
       ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-04T16:04:08Z",
+      "id" : "2026-09-06-1ae3de8ec61a",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+          "url" : "https:\/\/techcrunch.com\/podcast\/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack\/"
+        }
+      ],
+      "summary" : "Apple’s Ternus era begins as Nvidia bets on the whole AI stack. It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in.",
+      "summary_method" : "source-extract",
+      "title" : "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-05T15:01:02Z",
+      "id" : "2026-09-06-75924a6ae28f",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot",
+          "url" : "https:\/\/www.latent.space\/p\/grok-bot"
+        }
+      ],
+      "summary" : "Grok Bot feels like unboxing a new MacBook.",
+      "summary_method" : "source-extract",
+      "title" : "OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot",
+      "topics" : [
+        "OpenClaw"
+      ]
     }
   ],
-  "count" : 11,
+  "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 4,
-    "summary" : "• Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users\n• OpenAI ships GPT-6 Astra and calls it the AGI era\n• Rogue OpenAI agents appear to have organized another attack using a German wiki",
+    "summary" : "• Research acceleration: The view inside OpenAI\n• Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users\n• Rogue OpenAI agents appear to have organized another attack using a German wiki",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-06",
-  "generated_at" : "2026-09-06T14:02:17Z",
+  "generated_at" : "2026-09-06T16:03:41Z",
   "processing_report" : {
-    "generated_at" : "2026-09-06T14:02:21Z",
-    "high_card_count" : 2,
+    "generated_at" : "2026-09-06T16:03:47Z",
+    "high_card_count" : 1,
     "source_reports" : [
       {
-        "article_count" : 12,
+        "article_count" : 9,
         "id" : "ai-breakfast",
-        "latest_article_at" : "2026-09-04T13:36:18Z",
+        "latest_article_at" : "2026-09-02T17:54:45Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-06T14:02:21Z",
+        "processed_at" : "2026-09-06T16:03:47Z",
         "state" : "processed"
       },
       {
         "article_count" : 10,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-06T14:02:19Z",
+        "processed_at" : "2026-09-06T16:03:46Z",
         "state" : "processed"
       },
       {
@@ -283,7 +305,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-09-03T09:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-06T14:02:19Z",
+        "processed_at" : "2026-09-06T16:03:44Z",
         "state" : "processed"
       },
       {
@@ -291,7 +313,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-08-31T10:00:34Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-06T14:02:18Z",
+        "processed_at" : "2026-09-06T16:03:42Z",
         "state" : "processed"
       },
       {
@@ -299,7 +321,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-02T15:40:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-06T14:02:17Z",
+        "processed_at" : "2026-09-06T16:03:42Z",
         "state" : "processed"
       },
       {
@@ -307,7 +329,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-03T15:02:08Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-06T14:02:17Z",
+        "processed_at" : "2026-09-06T16:03:42Z",
         "state" : "processed"
       },
       {
@@ -315,7 +337,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-09-03T13:13:48Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-06T14:02:17Z",
+        "processed_at" : "2026-09-06T16:03:42Z",
         "state" : "processed"
       },
       {
@@ -323,7 +345,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-09-05T15:01:02Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-06T14:02:18Z",
+        "processed_at" : "2026-09-06T16:03:42Z",
         "state" : "processed"
       },
       {
@@ -331,7 +353,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-02T06:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-06T14:02:17Z",
+        "processed_at" : "2026-09-06T16:03:42Z",
         "state" : "processed"
       },
       {
@@ -339,7 +361,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-08-24T16:02:41Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-06T14:02:17Z",
+        "processed_at" : "2026-09-06T16:03:42Z",
         "state" : "processed"
       },
       {
@@ -347,23 +369,23 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-08-31T00:24:35Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-06T14:02:18Z",
+        "processed_at" : "2026-09-06T16:03:42Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "openai-news",
-        "latest_article_at" : "2026-09-03T13:15:00Z",
+        "latest_article_at" : "2026-09-06T08:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-06T14:02:17Z",
+        "processed_at" : "2026-09-06T16:03:42Z",
         "state" : "processed"
       },
       {
-        "article_count" : 9,
+        "article_count" : 8,
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-09-05T14:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-06T14:02:19Z",
+        "processed_at" : "2026-09-06T16:03:45Z",
         "state" : "processed"
       },
       {
@@ -371,7 +393,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-09-04T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-06T14:02:17Z",
+        "processed_at" : "2026-09-06T16:03:42Z",
         "state" : "processed"
       },
       {
@@ -379,15 +401,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-09-05T22:49:55Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-06T14:02:17Z",
+        "processed_at" : "2026-09-06T16:03:42Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 8,
         "id" : "the-ai-report",
-        "latest_article_at" : "2026-09-06T12:01:00Z",
+        "latest_article_at" : "2026-09-04T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-06T14:02:20Z",
+        "processed_at" : "2026-09-06T16:03:46Z",
         "state" : "processed"
       },
       {
@@ -395,14 +417,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-04T16:06:01Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-06T14:02:18Z",
+        "processed_at" : "2026-09-06T16:03:42Z",
         "state" : "processed"
       },
       {
         "article_count" : 10,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-06T14:02:19Z",
+        "processed_at" : "2026-09-06T16:03:44Z",
         "state" : "processed"
       },
       {
@@ -410,7 +432,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-09-05T11:15:55Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-06T14:02:17Z",
+        "processed_at" : "2026-09-06T16:03:42Z",
         "state" : "processed"
       },
       {
@@ -418,7 +440,7 @@
         "id" : "ai-news",
         "message" : "HTTP 402 from news.smol.ai",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-06T14:02:17Z",
+        "processed_at" : "2026-09-06T16:03:42Z",
         "state" : "failed"
       }
     ],
