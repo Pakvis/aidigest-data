@@ -191,28 +191,6 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-09-05T15:01:02Z",
-      "id" : "2026-09-07-ad0dda13940f",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot",
-          "url" : "https:\/\/www.latent.space\/p\/grok-bot"
-        }
-      ],
-      "summary" : "Grok Bot feels like unboxing a new MacBook.",
-      "summary_method" : "source-extract",
-      "title" : "OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot",
-      "topics" : [
-        "OpenClaw"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-09-05T11:15:55Z",
       "id" : "2026-09-07-7d3a50c6c235",
       "importance" : "low",
@@ -254,56 +232,42 @@
       "topics" : [
         "Tooling"
       ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-04T21:12:11Z",
-      "id" : "2026-09-07-9e84f4ab7f32",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/04\/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing\/"
-        }
-      ],
-      "summary" : "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
-      "summary_method" : "source-extract",
-      "title" : "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-      "topics" : [
-        "Anthropic"
-      ]
     }
   ],
-  "count" : 12,
+  "count" : 10,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 4,
+    "source_count" : 3,
     "summary" : "• Supporting independent journalism in Ukraine\n• Research acceleration: The view inside OpenAI\n• Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-07",
-  "generated_at" : "2026-09-07T14:03:56Z",
+  "generated_at" : "2026-09-07T16:04:59Z",
   "processing_report" : {
-    "generated_at" : "2026-09-07T14:04:08Z",
+    "generated_at" : "2026-09-07T16:05:04Z",
     "high_card_count" : 0,
     "source_reports" : [
       {
-        "article_count" : 1,
+        "article_count" : 5,
         "id" : "ai-breakfast",
-        "latest_article_at" : "2026-08-14T14:02:00Z",
+        "latest_article_at" : "2026-09-07T14:17:25Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-07T14:04:05Z",
+        "processed_at" : "2026-09-07T16:05:04Z",
         "state" : "processed"
       },
       {
-        "article_count" : 1,
+        "article_count" : 9,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-07T14:04:03Z",
+        "processed_at" : "2026-09-07T16:05:02Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 3,
+        "id" : "aireport-nl",
+        "latest_article_at" : "2026-09-03T09:00:00Z",
+        "name" : "AI Report (NL)",
+        "processed_at" : "2026-09-07T16:05:01Z",
         "state" : "processed"
       },
       {
@@ -311,7 +275,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-08-31T10:00:34Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-07T14:04:02Z",
+        "processed_at" : "2026-09-07T16:05:00Z",
         "state" : "processed"
       },
       {
@@ -319,7 +283,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-02T15:40:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-07T14:03:59Z",
+        "processed_at" : "2026-09-07T16:04:59Z",
         "state" : "processed"
       },
       {
@@ -327,7 +291,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-03T15:02:08Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-07T14:04:02Z",
+        "processed_at" : "2026-09-07T16:04:59Z",
         "state" : "processed"
       },
       {
@@ -335,7 +299,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-09-03T13:13:48Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-07T14:04:08Z",
+        "processed_at" : "2026-09-07T16:04:59Z",
         "state" : "processed"
       },
       {
@@ -343,7 +307,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-09-05T15:01:02Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-07T14:04:03Z",
+        "processed_at" : "2026-09-07T16:05:00Z",
         "state" : "processed"
       },
       {
@@ -351,7 +315,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-02T06:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-07T14:04:00Z",
+        "processed_at" : "2026-09-07T16:04:59Z",
         "state" : "processed"
       },
       {
@@ -359,7 +323,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-08-24T16:02:41Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-07T14:03:59Z",
+        "processed_at" : "2026-09-07T16:04:59Z",
         "state" : "processed"
       },
       {
@@ -367,7 +331,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-08-31T00:24:35Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-07T14:04:01Z",
+        "processed_at" : "2026-09-07T16:04:59Z",
         "state" : "processed"
       },
       {
@@ -375,15 +339,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-09-07T00:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-07T14:04:01Z",
+        "processed_at" : "2026-09-07T16:04:59Z",
         "state" : "processed"
       },
       {
-        "article_count" : 2,
+        "article_count" : 6,
         "id" : "superhuman-ai",
-        "latest_article_at" : "2026-08-31T11:02:54Z",
+        "latest_article_at" : "2026-09-07T11:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-07T14:04:07Z",
+        "processed_at" : "2026-09-07T16:05:03Z",
         "state" : "processed"
       },
       {
@@ -391,7 +355,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-09-07T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-07T14:03:59Z",
+        "processed_at" : "2026-09-07T16:04:59Z",
         "state" : "processed"
       },
       {
@@ -399,15 +363,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-09-06T20:47:37Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-07T14:03:59Z",
+        "processed_at" : "2026-09-07T16:04:59Z",
         "state" : "processed"
       },
       {
-        "article_count" : 6,
+        "article_count" : 8,
         "id" : "the-ai-report",
-        "latest_article_at" : "2026-09-02T11:01:00Z",
+        "latest_article_at" : "2026-09-07T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-07T14:04:07Z",
+        "processed_at" : "2026-09-07T16:05:04Z",
         "state" : "processed"
       },
       {
@@ -415,14 +379,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-04T16:06:01Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-07T14:04:03Z",
+        "processed_at" : "2026-09-07T16:05:00Z",
         "state" : "processed"
       },
       {
-        "article_count" : 4,
+        "article_count" : 8,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-07T14:04:03Z",
+        "processed_at" : "2026-09-07T16:05:02Z",
         "state" : "processed"
       },
       {
@@ -430,23 +394,15 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-09-06T23:36:04Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-07T14:03:58Z",
+        "processed_at" : "2026-09-07T16:04:59Z",
         "state" : "processed"
-      },
-      {
-        "article_count" : 0,
-        "id" : "aireport-nl",
-        "message" : "Source returned no usable AI articles.",
-        "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-07T14:04:02Z",
-        "state" : "empty"
       },
       {
         "article_count" : 0,
         "id" : "ai-news",
         "message" : "HTTP 402 from news.smol.ai",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-07T14:03:59Z",
+        "processed_at" : "2026-09-07T16:04:59Z",
         "state" : "failed"
       }
     ],
