@@ -47,29 +47,6 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-09-04T13:36:18Z",
-      "id" : "2026-09-07-f591cdd681cb",
-      "importance" : "high",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "AI Breakfast",
-          "title" : "OpenAI ships GPT-6 Astra and calls it the AGI era",
-          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/openai-ships-gpt-6-astra-and-calls-it-the-agi-era"
-        }
-      ],
-      "summary" : "OpenAI's GPT-6 Astra is the first model rated Critical for cyber, Nvidia acquires Hugging Face for $12.93B, Google gates Gemini 3.8 Flash Cyber, and Meta returns to the frontier.",
-      "summary_method" : "source-extract",
-      "title" : "OpenAI ships GPT-6 Astra and calls it the AGI era",
-      "topics" : [
-        "GPT",
-        "Gemini"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "consolidation" : {
         "latest_source_at" : "2026-09-05T11:15:55Z",
         "message_count" : 2,
@@ -261,42 +238,86 @@
       "topics" : [
         "OpenClaw"
       ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-04T17:51:35Z",
+      "id" : "2026-09-07-fb5cc67c7306",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Roland is getting into generative AI music with Melody Flip",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/990197\/roland-ai-music-melody-flip"
+        }
+      ],
+      "summary" : "Roland is getting into generative AI music with Melody Flip. It's not quite the \"push button; get song\" of Suno , but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collections of musical ideas sorted by genre.",
+      "summary_method" : "source-extract",
+      "title" : "Roland is getting into generative AI music with Melody Flip",
+      "topics" : [
+        "Tooling"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-04T12:00:00Z",
+      "id" : "2026-09-07-c40cc704235f",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Instagram’s AI detection is a mess (again)",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/989617\/instagram-ai-content-label-confusion"
+        }
+      ],
+      "summary" : "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance.",
+      "summary_method" : "source-extract",
+      "title" : "Instagram’s AI detection is a mess (again)",
+      "topics" : [
+        "AI"
+      ]
     }
   ],
-  "count" : 11,
+  "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 5,
-    "summary" : "• Research acceleration: The view inside OpenAI\n• Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users\n• OpenAI ships GPT-6 Astra and calls it the AGI era",
+    "source_count" : 4,
+    "summary" : "• Research acceleration: The view inside OpenAI\n• Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users\n• Rogue OpenAI agents appear to have organized another attack using a German wiki",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-07",
-  "generated_at" : "2026-09-07T04:02:58Z",
+  "generated_at" : "2026-09-07T06:04:14Z",
   "processing_report" : {
-    "generated_at" : "2026-09-07T04:03:02Z",
-    "high_card_count" : 2,
+    "generated_at" : "2026-09-07T06:04:22Z",
+    "high_card_count" : 1,
     "source_reports" : [
       {
-        "article_count" : 12,
+        "article_count" : 3,
         "id" : "ai-breakfast",
-        "latest_article_at" : "2026-09-04T13:36:18Z",
+        "latest_article_at" : "2026-08-28T17:58:54Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-07T04:03:02Z",
+        "processed_at" : "2026-09-07T06:04:20Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 7,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-07T04:03:01Z",
+        "processed_at" : "2026-09-07T06:04:22Z",
         "state" : "processed"
       },
       {
-        "article_count" : 3,
+        "article_count" : 1,
         "id" : "aireport-nl",
-        "latest_article_at" : "2026-09-03T09:00:00Z",
+        "latest_article_at" : "2026-09-01T06:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-07T04:03:00Z",
+        "processed_at" : "2026-09-07T06:04:16Z",
         "state" : "processed"
       },
       {
@@ -304,7 +325,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-08-31T10:00:34Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-07T04:02:59Z",
+        "processed_at" : "2026-09-07T06:04:15Z",
         "state" : "processed"
       },
       {
@@ -312,7 +333,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-02T15:40:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-07T04:02:59Z",
+        "processed_at" : "2026-09-07T06:04:14Z",
         "state" : "processed"
       },
       {
@@ -320,7 +341,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-03T15:02:08Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-07T04:02:59Z",
+        "processed_at" : "2026-09-07T06:04:14Z",
         "state" : "processed"
       },
       {
@@ -328,7 +349,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-09-03T13:13:48Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-07T04:02:59Z",
+        "processed_at" : "2026-09-07T06:04:14Z",
         "state" : "processed"
       },
       {
@@ -336,7 +357,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-09-05T15:01:02Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-07T04:02:59Z",
+        "processed_at" : "2026-09-07T06:04:15Z",
         "state" : "processed"
       },
       {
@@ -344,7 +365,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-02T06:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-07T04:02:59Z",
+        "processed_at" : "2026-09-07T06:04:14Z",
         "state" : "processed"
       },
       {
@@ -352,7 +373,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-08-24T16:02:41Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-07T04:02:59Z",
+        "processed_at" : "2026-09-07T06:04:14Z",
         "state" : "processed"
       },
       {
@@ -360,7 +381,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-08-31T00:24:35Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-07T04:02:59Z",
+        "processed_at" : "2026-09-07T06:04:14Z",
         "state" : "processed"
       },
       {
@@ -368,15 +389,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-09-06T09:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-07T04:02:59Z",
+        "processed_at" : "2026-09-07T06:04:14Z",
         "state" : "processed"
       },
       {
-        "article_count" : 8,
+        "article_count" : 3,
         "id" : "superhuman-ai",
-        "latest_article_at" : "2026-09-05T14:00:00Z",
+        "latest_article_at" : "2026-09-02T12:10:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-07T04:03:01Z",
+        "processed_at" : "2026-09-07T06:04:18Z",
         "state" : "processed"
       },
       {
@@ -384,7 +405,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-09-04T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-07T04:02:59Z",
+        "processed_at" : "2026-09-07T06:04:14Z",
         "state" : "processed"
       },
       {
@@ -392,15 +413,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-09-06T20:47:37Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-07T04:02:58Z",
+        "processed_at" : "2026-09-07T06:04:14Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 6,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-09-06T12:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-07T04:03:01Z",
+        "processed_at" : "2026-09-07T06:04:22Z",
         "state" : "processed"
       },
       {
@@ -408,14 +429,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-04T16:06:01Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-07T04:02:59Z",
+        "processed_at" : "2026-09-07T06:04:15Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 8,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-07T04:03:01Z",
+        "processed_at" : "2026-09-07T06:04:21Z",
         "state" : "processed"
       },
       {
@@ -423,7 +444,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-09-06T23:36:04Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-07T04:02:58Z",
+        "processed_at" : "2026-09-07T06:04:14Z",
         "state" : "processed"
       },
       {
@@ -431,7 +452,7 @@
         "id" : "ai-news",
         "message" : "HTTP 402 from news.smol.ai",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-07T04:02:58Z",
+        "processed_at" : "2026-09-07T06:04:14Z",
         "state" : "failed"
       }
     ],
