@@ -2,6 +2,39 @@
   "cards" : [
     {
       "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-09-08T14:17:48Z",
+        "message_count" : 2,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
+      "created_at" : "2026-09-08T14:17:48Z",
+      "id" : "2026-09-08-61ecfeff361e",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Mistral raises €3B as sovereign AI becomes big business",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/08\/mistral-raises-e3b-as-sovereign-ai-becomes-big-business\/"
+        },
+        {
+          "source_name" : "Mistral AI",
+          "title" : "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+          "url" : "https:\/\/mistral.ai\/news\/mistral-makes-sovereign-open-weight-ai-to-frontier\/"
+        }
+      ],
+      "summary" : "Mistral today announced that it has raised €3 billion in a Series D funding round at a post-money valuation of more than €21 billion.",
+      "summary_method" : "source-extract",
+      "title" : "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+      "topics" : [
+        "Funding"
+      ]
+    },
+    {
+      "confidence" : "high",
       "created_at" : "2026-09-08T14:00:15Z",
       "id" : "2026-09-08-1d864917f745",
       "importance" : "medium",
@@ -24,24 +57,24 @@
     },
     {
       "confidence" : "high",
-      "created_at" : "2026-09-08T12:00:22Z",
-      "id" : "2026-09-08-61ecfeff361e",
+      "created_at" : "2026-09-08T00:00:00Z",
+      "id" : "2026-09-08-d3c0b93a5d01",
       "importance" : "medium",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "Mistral AI",
-          "title" : "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
-          "url" : "https:\/\/mistral.ai\/news\/mistral-makes-sovereign-open-weight-ai-to-frontier\/"
+          "source_name" : "OpenAI News",
+          "title" : "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+          "url" : "https:\/\/openai.com\/index\/supporting-journalism-from-classrooms-to-newsrooms"
         }
       ],
-      "summary" : "Mistral today announced that it has raised €3 billion in a Series D funding round at a post-money valuation of more than €21 billion.",
+      "summary" : "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
       "summary_method" : "source-extract",
-      "title" : "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+      "title" : "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
       "topics" : [
-        "Funding"
+        "Tooling"
       ]
     },
     {
@@ -233,64 +266,42 @@
       "topics" : [
         "AI"
       ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-05T19:35:24Z",
-      "id" : "2026-09-08-fc3524bdce4c",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Hikers rescued after using Google Gemini for planning",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/05\/hikers-rescued-after-using-google-gemini-for-planning\/"
-        }
-      ],
-      "summary" : "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\".",
-      "summary_method" : "source-extract",
-      "title" : "Hikers rescued after using Google Gemini for planning",
-      "topics" : [
-        "Gemini"
-      ]
     }
   ],
   "count" : 11,
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 6,
-    "summary" : "• AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome\n• Mistral raises €3B to make sovereign, open-weight AI the technology frontier\n• Supporting independent journalism in Ukraine",
+    "summary" : "• Mistral raises €3B to make sovereign, open-weight AI the technology frontier\n• AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome\n• OpenAI expands initiatives to support journalism from classrooms to newsrooms",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-08",
-  "generated_at" : "2026-09-08T14:03:53Z",
+  "generated_at" : "2026-09-08T16:04:53Z",
   "processing_report" : {
-    "generated_at" : "2026-09-08T14:03:59Z",
+    "generated_at" : "2026-09-08T16:04:59Z",
     "high_card_count" : 0,
     "source_reports" : [
       {
-        "article_count" : 8,
+        "article_count" : 9,
         "id" : "ai-breakfast",
-        "latest_article_at" : "2026-09-02T17:54:45Z",
+        "latest_article_at" : "2026-09-04T13:36:18Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-08T14:03:59Z",
+        "processed_at" : "2026-09-08T16:04:58Z",
         "state" : "processed"
       },
       {
-        "article_count" : 9,
+        "article_count" : 8,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-08T14:03:57Z",
+        "processed_at" : "2026-09-08T16:04:58Z",
         "state" : "processed"
       },
       {
-        "article_count" : 4,
+        "article_count" : 1,
         "id" : "aireport-nl",
-        "latest_article_at" : "2026-09-08T10:00:00Z",
+        "latest_article_at" : "2026-08-25T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-08T14:03:56Z",
+        "processed_at" : "2026-09-08T16:04:56Z",
         "state" : "processed"
       },
       {
@@ -298,7 +309,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-08-31T10:00:34Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-08T14:03:55Z",
+        "processed_at" : "2026-09-08T16:04:55Z",
         "state" : "processed"
       },
       {
@@ -306,7 +317,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-02T15:40:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-08T14:03:54Z",
+        "processed_at" : "2026-09-08T16:04:54Z",
         "state" : "processed"
       },
       {
@@ -314,15 +325,15 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-08T14:00:15Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-08T14:03:55Z",
+        "processed_at" : "2026-09-08T16:04:54Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "huggingface-blog",
-        "latest_article_at" : "2026-09-03T13:13:48Z",
+        "latest_article_at" : "2026-09-08T14:23:07Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-08T14:03:55Z",
+        "processed_at" : "2026-09-08T16:04:54Z",
         "state" : "processed"
       },
       {
@@ -330,7 +341,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-09-07T21:32:37Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-08T14:03:55Z",
+        "processed_at" : "2026-09-08T16:04:54Z",
         "state" : "processed"
       },
       {
@@ -338,7 +349,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-02T06:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-08T14:03:54Z",
+        "processed_at" : "2026-09-08T16:04:54Z",
         "state" : "processed"
       },
       {
@@ -346,7 +357,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-08T12:00:22Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-08T14:03:54Z",
+        "processed_at" : "2026-09-08T16:04:54Z",
         "state" : "processed"
       },
       {
@@ -354,7 +365,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-08-31T00:24:35Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-08T14:03:55Z",
+        "processed_at" : "2026-09-08T16:04:54Z",
         "state" : "processed"
       },
       {
@@ -362,15 +373,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-09-08T13:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-08T14:03:55Z",
+        "processed_at" : "2026-09-08T16:04:54Z",
         "state" : "processed"
       },
       {
-        "article_count" : 5,
+        "article_count" : 7,
         "id" : "superhuman-ai",
-        "latest_article_at" : "2026-09-07T11:00:00Z",
+        "latest_article_at" : "2026-09-08T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-08T14:03:58Z",
+        "processed_at" : "2026-09-08T16:04:57Z",
         "state" : "processed"
       },
       {
@@ -378,38 +389,38 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-09-08T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-08T14:03:54Z",
+        "processed_at" : "2026-09-08T16:04:54Z",
         "state" : "processed"
       },
       {
         "article_count" : 16,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-09-07T19:24:00Z",
+        "latest_article_at" : "2026-09-08T14:17:48Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-08T14:03:54Z",
+        "processed_at" : "2026-09-08T16:04:53Z",
         "state" : "processed"
       },
       {
-        "article_count" : 6,
+        "article_count" : 12,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-09-08T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-08T14:03:59Z",
+        "processed_at" : "2026-09-08T16:04:59Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "algorithmic-bridge",
-        "latest_article_at" : "2026-09-04T16:06:01Z",
+        "latest_article_at" : "2026-09-08T14:52:45Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-08T14:03:56Z",
+        "processed_at" : "2026-09-08T16:04:55Z",
         "state" : "processed"
       },
       {
-        "article_count" : 3,
+        "article_count" : 8,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-08T14:03:59Z",
+        "processed_at" : "2026-09-08T16:04:56Z",
         "state" : "processed"
       },
       {
@@ -417,7 +428,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-09-08T13:00:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-08T14:03:54Z",
+        "processed_at" : "2026-09-08T16:04:53Z",
         "state" : "processed"
       },
       {
@@ -425,7 +436,7 @@
         "id" : "ai-news",
         "message" : "HTTP 402 from news.smol.ai",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-08T14:03:54Z",
+        "processed_at" : "2026-09-08T16:04:54Z",
         "state" : "failed"
       }
     ],
