@@ -57,6 +57,30 @@
     },
     {
       "confidence" : "high",
+      "created_at" : "2026-09-08T09:00:00Z",
+      "id" : "2026-09-08-ef6cea5d415b",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Funding grants for new research into AI and teen development",
+          "url" : "https:\/\/openai.com\/index\/teen-development-research-grants"
+        }
+      ],
+      "summary" : "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+      "summary_method" : "source-extract",
+      "title" : "Funding grants for new research into AI and teen development",
+      "topics" : [
+        "Funding",
+        "Research",
+        "Safety"
+      ]
+    },
+    {
+      "confidence" : "high",
       "created_at" : "2026-09-08T00:00:00Z",
       "id" : "2026-09-08-d3c0b93a5d01",
       "importance" : "medium",
@@ -75,6 +99,50 @@
       "title" : "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
       "topics" : [
         "Tooling"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-08T16:20:31Z",
+      "id" : "2026-09-08-a40fee5104f2",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/08\/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal\/"
+        }
+      ],
+      "summary" : "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+      "summary_method" : "source-extract",
+      "title" : "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "topics" : [
+        "Enterprise"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-08T15:04:09Z",
+      "id" : "2026-09-08-629377030941",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/08\/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape\/"
+        }
+      ],
+      "summary" : "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+      "summary_method" : "source-extract",
+      "title" : "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "topics" : [
+        "AI"
       ]
     },
     {
@@ -124,6 +192,29 @@
     },
     {
       "confidence" : "medium",
+      "created_at" : "2026-09-08T17:27:31Z",
+      "id" : "2026-09-08-3b33289dea21",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "A new class action lawsuit questions whether Anthropic broke the law by misleading power users",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/990313\/anthropic-class-action-lawsuit-pricing-subscription-plans"
+        }
+      ],
+      "summary" : "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misled them into believing they'd get more out of a top-tier pricing subscription than they did.",
+      "summary_method" : "source-extract",
+      "title" : "A new class action lawsuit questions whether Anthropic broke the law by misleading power users",
+      "topics" : [
+        "Anthropic",
+        "OpenClaw"
+      ]
+    },
+    {
+      "confidence" : "medium",
       "created_at" : "2026-09-08T13:00:00Z",
       "id" : "2026-09-08-d8d98a061961",
       "importance" : "low",
@@ -142,6 +233,28 @@
       "title" : "Adobe is trying to make its AI generators idiot-proof in Premiere",
       "topics" : [
         "Image Models"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-08T17:32:15Z",
+      "id" : "2026-09-08-86cff7589b00",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/08\/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician\/"
+        }
+      ],
+      "summary" : "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+      "summary_method" : "source-extract",
+      "title" : "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "topics" : [
+        "AI"
       ]
     },
     {
@@ -165,143 +278,42 @@
       "topics" : [
         "AI"
       ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-07T21:32:37Z",
-      "id" : "2026-09-08-cc10bcaec5cf",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "The Frontier AEO Tracker: What Astra Chooses (and every other frontier model, and what you can do about it)",
-          "url" : "https:\/\/www.latent.space\/p\/aeo"
-        }
-      ],
-      "summary" : "After a few billion tokens of prototyping, aligning, and scaling pipelines, here’s the Latent Space Frontier AEO tracker .",
-      "summary_method" : "source-extract",
-      "title" : "The Frontier AEO Tracker: What Astra Chooses (and every other frontier model, and what you can do about it)",
-      "topics" : [
-        "Claude",
-        "GPT"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "consolidation" : {
-        "latest_source_at" : "2026-09-06T23:36:04Z",
-        "message_count" : 2,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
-      },
-      "created_at" : "2026-09-06T23:36:04Z",
-      "id" : "2026-09-08-5f9c1a36ec81",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/990932\/seattle-times-newsday-lawsuit-openai-microsoft"
-        },
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/05\/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft\/"
-        }
-      ],
-      "summary" : "(Photo by Samuel Boivin\/NurPhoto via Getty Images) | NurPhoto via Getty Images The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement .",
-      "summary_method" : "source-extract",
-      "title" : "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-      "topics" : [
-        "Image Models"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-06T20:47:37Z",
-      "id" : "2026-09-08-7657a093cf0d",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Authors push back as publishers and agents make claims on Anthropic settlement",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/06\/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement\/"
-        }
-      ],
-      "summary" : "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-      "summary_method" : "source-extract",
-      "title" : "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "topics" : [
-        "Anthropic",
-        "Agents"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-06T16:45:00Z",
-      "id" : "2026-09-08-7f1b0ed713e3",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/06\/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business\/"
-        }
-      ],
-      "summary" : "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\".",
-      "summary_method" : "source-extract",
-      "title" : "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-      "topics" : [
-        "AI"
-      ]
     }
   ],
-  "count" : 11,
+  "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 6,
-    "summary" : "• Mistral raises €3B to make sovereign, open-weight AI the technology frontier\n• AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome\n• OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+    "source_count" : 5,
+    "summary" : "• Mistral raises €3B to make sovereign, open-weight AI the technology frontier\n• AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome\n• Funding grants for new research into AI and teen development",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-08",
-  "generated_at" : "2026-09-08T16:04:53Z",
+  "generated_at" : "2026-09-08T18:01:05Z",
   "processing_report" : {
-    "generated_at" : "2026-09-08T16:04:59Z",
+    "generated_at" : "2026-09-08T18:01:09Z",
     "high_card_count" : 0,
     "source_reports" : [
       {
-        "article_count" : 9,
+        "article_count" : 12,
         "id" : "ai-breakfast",
-        "latest_article_at" : "2026-09-04T13:36:18Z",
+        "latest_article_at" : "2026-09-07T14:17:25Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-08T16:04:58Z",
+        "processed_at" : "2026-09-08T18:01:09Z",
         "state" : "processed"
       },
       {
-        "article_count" : 8,
+        "article_count" : 10,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-08T16:04:58Z",
+        "processed_at" : "2026-09-08T18:01:07Z",
         "state" : "processed"
       },
       {
-        "article_count" : 1,
+        "article_count" : 4,
         "id" : "aireport-nl",
-        "latest_article_at" : "2026-08-25T10:00:00Z",
+        "latest_article_at" : "2026-09-08T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-08T16:04:56Z",
+        "processed_at" : "2026-09-08T18:01:07Z",
         "state" : "processed"
       },
       {
@@ -309,7 +321,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-08-31T10:00:34Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-08T16:04:55Z",
+        "processed_at" : "2026-09-08T18:01:06Z",
         "state" : "processed"
       },
       {
@@ -317,7 +329,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-02T15:40:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-08T16:04:54Z",
+        "processed_at" : "2026-09-08T18:01:05Z",
         "state" : "processed"
       },
       {
@@ -325,7 +337,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-08T14:00:15Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-08T16:04:54Z",
+        "processed_at" : "2026-09-08T18:01:05Z",
         "state" : "processed"
       },
       {
@@ -333,7 +345,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-09-08T14:23:07Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-08T16:04:54Z",
+        "processed_at" : "2026-09-08T18:01:05Z",
         "state" : "processed"
       },
       {
@@ -341,7 +353,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-09-07T21:32:37Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-08T16:04:54Z",
+        "processed_at" : "2026-09-08T18:01:06Z",
         "state" : "processed"
       },
       {
@@ -349,7 +361,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-02T06:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-08T16:04:54Z",
+        "processed_at" : "2026-09-08T18:01:05Z",
         "state" : "processed"
       },
       {
@@ -357,7 +369,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-08T12:00:22Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-08T16:04:54Z",
+        "processed_at" : "2026-09-08T18:01:05Z",
         "state" : "processed"
       },
       {
@@ -365,7 +377,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-08-31T00:24:35Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-08T16:04:54Z",
+        "processed_at" : "2026-09-08T18:01:05Z",
         "state" : "processed"
       },
       {
@@ -373,15 +385,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-09-08T13:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-08T16:04:54Z",
+        "processed_at" : "2026-09-08T18:01:05Z",
         "state" : "processed"
       },
       {
-        "article_count" : 7,
+        "article_count" : 8,
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-09-08T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-08T16:04:57Z",
+        "processed_at" : "2026-09-08T18:01:07Z",
         "state" : "processed"
       },
       {
@@ -389,15 +401,15 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-09-08T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-08T16:04:54Z",
+        "processed_at" : "2026-09-08T18:01:05Z",
         "state" : "processed"
       },
       {
-        "article_count" : 16,
+        "article_count" : 17,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-09-08T14:17:48Z",
+        "latest_article_at" : "2026-09-08T17:32:15Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-08T16:04:53Z",
+        "processed_at" : "2026-09-08T18:01:05Z",
         "state" : "processed"
       },
       {
@@ -405,7 +417,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-09-08T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-08T16:04:59Z",
+        "processed_at" : "2026-09-08T18:01:08Z",
         "state" : "processed"
       },
       {
@@ -413,22 +425,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-08T14:52:45Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-08T16:04:55Z",
+        "processed_at" : "2026-09-08T18:01:06Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 10,
+        "id" : "the-neuron-daily",
+        "name" : "The Neuron Daily",
+        "processed_at" : "2026-09-08T18:01:07Z",
         "state" : "processed"
       },
       {
         "article_count" : 8,
-        "id" : "the-neuron-daily",
-        "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-08T16:04:56Z",
-        "state" : "processed"
-      },
-      {
-        "article_count" : 7,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-09-08T13:00:00Z",
+        "latest_article_at" : "2026-09-08T17:27:31Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-08T16:04:53Z",
+        "processed_at" : "2026-09-08T18:01:05Z",
         "state" : "processed"
       },
       {
@@ -436,7 +448,7 @@
         "id" : "ai-news",
         "message" : "HTTP 402 from news.smol.ai",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-08T16:04:54Z",
+        "processed_at" : "2026-09-08T18:01:05Z",
         "state" : "failed"
       }
     ],
