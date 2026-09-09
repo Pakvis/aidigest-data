@@ -2,6 +2,89 @@
   "cards" : [
     {
       "confidence" : "medium",
+      "created_at" : "2026-09-09T17:07:48Z",
+      "id" : "2026-09-09-f9e437fb536e",
+      "importance" : "high",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Microsoft has new AI privacy rules for schools",
+          "url" : "https:\/\/www.theverge.com\/policy\/992359\/microsoft-aft-schools-ai-privacy"
+        }
+      ],
+      "summary" : "Microsoft agreed to a set of safety and privacy principles for AI in schools a week after two major school systems announced a ban on student-facing AI. In a new agreement with the American Federation of Teachers (AFT), the second-largest teachers union in the US, and its New York City affiliate the United Federation of Teachers (UFT), Microsoft committed to ten principles that can be contractually enforced by school districts that adopt them.",
+      "summary_method" : "source-extract",
+      "title" : "Microsoft has new AI privacy rules for schools",
+      "topics" : [
+        "Safety"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-09-09T16:59:40Z",
+        "message_count" : 3,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 3
+      },
+      "created_at" : "2026-09-09T16:59:40Z",
+      "id" : "2026-09-09-12ef13ae3085",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Ars Technica AI",
+          "title" : "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
+          "url" : "https:\/\/arstechnica.com\/ai\/2026\/09\/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all\/"
+        },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/09\/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai\/"
+        },
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Worried Anthropic researchers warn that AI ‘could kill all humans’",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/991927\/anthropic-ai-kill-all-humans"
+        }
+      ],
+      "summary" : "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned over fears the AI lab and its rivals are carelessly racing to build \"superhuman systems\" they cannot control. In a post on X announcing his departure, Jacob Coxon, a researcher who has trained AI systems at Anthropic, said he had quit the company over its lax approach to safety.",
+      "summary_method" : "source-extract",
+      "title" : "Worried Anthropic researchers warn that AI ‘could kill all humans’",
+      "topics" : [
+        "Anthropic",
+        "Safety"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-09-09T17:00:00Z",
+      "id" : "2026-09-09-fd4e40de4331",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Paul Christiano joins OpenAI Foundation Board",
+          "url" : "https:\/\/openai.com\/index\/paul-christiano-joins-openai-foundation-board"
+        }
+      ],
+      "summary" : "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+      "summary_method" : "source-extract",
+      "title" : "Paul Christiano joins OpenAI Foundation Board",
+      "topics" : [
+        "Safety"
+      ]
+    },
+    {
+      "confidence" : "medium",
       "created_at" : "2026-09-09T13:00:00Z",
       "id" : "2026-09-09-97ed5770d3b3",
       "importance" : "medium",
@@ -20,29 +103,6 @@
       "title" : "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
       "topics" : [
         "Image Models"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-09T09:56:28Z",
-      "id" : "2026-09-09-12ef13ae3085",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Worried Anthropic researchers warn that AI ‘could kill all humans’",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/991927\/anthropic-ai-kill-all-humans"
-        }
-      ],
-      "summary" : "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned over fears the AI lab and its rivals are carelessly racing to build \"superhuman systems\" they cannot control. In a post on X announcing his departure, Jacob Coxon, a researcher who has trained AI systems at Anthropic, said he had quit the company over its lax approach to safety.",
-      "summary_method" : "source-extract",
-      "title" : "Worried Anthropic researchers warn that AI ‘could kill all humans’",
-      "topics" : [
-        "Anthropic",
-        "Safety"
       ]
     },
     {
@@ -88,28 +148,6 @@
       "topics" : [
         "Enterprise",
         "Agents"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-08T16:20:31Z",
-      "id" : "2026-09-09-358873978138",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/08\/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal\/"
-        }
-      ],
-      "summary" : "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
-      "summary_method" : "source-extract",
-      "title" : "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-      "topics" : [
-        "Enterprise"
       ]
     },
     {
@@ -257,56 +295,34 @@
       "topics" : [
         "Tooling"
       ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-08T15:04:09Z",
-      "id" : "2026-09-09-3511e729f509",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/08\/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape\/"
-        }
-      ],
-      "summary" : "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
-      "summary_method" : "source-extract",
-      "title" : "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
-      "topics" : [
-        "AI"
-      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 5,
-    "summary" : "• Amazon Prime Video’s new AI tech matches lips to dubbed audio\n• Worried Anthropic researchers warn that AI ‘could kill all humans’\n• Instacart launches an AI grocery shopping assistant called Clementine",
+    "source_count" : 6,
+    "summary" : "• Microsoft has new AI privacy rules for schools\n• Worried Anthropic researchers warn that AI ‘could kill all humans’\n• Paul Christiano joins OpenAI Foundation Board",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-09",
-  "generated_at" : "2026-09-09T16:03:08Z",
+  "generated_at" : "2026-09-09T18:05:00Z",
   "processing_report" : {
-    "generated_at" : "2026-09-09T16:03:12Z",
-    "high_card_count" : 0,
+    "generated_at" : "2026-09-09T18:05:05Z",
+    "high_card_count" : 1,
     "source_reports" : [
       {
-        "article_count" : 12,
+        "article_count" : 11,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-09-09T14:26:09Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-09T16:03:12Z",
+        "processed_at" : "2026-09-09T18:05:05Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 9,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-09T16:03:11Z",
+        "processed_at" : "2026-09-09T18:05:03Z",
         "state" : "processed"
       },
       {
@@ -314,15 +330,15 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-09-08T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-09T16:03:10Z",
+        "processed_at" : "2026-09-09T18:05:02Z",
         "state" : "processed"
       },
       {
         "article_count" : 18,
         "id" : "ars-technica-ai",
-        "latest_article_at" : "2026-08-31T10:00:34Z",
+        "latest_article_at" : "2026-09-09T16:59:40Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-09T16:03:09Z",
+        "processed_at" : "2026-09-09T18:05:01Z",
         "state" : "processed"
       },
       {
@@ -330,7 +346,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-09T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-09T16:03:09Z",
+        "processed_at" : "2026-09-09T18:05:00Z",
         "state" : "processed"
       },
       {
@@ -338,7 +354,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-08T14:00:15Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-09T16:03:09Z",
+        "processed_at" : "2026-09-09T18:05:01Z",
         "state" : "processed"
       },
       {
@@ -346,7 +362,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-09-09T15:36:24Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-09T16:03:09Z",
+        "processed_at" : "2026-09-09T18:05:01Z",
         "state" : "processed"
       },
       {
@@ -354,7 +370,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-09-09T05:04:51Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-09T16:03:09Z",
+        "processed_at" : "2026-09-09T18:05:01Z",
         "state" : "processed"
       },
       {
@@ -362,15 +378,15 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-02T06:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-09T16:03:09Z",
+        "processed_at" : "2026-09-09T18:05:01Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "mistral-news",
-        "latest_article_at" : "2026-09-08T12:00:22Z",
+        "latest_article_at" : "2026-09-09T12:00:46Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-09T16:03:09Z",
+        "processed_at" : "2026-09-09T18:05:01Z",
         "state" : "processed"
       },
       {
@@ -378,15 +394,15 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-08-31T00:24:35Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-09T16:03:09Z",
+        "processed_at" : "2026-09-09T18:05:01Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "openai-news",
-        "latest_article_at" : "2026-09-08T17:00:00Z",
+        "latest_article_at" : "2026-09-09T17:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-09T16:03:09Z",
+        "processed_at" : "2026-09-09T18:05:01Z",
         "state" : "processed"
       },
       {
@@ -394,7 +410,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-09-08T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-09T16:03:11Z",
+        "processed_at" : "2026-09-09T18:05:03Z",
         "state" : "processed"
       },
       {
@@ -402,23 +418,23 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-09-09T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-09T16:03:09Z",
+        "processed_at" : "2026-09-09T18:05:00Z",
         "state" : "processed"
       },
       {
-        "article_count" : 17,
+        "article_count" : 16,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-09-09T15:50:13Z",
+        "latest_article_at" : "2026-09-09T17:36:05Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-09T16:03:08Z",
+        "processed_at" : "2026-09-09T18:05:00Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 10,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-09-09T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-09T16:03:11Z",
+        "processed_at" : "2026-09-09T18:05:04Z",
         "state" : "processed"
       },
       {
@@ -426,22 +442,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-08T14:52:45Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-09T16:03:09Z",
+        "processed_at" : "2026-09-09T18:05:01Z",
         "state" : "processed"
       },
       {
         "article_count" : 10,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-09T16:03:11Z",
+        "processed_at" : "2026-09-09T18:05:02Z",
         "state" : "processed"
       },
       {
         "article_count" : 9,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-09-09T13:00:00Z",
+        "latest_article_at" : "2026-09-09T17:07:48Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-09T16:03:09Z",
+        "processed_at" : "2026-09-09T18:05:00Z",
         "state" : "processed"
       },
       {
@@ -449,7 +465,7 @@
         "id" : "ai-news",
         "message" : "HTTP 402 from news.smol.ai",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-09T16:03:09Z",
+        "processed_at" : "2026-09-09T18:05:00Z",
         "state" : "failed"
       }
     ],
