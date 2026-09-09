@@ -85,6 +85,28 @@
     },
     {
       "confidence" : "medium",
+      "created_at" : "2026-09-09T19:30:12Z",
+      "id" : "2026-09-09-5d250d8f0616",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
+          "url" : "https:\/\/www.theverge.com\/tech\/992766\/apple-iphone-18-pro-reference-image"
+        }
+      ],
+      "summary" : "Apple is launching a new way to prove that the picture you took isn't manipulated by AI. A new feature, called \"Reference Image,\" will arrive with the iPhone 18 Pro lineup later this month and is supposed to use the device's new camera sensor to \"sign every pixel it sees.\" The iPhone 18 Pro and Pro Max will only authenticate photos when placed into Reference mode.",
+      "summary_method" : "source-extract",
+      "title" : "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
       "created_at" : "2026-09-09T13:00:00Z",
       "id" : "2026-09-09-97ed5770d3b3",
       "importance" : "medium",
@@ -101,6 +123,28 @@
       "summary" : "| Image: Prime Video Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The feature is only available with the English dub of the German series Maxton Hall for now, but Prime Video plans to expand it to \"additional titles\" in the future.",
       "summary_method" : "source-extract",
       "title" : "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
+      "topics" : [
+        "Image Models"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-09T18:08:35Z",
+      "id" : "2026-09-09-a6bc6911a1bd",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Apple has a new way prove your iPhone photos aren’t AI slop",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/09\/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop\/"
+        }
+      ],
+      "summary" : "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
+      "summary_method" : "source-extract",
+      "title" : "Apple has a new way prove your iPhone photos aren’t AI slop",
       "topics" : [
         "Image Models"
       ]
@@ -142,45 +186,12 @@
           "url" : "https:\/\/techcrunch.com\/2026\/09\/09\/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks\/"
         }
       ],
-      "summary" : "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
+      "summary" : "Cymphony gives security teams a single view of employees, AI agents, and other nonhuman identities, including the systems and sensitive data they can access.",
       "summary_method" : "source-extract",
       "title" : "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
       "topics" : [
         "Enterprise",
         "Agents"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "consolidation" : {
-        "latest_source_at" : "2026-09-08T14:17:48Z",
-        "message_count" : 2,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
-      },
-      "created_at" : "2026-09-08T14:17:48Z",
-      "id" : "2026-09-09-a253c7388ab6",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Mistral raises €3B as sovereign AI becomes big business",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/08\/mistral-raises-e3b-as-sovereign-ai-becomes-big-business\/"
-        },
-        {
-          "source_name" : "Mistral AI",
-          "title" : "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
-          "url" : "https:\/\/mistral.ai\/news\/mistral-makes-sovereign-open-weight-ai-to-frontier\/"
-        }
-      ],
-      "summary" : "Mistral today announced that it has raised €3 billion in a Series D funding round at a post-money valuation of more than €21 billion.",
-      "summary_method" : "source-extract",
-      "title" : "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
-      "topics" : [
-        "Funding"
       ]
     },
     {
@@ -273,56 +284,34 @@
       "topics" : [
         "Tooling"
       ]
-    },
-    {
-      "confidence" : "high",
-      "created_at" : "2026-09-08T00:00:00Z",
-      "id" : "2026-09-09-d1055a872b00",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "1Password increases engineering productivity 21% with Codex",
-          "url" : "https:\/\/openai.com\/index\/1password"
-        }
-      ],
-      "summary" : "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
-      "summary_method" : "source-extract",
-      "title" : "1Password increases engineering productivity 21% with Codex",
-      "topics" : [
-        "Tooling"
-      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 6,
+    "source_count" : 5,
     "summary" : "• Microsoft has new AI privacy rules for schools\n• Worried Anthropic researchers warn that AI ‘could kill all humans’\n• Paul Christiano joins OpenAI Foundation Board",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-09",
-  "generated_at" : "2026-09-09T18:05:00Z",
+  "generated_at" : "2026-09-09T20:01:51Z",
   "processing_report" : {
-    "generated_at" : "2026-09-09T18:05:05Z",
+    "generated_at" : "2026-09-09T20:01:55Z",
     "high_card_count" : 1,
     "source_reports" : [
       {
-        "article_count" : 11,
+        "article_count" : 12,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-09-09T14:26:09Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-09T18:05:05Z",
+        "processed_at" : "2026-09-09T20:01:55Z",
         "state" : "processed"
       },
       {
-        "article_count" : 9,
+        "article_count" : 10,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-09T18:05:03Z",
+        "processed_at" : "2026-09-09T20:01:54Z",
         "state" : "processed"
       },
       {
@@ -330,7 +319,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-09-08T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-09T18:05:02Z",
+        "processed_at" : "2026-09-09T20:01:53Z",
         "state" : "processed"
       },
       {
@@ -338,7 +327,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-09-09T16:59:40Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-09T18:05:01Z",
+        "processed_at" : "2026-09-09T20:01:52Z",
         "state" : "processed"
       },
       {
@@ -346,7 +335,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-09T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-09T18:05:00Z",
+        "processed_at" : "2026-09-09T20:01:52Z",
         "state" : "processed"
       },
       {
@@ -354,7 +343,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-08T14:00:15Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-09T18:05:01Z",
+        "processed_at" : "2026-09-09T20:01:52Z",
         "state" : "processed"
       },
       {
@@ -362,7 +351,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-09-09T15:36:24Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-09T18:05:01Z",
+        "processed_at" : "2026-09-09T20:01:52Z",
         "state" : "processed"
       },
       {
@@ -370,7 +359,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-09-09T05:04:51Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-09T18:05:01Z",
+        "processed_at" : "2026-09-09T20:01:52Z",
         "state" : "processed"
       },
       {
@@ -378,7 +367,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-02T06:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-09T18:05:01Z",
+        "processed_at" : "2026-09-09T20:01:52Z",
         "state" : "processed"
       },
       {
@@ -386,7 +375,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-09T12:00:46Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-09T18:05:01Z",
+        "processed_at" : "2026-09-09T20:01:52Z",
         "state" : "processed"
       },
       {
@@ -394,7 +383,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-08-31T00:24:35Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-09T18:05:01Z",
+        "processed_at" : "2026-09-09T20:01:52Z",
         "state" : "processed"
       },
       {
@@ -402,7 +391,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-09-09T17:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-09T18:05:01Z",
+        "processed_at" : "2026-09-09T20:01:52Z",
         "state" : "processed"
       },
       {
@@ -410,7 +399,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-09-08T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-09T18:05:03Z",
+        "processed_at" : "2026-09-09T20:01:54Z",
         "state" : "processed"
       },
       {
@@ -418,23 +407,23 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-09-09T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-09T18:05:00Z",
+        "processed_at" : "2026-09-09T20:01:52Z",
         "state" : "processed"
       },
       {
-        "article_count" : 16,
+        "article_count" : 15,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-09-09T17:36:05Z",
+        "latest_article_at" : "2026-09-09T19:21:48Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-09T18:05:00Z",
+        "processed_at" : "2026-09-09T20:01:51Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 12,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-09-09T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-09T18:05:04Z",
+        "processed_at" : "2026-09-09T20:01:55Z",
         "state" : "processed"
       },
       {
@@ -442,22 +431,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-08T14:52:45Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-09T18:05:01Z",
+        "processed_at" : "2026-09-09T20:01:52Z",
         "state" : "processed"
       },
       {
         "article_count" : 10,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-09T18:05:02Z",
+        "processed_at" : "2026-09-09T20:01:54Z",
         "state" : "processed"
       },
       {
         "article_count" : 9,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-09-09T17:07:48Z",
+        "latest_article_at" : "2026-09-09T19:30:12Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-09T18:05:00Z",
+        "processed_at" : "2026-09-09T20:01:51Z",
         "state" : "processed"
       },
       {
@@ -465,7 +454,7 @@
         "id" : "ai-news",
         "message" : "HTTP 402 from news.smol.ai",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-09T18:05:00Z",
+        "processed_at" : "2026-09-09T20:01:51Z",
         "state" : "failed"
       }
     ],
