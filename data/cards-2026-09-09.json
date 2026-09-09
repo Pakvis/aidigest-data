@@ -34,25 +34,25 @@
       ]
     },
     {
-      "confidence" : "high",
-      "created_at" : "2026-09-08T14:00:15Z",
-      "id" : "2026-09-09-28c15e007612",
+      "confidence" : "medium",
+      "created_at" : "2026-09-09T13:00:00Z",
+      "id" : "2026-09-09-97ed5770d3b3",
       "importance" : "medium",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "Google DeepMind",
-          "title" : "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-          "url" : "https:\/\/deepmind.google\/blog\/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome\/"
+          "source_name" : "The Verge AI",
+          "title" : "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
+          "url" : "https:\/\/www.theverge.com\/tech\/991809\/amazon-prime-video-ai-lip-sync-dubbing"
         }
       ],
-      "summary" : "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+      "summary" : "| Image: Prime Video Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The feature is only available with the English dub of the German series Maxton Hall for now, but Prime Video plans to expand it to \"additional titles\" in the future.",
       "summary_method" : "source-extract",
-      "title" : "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "title" : "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
       "topics" : [
-        "AI"
+        "Image Models"
       ]
     },
     {
@@ -76,6 +76,51 @@
       "topics" : [
         "Anthropic",
         "Safety"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-09T13:00:00Z",
+      "id" : "2026-09-09-bd005b776bf9",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Instacart launches an AI grocery shopping assistant called Clementine",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/09\/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine\/"
+        }
+      ],
+      "summary" : "Instacart is the latest app to bake a conversational AI assistant into its platform.",
+      "summary_method" : "source-extract",
+      "title" : "Instacart launches an AI grocery shopping assistant called Clementine",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-09T13:00:00Z",
+      "id" : "2026-09-09-f5e417a2162e",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/09\/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks\/"
+        }
+      ],
+      "summary" : "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
+      "summary_method" : "source-extract",
+      "title" : "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+      "topics" : [
+        "Enterprise",
+        "Agents"
       ]
     },
     {
@@ -118,6 +163,28 @@
       "summary" : "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
       "summary_method" : "source-extract",
       "title" : "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-09-08T14:00:15Z",
+      "id" : "2026-09-09-28c15e007612",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Google DeepMind",
+          "title" : "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "url" : "https:\/\/deepmind.google\/blog\/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome\/"
+        }
+      ],
+      "summary" : "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+      "summary_method" : "source-extract",
+      "title" : "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
       "topics" : [
         "AI"
       ]
@@ -212,96 +279,19 @@
       "topics" : [
         "Tooling"
       ]
-    },
-    {
-      "confidence" : "high",
-      "created_at" : "2026-09-07T00:00:00Z",
-      "id" : "2026-09-09-c65ee8a2a3b1",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Supporting independent journalism in Ukraine",
-          "url" : "https:\/\/openai.com\/index\/supporting-independent-journalism-in-ukraine"
-        }
-      ],
-      "summary" : "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
-      "summary_method" : "source-extract",
-      "title" : "Supporting independent journalism in Ukraine",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "consolidation" : {
-        "latest_source_at" : "2026-09-09T05:04:51Z",
-        "message_count" : 2,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
-      },
-      "created_at" : "2026-09-09T05:04:51Z",
-      "id" : "2026-09-09-2fa72d06cd5f",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "OpenAI reports Navier-Stokes singularity find in 88 hours using Astra-next, roughly 10,000 agents and 130B tokens (>$40M), a contender for second ever Millennium Prize awarded",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-openai-reports-navier-stokes"
-        },
-        {
-          "source_name" : "OpenAI News",
-          "title" : "On the Navier–Stokes Millennium Prize Problem",
-          "url" : "https:\/\/openai.com\/index\/navier-stokes-solution"
-        }
-      ],
-      "summary" : "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
-      "summary_method" : "source-extract",
-      "title" : "On the Navier–Stokes Millennium Prize Problem",
-      "topics" : [
-        "Agents"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "created_at" : "2026-09-08T17:00:00Z",
-      "id" : "2026-09-09-588a8e0712fb",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "How GPT-5.6 Sol helps run quantum computing experiments",
-          "url" : "https:\/\/openai.com\/index\/codex-quantum-computing-experiments"
-        }
-      ],
-      "summary" : "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
-      "summary_method" : "source-extract",
-      "title" : "How GPT-5.6 Sol helps run quantum computing experiments",
-      "topics" : [
-        "GPT"
-      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 6,
-    "summary" : "• Mistral raises €3B to make sovereign, open-weight AI the technology frontier\n• AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome\n• Worried Anthropic researchers warn that AI ‘could kill all humans’",
+    "source_count" : 5,
+    "summary" : "• Mistral raises €3B to make sovereign, open-weight AI the technology frontier\n• Amazon Prime Video’s new AI tech matches lips to dubbed audio\n• Worried Anthropic researchers warn that AI ‘could kill all humans’",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-09",
-  "generated_at" : "2026-09-09T12:04:57Z",
+  "generated_at" : "2026-09-09T14:01:29Z",
   "processing_report" : {
-    "generated_at" : "2026-09-09T12:05:01Z",
+    "generated_at" : "2026-09-09T14:01:33Z",
     "high_card_count" : 0,
     "source_reports" : [
       {
@@ -309,14 +299,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-09-07T14:17:25Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-09T12:05:01Z",
+        "processed_at" : "2026-09-09T14:01:33Z",
         "state" : "processed"
       },
       {
         "article_count" : 10,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-09T12:04:59Z",
+        "processed_at" : "2026-09-09T14:01:32Z",
         "state" : "processed"
       },
       {
@@ -324,7 +314,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-09-08T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-09T12:04:59Z",
+        "processed_at" : "2026-09-09T14:01:31Z",
         "state" : "processed"
       },
       {
@@ -332,7 +322,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-08-31T10:00:34Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-09T12:04:58Z",
+        "processed_at" : "2026-09-09T14:01:30Z",
         "state" : "processed"
       },
       {
@@ -340,7 +330,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-02T15:40:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-09T12:04:57Z",
+        "processed_at" : "2026-09-09T14:01:29Z",
         "state" : "processed"
       },
       {
@@ -348,7 +338,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-08T14:00:15Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-09T12:04:57Z",
+        "processed_at" : "2026-09-09T14:01:29Z",
         "state" : "processed"
       },
       {
@@ -356,7 +346,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-09-08T14:23:07Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-09T12:04:57Z",
+        "processed_at" : "2026-09-09T14:01:29Z",
         "state" : "processed"
       },
       {
@@ -364,7 +354,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-09-09T05:04:51Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-09T12:04:58Z",
+        "processed_at" : "2026-09-09T14:01:30Z",
         "state" : "processed"
       },
       {
@@ -372,7 +362,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-02T06:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-09T12:04:57Z",
+        "processed_at" : "2026-09-09T14:01:29Z",
         "state" : "processed"
       },
       {
@@ -380,7 +370,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-08T12:00:22Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-09T12:04:57Z",
+        "processed_at" : "2026-09-09T14:01:29Z",
         "state" : "processed"
       },
       {
@@ -388,7 +378,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-08-31T00:24:35Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-09T12:04:57Z",
+        "processed_at" : "2026-09-09T14:01:29Z",
         "state" : "processed"
       },
       {
@@ -396,31 +386,31 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-09-08T17:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-09T12:04:57Z",
+        "processed_at" : "2026-09-09T14:01:29Z",
         "state" : "processed"
       },
       {
-        "article_count" : 8,
+        "article_count" : 7,
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-09-08T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-09T12:04:59Z",
+        "processed_at" : "2026-09-09T14:01:32Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "tldr-ai",
-        "latest_article_at" : "2026-09-08T00:00:00Z",
+        "latest_article_at" : "2026-09-09T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-09T12:04:57Z",
+        "processed_at" : "2026-09-09T14:01:30Z",
         "state" : "processed"
       },
       {
         "article_count" : 17,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-09-08T21:10:27Z",
+        "latest_article_at" : "2026-09-09T13:00:00Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-09T12:04:57Z",
+        "processed_at" : "2026-09-09T14:01:29Z",
         "state" : "processed"
       },
       {
@@ -428,7 +418,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-09-09T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-09T12:05:00Z",
+        "processed_at" : "2026-09-09T14:01:32Z",
         "state" : "processed"
       },
       {
@@ -436,22 +426,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-08T14:52:45Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-09T12:04:58Z",
+        "processed_at" : "2026-09-09T14:01:30Z",
         "state" : "processed"
       },
       {
         "article_count" : 10,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-09T12:04:59Z",
+        "processed_at" : "2026-09-09T14:01:31Z",
         "state" : "processed"
       },
       {
         "article_count" : 9,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-09-09T09:56:28Z",
+        "latest_article_at" : "2026-09-09T13:00:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-09T12:04:57Z",
+        "processed_at" : "2026-09-09T14:01:29Z",
         "state" : "processed"
       },
       {
@@ -459,7 +449,7 @@
         "id" : "ai-news",
         "message" : "HTTP 402 from news.smol.ai",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-09T12:04:57Z",
+        "processed_at" : "2026-09-09T14:01:29Z",
         "state" : "failed"
       }
     ],

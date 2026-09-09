@@ -24,21 +24,21 @@
       ]
     },
     {
-      "confidence" : "high",
+      "confidence" : "medium",
       "date" : "2026-09-09",
-      "id" : "2026-09-09-28c15e007612",
+      "id" : "2026-09-09-97ed5770d3b3",
       "importance" : "medium",
       "sources" : [
         {
-          "source_name" : "Google DeepMind",
-          "title" : "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-          "url" : "https:\/\/deepmind.google\/blog\/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome\/"
+          "source_name" : "The Verge AI",
+          "title" : "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
+          "url" : "https:\/\/www.theverge.com\/tech\/991809\/amazon-prime-video-ai-lip-sync-dubbing"
         }
       ],
-      "summary" : "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
-      "title" : "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "summary" : "| Image: Prime Video Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The feature is only available with the English dub of the German series Maxton Hall for now, but Prime Video plans to expand it to \"additional titles\" in the future.",
+      "title" : "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
       "topics" : [
-        "AI"
+        "Image Models"
       ]
     },
     {
@@ -58,6 +58,43 @@
       "topics" : [
         "Anthropic",
         "Safety"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-09-09",
+      "id" : "2026-09-09-bd005b776bf9",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Instacart launches an AI grocery shopping assistant called Clementine",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/09\/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine\/"
+        }
+      ],
+      "summary" : "Instacart is the latest app to bake a conversational AI assistant into its platform.",
+      "title" : "Instacart launches an AI grocery shopping assistant called Clementine",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-09-09",
+      "id" : "2026-09-09-f5e417a2162e",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/09\/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks\/"
+        }
+      ],
+      "summary" : "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
+      "title" : "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+      "topics" : [
+        "Enterprise",
+        "Agents"
       ]
     },
     {
@@ -92,6 +129,24 @@
       ],
       "summary" : "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
       "title" : "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-09-09",
+      "id" : "2026-09-09-28c15e007612",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "Google DeepMind",
+          "title" : "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "url" : "https:\/\/deepmind.google\/blog\/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome\/"
+        }
+      ],
+      "summary" : "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+      "title" : "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
       "topics" : [
         "AI"
       ]
@@ -169,65 +224,6 @@
       "title" : "1Password increases engineering productivity 21% with Codex",
       "topics" : [
         "Tooling"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "date" : "2026-09-09",
-      "id" : "2026-09-09-c65ee8a2a3b1",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Supporting independent journalism in Ukraine",
-          "url" : "https:\/\/openai.com\/index\/supporting-independent-journalism-in-ukraine"
-        }
-      ],
-      "summary" : "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
-      "title" : "Supporting independent journalism in Ukraine",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "date" : "2026-09-09",
-      "id" : "2026-09-09-2fa72d06cd5f",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "OpenAI reports Navier-Stokes singularity find in 88 hours using Astra-next, roughly 10,000 agents and 130B tokens (>$40M), a contender for second ever Millennium Prize awarded",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-openai-reports-navier-stokes"
-        },
-        {
-          "source_name" : "OpenAI News",
-          "title" : "On the Navier–Stokes Millennium Prize Problem",
-          "url" : "https:\/\/openai.com\/index\/navier-stokes-solution"
-        }
-      ],
-      "summary" : "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
-      "title" : "On the Navier–Stokes Millennium Prize Problem",
-      "topics" : [
-        "Agents"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "date" : "2026-09-09",
-      "id" : "2026-09-09-588a8e0712fb",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "How GPT-5.6 Sol helps run quantum computing experiments",
-          "url" : "https:\/\/openai.com\/index\/codex-quantum-computing-experiments"
-        }
-      ],
-      "summary" : "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
-      "title" : "How GPT-5.6 Sol helps run quantum computing experiments",
-      "topics" : [
-        "GPT"
       ]
     },
     {
