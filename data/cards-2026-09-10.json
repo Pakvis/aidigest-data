@@ -26,9 +26,9 @@
       "confidence" : "high",
       "consolidation" : {
         "latest_source_at" : "2026-09-09T16:59:40Z",
-        "message_count" : 3,
+        "message_count" : 2,
         "reason" : "Multiple sources reported the same story.",
-        "source_count" : 3
+        "source_count" : 2
       },
       "created_at" : "2026-09-09T16:59:40Z",
       "id" : "2026-09-10-1b0a577a5fb1",
@@ -41,11 +41,6 @@
           "source_name" : "Ars Technica AI",
           "title" : "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
           "url" : "https:\/\/arstechnica.com\/ai\/2026\/09\/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all\/"
-        },
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/09\/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai\/"
         },
         {
           "source_name" : "The Verge AI",
@@ -304,32 +299,32 @@
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-10",
-  "generated_at" : "2026-09-10T08:03:00Z",
+  "generated_at" : "2026-09-10T10:04:51Z",
   "processing_report" : {
-    "generated_at" : "2026-09-10T08:03:05Z",
+    "generated_at" : "2026-09-10T10:04:56Z",
     "high_card_count" : 1,
     "source_reports" : [
       {
-        "article_count" : 9,
+        "article_count" : 8,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-09-09T14:26:09Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-10T08:03:05Z",
+        "processed_at" : "2026-09-10T10:04:56Z",
         "state" : "processed"
       },
       {
-        "article_count" : 9,
+        "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-10T08:03:04Z",
+        "processed_at" : "2026-09-10T10:04:55Z",
         "state" : "processed"
       },
       {
-        "article_count" : 2,
+        "article_count" : 4,
         "id" : "aireport-nl",
-        "latest_article_at" : "2026-09-03T09:00:00Z",
+        "latest_article_at" : "2026-09-10T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-10T08:03:02Z",
+        "processed_at" : "2026-09-10T10:04:54Z",
         "state" : "processed"
       },
       {
@@ -337,7 +332,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-09-09T16:59:40Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-10T08:03:01Z",
+        "processed_at" : "2026-09-10T10:04:52Z",
         "state" : "processed"
       },
       {
@@ -345,7 +340,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-09T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-10T08:03:00Z",
+        "processed_at" : "2026-09-10T10:04:52Z",
         "state" : "processed"
       },
       {
@@ -353,7 +348,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-08T14:00:15Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-10T08:03:00Z",
+        "processed_at" : "2026-09-10T10:04:52Z",
         "state" : "processed"
       },
       {
@@ -361,7 +356,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-09-09T15:36:24Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-10T08:03:00Z",
+        "processed_at" : "2026-09-10T10:04:51Z",
         "state" : "processed"
       },
       {
@@ -369,7 +364,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-09-10T03:33:12Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-10T08:03:01Z",
+        "processed_at" : "2026-09-10T10:04:52Z",
         "state" : "processed"
       },
       {
@@ -377,7 +372,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-02T06:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-10T08:03:00Z",
+        "processed_at" : "2026-09-10T10:04:52Z",
         "state" : "processed"
       },
       {
@@ -385,7 +380,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-09T12:00:46Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-10T08:03:00Z",
+        "processed_at" : "2026-09-10T10:04:52Z",
         "state" : "processed"
       },
       {
@@ -393,7 +388,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-08-31T00:24:35Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-10T08:03:00Z",
+        "processed_at" : "2026-09-10T10:04:52Z",
         "state" : "processed"
       },
       {
@@ -401,15 +396,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-09-09T17:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-10T08:03:00Z",
+        "processed_at" : "2026-09-10T10:04:52Z",
         "state" : "processed"
       },
       {
-        "article_count" : 5,
+        "article_count" : 8,
         "id" : "superhuman-ai",
-        "latest_article_at" : "2026-09-07T11:00:00Z",
+        "latest_article_at" : "2026-09-08T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-10T08:03:03Z",
+        "processed_at" : "2026-09-10T10:04:54Z",
         "state" : "processed"
       },
       {
@@ -417,7 +412,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-09-09T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-10T08:03:00Z",
+        "processed_at" : "2026-09-10T10:04:51Z",
         "state" : "processed"
       },
       {
@@ -425,30 +420,30 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-09-10T00:00:37Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-10T08:03:00Z",
+        "processed_at" : "2026-09-10T10:04:51Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 12,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-09-09T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-10T08:03:04Z",
+        "processed_at" : "2026-09-10T10:04:54Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "algorithmic-bridge",
-        "latest_article_at" : "2026-09-08T14:52:45Z",
+        "latest_article_at" : "2026-09-10T08:48:10Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-10T08:03:01Z",
+        "processed_at" : "2026-09-10T10:04:52Z",
         "state" : "processed"
       },
       {
-        "article_count" : 6,
+        "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-10T08:03:04Z",
+        "processed_at" : "2026-09-10T10:04:53Z",
         "state" : "processed"
       },
       {
@@ -456,7 +451,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-09-09T21:42:19Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-10T08:03:00Z",
+        "processed_at" : "2026-09-10T10:04:51Z",
         "state" : "processed"
       },
       {
@@ -464,7 +459,7 @@
         "id" : "ai-news",
         "message" : "HTTP 402 from news.smol.ai",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-10T08:03:00Z",
+        "processed_at" : "2026-09-10T10:04:51Z",
         "state" : "failed"
       }
     ],
