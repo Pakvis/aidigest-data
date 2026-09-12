@@ -3,39 +3,6 @@
     {
       "confidence" : "high",
       "consolidation" : {
-        "latest_source_at" : "2026-09-11T18:41:49Z",
-        "message_count" : 2,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
-      },
-      "created_at" : "2026-09-11T18:41:49Z",
-      "id" : "2026-09-12-df7275b19d7f",
-      "importance" : "high",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "An Anthropic researcher’s doomsday warning comes at a very interesting time",
-          "url" : "https:\/\/techcrunch.com\/podcast\/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time\/"
-        },
-        {
-          "source_name" : "Ars Technica AI",
-          "title" : "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
-          "url" : "https:\/\/arstechnica.com\/ai\/2026\/09\/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all\/"
-        }
-      ],
-      "summary" : "Lest you think this is just one departing researcher expressing an unpopular opinion, Anthropic Alignment Science lead Evan Hubinger piped in on social media to say that \"Jacob is correct here—we really do earnestly believe AI could kill all humans!.",
-      "summary_method" : "source-extract",
-      "title" : "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
-      "topics" : [
-        "Anthropic"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "consolidation" : {
         "latest_source_at" : "2026-09-12T05:56:05Z",
         "message_count" : 3,
         "reason" : "Multiple sources reported the same story.",
@@ -71,6 +38,40 @@
         "DeepSeek",
         "Anthropic",
         "Moonshot AI"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-09-12T16:23:40Z",
+        "message_count" : 3,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
+      "created_at" : "2026-09-12T16:23:40Z",
+      "id" : "2026-09-12-a61b4889eedb",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Anthropic CEO says it’s time to pump the brakes on AI",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/994337\/anthropic-ceo-slow-down-ai-development"
+        },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Anthropic CEO outlines plan to ‘pace the frontier’",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/12\/anthropic-ceo-outlines-plan-to-pace-the-frontier\/"
+        }
+      ],
+      "summary" : "Amodei says that giving external evaluators wide-ranging access is just the first step, and one it is taking now unilaterally .",
+      "summary_method" : "source-extract",
+      "title" : "Anthropic CEO says it’s time to pump the brakes on AI",
+      "topics" : [
+        "Anthropic",
+        "Safety"
       ]
     },
     {
@@ -119,28 +120,6 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-09-11T16:46:25Z",
-      "id" : "2026-09-12-338fef2ad0c7",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/11\/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo\/"
-        }
-      ],
-      "summary" : "2 exec at OpenAI also led Instacart through its IPO in 2023.",
-      "summary_method" : "source-extract",
-      "title" : "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-09-11T14:25:21Z",
       "id" : "2026-09-12-4ff317ec7f45",
       "importance" : "medium",
@@ -157,6 +136,28 @@
       "summary" : "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism .",
       "summary_method" : "source-extract",
       "title" : "Meta says it’s changing AI suggestions after posing invasive personal questions",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-11T16:46:25Z",
+      "id" : "2026-09-12-338fef2ad0c7",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/11\/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo\/"
+        }
+      ],
+      "summary" : "2 exec at OpenAI also led Instacart through its IPO in 2023.",
+      "summary_method" : "source-extract",
+      "title" : "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
       "topics" : [
         "AI"
       ]
@@ -254,28 +255,6 @@
       ]
     },
     {
-      "confidence" : "high",
-      "created_at" : "2026-09-09T17:00:00Z",
-      "id" : "2026-09-12-d769cd8e260b",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Paul Christiano joins OpenAI Foundation Board",
-          "url" : "https:\/\/openai.com\/index\/paul-christiano-joins-openai-foundation-board"
-        }
-      ],
-      "summary" : "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
-      "summary_method" : "source-extract",
-      "title" : "Paul Christiano joins OpenAI Foundation Board",
-      "topics" : [
-        "Safety"
-      ]
-    },
-    {
       "confidence" : "medium",
       "created_at" : "2026-09-10T15:38:19Z",
       "id" : "2026-09-12-0a5fccdc7228",
@@ -296,34 +275,57 @@
       "topics" : [
         "AI"
       ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-10T00:00:37Z",
+      "id" : "2026-09-12-5cf3a741737f",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/09\/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks\/"
+        }
+      ],
+      "summary" : "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+      "summary_method" : "source-extract",
+      "title" : "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "topics" : [
+        "Funding",
+        "Research"
+      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 6,
-    "summary" : "• Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"\n• Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek\n• Meta’s Muse AI works and creeps me out",
+    "source_count" : 5,
+    "summary" : "• Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek\n• Anthropic CEO says it’s time to pump the brakes on AI\n• Meta’s Muse AI works and creeps me out",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-12",
-  "generated_at" : "2026-09-12T16:00:19Z",
+  "generated_at" : "2026-09-12T18:02:16Z",
   "processing_report" : {
-    "generated_at" : "2026-09-12T16:00:23Z",
-    "high_card_count" : 2,
+    "generated_at" : "2026-09-12T18:02:21Z",
+    "high_card_count" : 1,
     "source_reports" : [
       {
-        "article_count" : 12,
+        "article_count" : 11,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-09-11T12:13:42Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-12T16:00:23Z",
+        "processed_at" : "2026-09-12T18:02:21Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-12T16:00:22Z",
+        "processed_at" : "2026-09-12T18:02:20Z",
         "state" : "processed"
       },
       {
@@ -331,7 +333,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-09-10T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-12T16:00:21Z",
+        "processed_at" : "2026-09-12T18:02:19Z",
         "state" : "processed"
       },
       {
@@ -339,7 +341,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-09-09T16:59:40Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-12T16:00:20Z",
+        "processed_at" : "2026-09-12T18:02:17Z",
         "state" : "processed"
       },
       {
@@ -347,7 +349,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-10T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-12T16:00:19Z",
+        "processed_at" : "2026-09-12T18:02:17Z",
         "state" : "processed"
       },
       {
@@ -355,7 +357,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-08T14:00:15Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-12T16:00:19Z",
+        "processed_at" : "2026-09-12T18:02:17Z",
         "state" : "processed"
       },
       {
@@ -363,7 +365,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-09-10T00:00:00Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-12T16:00:19Z",
+        "processed_at" : "2026-09-12T18:02:17Z",
         "state" : "processed"
       },
       {
@@ -371,7 +373,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-09-12T15:01:19Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-12T16:00:20Z",
+        "processed_at" : "2026-09-12T18:02:17Z",
         "state" : "processed"
       },
       {
@@ -379,7 +381,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-02T06:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-12T16:00:20Z",
+        "processed_at" : "2026-09-12T18:02:17Z",
         "state" : "processed"
       },
       {
@@ -387,7 +389,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-10T10:42:55Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-12T16:00:19Z",
+        "processed_at" : "2026-09-12T18:02:17Z",
         "state" : "processed"
       },
       {
@@ -395,7 +397,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-08-31T00:24:35Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-12T16:00:19Z",
+        "processed_at" : "2026-09-12T18:02:17Z",
         "state" : "processed"
       },
       {
@@ -403,7 +405,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-09-14T00:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-12T16:00:19Z",
+        "processed_at" : "2026-09-12T18:02:17Z",
         "state" : "processed"
       },
       {
@@ -411,7 +413,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-09-12T14:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-12T16:00:22Z",
+        "processed_at" : "2026-09-12T18:02:19Z",
         "state" : "processed"
       },
       {
@@ -419,7 +421,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-09-10T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-12T16:00:20Z",
+        "processed_at" : "2026-09-12T18:02:17Z",
         "state" : "processed"
       },
       {
@@ -427,7 +429,7 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-09-12T15:52:11Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-12T16:00:19Z",
+        "processed_at" : "2026-09-12T18:02:17Z",
         "state" : "processed"
       },
       {
@@ -435,7 +437,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-09-12T13:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-12T16:00:22Z",
+        "processed_at" : "2026-09-12T18:02:20Z",
         "state" : "processed"
       },
       {
@@ -443,22 +445,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-12T15:53:45Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-12T16:00:20Z",
+        "processed_at" : "2026-09-12T18:02:18Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-12T16:00:22Z",
+        "processed_at" : "2026-09-12T18:02:20Z",
         "state" : "processed"
       },
       {
-        "article_count" : 6,
+        "article_count" : 7,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-09-12T11:00:00Z",
+        "latest_article_at" : "2026-09-12T16:23:40Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-12T16:00:19Z",
+        "processed_at" : "2026-09-12T18:02:17Z",
         "state" : "processed"
       },
       {
@@ -466,7 +468,7 @@
         "id" : "ai-news",
         "message" : "HTTP 402 from news.smol.ai",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-12T16:00:19Z",
+        "processed_at" : "2026-09-12T18:02:17Z",
         "state" : "failed"
       }
     ],
