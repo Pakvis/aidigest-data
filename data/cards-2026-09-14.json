@@ -265,9 +265,31 @@
         "GPT",
         "Coding"
       ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-09-11T10:00:00Z",
+      "id" : "2026-09-14-6e88d3c1258f",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+          "url" : "https:\/\/openai.com\/index\/scaling-storage-one-billion-users-part-one"
+        }
+      ],
+      "summary" : "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+      "summary_method" : "source-extract",
+      "title" : "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "topics" : [
+        "ChatGPT"
+      ]
     }
   ],
-  "count" : 11,
+  "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 4,
@@ -275,24 +297,16 @@
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-14",
-  "generated_at" : "2026-09-14T06:00:46Z",
+  "generated_at" : "2026-09-14T08:02:14Z",
   "processing_report" : {
-    "generated_at" : "2026-09-14T06:00:51Z",
+    "generated_at" : "2026-09-14T08:02:23Z",
     "high_card_count" : 0,
     "source_reports" : [
       {
-        "article_count" : 10,
-        "id" : "ai-breakfast",
-        "latest_article_at" : "2026-09-11T12:13:42Z",
-        "name" : "AI Breakfast",
-        "processed_at" : "2026-09-14T06:00:51Z",
-        "state" : "processed"
-      },
-      {
-        "article_count" : 11,
+        "article_count" : 5,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-14T06:00:48Z",
+        "processed_at" : "2026-09-14T08:02:20Z",
         "state" : "processed"
       },
       {
@@ -300,15 +314,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-14T06:00:47Z",
-        "state" : "processed"
-      },
-      {
-        "article_count" : 4,
-        "id" : "aireport-nl",
-        "latest_article_at" : "2026-09-10T10:00:00Z",
-        "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-14T06:00:48Z",
+        "processed_at" : "2026-09-14T08:02:15Z",
         "state" : "processed"
       },
       {
@@ -316,7 +322,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-09-09T16:59:40Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-14T06:00:47Z",
+        "processed_at" : "2026-09-14T08:02:15Z",
         "state" : "processed"
       },
       {
@@ -324,7 +330,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-10T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-14T06:00:46Z",
+        "processed_at" : "2026-09-14T08:02:15Z",
         "state" : "processed"
       },
       {
@@ -332,7 +338,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-08T14:00:15Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-14T06:00:46Z",
+        "processed_at" : "2026-09-14T08:02:15Z",
         "state" : "processed"
       },
       {
@@ -340,7 +346,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-09-10T00:00:00Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-14T06:00:46Z",
+        "processed_at" : "2026-09-14T08:02:15Z",
         "state" : "processed"
       },
       {
@@ -348,7 +354,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-09-12T15:01:19Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-14T06:00:47Z",
+        "processed_at" : "2026-09-14T08:02:15Z",
         "state" : "processed"
       },
       {
@@ -356,7 +362,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-02T06:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-14T06:00:46Z",
+        "processed_at" : "2026-09-14T08:02:15Z",
         "state" : "processed"
       },
       {
@@ -364,7 +370,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-10T10:42:55Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-14T06:00:46Z",
+        "processed_at" : "2026-09-14T08:02:15Z",
         "state" : "processed"
       },
       {
@@ -372,7 +378,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-08-31T00:24:35Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-14T06:00:46Z",
+        "processed_at" : "2026-09-14T08:02:15Z",
         "state" : "processed"
       },
       {
@@ -380,15 +386,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-09-14T00:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-14T06:00:46Z",
-        "state" : "processed"
-      },
-      {
-        "article_count" : 5,
-        "id" : "superhuman-ai",
-        "latest_article_at" : "2026-09-12T14:00:00Z",
-        "name" : "Superhuman AI",
-        "processed_at" : "2026-09-14T06:00:49Z",
+        "processed_at" : "2026-09-14T08:02:15Z",
         "state" : "processed"
       },
       {
@@ -396,7 +394,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-09-10T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-14T06:00:46Z",
+        "processed_at" : "2026-09-14T08:02:15Z",
         "state" : "processed"
       },
       {
@@ -404,15 +402,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-09-13T19:40:15Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-14T06:00:46Z",
+        "processed_at" : "2026-09-14T08:02:14Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 3,
         "id" : "the-ai-report",
-        "latest_article_at" : "2026-09-12T13:01:00Z",
+        "latest_article_at" : "2026-09-03T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-14T06:00:49Z",
+        "processed_at" : "2026-09-14T08:02:21Z",
         "state" : "processed"
       },
       {
@@ -420,14 +418,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-12T15:53:45Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-14T06:00:47Z",
+        "processed_at" : "2026-09-14T08:02:15Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 5,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-14T06:00:49Z",
+        "processed_at" : "2026-09-14T08:02:23Z",
         "state" : "processed"
       },
       {
@@ -435,8 +433,32 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-09-13T19:41:48Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-14T06:00:46Z",
+        "processed_at" : "2026-09-14T08:02:15Z",
         "state" : "processed"
+      },
+      {
+        "article_count" : 0,
+        "id" : "ai-breakfast",
+        "message" : "Source returned no usable AI articles.",
+        "name" : "AI Breakfast",
+        "processed_at" : "2026-09-14T08:02:20Z",
+        "state" : "empty"
+      },
+      {
+        "article_count" : 0,
+        "id" : "aireport-nl",
+        "message" : "Source returned no usable AI articles.",
+        "name" : "AI Report (NL)",
+        "processed_at" : "2026-09-14T08:02:16Z",
+        "state" : "empty"
+      },
+      {
+        "article_count" : 0,
+        "id" : "superhuman-ai",
+        "message" : "Source returned no usable AI articles.",
+        "name" : "Superhuman AI",
+        "processed_at" : "2026-09-14T08:02:18Z",
+        "state" : "empty"
       }
     ],
     "state" : "complete"
