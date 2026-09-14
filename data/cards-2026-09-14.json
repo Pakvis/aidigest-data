@@ -2,6 +2,51 @@
   "cards" : [
     {
       "confidence" : "medium",
+      "created_at" : "2026-09-14T13:00:00Z",
+      "id" : "2026-09-14-57b7dd24a8e1",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Microsoft says ‘people matter more than AI’ following safety concerns",
+          "url" : "https:\/\/www.theverge.com\/news\/994566\/microsoft-humanist-ai-code-of-conduct"
+        }
+      ],
+      "summary" : "Microsoft is publishing a 37-page \" humanist AI code of conduct \" today, amid growing safety concerns over AI model progress.",
+      "summary_method" : "source-extract",
+      "title" : "Microsoft says ‘people matter more than AI’ following safety concerns",
+      "topics" : [
+        "Safety",
+        "Coding"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-14T13:55:00Z",
+      "id" : "2026-09-14-b9b2cf05a0aa",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/14\/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting\/"
+        }
+      ],
+      "summary" : "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
+      "summary_method" : "source-extract",
+      "title" : "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
       "created_at" : "2026-09-13T16:30:00Z",
       "id" : "2026-09-14-b46db71c0e2c",
       "importance" : "medium",
@@ -242,42 +287,19 @@
       "topics" : [
         "AI"
       ]
-    },
-    {
-      "confidence" : "high",
-      "created_at" : "2026-09-11T16:00:00Z",
-      "id" : "2026-09-14-e64315fbf52c",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Cognition helps Devin test its own work with GPT‑6 Astra",
-          "url" : "https:\/\/openai.com\/index\/cognition-devin-testing-with-astra"
-        }
-      ],
-      "summary" : "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-      "summary_method" : "source-extract",
-      "title" : "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "topics" : [
-        "GPT",
-        "Coding"
-      ]
     }
   ],
-  "count" : 11,
+  "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 4,
-    "summary" : "• Obama urges Democrats to have a ‘clear plan’ for AI safeguards\n• Anthropic CEO says it’s time to pump the brakes on AI\n• Meta says it’s changing AI suggestions after posing invasive personal questions",
+    "source_count" : 3,
+    "summary" : "• Microsoft says ‘people matter more than AI’ following safety concerns\n• A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting\n• Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-14",
-  "generated_at" : "2026-09-14T12:04:46Z",
+  "generated_at" : "2026-09-14T14:01:03Z",
   "processing_report" : {
-    "generated_at" : "2026-09-14T12:04:51Z",
+    "generated_at" : "2026-09-14T14:01:10Z",
     "high_card_count" : 0,
     "source_reports" : [
       {
@@ -285,14 +307,7 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-09-11T12:13:42Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-14T12:04:51Z",
-        "state" : "processed"
-      },
-      {
-        "article_count" : 10,
-        "id" : "ai-daily-brief",
-        "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-14T12:04:50Z",
+        "processed_at" : "2026-09-14T14:01:08Z",
         "state" : "processed"
       },
       {
@@ -300,7 +315,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-14T12:04:48Z",
+        "processed_at" : "2026-09-14T14:01:04Z",
         "state" : "processed"
       },
       {
@@ -308,7 +323,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-09-10T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-14T12:04:48Z",
+        "processed_at" : "2026-09-14T14:01:06Z",
         "state" : "processed"
       },
       {
@@ -316,7 +331,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-09-09T16:59:40Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-14T12:04:47Z",
+        "processed_at" : "2026-09-14T14:01:04Z",
         "state" : "processed"
       },
       {
@@ -324,7 +339,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-10T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-14T12:04:47Z",
+        "processed_at" : "2026-09-14T14:01:04Z",
         "state" : "processed"
       },
       {
@@ -332,7 +347,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-08T14:00:15Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-14T12:04:47Z",
+        "processed_at" : "2026-09-14T14:01:04Z",
         "state" : "processed"
       },
       {
@@ -340,7 +355,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-09-10T00:00:00Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-14T12:04:47Z",
+        "processed_at" : "2026-09-14T14:01:04Z",
         "state" : "processed"
       },
       {
@@ -348,7 +363,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-09-12T15:01:19Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-14T12:04:47Z",
+        "processed_at" : "2026-09-14T14:01:04Z",
         "state" : "processed"
       },
       {
@@ -356,7 +371,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-02T06:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-14T12:04:47Z",
+        "processed_at" : "2026-09-14T14:01:04Z",
         "state" : "processed"
       },
       {
@@ -364,7 +379,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-10T10:42:55Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-14T12:04:47Z",
+        "processed_at" : "2026-09-14T14:01:04Z",
         "state" : "processed"
       },
       {
@@ -372,7 +387,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-08-31T00:24:35Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-14T12:04:47Z",
+        "processed_at" : "2026-09-14T14:01:04Z",
         "state" : "processed"
       },
       {
@@ -380,39 +395,39 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-09-14T00:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-14T12:04:47Z",
+        "processed_at" : "2026-09-14T14:01:04Z",
         "state" : "processed"
       },
       {
-        "article_count" : 5,
+        "article_count" : 4,
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-09-12T14:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-14T12:04:49Z",
+        "processed_at" : "2026-09-14T14:01:07Z",
         "state" : "processed"
       },
       {
         "article_count" : 19,
         "id" : "tldr-ai",
-        "latest_article_at" : "2026-09-10T00:00:00Z",
+        "latest_article_at" : "2026-09-14T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-14T12:04:47Z",
+        "processed_at" : "2026-09-14T14:01:04Z",
         "state" : "processed"
       },
       {
         "article_count" : 16,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-09-13T19:40:15Z",
+        "latest_article_at" : "2026-09-14T13:55:00Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-14T12:04:47Z",
+        "processed_at" : "2026-09-14T14:01:04Z",
         "state" : "processed"
       },
       {
-        "article_count" : 9,
+        "article_count" : 11,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-09-14T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-14T12:04:50Z",
+        "processed_at" : "2026-09-14T14:01:08Z",
         "state" : "processed"
       },
       {
@@ -420,23 +435,31 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-12T15:53:45Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-14T12:04:48Z",
+        "processed_at" : "2026-09-14T14:01:04Z",
         "state" : "processed"
       },
       {
         "article_count" : 9,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-14T12:04:50Z",
+        "processed_at" : "2026-09-14T14:01:07Z",
         "state" : "processed"
       },
       {
-        "article_count" : 8,
+        "article_count" : 9,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-09-13T19:41:48Z",
+        "latest_article_at" : "2026-09-14T13:00:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-14T12:04:47Z",
+        "processed_at" : "2026-09-14T14:01:04Z",
         "state" : "processed"
+      },
+      {
+        "article_count" : 0,
+        "id" : "ai-daily-brief",
+        "message" : "Source returned no usable AI articles.",
+        "name" : "AI Daily Brief",
+        "processed_at" : "2026-09-14T14:01:10Z",
+        "state" : "empty"
       }
     ],
     "state" : "complete"
