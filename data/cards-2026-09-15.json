@@ -179,6 +179,28 @@
     },
     {
       "confidence" : "medium",
+      "created_at" : "2026-09-15T17:05:24Z",
+      "id" : "2026-09-15-e817b60bf518",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Meta expands subscription push with new AI-focused plans",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/15\/meta-expands-subscription-push-with-new-ai-focused-plans\/"
+        }
+      ],
+      "summary" : "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
+      "summary_method" : "source-extract",
+      "title" : "Meta expands subscription push with new AI-focused plans",
+      "topics" : [
+        "Tooling"
+      ]
+    },
+    {
+      "confidence" : "medium",
       "created_at" : "2026-09-15T15:47:03Z",
       "id" : "2026-09-15-469d38208f99",
       "importance" : "medium",
@@ -197,51 +219,6 @@
       "title" : "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
       "topics" : [
         "Anthropic",
-        "Safety"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-14T17:10:30Z",
-      "id" : "2026-09-15-22d88b2d1bd1",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "With iOS 27, I’m actually using Siri again",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/14\/with-ios-27-im-actually-using-siri-again\/"
-        }
-      ],
-      "summary" : "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
-      "summary_method" : "source-extract",
-      "title" : "With iOS 27, I’m actually using Siri again",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-14T16:27:53Z",
-      "id" : "2026-09-15-a91fe9922a72",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/14\/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans\/"
-        }
-      ],
-      "summary" : "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles.",
-      "summary_method" : "source-extract",
-      "title" : "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-      "topics" : [
-        "Coding",
         "Safety"
       ]
     },
@@ -267,6 +244,28 @@
         "Safety",
         "Coding"
       ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-14T17:10:30Z",
+      "id" : "2026-09-15-22d88b2d1bd1",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "With iOS 27, I’m actually using Siri again",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/14\/with-ios-27-im-actually-using-siri-again\/"
+        }
+      ],
+      "summary" : "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
+      "summary_method" : "source-extract",
+      "title" : "With iOS 27, I’m actually using Siri again",
+      "topics" : [
+        "AI"
+      ]
     }
   ],
   "count" : 12,
@@ -277,24 +276,24 @@
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-15",
-  "generated_at" : "2026-09-15T16:03:24Z",
+  "generated_at" : "2026-09-15T18:05:18Z",
   "processing_report" : {
-    "generated_at" : "2026-09-15T16:03:30Z",
+    "generated_at" : "2026-09-15T18:05:23Z",
     "high_card_count" : 2,
     "source_reports" : [
       {
-        "article_count" : 7,
+        "article_count" : 10,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-09-11T12:13:42Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-15T16:03:30Z",
+        "processed_at" : "2026-09-15T18:05:23Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-15T16:03:27Z",
+        "processed_at" : "2026-09-15T18:05:21Z",
         "state" : "processed"
       },
       {
@@ -302,15 +301,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-15T16:03:25Z",
+        "processed_at" : "2026-09-15T18:05:20Z",
         "state" : "processed"
       },
       {
-        "article_count" : 3,
+        "article_count" : 4,
         "id" : "aireport-nl",
         "latest_article_at" : "2026-09-10T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-15T16:03:26Z",
+        "processed_at" : "2026-09-15T18:05:20Z",
         "state" : "processed"
       },
       {
@@ -318,23 +317,23 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-09-14T21:04:32Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-15T16:03:25Z",
+        "processed_at" : "2026-09-15T18:05:19Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "google-ai-blog",
-        "latest_article_at" : "2026-09-15T13:00:00Z",
+        "latest_article_at" : "2026-09-15T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-15T16:03:25Z",
+        "processed_at" : "2026-09-15T18:05:19Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "deepmind-blog",
-        "latest_article_at" : "2026-09-08T14:00:15Z",
+        "latest_article_at" : "2026-09-15T17:05:57Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-15T16:03:25Z",
+        "processed_at" : "2026-09-15T18:05:19Z",
         "state" : "processed"
       },
       {
@@ -342,7 +341,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-09-15T16:00:44Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-15T16:03:25Z",
+        "processed_at" : "2026-09-15T18:05:19Z",
         "state" : "processed"
       },
       {
@@ -350,7 +349,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-09-15T04:50:36Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-15T16:03:25Z",
+        "processed_at" : "2026-09-15T18:05:20Z",
         "state" : "processed"
       },
       {
@@ -358,7 +357,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-02T06:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-15T16:03:25Z",
+        "processed_at" : "2026-09-15T18:05:19Z",
         "state" : "processed"
       },
       {
@@ -366,7 +365,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-10T10:42:55Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-15T16:03:25Z",
+        "processed_at" : "2026-09-15T18:05:19Z",
         "state" : "processed"
       },
       {
@@ -374,7 +373,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-08-31T00:24:35Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-15T16:03:25Z",
+        "processed_at" : "2026-09-15T18:05:19Z",
         "state" : "processed"
       },
       {
@@ -382,7 +381,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-09-14T12:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-15T16:03:25Z",
+        "processed_at" : "2026-09-15T18:05:19Z",
         "state" : "processed"
       },
       {
@@ -390,7 +389,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-09-15T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-15T16:03:27Z",
+        "processed_at" : "2026-09-15T18:05:21Z",
         "state" : "processed"
       },
       {
@@ -398,23 +397,23 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-09-15T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-15T16:03:25Z",
+        "processed_at" : "2026-09-15T18:05:19Z",
         "state" : "processed"
       },
       {
         "article_count" : 14,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-09-15T15:47:03Z",
+        "latest_article_at" : "2026-09-15T17:42:59Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-15T16:03:24Z",
+        "processed_at" : "2026-09-15T18:05:19Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 12,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-09-15T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-15T16:03:28Z",
+        "processed_at" : "2026-09-15T18:05:23Z",
         "state" : "processed"
       },
       {
@@ -422,14 +421,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-14T21:46:17Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-15T16:03:25Z",
+        "processed_at" : "2026-09-15T18:05:20Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-15T16:03:27Z",
+        "processed_at" : "2026-09-15T18:05:21Z",
         "state" : "processed"
       },
       {
@@ -437,7 +436,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-09-15T15:00:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-15T16:03:24Z",
+        "processed_at" : "2026-09-15T18:05:19Z",
         "state" : "processed"
       }
     ],
