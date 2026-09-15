@@ -2,6 +2,28 @@
   "cards" : [
     {
       "confidence" : "medium",
+      "created_at" : "2026-09-15T15:00:00Z",
+      "id" : "2026-09-15-8eab84d7acf0",
+      "importance" : "high",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Meta’s new One subscriptions put a price on social media and AI",
+          "url" : "https:\/\/www.theverge.com\/tech\/995453\/meta-one-subscriptions-ai"
+        }
+      ],
+      "summary" : "Shortly after launching its new do-everything AI assistant Muse , Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundles were in testing earlier this year, but are now available globally starting today, with several tiers for individual users, creators, and businesses.",
+      "summary_method" : "source-extract",
+      "title" : "Meta’s new One subscriptions put a price on social media and AI",
+      "topics" : [
+        "Pricing"
+      ]
+    },
+    {
+      "confidence" : "medium",
       "created_at" : "2026-09-14T14:45:44Z",
       "id" : "2026-09-15-b22bac4f67d5",
       "importance" : "high",
@@ -157,6 +179,29 @@
     },
     {
       "confidence" : "medium",
+      "created_at" : "2026-09-15T15:47:03Z",
+      "id" : "2026-09-15-469d38208f99",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/15\/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks\/"
+        }
+      ],
+      "summary" : "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+      "summary_method" : "source-extract",
+      "title" : "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "topics" : [
+        "Anthropic",
+        "Safety"
+      ]
+    },
+    {
+      "confidence" : "medium",
       "created_at" : "2026-09-14T17:10:30Z",
       "id" : "2026-09-15-22d88b2d1bd1",
       "importance" : "medium",
@@ -222,90 +267,34 @@
         "Safety",
         "Coding"
       ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-13T16:30:00Z",
-      "id" : "2026-09-15-ad9ed8abaec8",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/13\/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards\/"
-        }
-      ],
-      "summary" : "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
-      "summary_method" : "source-extract",
-      "title" : "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-      "topics" : [
-        "Safety"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "consolidation" : {
-        "latest_source_at" : "2026-09-12T19:34:44Z",
-        "message_count" : 2,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
-      },
-      "created_at" : "2026-09-12T19:34:44Z",
-      "id" : "2026-09-15-908e3ec5c83d",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Anthropic CEO outlines plan to slow AI development",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/12\/anthropic-ceo-outlines-plan-to-pace-the-frontier\/"
-        },
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Anthropic CEO says it’s time to pump the brakes on AI",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/994337\/anthropic-ceo-slow-down-ai-development"
-        }
-      ],
-      "summary" : "Amodei says that giving external evaluators wide-ranging access is just the first step, and one it is taking now unilaterally .",
-      "summary_method" : "source-extract",
-      "title" : "Anthropic CEO says it’s time to pump the brakes on AI",
-      "topics" : [
-        "Anthropic",
-        "Safety"
-      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 4,
-    "summary" : "• Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work\n• Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.\n• Is Big Tech’s AI slowdown a safety pact or a cartel?",
+    "summary" : "• Meta’s new One subscriptions put a price on social media and AI\n• Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work\n• Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-15",
-  "generated_at" : "2026-09-15T14:01:39Z",
+  "generated_at" : "2026-09-15T16:03:24Z",
   "processing_report" : {
-    "generated_at" : "2026-09-15T14:01:45Z",
-    "high_card_count" : 1,
+    "generated_at" : "2026-09-15T16:03:30Z",
+    "high_card_count" : 2,
     "source_reports" : [
       {
-        "article_count" : 4,
+        "article_count" : 7,
         "id" : "ai-breakfast",
-        "latest_article_at" : "2026-08-26T18:13:22Z",
+        "latest_article_at" : "2026-09-11T12:13:42Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-15T14:01:45Z",
+        "processed_at" : "2026-09-15T16:03:30Z",
         "state" : "processed"
       },
       {
-        "article_count" : 7,
+        "article_count" : 10,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-15T14:01:45Z",
+        "processed_at" : "2026-09-15T16:03:27Z",
         "state" : "processed"
       },
       {
@@ -313,15 +302,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-15T14:01:41Z",
+        "processed_at" : "2026-09-15T16:03:25Z",
         "state" : "processed"
       },
       {
-        "article_count" : 1,
+        "article_count" : 3,
         "id" : "aireport-nl",
         "latest_article_at" : "2026-09-10T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-15T14:01:42Z",
+        "processed_at" : "2026-09-15T16:03:26Z",
         "state" : "processed"
       },
       {
@@ -329,7 +318,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-09-14T21:04:32Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-15T14:01:41Z",
+        "processed_at" : "2026-09-15T16:03:25Z",
         "state" : "processed"
       },
       {
@@ -337,7 +326,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-15T13:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-15T14:01:40Z",
+        "processed_at" : "2026-09-15T16:03:25Z",
         "state" : "processed"
       },
       {
@@ -345,15 +334,15 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-08T14:00:15Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-15T14:01:41Z",
+        "processed_at" : "2026-09-15T16:03:25Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "huggingface-blog",
-        "latest_article_at" : "2026-09-10T00:00:00Z",
+        "latest_article_at" : "2026-09-15T16:00:44Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-15T14:01:40Z",
+        "processed_at" : "2026-09-15T16:03:25Z",
         "state" : "processed"
       },
       {
@@ -361,7 +350,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-09-15T04:50:36Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-15T14:01:42Z",
+        "processed_at" : "2026-09-15T16:03:25Z",
         "state" : "processed"
       },
       {
@@ -369,7 +358,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-02T06:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-15T14:01:40Z",
+        "processed_at" : "2026-09-15T16:03:25Z",
         "state" : "processed"
       },
       {
@@ -377,7 +366,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-10T10:42:55Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-15T14:01:40Z",
+        "processed_at" : "2026-09-15T16:03:25Z",
         "state" : "processed"
       },
       {
@@ -385,7 +374,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-08-31T00:24:35Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-15T14:01:40Z",
+        "processed_at" : "2026-09-15T16:03:25Z",
         "state" : "processed"
       },
       {
@@ -393,15 +382,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-09-14T12:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-15T14:01:40Z",
+        "processed_at" : "2026-09-15T16:03:25Z",
         "state" : "processed"
       },
       {
-        "article_count" : 1,
+        "article_count" : 5,
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-09-15T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-15T14:01:44Z",
+        "processed_at" : "2026-09-15T16:03:27Z",
         "state" : "processed"
       },
       {
@@ -409,23 +398,23 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-09-15T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-15T14:01:40Z",
+        "processed_at" : "2026-09-15T16:03:25Z",
         "state" : "processed"
       },
       {
-        "article_count" : 16,
+        "article_count" : 14,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-09-15T13:00:00Z",
+        "latest_article_at" : "2026-09-15T15:47:03Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-15T14:01:40Z",
+        "processed_at" : "2026-09-15T16:03:24Z",
         "state" : "processed"
       },
       {
-        "article_count" : 8,
+        "article_count" : 11,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-09-15T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-15T14:01:45Z",
+        "processed_at" : "2026-09-15T16:03:28Z",
         "state" : "processed"
       },
       {
@@ -433,22 +422,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-14T21:46:17Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-15T14:01:41Z",
+        "processed_at" : "2026-09-15T16:03:25Z",
         "state" : "processed"
       },
       {
-        "article_count" : 7,
+        "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-15T14:01:44Z",
+        "processed_at" : "2026-09-15T16:03:27Z",
         "state" : "processed"
       },
       {
-        "article_count" : 8,
+        "article_count" : 9,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-09-14T22:59:41Z",
+        "latest_article_at" : "2026-09-15T15:00:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-15T14:01:40Z",
+        "processed_at" : "2026-09-15T16:03:24Z",
         "state" : "processed"
       }
     ],
