@@ -25,6 +25,30 @@
     },
     {
       "confidence" : "medium",
+      "created_at" : "2026-09-16T18:07:45Z",
+      "id" : "2026-09-16-db95cc90700d",
+      "importance" : "high",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Underwriting Superintelligence: Backing Agents you can Sue — Rune Kvist, AIUC",
+          "url" : "https:\/\/www.latent.space\/p\/aiuc"
+        }
+      ],
+      "summary" : "Rune Kvist [00:13:25]: You see the plot-- the chart of the horizons of the tasks that agents can take on is doubling extremely fast.",
+      "summary_method" : "source-extract",
+      "title" : "Underwriting Superintelligence: Backing Agents you can Sue — Rune Kvist, AIUC",
+      "topics" : [
+        "Agents",
+        "Anthropic",
+        "Enterprise"
+      ]
+    },
+    {
+      "confidence" : "medium",
       "created_at" : "2026-09-15T15:00:00Z",
       "id" : "2026-09-16-221ae2256136",
       "importance" : "high",
@@ -43,39 +67,6 @@
       "title" : "Meta’s new One subscriptions put a price on social media and AI",
       "topics" : [
         "Pricing"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "consolidation" : {
-        "latest_source_at" : "2026-09-16T11:09:53Z",
-        "message_count" : 2,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
-      },
-      "created_at" : "2026-09-16T11:09:53Z",
-      "id" : "2026-09-16-376476405980",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Neuron Daily",
-          "title" : "TypeSafe's JEV System One model skips the chatbot part of AI",
-          "url" : "https:\/\/www.theneurondaily.com\/p\/chatgpt-co-creator-s-new-ai-model"
-        },
-        {
-          "source_name" : "Latent Space",
-          "title" : "Jev: a “System One Model” that only decides\/classifies\/routes\/scores — >100x faster, >200x cheaper than small frontier LLMs",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-jev-a-system-one-model-that"
-        }
-      ],
-      "summary" : "Reactions from @omarsar0 , @chaseleantj , and @YuchenjUW all zero in on the same likely use case: replacing LLMs as structured classifiers \/ judges \/ routing policies in production systems where autoregressive generation is unnecessary overhead.",
-      "summary_method" : "source-extract",
-      "title" : "Jev: a “System One Model” that only decides\/classifies\/routes\/scores — >100x faster, >200x cheaper than small frontier LLMs",
-      "topics" : [
-        "AI"
       ]
     },
     {
@@ -192,46 +183,24 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-09-15T19:00:00Z",
-      "id" : "2026-09-16-619888f1d63c",
+      "created_at" : "2026-09-16T11:09:53Z",
+      "id" : "2026-09-16-376476405980",
       "importance" : "medium",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "TechCrunch AI",
-          "title" : "The AI graveyard: a running list of projects and startups that didn’t make it",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/15\/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it\/"
+          "source_name" : "Latent Space",
+          "title" : "Jev: a “System One Model” that only decides\/classifies\/routes\/scores — >100x faster, >200x cheaper than small frontier LLMs",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-jev-a-system-one-model-that"
         }
       ],
-      "summary" : "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "summary" : "Reactions from @omarsar0 , @chaseleantj , and @YuchenjUW all zero in on the same likely use case: replacing LLMs as structured classifiers \/ judges \/ routing policies in production systems where autoregressive generation is unnecessary overhead.",
       "summary_method" : "source-extract",
-      "title" : "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "title" : "Jev: a “System One Model” that only decides\/classifies\/routes\/scores — >100x faster, >200x cheaper than small frontier LLMs",
       "topics" : [
         "AI"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "created_at" : "2026-09-14T19:00:00Z",
-      "id" : "2026-09-16-b4f6aa7887aa",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Google AI Blog",
-          "title" : "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-          "url" : "https:\/\/blog.google\/innovation-and-ai\/technology\/ai\/dialogues-christina-koch\/"
-        }
-      ],
-      "summary" : "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
-      "summary_method" : "source-extract",
-      "title" : "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-      "topics" : [
-        "Research"
       ]
     },
     {
@@ -277,50 +246,49 @@
       "topics" : [
         "Safety"
       ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-15T19:00:00Z",
+      "id" : "2026-09-16-619888f1d63c",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "The AI graveyard: a running list of projects and startups that didn’t make it",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/15\/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it\/"
+        }
+      ],
+      "summary" : "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "summary_method" : "source-extract",
+      "title" : "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "topics" : [
+        "AI"
+      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 6,
-    "summary" : "• Anthropic merges Claude chat and Cowork in one interface\n• Meta’s new One subscriptions put a price on social media and AI\n• Jev: a “System One Model” that only decides\/classifies\/routes\/scores — >100x faster, >200x cheaper than small frontier LLMs",
+    "source_count" : 4,
+    "summary" : "• Anthropic merges Claude chat and Cowork in one interface\n• Underwriting Superintelligence: Backing Agents you can Sue — Rune Kvist, AIUC\n• Meta’s new One subscriptions put a price on social media and AI",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-16",
-  "generated_at" : "2026-09-16T18:03:46Z",
+  "generated_at" : "2026-09-16T20:01:02Z",
   "processing_report" : {
-    "generated_at" : "2026-09-16T18:03:50Z",
-    "high_card_count" : 2,
+    "generated_at" : "2026-09-16T20:01:14Z",
+    "high_card_count" : 3,
     "source_reports" : [
-      {
-        "article_count" : 10,
-        "id" : "ai-breakfast",
-        "latest_article_at" : "2026-09-11T12:13:42Z",
-        "name" : "AI Breakfast",
-        "processed_at" : "2026-09-16T18:03:50Z",
-        "state" : "processed"
-      },
-      {
-        "article_count" : 11,
-        "id" : "ai-daily-brief",
-        "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-16T18:03:49Z",
-        "state" : "processed"
-      },
       {
         "article_count" : 80,
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-16T18:03:47Z",
-        "state" : "processed"
-      },
-      {
-        "article_count" : 3,
-        "id" : "aireport-nl",
-        "latest_article_at" : "2026-09-10T10:00:00Z",
-        "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-16T18:03:48Z",
+        "processed_at" : "2026-09-16T20:01:03Z",
         "state" : "processed"
       },
       {
@@ -328,7 +296,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-09-14T21:04:32Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-16T18:03:47Z",
+        "processed_at" : "2026-09-16T20:01:03Z",
         "state" : "processed"
       },
       {
@@ -336,7 +304,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-15T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-16T18:03:46Z",
+        "processed_at" : "2026-09-16T20:01:02Z",
         "state" : "processed"
       },
       {
@@ -344,7 +312,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-15T17:05:57Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-16T18:03:47Z",
+        "processed_at" : "2026-09-16T20:01:02Z",
         "state" : "processed"
       },
       {
@@ -352,23 +320,23 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-09-15T16:00:44Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-16T18:03:47Z",
+        "processed_at" : "2026-09-16T20:01:02Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "latent-space",
-        "latest_article_at" : "2026-09-16T11:09:53Z",
+        "latest_article_at" : "2026-09-16T18:07:45Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-16T18:03:47Z",
+        "processed_at" : "2026-09-16T20:01:04Z",
         "state" : "processed"
       },
       {
         "article_count" : 10,
         "id" : "microsoft-ai-blog",
-        "latest_article_at" : "2026-09-02T06:00:02Z",
+        "latest_article_at" : "2026-09-16T18:59:58Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-16T18:03:47Z",
+        "processed_at" : "2026-09-16T20:01:03Z",
         "state" : "processed"
       },
       {
@@ -376,7 +344,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-16T12:00:00Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-16T18:03:47Z",
+        "processed_at" : "2026-09-16T20:01:03Z",
         "state" : "processed"
       },
       {
@@ -384,7 +352,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-08-31T00:24:35Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-16T18:03:47Z",
+        "processed_at" : "2026-09-16T20:01:02Z",
         "state" : "processed"
       },
       {
@@ -392,15 +360,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-09-16T16:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-16T18:03:48Z",
-        "state" : "processed"
-      },
-      {
-        "article_count" : 6,
-        "id" : "superhuman-ai",
-        "latest_article_at" : "2026-09-16T11:02:57Z",
-        "name" : "Superhuman AI",
-        "processed_at" : "2026-09-16T18:03:49Z",
+        "processed_at" : "2026-09-16T20:01:03Z",
         "state" : "processed"
       },
       {
@@ -408,23 +368,15 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-09-16T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-16T18:03:46Z",
+        "processed_at" : "2026-09-16T20:01:03Z",
         "state" : "processed"
       },
       {
-        "article_count" : 14,
+        "article_count" : 15,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-09-16T17:00:00Z",
+        "latest_article_at" : "2026-09-16T18:25:25Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-16T18:03:46Z",
-        "state" : "processed"
-      },
-      {
-        "article_count" : 11,
-        "id" : "the-ai-report",
-        "latest_article_at" : "2026-09-16T11:01:00Z",
-        "name" : "The AI Report",
-        "processed_at" : "2026-09-16T18:03:50Z",
+        "processed_at" : "2026-09-16T20:01:02Z",
         "state" : "processed"
       },
       {
@@ -432,14 +384,7 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-14T21:46:17Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-16T18:03:47Z",
-        "state" : "processed"
-      },
-      {
-        "article_count" : 10,
-        "id" : "the-neuron-daily",
-        "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-16T18:03:50Z",
+        "processed_at" : "2026-09-16T20:01:03Z",
         "state" : "processed"
       },
       {
@@ -447,10 +392,58 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-09-16T17:20:29Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-16T18:03:46Z",
+        "processed_at" : "2026-09-16T20:01:02Z",
         "state" : "processed"
+      },
+      {
+        "article_count" : 0,
+        "id" : "ai-breakfast",
+        "message" : "Did not finish before the startup source budget.",
+        "name" : "AI Breakfast",
+        "processed_at" : "2026-09-16T20:01:14Z",
+        "state" : "timedOut"
+      },
+      {
+        "article_count" : 0,
+        "id" : "ai-daily-brief",
+        "message" : "Did not finish before the startup source budget.",
+        "name" : "AI Daily Brief",
+        "processed_at" : "2026-09-16T20:01:14Z",
+        "state" : "timedOut"
+      },
+      {
+        "article_count" : 0,
+        "id" : "aireport-nl",
+        "message" : "Did not finish before the startup source budget.",
+        "name" : "AI Report (NL)",
+        "processed_at" : "2026-09-16T20:01:14Z",
+        "state" : "timedOut"
+      },
+      {
+        "article_count" : 0,
+        "id" : "superhuman-ai",
+        "message" : "Did not finish before the startup source budget.",
+        "name" : "Superhuman AI",
+        "processed_at" : "2026-09-16T20:01:14Z",
+        "state" : "timedOut"
+      },
+      {
+        "article_count" : 0,
+        "id" : "the-ai-report",
+        "message" : "Did not finish before the startup source budget.",
+        "name" : "The AI Report",
+        "processed_at" : "2026-09-16T20:01:14Z",
+        "state" : "timedOut"
+      },
+      {
+        "article_count" : 0,
+        "id" : "the-neuron-daily",
+        "message" : "Did not finish before the startup source budget.",
+        "name" : "The Neuron Daily",
+        "processed_at" : "2026-09-16T20:01:14Z",
+        "state" : "timedOut"
       }
     ],
-    "state" : "complete"
+    "state" : "timedOut"
   }
 }

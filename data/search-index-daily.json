@@ -22,6 +22,26 @@
     {
       "confidence" : "medium",
       "date" : "2026-09-16",
+      "id" : "2026-09-16-db95cc90700d",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Underwriting Superintelligence: Backing Agents you can Sue — Rune Kvist, AIUC",
+          "url" : "https:\/\/www.latent.space\/p\/aiuc"
+        }
+      ],
+      "summary" : "Rune Kvist [00:13:25]: You see the plot-- the chart of the horizons of the tasks that agents can take on is doubling extremely fast.",
+      "title" : "Underwriting Superintelligence: Backing Agents you can Sue — Rune Kvist, AIUC",
+      "topics" : [
+        "Agents",
+        "Anthropic",
+        "Enterprise"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-09-16",
       "id" : "2026-09-16-221ae2256136",
       "importance" : "high",
       "sources" : [
@@ -35,29 +55,6 @@
       "title" : "Meta’s new One subscriptions put a price on social media and AI",
       "topics" : [
         "Pricing"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "date" : "2026-09-16",
-      "id" : "2026-09-16-376476405980",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "The Neuron Daily",
-          "title" : "TypeSafe's JEV System One model skips the chatbot part of AI",
-          "url" : "https:\/\/www.theneurondaily.com\/p\/chatgpt-co-creator-s-new-ai-model"
-        },
-        {
-          "source_name" : "Latent Space",
-          "title" : "Jev: a “System One Model” that only decides\/classifies\/routes\/scores — >100x faster, >200x cheaper than small frontier LLMs",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-jev-a-system-one-model-that"
-        }
-      ],
-      "summary" : "Reactions from @omarsar0 , @chaseleantj , and @YuchenjUW all zero in on the same likely use case: replacing LLMs as structured classifiers \/ judges \/ routing policies in production systems where autoregressive generation is unnecessary overhead.",
-      "title" : "Jev: a “System One Model” that only decides\/classifies\/routes\/scores — >100x faster, >200x cheaper than small frontier LLMs",
-      "topics" : [
-        "AI"
       ]
     },
     {
@@ -155,37 +152,19 @@
     {
       "confidence" : "medium",
       "date" : "2026-09-16",
-      "id" : "2026-09-16-619888f1d63c",
+      "id" : "2026-09-16-376476405980",
       "importance" : "medium",
       "sources" : [
         {
-          "source_name" : "TechCrunch AI",
-          "title" : "The AI graveyard: a running list of projects and startups that didn’t make it",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/15\/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it\/"
+          "source_name" : "Latent Space",
+          "title" : "Jev: a “System One Model” that only decides\/classifies\/routes\/scores — >100x faster, >200x cheaper than small frontier LLMs",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-jev-a-system-one-model-that"
         }
       ],
-      "summary" : "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "title" : "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary" : "Reactions from @omarsar0 , @chaseleantj , and @YuchenjUW all zero in on the same likely use case: replacing LLMs as structured classifiers \/ judges \/ routing policies in production systems where autoregressive generation is unnecessary overhead.",
+      "title" : "Jev: a “System One Model” that only decides\/classifies\/routes\/scores — >100x faster, >200x cheaper than small frontier LLMs",
       "topics" : [
         "AI"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "date" : "2026-09-16",
-      "id" : "2026-09-16-b4f6aa7887aa",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "Google AI Blog",
-          "title" : "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-          "url" : "https:\/\/blog.google\/innovation-and-ai\/technology\/ai\/dialogues-christina-koch\/"
-        }
-      ],
-      "summary" : "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
-      "title" : "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-      "topics" : [
-        "Research"
       ]
     },
     {
@@ -222,6 +201,24 @@
       "title" : "What execs and politicians are saying about slowing down AI development",
       "topics" : [
         "Safety"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-09-16",
+      "id" : "2026-09-16-619888f1d63c",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "The AI graveyard: a running list of projects and startups that didn’t make it",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/15\/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it\/"
+        }
+      ],
+      "summary" : "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "title" : "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "topics" : [
+        "AI"
       ]
     },
     {
