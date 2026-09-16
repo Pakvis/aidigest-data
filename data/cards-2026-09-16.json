@@ -23,6 +23,39 @@
       ]
     },
     {
+      "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-09-16T11:09:53Z",
+        "message_count" : 2,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
+      "created_at" : "2026-09-16T11:09:53Z",
+      "id" : "2026-09-16-376476405980",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Neuron Daily",
+          "title" : "TypeSafe's JEV System One model skips the chatbot part of AI",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/chatgpt-co-creator-s-new-ai-model"
+        },
+        {
+          "source_name" : "Latent Space",
+          "title" : "Jev: a “System One Model” that only decides\/classifies\/routes\/scores — >100x faster, >200x cheaper than small frontier LLMs",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-jev-a-system-one-model-that"
+        }
+      ],
+      "summary" : "Reactions from @omarsar0 , @chaseleantj , and @YuchenjUW all zero in on the same likely use case: replacing LLMs as structured classifiers \/ judges \/ routing policies in production systems where autoregressive generation is unnecessary overhead.",
+      "summary_method" : "source-extract",
+      "title" : "Jev: a “System One Model” that only decides\/classifies\/routes\/scores — >100x faster, >200x cheaper than small frontier LLMs",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
       "confidence" : "medium",
       "created_at" : "2026-09-15T23:34:25Z",
       "id" : "2026-09-16-a15443fc68b0",
@@ -37,7 +70,7 @@
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/995917\/data-center-nyt-midterm-poll-september"
         }
       ],
-      "summary" : "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing , and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech, 61 percent of the 1,503 likely voters surveyed in early September (ahead of the recent AI safety slowdown discussion ) said they were opposed, with only 14 percent saying they strongly support.",
+      "summary" : "Poll data released Tuesday by The New York Times and Siena University confirms what we've already been seeing , and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech, 61 percent of the 1,503 likely voters surveyed in early September (ahead of the recent AI safety slowdown discussion ) said they were opposed, with only 14 percent saying they strongly support.",
       "summary_method" : "source-extract",
       "title" : "AI and data centers are incredibly unpopular in every poll",
       "topics" : [
@@ -244,56 +277,34 @@
         "Safety",
         "Coding"
       ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-14T19:28:42Z",
-      "id" : "2026-09-16-d2b20a54603c",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Ars Technica AI",
-          "title" : "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
-          "url" : "https:\/\/arstechnica.com\/apple\/2026\/09\/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements\/"
-        }
-      ],
-      "summary" : "As previously announced, Apple has today released 2026's major annual updates for its operating systems, including iOS 27, macOS 27 Golden Gate, watchOS 27, visionOS 27, and tvOS 27. Siri AI—a large language model-based and context-aware overhaul of the company's Siri voice and text assistant—is the flagship feature across all these releases except one (tvOS).",
-      "summary_method" : "source-extract",
-      "title" : "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
-      "topics" : [
-        "AI"
-      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 4,
-    "summary" : "• Meta’s new One subscriptions put a price on social media and AI\n• AI and data centers are incredibly unpopular in every poll\n• We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+    "source_count" : 5,
+    "summary" : "• Meta’s new One subscriptions put a price on social media and AI\n• Jev: a “System One Model” that only decides\/classifies\/routes\/scores — >100x faster, >200x cheaper than small frontier LLMs\n• AI and data centers are incredibly unpopular in every poll",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-16",
-  "generated_at" : "2026-09-16T10:05:10Z",
+  "generated_at" : "2026-09-16T12:02:14Z",
   "processing_report" : {
-    "generated_at" : "2026-09-16T10:05:14Z",
+    "generated_at" : "2026-09-16T12:02:19Z",
     "high_card_count" : 1,
     "source_reports" : [
       {
-        "article_count" : 10,
+        "article_count" : 6,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-09-11T12:13:42Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-16T10:05:14Z",
+        "processed_at" : "2026-09-16T12:02:19Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-16T10:05:12Z",
+        "processed_at" : "2026-09-16T12:02:17Z",
         "state" : "processed"
       },
       {
@@ -301,7 +312,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-16T10:05:11Z",
+        "processed_at" : "2026-09-16T12:02:15Z",
         "state" : "processed"
       },
       {
@@ -309,7 +320,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-09-10T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-16T10:05:11Z",
+        "processed_at" : "2026-09-16T12:02:17Z",
         "state" : "processed"
       },
       {
@@ -317,7 +328,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-09-14T21:04:32Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-16T10:05:11Z",
+        "processed_at" : "2026-09-16T12:02:15Z",
         "state" : "processed"
       },
       {
@@ -325,7 +336,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-15T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-16T10:05:10Z",
+        "processed_at" : "2026-09-16T12:02:14Z",
         "state" : "processed"
       },
       {
@@ -333,7 +344,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-15T17:05:57Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-16T10:05:10Z",
+        "processed_at" : "2026-09-16T12:02:14Z",
         "state" : "processed"
       },
       {
@@ -341,15 +352,15 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-09-15T16:00:44Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-16T10:05:10Z",
+        "processed_at" : "2026-09-16T12:02:14Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "latent-space",
-        "latest_article_at" : "2026-09-15T20:11:54Z",
+        "latest_article_at" : "2026-09-16T11:09:53Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-16T10:05:11Z",
+        "processed_at" : "2026-09-16T12:02:15Z",
         "state" : "processed"
       },
       {
@@ -357,7 +368,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-02T06:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-16T10:05:10Z",
+        "processed_at" : "2026-09-16T12:02:14Z",
         "state" : "processed"
       },
       {
@@ -365,7 +376,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-16T12:00:00Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-16T10:05:10Z",
+        "processed_at" : "2026-09-16T12:02:14Z",
         "state" : "processed"
       },
       {
@@ -373,7 +384,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-08-31T00:24:35Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-16T10:05:10Z",
+        "processed_at" : "2026-09-16T12:02:14Z",
         "state" : "processed"
       },
       {
@@ -381,15 +392,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-09-14T12:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-16T10:05:10Z",
+        "processed_at" : "2026-09-16T12:02:14Z",
         "state" : "processed"
       },
       {
-        "article_count" : 5,
+        "article_count" : 6,
         "id" : "superhuman-ai",
-        "latest_article_at" : "2026-09-15T11:02:57Z",
+        "latest_article_at" : "2026-09-16T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-16T10:05:12Z",
+        "processed_at" : "2026-09-16T12:02:16Z",
         "state" : "processed"
       },
       {
@@ -397,23 +408,23 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-09-15T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-16T10:05:10Z",
+        "processed_at" : "2026-09-16T12:02:14Z",
         "state" : "processed"
       },
       {
-        "article_count" : 15,
+        "article_count" : 14,
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-09-16T00:20:39Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-16T10:05:10Z",
+        "processed_at" : "2026-09-16T12:02:14Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 11,
         "id" : "the-ai-report",
-        "latest_article_at" : "2026-09-15T11:01:00Z",
+        "latest_article_at" : "2026-09-16T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-16T10:05:13Z",
+        "processed_at" : "2026-09-16T12:02:17Z",
         "state" : "processed"
       },
       {
@@ -421,22 +432,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-14T21:46:17Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-16T10:05:11Z",
+        "processed_at" : "2026-09-16T12:02:15Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-16T10:05:12Z",
+        "processed_at" : "2026-09-16T12:02:17Z",
         "state" : "processed"
       },
       {
         "article_count" : 9,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-09-15T23:34:25Z",
+        "latest_article_at" : "2026-09-16T12:00:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-16T10:05:10Z",
+        "processed_at" : "2026-09-16T12:02:14Z",
         "state" : "processed"
       }
     ],
