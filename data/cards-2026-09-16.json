@@ -23,6 +23,61 @@
       ]
     },
     {
+      "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-09-16T11:09:53Z",
+        "message_count" : 2,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
+      "created_at" : "2026-09-16T11:09:53Z",
+      "id" : "2026-09-16-376476405980",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Neuron Daily",
+          "title" : "TypeSafe's JEV System One model skips the chatbot part of AI",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/chatgpt-co-creator-s-new-ai-model"
+        },
+        {
+          "source_name" : "Latent Space",
+          "title" : "Jev: a “System One Model” that only decides\/classifies\/routes\/scores — >100x faster, >200x cheaper than small frontier LLMs",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-jev-a-system-one-model-that"
+        }
+      ],
+      "summary" : "Reactions from @omarsar0 , @chaseleantj , and @YuchenjUW all zero in on the same likely use case: replacing LLMs as structured classifiers \/ judges \/ routing policies in production systems where autoregressive generation is unnecessary overhead.",
+      "summary_method" : "source-extract",
+      "title" : "Jev: a “System One Model” that only decides\/classifies\/routes\/scores — >100x faster, >200x cheaper than small frontier LLMs",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-16T14:45:00Z",
+      "id" : "2026-09-16-523868fd6667",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "The sexy AI-powered dating app scams are here",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/995348\/ai-dating-app-scams"
+        }
+      ],
+      "summary" : "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer.",
+      "summary_method" : "source-extract",
+      "title" : "The sexy AI-powered dating app scams are here",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
       "confidence" : "medium",
       "created_at" : "2026-09-15T23:34:25Z",
       "id" : "2026-09-16-a15443fc68b0",
@@ -108,51 +163,6 @@
       "title" : "Meta expands subscription push with new AI-focused plans",
       "topics" : [
         "Tooling"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-15T15:47:03Z",
-      "id" : "2026-09-16-d8ec50e266fc",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/15\/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks\/"
-        }
-      ],
-      "summary" : "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
-      "summary_method" : "source-extract",
-      "title" : "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-      "topics" : [
-        "Anthropic",
-        "Safety"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-16T11:09:53Z",
-      "id" : "2026-09-16-376476405980",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "Jev: a “System One Model” that only decides\/classifies\/routes\/scores — >100x faster, >200x cheaper than small frontier LLMs",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-jev-a-system-one-model-that"
-        }
-      ],
-      "summary" : "Reactions from @omarsar0 , @chaseleantj , and @YuchenjUW all zero in on the same likely use case: replacing LLMs as structured classifiers \/ judges \/ routing policies in production systems where autoregressive generation is unnecessary overhead.",
-      "summary_method" : "source-extract",
-      "title" : "Jev: a “System One Model” that only decides\/classifies\/routes\/scores — >100x faster, >200x cheaper than small frontier LLMs",
-      "topics" : [
-        "AI"
       ]
     },
     {
@@ -270,14 +280,14 @@
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 5,
-    "summary" : "• Meta’s new One subscriptions put a price on social media and AI\n• AI and data centers are incredibly unpopular in every poll\n• We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+    "source_count" : 6,
+    "summary" : "• Meta’s new One subscriptions put a price on social media and AI\n• Jev: a “System One Model” that only decides\/classifies\/routes\/scores — >100x faster, >200x cheaper than small frontier LLMs\n• The sexy AI-powered dating app scams are here",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-16",
-  "generated_at" : "2026-09-16T14:04:16Z",
+  "generated_at" : "2026-09-16T16:01:29Z",
   "processing_report" : {
-    "generated_at" : "2026-09-16T14:04:21Z",
+    "generated_at" : "2026-09-16T16:01:33Z",
     "high_card_count" : 1,
     "source_reports" : [
       {
@@ -285,14 +295,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-09-11T12:13:42Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-16T14:04:21Z",
+        "processed_at" : "2026-09-16T16:01:33Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-16T14:04:19Z",
+        "processed_at" : "2026-09-16T16:01:32Z",
         "state" : "processed"
       },
       {
@@ -300,7 +310,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-16T14:04:18Z",
+        "processed_at" : "2026-09-16T16:01:30Z",
         "state" : "processed"
       },
       {
@@ -308,7 +318,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-09-10T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-16T14:04:18Z",
+        "processed_at" : "2026-09-16T16:01:31Z",
         "state" : "processed"
       },
       {
@@ -316,7 +326,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-09-14T21:04:32Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-16T14:04:18Z",
+        "processed_at" : "2026-09-16T16:01:30Z",
         "state" : "processed"
       },
       {
@@ -324,7 +334,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-15T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-16T14:04:17Z",
+        "processed_at" : "2026-09-16T16:01:29Z",
         "state" : "processed"
       },
       {
@@ -332,7 +342,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-15T17:05:57Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-16T14:04:17Z",
+        "processed_at" : "2026-09-16T16:01:30Z",
         "state" : "processed"
       },
       {
@@ -340,7 +350,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-09-15T16:00:44Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-16T14:04:17Z",
+        "processed_at" : "2026-09-16T16:01:30Z",
         "state" : "processed"
       },
       {
@@ -348,7 +358,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-09-16T11:09:53Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-16T14:04:18Z",
+        "processed_at" : "2026-09-16T16:01:31Z",
         "state" : "processed"
       },
       {
@@ -356,7 +366,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-02T06:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-16T14:04:17Z",
+        "processed_at" : "2026-09-16T16:01:30Z",
         "state" : "processed"
       },
       {
@@ -364,7 +374,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-16T12:00:00Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-16T14:04:17Z",
+        "processed_at" : "2026-09-16T16:01:30Z",
         "state" : "processed"
       },
       {
@@ -372,15 +382,15 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-08-31T00:24:35Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-16T14:04:17Z",
+        "processed_at" : "2026-09-16T16:01:30Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "openai-news",
-        "latest_article_at" : "2026-09-16T13:00:00Z",
+        "latest_article_at" : "2026-09-16T16:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-16T14:04:17Z",
+        "processed_at" : "2026-09-16T16:01:30Z",
         "state" : "processed"
       },
       {
@@ -388,7 +398,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-09-16T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-16T14:04:19Z",
+        "processed_at" : "2026-09-16T16:01:31Z",
         "state" : "processed"
       },
       {
@@ -396,23 +406,23 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-09-16T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-16T14:04:17Z",
+        "processed_at" : "2026-09-16T16:01:30Z",
         "state" : "processed"
       },
       {
-        "article_count" : 14,
+        "article_count" : 13,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-09-16T13:23:02Z",
+        "latest_article_at" : "2026-09-16T15:00:00Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-16T14:04:17Z",
+        "processed_at" : "2026-09-16T16:01:29Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 12,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-09-16T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-16T14:04:20Z",
+        "processed_at" : "2026-09-16T16:01:32Z",
         "state" : "processed"
       },
       {
@@ -420,22 +430,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-14T21:46:17Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-16T14:04:18Z",
+        "processed_at" : "2026-09-16T16:01:30Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-16T14:04:20Z",
+        "processed_at" : "2026-09-16T16:01:32Z",
         "state" : "processed"
       },
       {
         "article_count" : 9,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-09-16T12:00:00Z",
+        "latest_article_at" : "2026-09-16T14:45:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-16T14:04:17Z",
+        "processed_at" : "2026-09-16T16:01:29Z",
         "state" : "processed"
       }
     ],
