@@ -2,6 +2,29 @@
   "cards" : [
     {
       "confidence" : "medium",
+      "created_at" : "2026-09-16T16:30:00Z",
+      "id" : "2026-09-16-1b3ce4b85fbb",
+      "importance" : "high",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Anthropic merges Claude chat and Cowork in one interface",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/16\/anthropic-merges-claude-chat-and-cowork-in-one-interface\/"
+        }
+      ],
+      "summary" : "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+      "summary_method" : "source-extract",
+      "title" : "Anthropic merges Claude chat and Cowork in one interface",
+      "topics" : [
+        "Anthropic",
+        "Claude"
+      ]
+    },
+    {
+      "confidence" : "medium",
       "created_at" : "2026-09-15T15:00:00Z",
       "id" : "2026-09-16-221ae2256136",
       "importance" : "high",
@@ -56,6 +79,28 @@
       ]
     },
     {
+      "confidence" : "high",
+      "created_at" : "2026-09-16T09:00:00Z",
+      "id" : "2026-09-16-1cb59b55e8a8",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "How workers are unlocking new ways of working",
+          "url" : "https:\/\/openai.com\/index\/unlocking-new-ways-of-working"
+        }
+      ],
+      "summary" : "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+      "summary_method" : "source-extract",
+      "title" : "How workers are unlocking new ways of working",
+      "topics" : [
+        "Research"
+      ]
+    },
+    {
       "confidence" : "medium",
       "created_at" : "2026-09-16T14:45:00Z",
       "id" : "2026-09-16-523868fd6667",
@@ -101,6 +146,30 @@
     },
     {
       "confidence" : "medium",
+      "created_at" : "2026-09-16T17:00:00Z",
+      "id" : "2026-09-16-937e00fa458b",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Your AI agents can now control your Google Home devices",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/16\/your-ai-agents-can-now-control-your-google-home-devices\/"
+        }
+      ],
+      "summary" : "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
+      "summary_method" : "source-extract",
+      "title" : "Your AI agents can now control your Google Home devices",
+      "topics" : [
+        "Agents",
+        "ChatGPT",
+        "Claude"
+      ]
+    },
+    {
+      "confidence" : "medium",
       "created_at" : "2026-09-16T00:20:39Z",
       "id" : "2026-09-16-2ea5135578ce",
       "importance" : "medium",
@@ -141,28 +210,6 @@
       "title" : "The AI graveyard: a running list of projects and startups that didn’t make it",
       "topics" : [
         "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-15T17:05:24Z",
-      "id" : "2026-09-16-4c6a1f6f2f28",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Meta expands subscription push with new AI-focused plans",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/15\/meta-expands-subscription-push-with-new-ai-focused-plans\/"
-        }
-      ],
-      "summary" : "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
-      "summary_method" : "source-extract",
-      "title" : "Meta expands subscription push with new AI-focused plans",
-      "topics" : [
-        "Tooling"
       ]
     },
     {
@@ -230,79 +277,34 @@
       "topics" : [
         "Safety"
       ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-14T20:03:37Z",
-      "id" : "2026-09-16-e260a7c71226",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
-          "url" : "https:\/\/www.theverge.com\/tech\/995079\/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit"
-        }
-      ],
-      "summary" : "(Photo by Matt RAMEY \/ AFP via Getty Images) | AFP via Getty Images Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a big crowd.",
-      "summary_method" : "source-extract",
-      "title" : "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
-      "topics" : [
-        "Image Models",
-        "Robotics"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-14T19:28:42Z",
-      "id" : "2026-09-16-d2b20a54603c",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Ars Technica AI",
-          "title" : "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
-          "url" : "https:\/\/arstechnica.com\/apple\/2026\/09\/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements\/"
-        }
-      ],
-      "summary" : "As previously announced, Apple has today released 2026's major annual updates for its operating systems, including iOS 27, macOS 27 Golden Gate, watchOS 27, visionOS 27, and tvOS 27. Siri AI—a large language model-based and context-aware overhaul of the company's Siri voice and text assistant—is the flagship feature across all these releases except one (tvOS).",
-      "summary_method" : "source-extract",
-      "title" : "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
-      "topics" : [
-        "AI"
-      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 6,
-    "summary" : "• Meta’s new One subscriptions put a price on social media and AI\n• Jev: a “System One Model” that only decides\/classifies\/routes\/scores — >100x faster, >200x cheaper than small frontier LLMs\n• The sexy AI-powered dating app scams are here",
+    "summary" : "• Anthropic merges Claude chat and Cowork in one interface\n• Meta’s new One subscriptions put a price on social media and AI\n• Jev: a “System One Model” that only decides\/classifies\/routes\/scores — >100x faster, >200x cheaper than small frontier LLMs",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-16",
-  "generated_at" : "2026-09-16T16:01:29Z",
+  "generated_at" : "2026-09-16T18:03:46Z",
   "processing_report" : {
-    "generated_at" : "2026-09-16T16:01:33Z",
-    "high_card_count" : 1,
+    "generated_at" : "2026-09-16T18:03:50Z",
+    "high_card_count" : 2,
     "source_reports" : [
       {
-        "article_count" : 11,
+        "article_count" : 10,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-09-11T12:13:42Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-16T16:01:33Z",
+        "processed_at" : "2026-09-16T18:03:50Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-16T16:01:32Z",
+        "processed_at" : "2026-09-16T18:03:49Z",
         "state" : "processed"
       },
       {
@@ -310,15 +312,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-16T16:01:30Z",
+        "processed_at" : "2026-09-16T18:03:47Z",
         "state" : "processed"
       },
       {
-        "article_count" : 4,
+        "article_count" : 3,
         "id" : "aireport-nl",
         "latest_article_at" : "2026-09-10T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-16T16:01:31Z",
+        "processed_at" : "2026-09-16T18:03:48Z",
         "state" : "processed"
       },
       {
@@ -326,7 +328,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-09-14T21:04:32Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-16T16:01:30Z",
+        "processed_at" : "2026-09-16T18:03:47Z",
         "state" : "processed"
       },
       {
@@ -334,7 +336,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-15T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-16T16:01:29Z",
+        "processed_at" : "2026-09-16T18:03:46Z",
         "state" : "processed"
       },
       {
@@ -342,7 +344,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-15T17:05:57Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-16T16:01:30Z",
+        "processed_at" : "2026-09-16T18:03:47Z",
         "state" : "processed"
       },
       {
@@ -350,7 +352,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-09-15T16:00:44Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-16T16:01:30Z",
+        "processed_at" : "2026-09-16T18:03:47Z",
         "state" : "processed"
       },
       {
@@ -358,7 +360,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-09-16T11:09:53Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-16T16:01:31Z",
+        "processed_at" : "2026-09-16T18:03:47Z",
         "state" : "processed"
       },
       {
@@ -366,7 +368,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-02T06:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-16T16:01:30Z",
+        "processed_at" : "2026-09-16T18:03:47Z",
         "state" : "processed"
       },
       {
@@ -374,7 +376,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-16T12:00:00Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-16T16:01:30Z",
+        "processed_at" : "2026-09-16T18:03:47Z",
         "state" : "processed"
       },
       {
@@ -382,7 +384,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-08-31T00:24:35Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-16T16:01:30Z",
+        "processed_at" : "2026-09-16T18:03:47Z",
         "state" : "processed"
       },
       {
@@ -390,7 +392,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-09-16T16:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-16T16:01:30Z",
+        "processed_at" : "2026-09-16T18:03:48Z",
         "state" : "processed"
       },
       {
@@ -398,7 +400,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-09-16T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-16T16:01:31Z",
+        "processed_at" : "2026-09-16T18:03:49Z",
         "state" : "processed"
       },
       {
@@ -406,23 +408,23 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-09-16T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-16T16:01:30Z",
+        "processed_at" : "2026-09-16T18:03:46Z",
         "state" : "processed"
       },
       {
-        "article_count" : 13,
+        "article_count" : 14,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-09-16T15:00:00Z",
+        "latest_article_at" : "2026-09-16T17:00:00Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-16T16:01:29Z",
+        "processed_at" : "2026-09-16T18:03:46Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 11,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-09-16T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-16T16:01:32Z",
+        "processed_at" : "2026-09-16T18:03:50Z",
         "state" : "processed"
       },
       {
@@ -430,22 +432,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-14T21:46:17Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-16T16:01:30Z",
+        "processed_at" : "2026-09-16T18:03:47Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 10,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-16T16:01:32Z",
+        "processed_at" : "2026-09-16T18:03:50Z",
         "state" : "processed"
       },
       {
         "article_count" : 9,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-09-16T14:45:00Z",
+        "latest_article_at" : "2026-09-16T17:20:29Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-16T16:01:29Z",
+        "processed_at" : "2026-09-16T18:03:46Z",
         "state" : "processed"
       }
     ],
