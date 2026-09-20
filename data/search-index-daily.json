@@ -73,6 +73,42 @@
       ]
     },
     {
+      "confidence" : "high",
+      "date" : "2026-09-20",
+      "id" : "2026-09-20-78d2efa707db",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Introducing the Australian Youth Safety Blueprint",
+          "url" : "https:\/\/openai.com\/index\/australian-youth-safety-blueprint"
+        }
+      ],
+      "summary" : "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+      "title" : "Introducing the Australian Youth Safety Blueprint",
+      "topics" : [
+        "Safety"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-09-20",
+      "id" : "2026-09-20-91f174d3d26b",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "Google AI Blog",
+          "title" : "New experts join Google’s AI & Economy team",
+          "url" : "https:\/\/blog.google\/innovation-and-ai\/technology\/ai\/expanding-ai-economy-research-bench\/"
+        }
+      ],
+      "summary" : "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
+      "title" : "New experts join Google’s AI & Economy team",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
       "confidence" : "medium",
       "date" : "2026-09-20",
       "id" : "2026-09-20-39b2f95baff1",
@@ -110,6 +146,42 @@
       ]
     },
     {
+      "confidence" : "medium",
+      "date" : "2026-09-20",
+      "id" : "2026-09-20-6378750e1252",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Here are 6 Clones of Jev in 2 days",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-here-are-6-clones-of-jev-in"
+        }
+      ],
+      "summary" : "Open reproductions and ecosystem clones appeared immediately : @madiator released Bespoke Nimble , an “open Jev” recipe built from a LoRA fine-tune of Qwen3.5-9B using synthetic contrastive data curation and constrained decoding. On its curated eval, the base Qwen improved from 66% to 90% , versus 93% for Jev , with a reported 100ms on H100 and local usability.",
+      "title" : "Here are 6 Clones of Jev in 2 days",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-09-20",
+      "id" : "2026-09-20-c62e6044e878",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "Google AI Blog",
+          "title" : "Making global data easier to explore",
+          "url" : "https:\/\/blog.google\/innovation-and-ai\/technology\/ai\/google-un-data-commons-platform\/"
+        }
+      ],
+      "summary" : "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+      "title" : "Making global data easier to explore",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
       "confidence" : "high",
       "date" : "2026-09-20",
       "id" : "2026-09-20-b9abbac2578a",
@@ -124,12 +196,19 @@
           "source_name" : "The Verge AI",
           "title" : "Gemini went rogue, hacked three companies, and Google hid it",
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/997795\/google-gemini-rogue-ai-hack"
+        },
+        {
+          "source_name" : "Latent Space",
+          "title" : "not much happened today",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-not-much-happened-today-612"
         }
       ],
       "summary" : "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company.",
       "title" : "Gemini went rogue, hacked three companies, and Google hid it",
       "topics" : [
-        "Gemini"
+        "Gemini",
+        "Agents",
+        "Anthropic"
       ]
     },
     {
@@ -146,78 +225,6 @@
       ],
       "summary" : "Let me give you my interpretation from the most generous to the most cynical, neither of which, TL;DR, should result in any sort of antitrust exemption.",
       "title" : "Does AI need an antitrust exemption so it doesn’t kill everyone????",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-09-20",
-      "id" : "2026-09-20-06845ded7eff",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "The AI regulation smackdown isn’t over",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/997706\/the-ai-regulation-smackdown-isnt-over"
-        }
-      ],
-      "summary" : "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation.",
-      "title" : "The AI regulation smackdown isn’t over",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-09-20",
-      "id" : "2026-09-20-3669e2b69579",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/19\/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force\/"
-        }
-      ],
-      "summary" : "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
-      "title" : "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-09-20",
-      "id" : "2026-09-20-5f31d159969d",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/19\/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes\/"
-        }
-      ],
-      "summary" : "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
-      "title" : "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-09-20",
-      "id" : "2026-09-20-5ecf977ec299",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/19\/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking\/"
-        }
-      ],
-      "summary" : "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
-      "title" : "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
       "topics" : [
         "AI"
       ]

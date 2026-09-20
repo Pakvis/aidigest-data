@@ -89,6 +89,50 @@
       ]
     },
     {
+      "confidence" : "high",
+      "created_at" : "2026-09-18T12:00:00Z",
+      "id" : "2026-09-20-78d2efa707db",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Introducing the Australian Youth Safety Blueprint",
+          "url" : "https:\/\/openai.com\/index\/australian-youth-safety-blueprint"
+        }
+      ],
+      "summary" : "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+      "summary_method" : "source-extract",
+      "title" : "Introducing the Australian Youth Safety Blueprint",
+      "topics" : [
+        "Safety"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-09-18T14:00:00Z",
+      "id" : "2026-09-20-91f174d3d26b",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Google AI Blog",
+          "title" : "New experts join Google’s AI & Economy team",
+          "url" : "https:\/\/blog.google\/innovation-and-ai\/technology\/ai\/expanding-ai-economy-research-bench\/"
+        }
+      ],
+      "summary" : "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
+      "summary_method" : "source-extract",
+      "title" : "New experts join Google’s AI & Economy team",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
       "confidence" : "medium",
       "created_at" : "2026-09-18T15:30:16Z",
       "id" : "2026-09-20-39b2f95baff1",
@@ -134,12 +178,56 @@
       ]
     },
     {
+      "confidence" : "medium",
+      "created_at" : "2026-09-19T05:48:28Z",
+      "id" : "2026-09-20-6378750e1252",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Here are 6 Clones of Jev in 2 days",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-here-are-6-clones-of-jev-in"
+        }
+      ],
+      "summary" : "Open reproductions and ecosystem clones appeared immediately : @madiator released Bespoke Nimble , an “open Jev” recipe built from a LoRA fine-tune of Qwen3.5-9B using synthetic contrastive data curation and constrained decoding. On its curated eval, the base Qwen improved from 66% to 90% , versus 93% for Jev , with a reported 100ms on H100 and local usability.",
+      "summary_method" : "source-extract",
+      "title" : "Here are 6 Clones of Jev in 2 days",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-09-17T20:00:00Z",
+      "id" : "2026-09-20-c62e6044e878",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Google AI Blog",
+          "title" : "Making global data easier to explore",
+          "url" : "https:\/\/blog.google\/innovation-and-ai\/technology\/ai\/google-un-data-commons-platform\/"
+        }
+      ],
+      "summary" : "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+      "summary_method" : "source-extract",
+      "title" : "Making global data easier to explore",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
       "confidence" : "high",
       "consolidation" : {
         "latest_source_at" : "2026-09-19T17:30:00Z",
-        "message_count" : 2,
+        "message_count" : 3,
         "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
+        "source_count" : 3
       },
       "created_at" : "2026-09-19T17:30:00Z",
       "id" : "2026-09-20-b9abbac2578a",
@@ -157,13 +245,20 @@
           "source_name" : "The Verge AI",
           "title" : "Gemini went rogue, hacked three companies, and Google hid it",
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/997795\/google-gemini-rogue-ai-hack"
+        },
+        {
+          "source_name" : "Latent Space",
+          "title" : "not much happened today",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-not-much-happened-today-612"
         }
       ],
       "summary" : "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company.",
       "summary_method" : "source-extract",
       "title" : "Gemini went rogue, hacked three companies, and Google hid it",
       "topics" : [
-        "Gemini"
+        "Gemini",
+        "Agents",
+        "Anthropic"
       ]
     },
     {
@@ -187,115 +282,130 @@
       "topics" : [
         "AI"
       ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-19T13:00:00Z",
-      "id" : "2026-09-20-06845ded7eff",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "The AI regulation smackdown isn’t over",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/997706\/the-ai-regulation-smackdown-isnt-over"
-        }
-      ],
-      "summary" : "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation.",
-      "summary_method" : "source-extract",
-      "title" : "The AI regulation smackdown isn’t over",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-19T19:57:47Z",
-      "id" : "2026-09-20-3669e2b69579",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/19\/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force\/"
-        }
-      ],
-      "summary" : "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
-      "summary_method" : "source-extract",
-      "title" : "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-19T15:00:00Z",
-      "id" : "2026-09-20-5f31d159969d",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/19\/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes\/"
-        }
-      ],
-      "summary" : "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
-      "summary_method" : "source-extract",
-      "title" : "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-19T13:00:00Z",
-      "id" : "2026-09-20-5ecf977ec299",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/19\/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking\/"
-        }
-      ],
-      "summary" : "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
-      "summary_method" : "source-extract",
-      "title" : "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-      "topics" : [
-        "AI"
-      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 2,
+    "source_count" : 5,
     "summary" : "• Virginia governor creates an AI task force and moves to restrain data centers\n• Gavin Newsom is pushing for an AI kill switch\n• Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-20",
-  "generated_at" : "2026-09-20T06:04:59Z",
+  "generated_at" : "2026-09-20T08:02:41Z",
   "processing_report" : {
-    "generated_at" : "2026-09-20T06:05:11Z",
+    "generated_at" : "2026-09-20T08:02:46Z",
     "high_card_count" : 3,
     "source_reports" : [
+      {
+        "article_count" : 11,
+        "id" : "ai-breakfast",
+        "latest_article_at" : "2026-09-19T00:40:58Z",
+        "name" : "AI Breakfast",
+        "processed_at" : "2026-09-20T08:02:46Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 11,
+        "id" : "ai-daily-brief",
+        "name" : "AI Daily Brief",
+        "processed_at" : "2026-09-20T08:02:44Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 80,
+        "id" : "ai-news",
+        "latest_article_at" : "2026-09-09T05:44:39Z",
+        "name" : "AI News (Swyx)",
+        "processed_at" : "2026-09-20T08:02:43Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 4,
+        "id" : "aireport-nl",
+        "latest_article_at" : "2026-09-19T09:00:00Z",
+        "name" : "AI Report (NL)",
+        "processed_at" : "2026-09-20T08:02:44Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 19,
+        "id" : "ars-technica-ai",
+        "latest_article_at" : "2026-09-18T20:26:33Z",
+        "name" : "Ars Technica AI",
+        "processed_at" : "2026-09-20T08:02:43Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 20,
+        "id" : "google-ai-blog",
+        "latest_article_at" : "2026-09-18T14:00:00Z",
+        "name" : "Google AI Blog",
+        "processed_at" : "2026-09-20T08:02:42Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 80,
+        "id" : "deepmind-blog",
+        "latest_article_at" : "2026-09-15T17:05:57Z",
+        "name" : "Google DeepMind",
+        "processed_at" : "2026-09-20T08:02:43Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 80,
+        "id" : "huggingface-blog",
+        "latest_article_at" : "2026-09-15T16:00:44Z",
+        "name" : "Hugging Face Blog",
+        "processed_at" : "2026-09-20T08:02:43Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 20,
+        "id" : "latent-space",
+        "latest_article_at" : "2026-09-19T05:48:28Z",
+        "name" : "Latent Space",
+        "processed_at" : "2026-09-20T08:02:44Z",
+        "state" : "processed"
+      },
       {
         "article_count" : 10,
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-17T14:00:05Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-20T06:05:10Z",
+        "processed_at" : "2026-09-20T08:02:42Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 80,
+        "id" : "mistral-news",
+        "latest_article_at" : "2026-09-16T12:00:00Z",
+        "name" : "Mistral AI",
+        "processed_at" : "2026-09-20T08:02:43Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 20,
+        "id" : "one-useful-thing",
+        "latest_article_at" : "2026-09-18T17:54:32Z",
+        "name" : "One Useful Thing",
+        "processed_at" : "2026-09-20T08:02:42Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 80,
+        "id" : "openai-news",
+        "latest_article_at" : "2026-09-18T12:00:00Z",
+        "name" : "OpenAI News",
+        "processed_at" : "2026-09-20T08:02:42Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 7,
+        "id" : "superhuman-ai",
+        "latest_article_at" : "2026-09-19T14:00:00Z",
+        "name" : "Superhuman AI",
+        "processed_at" : "2026-09-20T08:02:44Z",
         "state" : "processed"
       },
       {
@@ -303,7 +413,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-09-17T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-20T06:05:08Z",
+        "processed_at" : "2026-09-20T08:02:42Z",
         "state" : "processed"
       },
       {
@@ -311,7 +421,30 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-09-19T19:57:47Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-20T06:05:10Z",
+        "processed_at" : "2026-09-20T08:02:42Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 12,
+        "id" : "the-ai-report",
+        "latest_article_at" : "2026-09-18T11:01:00Z",
+        "name" : "The AI Report",
+        "processed_at" : "2026-09-20T08:02:45Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 20,
+        "id" : "algorithmic-bridge",
+        "latest_article_at" : "2026-09-14T21:46:17Z",
+        "name" : "The Algorithmic Bridge",
+        "processed_at" : "2026-09-20T08:02:43Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 11,
+        "id" : "the-neuron-daily",
+        "name" : "The Neuron Daily",
+        "processed_at" : "2026-09-20T08:02:44Z",
         "state" : "processed"
       },
       {
@@ -319,138 +452,10 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-09-19T15:25:03Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-20T06:05:11Z",
+        "processed_at" : "2026-09-20T08:02:42Z",
         "state" : "processed"
-      },
-      {
-        "article_count" : 0,
-        "id" : "ai-breakfast",
-        "message" : "Did not finish before the startup source budget.",
-        "name" : "AI Breakfast",
-        "processed_at" : "2026-09-20T06:05:11Z",
-        "state" : "timedOut"
-      },
-      {
-        "article_count" : 0,
-        "id" : "ai-daily-brief",
-        "message" : "Did not finish before the startup source budget.",
-        "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-20T06:05:11Z",
-        "state" : "timedOut"
-      },
-      {
-        "article_count" : 0,
-        "id" : "ai-news",
-        "message" : "Did not finish before the startup source budget.",
-        "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-20T06:05:11Z",
-        "state" : "timedOut"
-      },
-      {
-        "article_count" : 0,
-        "id" : "aireport-nl",
-        "message" : "Did not finish before the startup source budget.",
-        "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-20T06:05:11Z",
-        "state" : "timedOut"
-      },
-      {
-        "article_count" : 0,
-        "id" : "ars-technica-ai",
-        "message" : "Did not finish before the startup source budget.",
-        "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-20T06:05:11Z",
-        "state" : "timedOut"
-      },
-      {
-        "article_count" : 0,
-        "id" : "google-ai-blog",
-        "message" : "Did not finish before the startup source budget.",
-        "name" : "Google AI Blog",
-        "processed_at" : "2026-09-20T06:05:11Z",
-        "state" : "timedOut"
-      },
-      {
-        "article_count" : 0,
-        "id" : "deepmind-blog",
-        "message" : "Did not finish before the startup source budget.",
-        "name" : "Google DeepMind",
-        "processed_at" : "2026-09-20T06:05:11Z",
-        "state" : "timedOut"
-      },
-      {
-        "article_count" : 0,
-        "id" : "huggingface-blog",
-        "message" : "Did not finish before the startup source budget.",
-        "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-20T06:05:11Z",
-        "state" : "timedOut"
-      },
-      {
-        "article_count" : 0,
-        "id" : "latent-space",
-        "message" : "Did not finish before the startup source budget.",
-        "name" : "Latent Space",
-        "processed_at" : "2026-09-20T06:05:11Z",
-        "state" : "timedOut"
-      },
-      {
-        "article_count" : 0,
-        "id" : "mistral-news",
-        "message" : "Did not finish before the startup source budget.",
-        "name" : "Mistral AI",
-        "processed_at" : "2026-09-20T06:05:11Z",
-        "state" : "timedOut"
-      },
-      {
-        "article_count" : 0,
-        "id" : "one-useful-thing",
-        "message" : "Did not finish before the startup source budget.",
-        "name" : "One Useful Thing",
-        "processed_at" : "2026-09-20T06:05:11Z",
-        "state" : "timedOut"
-      },
-      {
-        "article_count" : 0,
-        "id" : "openai-news",
-        "message" : "Did not finish before the startup source budget.",
-        "name" : "OpenAI News",
-        "processed_at" : "2026-09-20T06:05:11Z",
-        "state" : "timedOut"
-      },
-      {
-        "article_count" : 0,
-        "id" : "superhuman-ai",
-        "message" : "Did not finish before the startup source budget.",
-        "name" : "Superhuman AI",
-        "processed_at" : "2026-09-20T06:05:11Z",
-        "state" : "timedOut"
-      },
-      {
-        "article_count" : 0,
-        "id" : "the-ai-report",
-        "message" : "Did not finish before the startup source budget.",
-        "name" : "The AI Report",
-        "processed_at" : "2026-09-20T06:05:11Z",
-        "state" : "timedOut"
-      },
-      {
-        "article_count" : 0,
-        "id" : "algorithmic-bridge",
-        "message" : "Did not finish before the startup source budget.",
-        "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-20T06:05:11Z",
-        "state" : "timedOut"
-      },
-      {
-        "article_count" : 0,
-        "id" : "the-neuron-daily",
-        "message" : "Did not finish before the startup source budget.",
-        "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-20T06:05:11Z",
-        "state" : "timedOut"
       }
     ],
-    "state" : "timedOut"
+    "state" : "complete"
   }
 }
