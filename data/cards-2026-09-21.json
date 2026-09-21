@@ -67,28 +67,6 @@
       ]
     },
     {
-      "confidence" : "medium",
-      "created_at" : "2026-09-19T05:48:28Z",
-      "id" : "2026-09-21-6b5a93d25e00",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "Here are 6 Clones of Jev in 2 days",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-here-are-6-clones-of-jev-in"
-        }
-      ],
-      "summary" : "Open reproductions and ecosystem clones appeared immediately : @madiator released Bespoke Nimble , an “open Jev” recipe built from a LoRA fine-tune of Qwen3.5-9B using synthetic contrastive data curation and constrained decoding. On its curated eval, the base Qwen improved from 66% to 90% , versus 93% for Jev , with a reported 100ms on H100 and local usability.",
-      "summary_method" : "source-extract",
-      "title" : "Here are 6 Clones of Jev in 2 days",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
       "confidence" : "high",
       "created_at" : "2026-09-18T12:00:00Z",
       "id" : "2026-09-21-c20baa197ea9",
@@ -128,6 +106,28 @@
       "summary" : "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
       "summary_method" : "source-extract",
       "title" : "New experts join Google’s AI & Economy team",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-19T05:48:28Z",
+      "id" : "2026-09-21-6b5a93d25e00",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Here are 6 Clones of Jev in 2 days",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-here-are-6-clones-of-jev-in"
+        }
+      ],
+      "summary" : "Open reproductions and ecosystem clones appeared immediately : @madiator released Bespoke Nimble , an “open Jev” recipe built from a LoRA fine-tune of Qwen3.5-9B using synthetic contrastive data curation and constrained decoding. On its curated eval, the base Qwen improved from 66% to 90% , versus 93% for Jev , with a reported 100ms on H100 and local usability.",
+      "summary_method" : "source-extract",
+      "title" : "Here are 6 Clones of Jev in 2 days",
       "topics" : [
         "AI"
       ]
@@ -291,24 +291,24 @@
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-21",
-  "generated_at" : "2026-09-21T04:00:27Z",
+  "generated_at" : "2026-09-21T06:02:12Z",
   "processing_report" : {
-    "generated_at" : "2026-09-21T04:00:33Z",
+    "generated_at" : "2026-09-21T06:02:17Z",
     "high_card_count" : 2,
     "source_reports" : [
       {
-        "article_count" : 10,
+        "article_count" : 9,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-09-19T00:40:58Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-21T04:00:33Z",
+        "processed_at" : "2026-09-21T06:02:17Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-21T04:00:30Z",
+        "processed_at" : "2026-09-21T06:02:15Z",
         "state" : "processed"
       },
       {
@@ -316,15 +316,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-21T04:00:28Z",
+        "processed_at" : "2026-09-21T06:02:13Z",
         "state" : "processed"
       },
       {
         "article_count" : 3,
         "id" : "aireport-nl",
-        "latest_article_at" : "2026-09-10T10:00:00Z",
+        "latest_article_at" : "2026-09-19T09:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-21T04:00:29Z",
+        "processed_at" : "2026-09-21T06:02:15Z",
         "state" : "processed"
       },
       {
@@ -332,7 +332,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-09-18T20:26:33Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-21T04:00:28Z",
+        "processed_at" : "2026-09-21T06:02:13Z",
         "state" : "processed"
       },
       {
@@ -340,7 +340,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-18T14:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-21T04:00:28Z",
+        "processed_at" : "2026-09-21T06:02:13Z",
         "state" : "processed"
       },
       {
@@ -348,7 +348,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-15T17:05:57Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-21T04:00:28Z",
+        "processed_at" : "2026-09-21T06:02:13Z",
         "state" : "processed"
       },
       {
@@ -356,7 +356,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-09-15T16:00:44Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-21T04:00:28Z",
+        "processed_at" : "2026-09-21T06:02:13Z",
         "state" : "processed"
       },
       {
@@ -364,7 +364,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-09-19T05:48:28Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-21T04:00:29Z",
+        "processed_at" : "2026-09-21T06:02:14Z",
         "state" : "processed"
       },
       {
@@ -372,7 +372,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-17T14:00:05Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-21T04:00:28Z",
+        "processed_at" : "2026-09-21T06:02:13Z",
         "state" : "processed"
       },
       {
@@ -380,7 +380,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-16T12:00:00Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-21T04:00:28Z",
+        "processed_at" : "2026-09-21T06:02:13Z",
         "state" : "processed"
       },
       {
@@ -388,7 +388,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-09-18T17:54:32Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-21T04:00:28Z",
+        "processed_at" : "2026-09-21T06:02:13Z",
         "state" : "processed"
       },
       {
@@ -396,7 +396,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-09-18T12:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-21T04:00:28Z",
+        "processed_at" : "2026-09-21T06:02:13Z",
         "state" : "processed"
       },
       {
@@ -404,7 +404,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-09-19T14:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-21T04:00:30Z",
+        "processed_at" : "2026-09-21T06:02:15Z",
         "state" : "processed"
       },
       {
@@ -412,7 +412,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-09-17T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-21T04:00:28Z",
+        "processed_at" : "2026-09-21T06:02:13Z",
         "state" : "processed"
       },
       {
@@ -420,15 +420,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-09-20T20:29:07Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-21T04:00:27Z",
+        "processed_at" : "2026-09-21T06:02:13Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 10,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-09-18T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-21T04:00:31Z",
+        "processed_at" : "2026-09-21T06:02:16Z",
         "state" : "processed"
       },
       {
@@ -436,14 +436,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-14T21:46:17Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-21T04:00:28Z",
+        "processed_at" : "2026-09-21T06:02:13Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-21T04:00:30Z",
+        "processed_at" : "2026-09-21T06:02:16Z",
         "state" : "processed"
       },
       {
@@ -451,7 +451,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-09-20T18:50:18Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-21T04:00:28Z",
+        "processed_at" : "2026-09-21T06:02:13Z",
         "state" : "processed"
       }
     ],
