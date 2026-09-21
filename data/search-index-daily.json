@@ -19,24 +19,6 @@
       ]
     },
     {
-      "confidence" : "high",
-      "date" : "2026-09-21",
-      "id" : "2026-09-21-825c50fe2574",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "Google AI Blog",
-          "title" : "New experts join Google’s AI & Economy team",
-          "url" : "https:\/\/blog.google\/innovation-and-ai\/technology\/ai\/expanding-ai-economy-research-bench\/"
-        }
-      ],
-      "summary" : "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
-      "title" : "New experts join Google’s AI & Economy team",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
       "confidence" : "medium",
       "date" : "2026-09-21",
       "id" : "2026-09-21-6b5a93d25e00",
@@ -55,19 +37,84 @@
       ]
     },
     {
+      "confidence" : "high",
+      "date" : "2026-09-21",
+      "id" : "2026-09-21-41ab9eb37e48",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "TLDR AI",
+          "title" : "Muse connectors 🤖, Meta SAM 3.1 🖼️, Gemini hacks companies 🔓",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-09-21"
+        },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Google’s Gemini is the latest AI model to hack other companies",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/19\/googles-gemini-is-the-latest-ai-model-to-hack-other-companies\/"
+        },
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Gemini went rogue, hacked three companies, and Google hid it",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/997795\/google-gemini-rogue-ai-hack"
+        }
+      ],
+      "summary" : "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company.",
+      "title" : "Gemini went rogue, hacked three companies, and Google hid it",
+      "topics" : [
+        "Gemini"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-09-21",
+      "id" : "2026-09-21-5623b73b7f39",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "How V7 gives AI agents institutional memory",
+          "url" : "https:\/\/openai.com\/index\/v7"
+        }
+      ],
+      "summary" : "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "title" : "How V7 gives AI agents institutional memory",
+      "topics" : [
+        "Agents",
+        "GPT"
+      ]
+    },
+    {
       "confidence" : "medium",
       "date" : "2026-09-21",
-      "id" : "2026-09-21-c03b9e1fa6ce",
+      "id" : "2026-09-21-e64305b41298",
       "importance" : "low",
       "sources" : [
         {
           "source_name" : "The Verge AI",
-          "title" : "Amazon doesn’t trust Meta’s Muse AI agent",
+          "title" : "iPhone owners can now submit a claim in Apple’s $250 million Siri AI lawsuit",
+          "url" : "https:\/\/www.theverge.com\/tech\/998191\/apple-siri-ai-iphone-16-class-action-lawsuit-settlement"
+        }
+      ],
+      "summary" : "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 model between June 10th, 2024, and March 29th, 2025, you can file a claim on the settlement's website , as reported earlier by MacRumors .",
+      "title" : "iPhone owners can now submit a claim in Apple’s $250 million Siri AI lawsuit",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-09-21",
+      "id" : "2026-09-21-e826a336fa1a",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Amazon blocks Meta’s Muse AI agent",
           "url" : "https:\/\/www.theverge.com\/tech\/998078\/amazon-blocks-meta-muse-ai-agent-shopping"
         }
       ],
       "summary" : "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" According to GeekWire , Meta didn't notify Amazon that Muse would access its store.",
-      "title" : "Amazon doesn’t trust Meta’s Muse AI agent",
+      "title" : "Amazon blocks Meta’s Muse AI agent",
       "topics" : [
         "Agents"
       ]
@@ -138,33 +185,10 @@
           "url" : "https:\/\/techcrunch.com\/2026\/09\/20\/is-the-ai-industry-really-ready-to-slow-down\/"
         }
       ],
-      "summary" : "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+      "summary" : "On Equity, we debated whether AI executives are serious about wanting to slow down.",
       "title" : "Is the AI industry really ready to slow down?",
       "topics" : [
         "AI"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "date" : "2026-09-21",
-      "id" : "2026-09-21-41ab9eb37e48",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Google’s Gemini is the latest AI model to hack other companies",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/19\/googles-gemini-is-the-latest-ai-model-to-hack-other-companies\/"
-        },
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Gemini went rogue, hacked three companies, and Google hid it",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/997795\/google-gemini-rogue-ai-hack"
-        }
-      ],
-      "summary" : "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company.",
-      "title" : "Gemini went rogue, hacked three companies, and Google hid it",
-      "topics" : [
-        "Gemini"
       ]
     },
     {
@@ -188,35 +212,17 @@
     {
       "confidence" : "medium",
       "date" : "2026-09-21",
-      "id" : "2026-09-21-e913547183cf",
+      "id" : "2026-09-21-ac7c230f4ef1",
       "importance" : "low",
       "sources" : [
         {
-          "source_name" : "The Verge AI",
-          "title" : "Does AI need an antitrust exemption so it doesn’t kill everyone????",
-          "url" : "https:\/\/www.theverge.com\/podcast\/997382\/openai-microsoft-anthropic-elon-musk-cartel-ai-competition"
+          "source_name" : "TechCrunch AI",
+          "title" : "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/19\/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force\/"
         }
       ],
-      "summary" : "Let me give you my interpretation from the most generous to the most cynical, neither of which, TL;DR, should result in any sort of antitrust exemption.",
-      "title" : "Does AI need an antitrust exemption so it doesn’t kill everyone????",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-09-21",
-      "id" : "2026-09-21-e84cdc83320a",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "The AI regulation smackdown isn’t over",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/997706\/the-ai-regulation-smackdown-isnt-over"
-        }
-      ],
-      "summary" : "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation.",
-      "title" : "The AI regulation smackdown isn’t over",
+      "summary" : "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+      "title" : "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
       "topics" : [
         "AI"
       ]

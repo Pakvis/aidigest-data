@@ -23,28 +23,6 @@
       ]
     },
     {
-      "confidence" : "high",
-      "created_at" : "2026-09-18T14:00:00Z",
-      "id" : "2026-09-21-825c50fe2574",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Google AI Blog",
-          "title" : "New experts join Google’s AI & Economy team",
-          "url" : "https:\/\/blog.google\/innovation-and-ai\/technology\/ai\/expanding-ai-economy-research-bench\/"
-        }
-      ],
-      "summary" : "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
-      "summary_method" : "source-extract",
-      "title" : "New experts join Google’s AI & Economy team",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
       "confidence" : "medium",
       "created_at" : "2026-09-19T05:48:28Z",
       "id" : "2026-09-21-6b5a93d25e00",
@@ -67,9 +45,70 @@
       ]
     },
     {
+      "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-09-21T00:00:00Z",
+        "message_count" : 3,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 3
+      },
+      "created_at" : "2026-09-21T00:00:00Z",
+      "id" : "2026-09-21-41ab9eb37e48",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TLDR AI",
+          "title" : "Muse connectors 🤖, Meta SAM 3.1 🖼️, Gemini hacks companies 🔓",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-09-21"
+        },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Google’s Gemini is the latest AI model to hack other companies",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/19\/googles-gemini-is-the-latest-ai-model-to-hack-other-companies\/"
+        },
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Gemini went rogue, hacked three companies, and Google hid it",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/997795\/google-gemini-rogue-ai-hack"
+        }
+      ],
+      "summary" : "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company.",
+      "summary_method" : "source-extract",
+      "title" : "Gemini went rogue, hacked three companies, and Google hid it",
+      "topics" : [
+        "Gemini"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-09-21T00:00:00Z",
+      "id" : "2026-09-21-5623b73b7f39",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "How V7 gives AI agents institutional memory",
+          "url" : "https:\/\/openai.com\/index\/v7"
+        }
+      ],
+      "summary" : "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "summary_method" : "source-extract",
+      "title" : "How V7 gives AI agents institutional memory",
+      "topics" : [
+        "Agents",
+        "GPT"
+      ]
+    },
+    {
       "confidence" : "medium",
-      "created_at" : "2026-09-21T09:21:47Z",
-      "id" : "2026-09-21-c03b9e1fa6ce",
+      "created_at" : "2026-09-21T13:36:52Z",
+      "id" : "2026-09-21-e64305b41298",
       "importance" : "low",
       "key_insights" : [
 
@@ -77,13 +116,35 @@
       "sources" : [
         {
           "source_name" : "The Verge AI",
-          "title" : "Amazon doesn’t trust Meta’s Muse AI agent",
+          "title" : "iPhone owners can now submit a claim in Apple’s $250 million Siri AI lawsuit",
+          "url" : "https:\/\/www.theverge.com\/tech\/998191\/apple-siri-ai-iphone-16-class-action-lawsuit-settlement"
+        }
+      ],
+      "summary" : "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 model between June 10th, 2024, and March 29th, 2025, you can file a claim on the settlement's website , as reported earlier by MacRumors .",
+      "summary_method" : "source-extract",
+      "title" : "iPhone owners can now submit a claim in Apple’s $250 million Siri AI lawsuit",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-21T09:21:47Z",
+      "id" : "2026-09-21-e826a336fa1a",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Amazon blocks Meta’s Muse AI agent",
           "url" : "https:\/\/www.theverge.com\/tech\/998078\/amazon-blocks-meta-muse-ai-agent-shopping"
         }
       ],
       "summary" : "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" According to GeekWire , Meta didn't notify Amazon that Muse would access its store.",
       "summary_method" : "source-extract",
-      "title" : "Amazon doesn’t trust Meta’s Muse AI agent",
+      "title" : "Amazon blocks Meta’s Muse AI agent",
       "topics" : [
         "Agents"
       ]
@@ -169,44 +230,11 @@
           "url" : "https:\/\/techcrunch.com\/2026\/09\/20\/is-the-ai-industry-really-ready-to-slow-down\/"
         }
       ],
-      "summary" : "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+      "summary" : "On Equity, we debated whether AI executives are serious about wanting to slow down.",
       "summary_method" : "source-extract",
       "title" : "Is the AI industry really ready to slow down?",
       "topics" : [
         "AI"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "consolidation" : {
-        "latest_source_at" : "2026-09-19T17:30:00Z",
-        "message_count" : 2,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
-      },
-      "created_at" : "2026-09-19T17:30:00Z",
-      "id" : "2026-09-21-41ab9eb37e48",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Google’s Gemini is the latest AI model to hack other companies",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/19\/googles-gemini-is-the-latest-ai-model-to-hack-other-companies\/"
-        },
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Gemini went rogue, hacked three companies, and Google hid it",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/997795\/google-gemini-rogue-ai-hack"
-        }
-      ],
-      "summary" : "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company.",
-      "summary_method" : "source-extract",
-      "title" : "Gemini went rogue, hacked three companies, and Google hid it",
-      "topics" : [
-        "Gemini"
       ]
     },
     {
@@ -233,44 +261,22 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-09-19T14:00:00Z",
-      "id" : "2026-09-21-e913547183cf",
+      "created_at" : "2026-09-19T19:57:47Z",
+      "id" : "2026-09-21-ac7c230f4ef1",
       "importance" : "low",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "The Verge AI",
-          "title" : "Does AI need an antitrust exemption so it doesn’t kill everyone????",
-          "url" : "https:\/\/www.theverge.com\/podcast\/997382\/openai-microsoft-anthropic-elon-musk-cartel-ai-competition"
+          "source_name" : "TechCrunch AI",
+          "title" : "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/19\/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force\/"
         }
       ],
-      "summary" : "Let me give you my interpretation from the most generous to the most cynical, neither of which, TL;DR, should result in any sort of antitrust exemption.",
+      "summary" : "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
       "summary_method" : "source-extract",
-      "title" : "Does AI need an antitrust exemption so it doesn’t kill everyone????",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-19T13:00:00Z",
-      "id" : "2026-09-21-e84cdc83320a",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "The AI regulation smackdown isn’t over",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/997706\/the-ai-regulation-smackdown-isnt-over"
-        }
-      ],
-      "summary" : "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation.",
-      "summary_method" : "source-extract",
-      "title" : "The AI regulation smackdown isn’t over",
+      "title" : "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
       "topics" : [
         "AI"
       ]
@@ -279,14 +285,14 @@
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 4,
-    "summary" : "• AI safety conversations have gotten unbelievable\n• New experts join Google’s AI & Economy team\n• Here are 6 Clones of Jev in 2 days",
+    "source_count" : 5,
+    "summary" : "• AI safety conversations have gotten unbelievable\n• Here are 6 Clones of Jev in 2 days\n• Gemini went rogue, hacked three companies, and Google hid it",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-21",
-  "generated_at" : "2026-09-21T12:01:59Z",
+  "generated_at" : "2026-09-21T14:03:41Z",
   "processing_report" : {
-    "generated_at" : "2026-09-21T12:02:05Z",
+    "generated_at" : "2026-09-21T14:03:46Z",
     "high_card_count" : 0,
     "source_reports" : [
       {
@@ -294,14 +300,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-09-19T00:40:58Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-21T12:02:05Z",
+        "processed_at" : "2026-09-21T14:03:46Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 10,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-21T12:02:03Z",
+        "processed_at" : "2026-09-21T14:03:45Z",
         "state" : "processed"
       },
       {
@@ -309,7 +315,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-21T12:02:00Z",
+        "processed_at" : "2026-09-21T14:03:43Z",
         "state" : "processed"
       },
       {
@@ -317,7 +323,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-09-19T09:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-21T12:02:01Z",
+        "processed_at" : "2026-09-21T14:03:44Z",
         "state" : "processed"
       },
       {
@@ -325,7 +331,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-09-18T20:26:33Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-21T12:02:00Z",
+        "processed_at" : "2026-09-21T14:03:42Z",
         "state" : "processed"
       },
       {
@@ -333,7 +339,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-18T14:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-21T12:02:00Z",
+        "processed_at" : "2026-09-21T14:03:42Z",
         "state" : "processed"
       },
       {
@@ -341,15 +347,15 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-15T17:05:57Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-21T12:02:00Z",
+        "processed_at" : "2026-09-21T14:03:42Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "huggingface-blog",
-        "latest_article_at" : "2026-09-15T16:00:44Z",
+        "latest_article_at" : "2026-09-21T13:44:34Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-21T12:02:00Z",
+        "processed_at" : "2026-09-21T14:03:42Z",
         "state" : "processed"
       },
       {
@@ -357,7 +363,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-09-19T05:48:28Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-21T12:02:01Z",
+        "processed_at" : "2026-09-21T14:03:43Z",
         "state" : "processed"
       },
       {
@@ -365,7 +371,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-17T14:00:05Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-21T12:02:00Z",
+        "processed_at" : "2026-09-21T14:03:42Z",
         "state" : "processed"
       },
       {
@@ -373,7 +379,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-16T12:00:00Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-21T12:02:00Z",
+        "processed_at" : "2026-09-21T14:03:42Z",
         "state" : "processed"
       },
       {
@@ -381,31 +387,31 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-09-18T17:54:32Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-21T12:02:00Z",
+        "processed_at" : "2026-09-21T14:03:42Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "openai-news",
-        "latest_article_at" : "2026-09-18T12:00:00Z",
+        "latest_article_at" : "2026-09-21T00:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-21T12:02:00Z",
+        "processed_at" : "2026-09-21T14:03:42Z",
         "state" : "processed"
       },
       {
-        "article_count" : 6,
+        "article_count" : 7,
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-09-21T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-21T12:02:03Z",
+        "processed_at" : "2026-09-21T14:03:45Z",
         "state" : "processed"
       },
       {
         "article_count" : 18,
         "id" : "tldr-ai",
-        "latest_article_at" : "2026-09-17T00:00:00Z",
+        "latest_article_at" : "2026-09-21T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-21T12:02:00Z",
+        "processed_at" : "2026-09-21T14:03:42Z",
         "state" : "processed"
       },
       {
@@ -413,15 +419,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-09-20T20:29:07Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-21T12:01:59Z",
+        "processed_at" : "2026-09-21T14:03:42Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 10,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-09-21T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-21T12:02:03Z",
+        "processed_at" : "2026-09-21T14:03:45Z",
         "state" : "processed"
       },
       {
@@ -429,22 +435,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-14T21:46:17Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-21T12:02:00Z",
+        "processed_at" : "2026-09-21T14:03:43Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 8,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-21T12:02:03Z",
+        "processed_at" : "2026-09-21T14:03:45Z",
         "state" : "processed"
       },
       {
-        "article_count" : 9,
+        "article_count" : 8,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-09-21T10:18:06Z",
+        "latest_article_at" : "2026-09-21T13:36:52Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-21T12:01:59Z",
+        "processed_at" : "2026-09-21T14:03:42Z",
         "state" : "processed"
       }
     ],
