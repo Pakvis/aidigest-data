@@ -2,28 +2,6 @@
   "cards" : [
     {
       "confidence" : "medium",
-      "created_at" : "2026-09-18T18:29:17Z",
-      "id" : "2026-09-21-ecfbd2ae72f3",
-      "importance" : "high",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Virginia governor creates an AI task force and moves to restrain data centers",
-          "url" : "https:\/\/www.theverge.com\/policy\/997573\/virginia-governor-spanberger-data-center-ai-task-force"
-        }
-      ],
-      "summary" : "Executive Order 22 bans executive branch officials from signing nondisclosure agreements for data center projects, requires expedited noise regulations, and requires a review of backup-generation operations used by data centers, among other requirements.",
-      "summary_method" : "source-extract",
-      "title" : "Virginia governor creates an AI task force and moves to restrain data centers",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-09-19T15:00:00Z",
       "id" : "2026-09-21-74901eb44e43",
       "importance" : "medium",
@@ -40,28 +18,6 @@
       "summary" : "AI safety conversations have gotten unbelievable. This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
       "summary_method" : "source-extract",
       "title" : "AI safety conversations have gotten unbelievable",
-      "topics" : [
-        "Safety"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "created_at" : "2026-09-18T12:00:00Z",
-      "id" : "2026-09-21-c20baa197ea9",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Introducing the Australian Youth Safety Blueprint",
-          "url" : "https:\/\/openai.com\/index\/australian-youth-safety-blueprint"
-        }
-      ],
-      "summary" : "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-      "summary_method" : "source-extract",
-      "title" : "Introducing the Australian Youth Safety Blueprint",
       "topics" : [
         "Safety"
       ]
@@ -178,28 +134,6 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-09-20T12:00:00Z",
-      "id" : "2026-09-21-5b7699c2995e",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
-          "url" : "https:\/\/www.theverge.com\/science\/997834\/ai-cyberattack-energy-critical-infrastructure"
-        }
-      ],
-      "summary" : "Before recent high-profile hacks raised the specter of AI possibly \" killing all humans ,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing.",
-      "summary_method" : "source-extract",
-      "title" : "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-09-20T20:29:07Z",
       "id" : "2026-09-21-7bea4f86fad9",
       "importance" : "low",
@@ -274,34 +208,100 @@
       "topics" : [
         "Gemini"
       ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-20T12:00:00Z",
+      "id" : "2026-09-21-5b7699c2995e",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+          "url" : "https:\/\/www.theverge.com\/science\/997834\/ai-cyberattack-energy-critical-infrastructure"
+        }
+      ],
+      "summary" : "Before recent high-profile hacks raised the specter of AI possibly \" killing all humans ,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing.",
+      "summary_method" : "source-extract",
+      "title" : "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-19T14:00:00Z",
+      "id" : "2026-09-21-e913547183cf",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Does AI need an antitrust exemption so it doesn’t kill everyone????",
+          "url" : "https:\/\/www.theverge.com\/podcast\/997382\/openai-microsoft-anthropic-elon-musk-cartel-ai-competition"
+        }
+      ],
+      "summary" : "Let me give you my interpretation from the most generous to the most cynical, neither of which, TL;DR, should result in any sort of antitrust exemption.",
+      "summary_method" : "source-extract",
+      "title" : "Does AI need an antitrust exemption so it doesn’t kill everyone????",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-19T13:00:00Z",
+      "id" : "2026-09-21-e84cdc83320a",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "The AI regulation smackdown isn’t over",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/997706\/the-ai-regulation-smackdown-isnt-over"
+        }
+      ],
+      "summary" : "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation.",
+      "summary_method" : "source-extract",
+      "title" : "The AI regulation smackdown isn’t over",
+      "topics" : [
+        "AI"
+      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 5,
-    "summary" : "• Virginia governor creates an AI task force and moves to restrain data centers\n• AI safety conversations have gotten unbelievable\n• Introducing the Australian Youth Safety Blueprint",
+    "source_count" : 4,
+    "summary" : "• AI safety conversations have gotten unbelievable\n• New experts join Google’s AI & Economy team\n• Here are 6 Clones of Jev in 2 days",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-21",
-  "generated_at" : "2026-09-21T10:00:36Z",
+  "generated_at" : "2026-09-21T12:01:59Z",
   "processing_report" : {
-    "generated_at" : "2026-09-21T10:00:40Z",
-    "high_card_count" : 1,
+    "generated_at" : "2026-09-21T12:02:05Z",
+    "high_card_count" : 0,
     "source_reports" : [
       {
-        "article_count" : 11,
+        "article_count" : 8,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-09-19T00:40:58Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-21T10:00:40Z",
+        "processed_at" : "2026-09-21T12:02:05Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-21T10:00:39Z",
+        "processed_at" : "2026-09-21T12:02:03Z",
         "state" : "processed"
       },
       {
@@ -309,15 +309,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-21T10:00:37Z",
+        "processed_at" : "2026-09-21T12:02:00Z",
         "state" : "processed"
       },
       {
-        "article_count" : 3,
+        "article_count" : 2,
         "id" : "aireport-nl",
         "latest_article_at" : "2026-09-19T09:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-21T10:00:38Z",
+        "processed_at" : "2026-09-21T12:02:01Z",
         "state" : "processed"
       },
       {
@@ -325,7 +325,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-09-18T20:26:33Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-21T10:00:37Z",
+        "processed_at" : "2026-09-21T12:02:00Z",
         "state" : "processed"
       },
       {
@@ -333,7 +333,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-18T14:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-21T10:00:36Z",
+        "processed_at" : "2026-09-21T12:02:00Z",
         "state" : "processed"
       },
       {
@@ -341,7 +341,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-15T17:05:57Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-21T10:00:37Z",
+        "processed_at" : "2026-09-21T12:02:00Z",
         "state" : "processed"
       },
       {
@@ -349,7 +349,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-09-15T16:00:44Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-21T10:00:37Z",
+        "processed_at" : "2026-09-21T12:02:00Z",
         "state" : "processed"
       },
       {
@@ -357,7 +357,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-09-19T05:48:28Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-21T10:00:38Z",
+        "processed_at" : "2026-09-21T12:02:01Z",
         "state" : "processed"
       },
       {
@@ -365,7 +365,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-17T14:00:05Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-21T10:00:36Z",
+        "processed_at" : "2026-09-21T12:02:00Z",
         "state" : "processed"
       },
       {
@@ -373,7 +373,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-16T12:00:00Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-21T10:00:37Z",
+        "processed_at" : "2026-09-21T12:02:00Z",
         "state" : "processed"
       },
       {
@@ -381,7 +381,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-09-18T17:54:32Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-21T10:00:36Z",
+        "processed_at" : "2026-09-21T12:02:00Z",
         "state" : "processed"
       },
       {
@@ -389,15 +389,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-09-18T12:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-21T10:00:37Z",
+        "processed_at" : "2026-09-21T12:02:00Z",
         "state" : "processed"
       },
       {
-        "article_count" : 7,
+        "article_count" : 6,
         "id" : "superhuman-ai",
-        "latest_article_at" : "2026-09-19T14:00:00Z",
+        "latest_article_at" : "2026-09-21T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-21T10:00:39Z",
+        "processed_at" : "2026-09-21T12:02:03Z",
         "state" : "processed"
       },
       {
@@ -405,7 +405,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-09-17T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-21T10:00:36Z",
+        "processed_at" : "2026-09-21T12:02:00Z",
         "state" : "processed"
       },
       {
@@ -413,15 +413,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-09-20T20:29:07Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-21T10:00:36Z",
+        "processed_at" : "2026-09-21T12:01:59Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "the-ai-report",
-        "latest_article_at" : "2026-09-18T11:01:00Z",
+        "latest_article_at" : "2026-09-21T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-21T10:00:39Z",
+        "processed_at" : "2026-09-21T12:02:03Z",
         "state" : "processed"
       },
       {
@@ -429,22 +429,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-14T21:46:17Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-21T10:00:37Z",
+        "processed_at" : "2026-09-21T12:02:00Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-21T10:00:39Z",
+        "processed_at" : "2026-09-21T12:02:03Z",
         "state" : "processed"
       },
       {
         "article_count" : 9,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-09-21T09:21:47Z",
+        "latest_article_at" : "2026-09-21T10:18:06Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-21T10:00:36Z",
+        "processed_at" : "2026-09-21T12:01:59Z",
         "state" : "processed"
       }
     ],
