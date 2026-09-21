@@ -24,28 +24,6 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-09-18T17:04:51Z",
-      "id" : "2026-09-21-6e89394572d1",
-      "importance" : "high",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Gavin Newsom is pushing for an AI kill switch",
-          "url" : "https:\/\/www.theverge.com\/policy\/997516\/california-governor-newsom-ai-kill-switch"
-        }
-      ],
-      "summary" : "Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Friday. Newsom's order directs the state to convene a group of experts that will deliver recommendations within two months on how to strengthen AI safety measures in state law.",
-      "summary_method" : "source-extract",
-      "title" : "Gavin Newsom is pushing for an AI kill switch",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-09-19T15:00:00Z",
       "id" : "2026-09-21-74901eb44e43",
       "importance" : "medium",
@@ -130,6 +108,28 @@
       "title" : "Here are 6 Clones of Jev in 2 days",
       "topics" : [
         "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-21T09:21:47Z",
+      "id" : "2026-09-21-c03b9e1fa6ce",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Amazon doesn’t trust Meta’s Muse AI agent",
+          "url" : "https:\/\/www.theverge.com\/tech\/998078\/amazon-blocks-meta-muse-ai-agent-shopping"
+        }
+      ],
+      "summary" : "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" According to GeekWire , Meta didn't notify Amazon that Muse would access its store.",
+      "summary_method" : "source-extract",
+      "title" : "Amazon doesn’t trust Meta’s Muse AI agent",
+      "topics" : [
+        "Agents"
       ]
     },
     {
@@ -280,28 +280,28 @@
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 5,
-    "summary" : "• Virginia governor creates an AI task force and moves to restrain data centers\n• Gavin Newsom is pushing for an AI kill switch\n• AI safety conversations have gotten unbelievable",
+    "summary" : "• Virginia governor creates an AI task force and moves to restrain data centers\n• AI safety conversations have gotten unbelievable\n• Introducing the Australian Youth Safety Blueprint",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-21",
-  "generated_at" : "2026-09-21T08:03:53Z",
+  "generated_at" : "2026-09-21T10:00:36Z",
   "processing_report" : {
-    "generated_at" : "2026-09-21T08:03:58Z",
-    "high_card_count" : 2,
+    "generated_at" : "2026-09-21T10:00:40Z",
+    "high_card_count" : 1,
     "source_reports" : [
       {
         "article_count" : 11,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-09-19T00:40:58Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-21T08:03:58Z",
+        "processed_at" : "2026-09-21T10:00:40Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-21T08:03:56Z",
+        "processed_at" : "2026-09-21T10:00:39Z",
         "state" : "processed"
       },
       {
@@ -309,15 +309,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-21T08:03:55Z",
+        "processed_at" : "2026-09-21T10:00:37Z",
         "state" : "processed"
       },
       {
-        "article_count" : 4,
+        "article_count" : 3,
         "id" : "aireport-nl",
         "latest_article_at" : "2026-09-19T09:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-21T08:03:55Z",
+        "processed_at" : "2026-09-21T10:00:38Z",
         "state" : "processed"
       },
       {
@@ -325,7 +325,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-09-18T20:26:33Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-21T08:03:54Z",
+        "processed_at" : "2026-09-21T10:00:37Z",
         "state" : "processed"
       },
       {
@@ -333,7 +333,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-18T14:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-21T08:03:54Z",
+        "processed_at" : "2026-09-21T10:00:36Z",
         "state" : "processed"
       },
       {
@@ -341,7 +341,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-15T17:05:57Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-21T08:03:54Z",
+        "processed_at" : "2026-09-21T10:00:37Z",
         "state" : "processed"
       },
       {
@@ -349,7 +349,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-09-15T16:00:44Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-21T08:03:54Z",
+        "processed_at" : "2026-09-21T10:00:37Z",
         "state" : "processed"
       },
       {
@@ -357,7 +357,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-09-19T05:48:28Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-21T08:03:55Z",
+        "processed_at" : "2026-09-21T10:00:38Z",
         "state" : "processed"
       },
       {
@@ -365,7 +365,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-17T14:00:05Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-21T08:03:54Z",
+        "processed_at" : "2026-09-21T10:00:36Z",
         "state" : "processed"
       },
       {
@@ -373,7 +373,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-16T12:00:00Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-21T08:03:54Z",
+        "processed_at" : "2026-09-21T10:00:37Z",
         "state" : "processed"
       },
       {
@@ -381,7 +381,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-09-18T17:54:32Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-21T08:03:54Z",
+        "processed_at" : "2026-09-21T10:00:36Z",
         "state" : "processed"
       },
       {
@@ -389,7 +389,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-09-18T12:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-21T08:03:54Z",
+        "processed_at" : "2026-09-21T10:00:37Z",
         "state" : "processed"
       },
       {
@@ -397,7 +397,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-09-19T14:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-21T08:03:57Z",
+        "processed_at" : "2026-09-21T10:00:39Z",
         "state" : "processed"
       },
       {
@@ -405,7 +405,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-09-17T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-21T08:03:54Z",
+        "processed_at" : "2026-09-21T10:00:36Z",
         "state" : "processed"
       },
       {
@@ -413,7 +413,7 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-09-20T20:29:07Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-21T08:03:53Z",
+        "processed_at" : "2026-09-21T10:00:36Z",
         "state" : "processed"
       },
       {
@@ -421,7 +421,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-09-18T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-21T08:03:57Z",
+        "processed_at" : "2026-09-21T10:00:39Z",
         "state" : "processed"
       },
       {
@@ -429,22 +429,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-14T21:46:17Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-21T08:03:54Z",
+        "processed_at" : "2026-09-21T10:00:37Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-21T08:03:56Z",
+        "processed_at" : "2026-09-21T10:00:39Z",
         "state" : "processed"
       },
       {
         "article_count" : 9,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-09-20T18:50:18Z",
+        "latest_article_at" : "2026-09-21T09:21:47Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-21T08:03:54Z",
+        "processed_at" : "2026-09-21T10:00:36Z",
         "state" : "processed"
       }
     ],
