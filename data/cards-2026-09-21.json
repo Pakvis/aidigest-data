@@ -2,6 +2,29 @@
   "cards" : [
     {
       "confidence" : "high",
+      "created_at" : "2026-09-21T12:00:00Z",
+      "id" : "2026-09-21-17ee3a710ea5",
+      "importance" : "high",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+          "url" : "https:\/\/openai.com\/index\/higgsfield-from-prompt-to-production-with-astra"
+        }
+      ],
+      "summary" : "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+      "summary_method" : "source-extract",
+      "title" : "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "topics" : [
+        "GPT",
+        "Tooling"
+      ]
+    },
+    {
+      "confidence" : "high",
       "created_at" : "2026-09-21T10:00:00Z",
       "id" : "2026-09-21-0572ce4e5f87",
       "importance" : "medium",
@@ -43,6 +66,29 @@
       "title" : "Expanding OpenAI Academy with new learning paths",
       "topics" : [
         "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-21T19:19:21Z",
+      "id" : "2026-09-21-35f58d2a2f43",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/21\/metas-muse-is-outpacing-chatgpts-early-mobile-launch\/"
+        }
+      ],
+      "summary" : "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+      "summary_method" : "source-extract",
+      "title" : "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "topics" : [
+        "ChatGPT",
+        "Agents"
       ]
     },
     {
@@ -218,30 +264,8 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-09-20T18:50:18Z",
-      "id" : "2026-09-21-c22a19d60b02",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/997936\/nvidia-jensen-huang-ai-fears-overblown"
-        }
-      ],
-      "summary" : "He also said of people sounding the alarm about the dangers of AI that, \"Scaring people is unnecessary.",
-      "summary_method" : "source-extract",
-      "title" : "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-21T16:38:51Z",
-      "id" : "2026-09-21-e95a199b144e",
+      "created_at" : "2026-09-21T17:55:18Z",
+      "id" : "2026-09-21-913db0d86ca4",
       "importance" : "low",
       "key_insights" : [
 
@@ -249,37 +273,16 @@
       "sources" : [
         {
           "source_name" : "TechCrunch AI",
-          "title" : "With Tabby, a former accountant is using AI to make accountants obsolete",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/21\/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete\/"
+          "title" : "Meta’s AI agent has been blocked from using Amazon.com",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/21\/metas-ai-agent-has-been-blocked-from-using-amazon-com\/"
         }
       ],
-      "summary" : "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
+      "summary" : "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet.",
       "summary_method" : "source-extract",
-      "title" : "With Tabby, a former accountant is using AI to make accountants obsolete",
+      "title" : "Meta’s AI agent has been blocked from using Amazon.com",
       "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-21T14:39:22Z",
-      "id" : "2026-09-21-277aa66227c6",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/21\/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini\/"
-        }
-      ],
-      "summary" : "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience.",
-      "summary_method" : "source-extract",
-      "title" : "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-      "topics" : [
-        "Gemini"
+        "Agents",
+        "Inference"
       ]
     }
   ],
@@ -287,28 +290,28 @@
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 5,
-    "summary" : "• Building standards for the next phase of AI\n• Expanding OpenAI Academy with new learning paths\n• AI safety conversations have gotten unbelievable",
+    "summary" : "• Higgsfield AI ships new video features in a day with GPT-6 Astra\n• Building standards for the next phase of AI\n• Expanding OpenAI Academy with new learning paths",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-21",
-  "generated_at" : "2026-09-21T18:01:53Z",
+  "generated_at" : "2026-09-21T20:03:29Z",
   "processing_report" : {
-    "generated_at" : "2026-09-21T18:01:58Z",
-    "high_card_count" : 0,
+    "generated_at" : "2026-09-21T20:03:33Z",
+    "high_card_count" : 1,
     "source_reports" : [
       {
-        "article_count" : 8,
+        "article_count" : 9,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-09-19T00:40:58Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-21T18:01:58Z",
+        "processed_at" : "2026-09-21T20:03:33Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-21T18:01:56Z",
+        "processed_at" : "2026-09-21T20:03:32Z",
         "state" : "processed"
       },
       {
@@ -316,15 +319,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-21T18:01:54Z",
+        "processed_at" : "2026-09-21T20:03:30Z",
         "state" : "processed"
       },
       {
-        "article_count" : 3,
+        "article_count" : 2,
         "id" : "aireport-nl",
-        "latest_article_at" : "2026-09-19T09:00:00Z",
+        "latest_article_at" : "2026-09-10T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-21T18:01:55Z",
+        "processed_at" : "2026-09-21T20:03:31Z",
         "state" : "processed"
       },
       {
@@ -332,7 +335,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-09-18T20:26:33Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-21T18:01:54Z",
+        "processed_at" : "2026-09-21T20:03:30Z",
         "state" : "processed"
       },
       {
@@ -340,7 +343,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-18T14:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-21T18:01:54Z",
+        "processed_at" : "2026-09-21T20:03:29Z",
         "state" : "processed"
       },
       {
@@ -348,7 +351,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-15T17:05:57Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-21T18:01:54Z",
+        "processed_at" : "2026-09-21T20:03:30Z",
         "state" : "processed"
       },
       {
@@ -356,7 +359,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-09-21T13:44:34Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-21T18:01:54Z",
+        "processed_at" : "2026-09-21T20:03:30Z",
         "state" : "processed"
       },
       {
@@ -364,7 +367,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-09-19T05:48:28Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-21T18:01:55Z",
+        "processed_at" : "2026-09-21T20:03:31Z",
         "state" : "processed"
       },
       {
@@ -372,7 +375,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-17T14:00:05Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-21T18:01:54Z",
+        "processed_at" : "2026-09-21T20:03:30Z",
         "state" : "processed"
       },
       {
@@ -380,7 +383,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-16T12:00:00Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-21T18:01:54Z",
+        "processed_at" : "2026-09-21T20:03:30Z",
         "state" : "processed"
       },
       {
@@ -388,7 +391,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-09-18T17:54:32Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-21T18:01:54Z",
+        "processed_at" : "2026-09-21T20:03:29Z",
         "state" : "processed"
       },
       {
@@ -396,7 +399,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-09-21T12:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-21T18:01:54Z",
+        "processed_at" : "2026-09-21T20:03:30Z",
         "state" : "processed"
       },
       {
@@ -404,7 +407,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-09-21T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-21T18:01:56Z",
+        "processed_at" : "2026-09-21T20:03:32Z",
         "state" : "processed"
       },
       {
@@ -412,38 +415,38 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-09-21T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-21T18:01:54Z",
+        "processed_at" : "2026-09-21T20:03:30Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-09-21T17:55:18Z",
+        "latest_article_at" : "2026-09-21T19:19:21Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-21T18:01:53Z",
+        "processed_at" : "2026-09-21T20:03:29Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 11,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-09-21T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-21T18:01:58Z",
+        "processed_at" : "2026-09-21T20:03:33Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "algorithmic-bridge",
-        "latest_article_at" : "2026-09-14T21:46:17Z",
+        "latest_article_at" : "2026-09-21T19:55:12Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-21T18:01:54Z",
+        "processed_at" : "2026-09-21T20:03:30Z",
         "state" : "processed"
       },
       {
-        "article_count" : 9,
+        "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-21T18:01:56Z",
+        "processed_at" : "2026-09-21T20:03:32Z",
         "state" : "processed"
       },
       {
@@ -451,7 +454,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-09-21T13:36:52Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-21T18:01:53Z",
+        "processed_at" : "2026-09-21T20:03:29Z",
         "state" : "processed"
       }
     ],
