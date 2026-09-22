@@ -2,13 +2,24 @@
   "cards" : [
     {
       "confidence" : "high",
-      "created_at" : "2026-09-21T12:00:00Z",
+      "consolidation" : {
+        "latest_source_at" : "2026-09-22T18:00:00Z",
+        "message_count" : 2,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
+      "created_at" : "2026-09-22T18:00:00Z",
       "id" : "2026-09-22-7d68d7a2bea5",
       "importance" : "high",
       "key_insights" : [
 
       ],
       "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/22\/openai-launches-gpt-6-sol-and-luna\/"
+        },
         {
           "source_name" : "OpenAI News",
           "title" : "Higgsfield AI ships new video features in a day with GPT-6 Astra",
@@ -21,6 +32,73 @@
       "topics" : [
         "GPT",
         "Tooling"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-22T16:30:00Z",
+      "id" : "2026-09-22-2373d3afe810",
+      "importance" : "high",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/998868\/anthropic-claude-opus-5-5-cybersecurity"
+        }
+      ],
+      "summary" : "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents.",
+      "summary_method" : "source-extract",
+      "title" : "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+      "topics" : [
+        "Anthropic",
+        "Claude"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-09-22T00:00:00Z",
+      "id" : "2026-09-22-4e55d02a8373",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Priorities and principles for effective third party assessments",
+          "url" : "https:\/\/openai.com\/index\/priorities-principles-third-party-assessments"
+        }
+      ],
+      "summary" : "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+      "summary_method" : "source-extract",
+      "title" : "Priorities and principles for effective third party assessments",
+      "topics" : [
+        "Safety"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-22T16:01:10Z",
+      "id" : "2026-09-22-d16534f8f68e",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Trump says the US is officially renaming AI to ‘super intelligence’",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/998816\/donald-trump-ai-super-intelligence"
+        }
+      ],
+      "summary" : "Because, according to Trump, the word artificial makes intelligence fake.",
+      "summary_method" : "source-extract",
+      "title" : "Trump says the US is officially renaming AI to ‘super intelligence’",
+      "topics" : [
+        "AI"
       ]
     },
     {
@@ -38,7 +116,7 @@
           "url" : "https:\/\/techcrunch.com\/2026\/09\/22\/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda\/"
         }
       ],
-      "summary" : "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, NVIDIA, AWS, Waabi, and more.",
+      "summary" : "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more.",
       "summary_method" : "source-extract",
       "title" : "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
       "topics" : [
@@ -193,28 +271,6 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-09-22T16:01:10Z",
-      "id" : "2026-09-22-87bdd6e6d665",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Trump says US is officially renaming AI ‘super intelligence’",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/998816\/donald-trump-ai-super-intelligence"
-        }
-      ],
-      "summary" : "Because, according to Trump, the word artificial makes intelligence fake.",
-      "summary_method" : "source-extract",
-      "title" : "Trump says US is officially renaming AI ‘super intelligence’",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-09-22T11:53:58Z",
       "id" : "2026-09-22-de7a5d086447",
       "importance" : "low",
@@ -235,78 +291,34 @@
         "Agents",
         "Image Models"
       ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-21T20:29:45Z",
-      "id" : "2026-09-22-fdfc7c784e52",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "California tightens rules on AI data center energy and water use",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/998453\/california-ai-data-center-bills"
-        }
-      ],
-      "summary" : "Other bills included in the package will require proposed data centers to disclose their estimated water use to local governments, along with information about energy efficiency and drought planning.",
-      "summary_method" : "source-extract",
-      "title" : "California tightens rules on AI data center energy and water use",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-22T14:30:00Z",
-      "id" : "2026-09-22-68b082ea3714",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/22\/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage\/"
-        }
-      ],
-      "summary" : "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026.",
-      "summary_method" : "source-extract",
-      "title" : "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-      "topics" : [
-        "Robotics"
-      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 5,
-    "summary" : "• Higgsfield AI ships new video features in a day with GPT-6 Astra\n• Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda\n• OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+    "summary" : "• Higgsfield AI ships new video features in a day with GPT-6 Astra\n• Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity\n• Priorities and principles for effective third party assessments",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-22",
-  "generated_at" : "2026-09-22T16:04:45Z",
+  "generated_at" : "2026-09-22T18:02:07Z",
   "processing_report" : {
-    "generated_at" : "2026-09-22T16:04:49Z",
-    "high_card_count" : 1,
+    "generated_at" : "2026-09-22T18:02:12Z",
+    "high_card_count" : 2,
     "source_reports" : [
       {
-        "article_count" : 8,
+        "article_count" : 10,
         "id" : "ai-breakfast",
-        "latest_article_at" : "2026-09-16T18:28:03Z",
+        "latest_article_at" : "2026-09-19T00:40:58Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-22T16:04:49Z",
+        "processed_at" : "2026-09-22T18:02:12Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-22T16:04:48Z",
+        "processed_at" : "2026-09-22T18:02:11Z",
         "state" : "processed"
       },
       {
@@ -314,15 +326,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-22T16:04:47Z",
+        "processed_at" : "2026-09-22T18:02:09Z",
         "state" : "processed"
       },
       {
-        "article_count" : 1,
+        "article_count" : 4,
         "id" : "aireport-nl",
         "latest_article_at" : "2026-09-22T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-22T16:04:48Z",
+        "processed_at" : "2026-09-22T18:02:10Z",
         "state" : "processed"
       },
       {
@@ -330,7 +342,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-09-18T20:26:33Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-22T16:04:46Z",
+        "processed_at" : "2026-09-22T18:02:09Z",
         "state" : "processed"
       },
       {
@@ -338,7 +350,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-18T14:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-22T16:04:46Z",
+        "processed_at" : "2026-09-22T18:02:08Z",
         "state" : "processed"
       },
       {
@@ -346,7 +358,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-15T17:05:57Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-22T16:04:46Z",
+        "processed_at" : "2026-09-22T18:02:09Z",
         "state" : "processed"
       },
       {
@@ -354,7 +366,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-09-22T00:00:00Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-22T16:04:46Z",
+        "processed_at" : "2026-09-22T18:02:09Z",
         "state" : "processed"
       },
       {
@@ -362,7 +374,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-09-22T06:30:56Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-22T16:04:49Z",
+        "processed_at" : "2026-09-22T18:02:11Z",
         "state" : "processed"
       },
       {
@@ -370,7 +382,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-17T14:00:05Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-22T16:04:46Z",
+        "processed_at" : "2026-09-22T18:02:08Z",
         "state" : "processed"
       },
       {
@@ -378,7 +390,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-16T12:00:00Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-22T16:04:46Z",
+        "processed_at" : "2026-09-22T18:02:08Z",
         "state" : "processed"
       },
       {
@@ -386,15 +398,15 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-09-18T17:54:32Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-22T16:04:46Z",
+        "processed_at" : "2026-09-22T18:02:08Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "openai-news",
-        "latest_article_at" : "2026-09-21T12:00:00Z",
+        "latest_article_at" : "2026-09-22T00:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-22T16:04:46Z",
+        "processed_at" : "2026-09-22T18:02:08Z",
         "state" : "processed"
       },
       {
@@ -402,7 +414,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-09-22T11:20:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-22T16:04:48Z",
+        "processed_at" : "2026-09-22T18:02:11Z",
         "state" : "processed"
       },
       {
@@ -410,23 +422,23 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-09-22T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-22T16:04:46Z",
+        "processed_at" : "2026-09-22T18:02:08Z",
         "state" : "processed"
       },
       {
         "article_count" : 13,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-09-22T15:00:00Z",
+        "latest_article_at" : "2026-09-22T18:00:00Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-22T16:04:46Z",
+        "processed_at" : "2026-09-22T18:02:08Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 11,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-09-22T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-22T16:04:49Z",
+        "processed_at" : "2026-09-22T18:02:11Z",
         "state" : "processed"
       },
       {
@@ -434,22 +446,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-21T19:55:12Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-22T16:04:46Z",
+        "processed_at" : "2026-09-22T18:02:09Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-22T16:04:49Z",
+        "processed_at" : "2026-09-22T18:02:10Z",
         "state" : "processed"
       },
       {
-        "article_count" : 9,
+        "article_count" : 8,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-09-22T16:01:10Z",
+        "latest_article_at" : "2026-09-22T16:30:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-22T16:04:46Z",
+        "processed_at" : "2026-09-22T18:02:08Z",
         "state" : "processed"
       }
     ],
