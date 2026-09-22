@@ -47,28 +47,6 @@
       ]
     },
     {
-      "confidence" : "high",
-      "created_at" : "2026-09-21T07:00:00Z",
-      "id" : "2026-09-22-4ac3b411a602",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Expanding OpenAI Academy with new learning paths",
-          "url" : "https:\/\/openai.com\/index\/expanding-openai-academy-with-new-learning-paths"
-        }
-      ],
-      "summary" : "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
-      "summary_method" : "source-extract",
-      "title" : "Expanding OpenAI Academy with new learning paths",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
       "confidence" : "medium",
       "created_at" : "2026-09-21T20:15:58Z",
       "id" : "2026-09-22-b3113457b340",
@@ -111,6 +89,50 @@
       "topics" : [
         "ChatGPT",
         "Agents"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-22T06:30:56Z",
+      "id" : "2026-09-22-492566ef57a8",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Xiaomi MiMo-V2.6-Pro 1T-A42B: the new top Open Weights model, trained for $3M",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-xiaomi-mimo-v26-pro-1t-a42b"
+        }
+      ],
+      "summary" : "Xiaomi MiMo-V2.6 and RL as the New Scaling Lever MiMo-V2.6 is the biggest open-model release in the set : @XiaomiMiMo launched MiMo-V2.6 Pro and Flash , described as open omnimodal models with weights, technical report, RL environments, and training code. Artificial Analysis says MiMo-V2.6-Pro debuts as the top open-weights model on its Intelligence Index (46) , with 1.02T total \/ 42B active parameters and strong cost efficiency at $0.435\/M input and $0.87\/M output tokens.",
+      "summary_method" : "source-extract",
+      "title" : "Xiaomi MiMo-V2.6-Pro 1T-A42B: the new top Open Weights model, trained for $3M",
+      "topics" : [
+        "Image Models"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-09-21T07:00:00Z",
+      "id" : "2026-09-22-4ac3b411a602",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Expanding OpenAI Academy with new learning paths",
+          "url" : "https:\/\/openai.com\/index\/expanding-openai-academy-with-new-learning-paths"
+        }
+      ],
+      "summary" : "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+      "summary_method" : "source-extract",
+      "title" : "Expanding OpenAI Academy with new learning paths",
+      "topics" : [
+        "AI"
       ]
     },
     {
@@ -244,57 +266,34 @@
       "topics" : [
         "AI"
       ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-21T17:55:18Z",
-      "id" : "2026-09-22-de17611ec313",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Meta’s AI agent has been blocked from using Amazon.com",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/21\/metas-ai-agent-has-been-blocked-from-using-amazon-com\/"
-        }
-      ],
-      "summary" : "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet.",
-      "summary_method" : "source-extract",
-      "title" : "Meta’s AI agent has been blocked from using Amazon.com",
-      "topics" : [
-        "Agents",
-        "Inference"
-      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 3,
-    "summary" : "• Higgsfield AI ships new video features in a day with GPT-6 Astra\n• Building standards for the next phase of AI\n• Expanding OpenAI Academy with new learning paths",
+    "source_count" : 4,
+    "summary" : "• Higgsfield AI ships new video features in a day with GPT-6 Astra\n• Building standards for the next phase of AI\n• OpenAI forms math advisory group as its AI resolves more than 100 open problems",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-22",
-  "generated_at" : "2026-09-22T06:02:44Z",
+  "generated_at" : "2026-09-22T08:05:16Z",
   "processing_report" : {
-    "generated_at" : "2026-09-22T06:02:48Z",
+    "generated_at" : "2026-09-22T08:05:21Z",
     "high_card_count" : 1,
     "source_reports" : [
       {
-        "article_count" : 10,
+        "article_count" : 5,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-09-19T00:40:58Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-22T06:02:48Z",
+        "processed_at" : "2026-09-22T08:05:21Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-22T06:02:47Z",
+        "processed_at" : "2026-09-22T08:05:20Z",
         "state" : "processed"
       },
       {
@@ -302,7 +301,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-22T06:02:45Z",
+        "processed_at" : "2026-09-22T08:05:18Z",
         "state" : "processed"
       },
       {
@@ -310,7 +309,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-09-19T09:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-22T06:02:46Z",
+        "processed_at" : "2026-09-22T08:05:19Z",
         "state" : "processed"
       },
       {
@@ -318,7 +317,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-09-18T20:26:33Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-22T06:02:45Z",
+        "processed_at" : "2026-09-22T08:05:18Z",
         "state" : "processed"
       },
       {
@@ -326,7 +325,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-18T14:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-22T06:02:45Z",
+        "processed_at" : "2026-09-22T08:05:17Z",
         "state" : "processed"
       },
       {
@@ -334,23 +333,23 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-15T17:05:57Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-22T06:02:45Z",
+        "processed_at" : "2026-09-22T08:05:18Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "huggingface-blog",
-        "latest_article_at" : "2026-09-21T13:44:34Z",
+        "latest_article_at" : "2026-09-22T00:00:00Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-22T06:02:45Z",
+        "processed_at" : "2026-09-22T08:05:17Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "latent-space",
-        "latest_article_at" : "2026-09-21T22:13:49Z",
+        "latest_article_at" : "2026-09-22T06:30:56Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-22T06:02:48Z",
+        "processed_at" : "2026-09-22T08:05:20Z",
         "state" : "processed"
       },
       {
@@ -358,7 +357,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-17T14:00:05Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-22T06:02:45Z",
+        "processed_at" : "2026-09-22T08:05:18Z",
         "state" : "processed"
       },
       {
@@ -366,7 +365,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-16T12:00:00Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-22T06:02:45Z",
+        "processed_at" : "2026-09-22T08:05:17Z",
         "state" : "processed"
       },
       {
@@ -374,7 +373,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-09-18T17:54:32Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-22T06:02:45Z",
+        "processed_at" : "2026-09-22T08:05:17Z",
         "state" : "processed"
       },
       {
@@ -382,7 +381,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-09-21T12:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-22T06:02:45Z",
+        "processed_at" : "2026-09-22T08:05:17Z",
         "state" : "processed"
       },
       {
@@ -390,7 +389,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-09-21T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-22T06:02:47Z",
+        "processed_at" : "2026-09-22T08:05:20Z",
         "state" : "processed"
       },
       {
@@ -398,7 +397,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-09-21T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-22T06:02:45Z",
+        "processed_at" : "2026-09-22T08:05:17Z",
         "state" : "processed"
       },
       {
@@ -406,15 +405,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-09-21T23:44:28Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-22T06:02:44Z",
+        "processed_at" : "2026-09-22T08:05:17Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 12,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-09-21T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-22T06:02:48Z",
+        "processed_at" : "2026-09-22T08:05:20Z",
         "state" : "processed"
       },
       {
@@ -422,14 +421,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-21T19:55:12Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-22T06:02:45Z",
+        "processed_at" : "2026-09-22T08:05:18Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-22T06:02:47Z",
+        "processed_at" : "2026-09-22T08:05:19Z",
         "state" : "processed"
       },
       {
@@ -437,7 +436,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-09-21T20:29:45Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-22T06:02:44Z",
+        "processed_at" : "2026-09-22T08:05:17Z",
         "state" : "processed"
       }
     ],
