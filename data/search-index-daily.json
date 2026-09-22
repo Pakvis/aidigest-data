@@ -132,19 +132,43 @@
     {
       "confidence" : "high",
       "date" : "2026-09-22",
-      "id" : "2026-09-22-13cee33b83da",
+      "id" : "2026-09-22-079fc2b9f2c0",
       "importance" : "low",
       "sources" : [
         {
-          "source_name" : "OpenAI News",
-          "title" : "Advisory Group on Mathematics and Artificial Intelligence",
-          "url" : "https:\/\/openai.com\/index\/advisory-group-on-mathematics-and-ai"
+          "source_name" : "The AI Report",
+          "title" : "️Amazon blocks Meta's Muse agent",
+          "url" : "https:\/\/newsletter.theaireport.ai\/p\/trump-announces-new-ai-force-1"
+        },
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Amazon blocks Meta’s Muse AI agent",
+          "url" : "https:\/\/www.theverge.com\/tech\/998078\/amazon-blocks-meta-muse-ai-agent-shopping"
         }
       ],
-      "summary" : "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-      "title" : "Advisory Group on Mathematics and Artificial Intelligence",
+      "summary" : "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" According to GeekWire , Meta didn't notify Amazon that Muse would access its store.",
+      "title" : "Amazon blocks Meta’s Muse AI agent",
       "topics" : [
-        "AI"
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-09-22",
+      "id" : "2026-09-22-de7a5d086447",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Meta patches Muse exploit that let attackers control the AI agent",
+          "url" : "https:\/\/www.theverge.com\/tech\/998679\/meta-muse-patch-zero-day-exploit-ai-agent"
+        }
+      ],
+      "summary" : "| Image: The Verge Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent. The bug found by security researcher Patrick Wardle utilized an undocumented Muse setting that enabled potential attackers running local code to redirect transcription processing from Meta's servers to their own endpoint, Ars Technica reports, giving the attacker access to the Muse account.",
+      "title" : "Meta patches Muse exploit that let attackers control the AI agent",
+      "topics" : [
+        "Agents",
+        "Image Models"
       ]
     },
     {
@@ -199,25 +223,6 @@
       "title" : "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
       "topics" : [
         "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-09-22",
-      "id" : "2026-09-22-de17611ec313",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Meta’s AI agent has been blocked from using Amazon.com",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/21\/metas-ai-agent-has-been-blocked-from-using-amazon-com\/"
-        }
-      ],
-      "summary" : "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet.",
-      "title" : "Meta’s AI agent has been blocked from using Amazon.com",
-      "topics" : [
-        "Agents",
-        "Inference"
       ]
     },
     {
