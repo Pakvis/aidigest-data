@@ -136,28 +136,6 @@
       ]
     },
     {
-      "confidence" : "medium",
-      "created_at" : "2026-09-19T15:00:00Z",
-      "id" : "2026-09-22-8f3a41abac8b",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "AI safety conversations have gotten unbelievable",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/19\/ai-safety-conversations-have-gotten-unbelievable\/"
-        }
-      ],
-      "summary" : "AI safety conversations have gotten unbelievable. This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
-      "summary_method" : "source-extract",
-      "title" : "AI safety conversations have gotten unbelievable",
-      "topics" : [
-        "Safety"
-      ]
-    },
-    {
       "confidence" : "high",
       "consolidation" : {
         "latest_source_at" : "2026-09-22T11:01:00Z",
@@ -188,6 +166,39 @@
       "title" : "Amazon blocks Meta’s Muse AI agent",
       "topics" : [
         "Agents"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-09-21T14:39:22Z",
+        "message_count" : 2,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
+      "created_at" : "2026-09-21T14:39:22Z",
+      "id" : "2026-09-22-284a5b9e178f",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/21\/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini\/"
+        },
+        {
+          "source_name" : "TLDR AI",
+          "title" : "Muse connectors 🤖, Meta SAM 3.1 🖼️, Gemini hacks companies 🔓",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-09-21"
+        }
+      ],
+      "summary" : "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
+      "summary_method" : "source-extract",
+      "title" : "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+      "topics" : [
+        "Gemini"
       ]
     },
     {
@@ -237,28 +248,6 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-09-21T13:36:52Z",
-      "id" : "2026-09-22-976d7dd4e649",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
-          "url" : "https:\/\/www.theverge.com\/tech\/998191\/apple-siri-ai-iphone-16-class-action-lawsuit-settlement"
-        }
-      ],
-      "summary" : "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 model between June 10th, 2024, and March 29th, 2025, you can file a claim on the settlement's website , as reported earlier by MacRumors .",
-      "summary_method" : "source-extract",
-      "title" : "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-09-21T23:44:28Z",
       "id" : "2026-09-22-a0d157959930",
       "importance" : "low",
@@ -278,34 +267,57 @@
       "topics" : [
         "AI"
       ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-21T17:55:18Z",
+      "id" : "2026-09-22-de17611ec313",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Meta’s AI agent has been blocked from using Amazon.com",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/21\/metas-ai-agent-has-been-blocked-from-using-amazon-com\/"
+        }
+      ],
+      "summary" : "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet.",
+      "summary_method" : "source-extract",
+      "title" : "Meta’s AI agent has been blocked from using Amazon.com",
+      "topics" : [
+        "Agents",
+        "Inference"
+      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 5,
+    "source_count" : 6,
     "summary" : "• Higgsfield AI ships new video features in a day with GPT-6 Astra\n• OpenAI forms math advisory group as its AI resolves more than 100 open problems\n• Meta’s Muse is outpacing ChatGPT’s early mobile launch",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-22",
-  "generated_at" : "2026-09-22T12:05:02Z",
+  "generated_at" : "2026-09-22T14:02:01Z",
   "processing_report" : {
-    "generated_at" : "2026-09-22T12:05:07Z",
+    "generated_at" : "2026-09-22T14:02:06Z",
     "high_card_count" : 1,
     "source_reports" : [
       {
-        "article_count" : 9,
+        "article_count" : 10,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-09-19T00:40:58Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-22T12:05:07Z",
+        "processed_at" : "2026-09-22T14:02:06Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-22T12:05:05Z",
+        "processed_at" : "2026-09-22T14:02:04Z",
         "state" : "processed"
       },
       {
@@ -313,7 +325,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-22T12:05:04Z",
+        "processed_at" : "2026-09-22T14:02:03Z",
         "state" : "processed"
       },
       {
@@ -321,7 +333,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-09-22T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-22T12:05:04Z",
+        "processed_at" : "2026-09-22T14:02:04Z",
         "state" : "processed"
       },
       {
@@ -329,7 +341,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-09-18T20:26:33Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-22T12:05:03Z",
+        "processed_at" : "2026-09-22T14:02:03Z",
         "state" : "processed"
       },
       {
@@ -337,7 +349,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-18T14:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-22T12:05:03Z",
+        "processed_at" : "2026-09-22T14:02:02Z",
         "state" : "processed"
       },
       {
@@ -345,7 +357,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-15T17:05:57Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-22T12:05:03Z",
+        "processed_at" : "2026-09-22T14:02:03Z",
         "state" : "processed"
       },
       {
@@ -353,7 +365,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-09-22T00:00:00Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-22T12:05:03Z",
+        "processed_at" : "2026-09-22T14:02:02Z",
         "state" : "processed"
       },
       {
@@ -361,7 +373,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-09-22T06:30:56Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-22T12:05:06Z",
+        "processed_at" : "2026-09-22T14:02:05Z",
         "state" : "processed"
       },
       {
@@ -369,7 +381,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-17T14:00:05Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-22T12:05:03Z",
+        "processed_at" : "2026-09-22T14:02:02Z",
         "state" : "processed"
       },
       {
@@ -377,7 +389,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-16T12:00:00Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-22T12:05:03Z",
+        "processed_at" : "2026-09-22T14:02:03Z",
         "state" : "processed"
       },
       {
@@ -385,7 +397,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-09-18T17:54:32Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-22T12:05:03Z",
+        "processed_at" : "2026-09-22T14:02:02Z",
         "state" : "processed"
       },
       {
@@ -393,7 +405,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-09-21T12:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-22T12:05:03Z",
+        "processed_at" : "2026-09-22T14:02:02Z",
         "state" : "processed"
       },
       {
@@ -401,31 +413,31 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-09-22T11:20:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-22T12:05:05Z",
+        "processed_at" : "2026-09-22T14:02:04Z",
         "state" : "processed"
       },
       {
         "article_count" : 18,
         "id" : "tldr-ai",
-        "latest_article_at" : "2026-09-21T00:00:00Z",
+        "latest_article_at" : "2026-09-22T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-22T12:05:03Z",
-        "state" : "processed"
-      },
-      {
-        "article_count" : 13,
-        "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-09-21T23:44:28Z",
-        "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-22T12:05:02Z",
+        "processed_at" : "2026-09-22T14:02:02Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
+        "id" : "techcrunch-ai",
+        "latest_article_at" : "2026-09-22T12:23:05Z",
+        "name" : "TechCrunch AI",
+        "processed_at" : "2026-09-22T14:02:02Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 12,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-09-22T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-22T12:05:06Z",
+        "processed_at" : "2026-09-22T14:02:05Z",
         "state" : "processed"
       },
       {
@@ -433,14 +445,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-21T19:55:12Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-22T12:05:03Z",
+        "processed_at" : "2026-09-22T14:02:03Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-22T12:05:05Z",
+        "processed_at" : "2026-09-22T14:02:04Z",
         "state" : "processed"
       },
       {
@@ -448,7 +460,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-09-22T11:53:58Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-22T12:05:03Z",
+        "processed_at" : "2026-09-22T14:02:02Z",
         "state" : "processed"
       }
     ],
