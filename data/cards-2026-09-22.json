@@ -24,29 +24,6 @@
       ]
     },
     {
-      "confidence" : "high",
-      "created_at" : "2026-09-21T10:00:00Z",
-      "id" : "2026-09-22-04b1ff7371e1",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Building standards for the next phase of AI",
-          "url" : "https:\/\/openai.com\/index\/building-standards-next-phase-ai"
-        }
-      ],
-      "summary" : "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-      "summary_method" : "source-extract",
-      "title" : "Building standards for the next phase of AI",
-      "topics" : [
-        "Benchmarks",
-        "Safety"
-      ]
-    },
-    {
       "confidence" : "medium",
       "created_at" : "2026-09-21T20:15:58Z",
       "id" : "2026-09-22-b3113457b340",
@@ -111,6 +88,29 @@
       "title" : "Xiaomi MiMo-V2.6-Pro 1T-A42B: the new top Open Weights model, trained for $3M",
       "topics" : [
         "Image Models"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-09-21T10:00:00Z",
+      "id" : "2026-09-22-04b1ff7371e1",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Building standards for the next phase of AI",
+          "url" : "https:\/\/openai.com\/index\/building-standards-next-phase-ai"
+        }
+      ],
+      "summary" : "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+      "summary_method" : "source-extract",
+      "title" : "Building standards for the next phase of AI",
+      "topics" : [
+        "Benchmarks",
+        "Safety"
       ]
     },
     {
@@ -225,28 +225,6 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-09-21T09:21:47Z",
-      "id" : "2026-09-22-079fc2b9f2c0",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Amazon blocks Meta’s Muse AI agent",
-          "url" : "https:\/\/www.theverge.com\/tech\/998078\/amazon-blocks-meta-muse-ai-agent-shopping"
-        }
-      ],
-      "summary" : "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" According to GeekWire , Meta didn't notify Amazon that Muse would access its store.",
-      "summary_method" : "source-extract",
-      "title" : "Amazon blocks Meta’s Muse AI agent",
-      "topics" : [
-        "Agents"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-09-21T23:44:28Z",
       "id" : "2026-09-22-a0d157959930",
       "importance" : "low",
@@ -266,34 +244,57 @@
       "topics" : [
         "AI"
       ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-21T17:55:18Z",
+      "id" : "2026-09-22-de17611ec313",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Meta’s AI agent has been blocked from using Amazon.com",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/21\/metas-ai-agent-has-been-blocked-from-using-amazon-com\/"
+        }
+      ],
+      "summary" : "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet.",
+      "summary_method" : "source-extract",
+      "title" : "Meta’s AI agent has been blocked from using Amazon.com",
+      "topics" : [
+        "Agents",
+        "Inference"
+      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 4,
-    "summary" : "• Higgsfield AI ships new video features in a day with GPT-6 Astra\n• Building standards for the next phase of AI\n• OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+    "summary" : "• Higgsfield AI ships new video features in a day with GPT-6 Astra\n• OpenAI forms math advisory group as its AI resolves more than 100 open problems\n• Meta’s Muse is outpacing ChatGPT’s early mobile launch",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-22",
-  "generated_at" : "2026-09-22T08:05:16Z",
+  "generated_at" : "2026-09-22T10:02:29Z",
   "processing_report" : {
-    "generated_at" : "2026-09-22T08:05:21Z",
+    "generated_at" : "2026-09-22T10:02:34Z",
     "high_card_count" : 1,
     "source_reports" : [
       {
-        "article_count" : 5,
+        "article_count" : 10,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-09-19T00:40:58Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-22T08:05:21Z",
+        "processed_at" : "2026-09-22T10:02:34Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 12,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-22T08:05:20Z",
+        "processed_at" : "2026-09-22T10:02:32Z",
         "state" : "processed"
       },
       {
@@ -301,15 +302,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-22T08:05:18Z",
+        "processed_at" : "2026-09-22T10:02:30Z",
         "state" : "processed"
       },
       {
-        "article_count" : 3,
+        "article_count" : 4,
         "id" : "aireport-nl",
-        "latest_article_at" : "2026-09-19T09:00:00Z",
+        "latest_article_at" : "2026-09-22T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-22T08:05:19Z",
+        "processed_at" : "2026-09-22T10:02:31Z",
         "state" : "processed"
       },
       {
@@ -317,7 +318,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-09-18T20:26:33Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-22T08:05:18Z",
+        "processed_at" : "2026-09-22T10:02:30Z",
         "state" : "processed"
       },
       {
@@ -325,7 +326,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-18T14:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-22T08:05:17Z",
+        "processed_at" : "2026-09-22T10:02:29Z",
         "state" : "processed"
       },
       {
@@ -333,7 +334,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-15T17:05:57Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-22T08:05:18Z",
+        "processed_at" : "2026-09-22T10:02:30Z",
         "state" : "processed"
       },
       {
@@ -341,7 +342,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-09-22T00:00:00Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-22T08:05:17Z",
+        "processed_at" : "2026-09-22T10:02:30Z",
         "state" : "processed"
       },
       {
@@ -349,7 +350,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-09-22T06:30:56Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-22T08:05:20Z",
+        "processed_at" : "2026-09-22T10:02:32Z",
         "state" : "processed"
       },
       {
@@ -357,7 +358,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-17T14:00:05Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-22T08:05:18Z",
+        "processed_at" : "2026-09-22T10:02:29Z",
         "state" : "processed"
       },
       {
@@ -365,7 +366,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-16T12:00:00Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-22T08:05:17Z",
+        "processed_at" : "2026-09-22T10:02:30Z",
         "state" : "processed"
       },
       {
@@ -373,7 +374,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-09-18T17:54:32Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-22T08:05:17Z",
+        "processed_at" : "2026-09-22T10:02:29Z",
         "state" : "processed"
       },
       {
@@ -381,7 +382,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-09-21T12:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-22T08:05:17Z",
+        "processed_at" : "2026-09-22T10:02:30Z",
         "state" : "processed"
       },
       {
@@ -389,7 +390,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-09-21T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-22T08:05:20Z",
+        "processed_at" : "2026-09-22T10:02:31Z",
         "state" : "processed"
       },
       {
@@ -397,7 +398,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-09-21T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-22T08:05:17Z",
+        "processed_at" : "2026-09-22T10:02:29Z",
         "state" : "processed"
       },
       {
@@ -405,7 +406,7 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-09-21T23:44:28Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-22T08:05:17Z",
+        "processed_at" : "2026-09-22T10:02:29Z",
         "state" : "processed"
       },
       {
@@ -413,7 +414,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-09-21T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-22T08:05:20Z",
+        "processed_at" : "2026-09-22T10:02:32Z",
         "state" : "processed"
       },
       {
@@ -421,14 +422,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-21T19:55:12Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-22T08:05:18Z",
+        "processed_at" : "2026-09-22T10:02:30Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-22T08:05:19Z",
+        "processed_at" : "2026-09-22T10:02:31Z",
         "state" : "processed"
       },
       {
@@ -436,7 +437,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-09-21T20:29:45Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-22T08:05:17Z",
+        "processed_at" : "2026-09-22T10:02:29Z",
         "state" : "processed"
       }
     ],
