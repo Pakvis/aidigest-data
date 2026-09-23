@@ -3,6 +3,46 @@
     {
       "confidence" : "high",
       "consolidation" : {
+        "latest_source_at" : "2026-09-23T06:41:41Z",
+        "message_count" : 3,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 3
+      },
+      "created_at" : "2026-09-23T06:41:41Z",
+      "id" : "2026-09-23-80ca8d19c788",
+      "importance" : "high",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-claude-opus-55-the-new-default"
+        },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/22\/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance\/"
+        },
+        {
+          "source_name" : "TLDR AI",
+          "title" : "Opus 5.5 imminent ⏳, Grok 4.7 🚀, MiMo v2.6 🤖",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-09-22"
+        }
+      ],
+      "summary" : "Cline reports Opus 5.5 beats Fable 5.1 on the Artificial Analysis Intelligence Index at about 2.5x lower cost ( @cline ).",
+      "summary_method" : "source-extract",
+      "title" : "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "topics" : [
+        "Anthropic",
+        "Pricing",
+        "Claude"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "consolidation" : {
         "latest_source_at" : "2026-09-22T18:00:00Z",
         "message_count" : 2,
         "reason" : "Multiple sources reported the same story.",
@@ -171,28 +211,6 @@
       ]
     },
     {
-      "confidence" : "medium",
-      "created_at" : "2026-09-22T06:30:56Z",
-      "id" : "2026-09-23-5f136c524987",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "Xiaomi MiMo-V2.6-Pro 1T-A42B: the new top Open Weights model, trained for $3M",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-xiaomi-mimo-v26-pro-1t-a42b"
-        }
-      ],
-      "summary" : "Xiaomi MiMo-V2.6 and RL as the New Scaling Lever MiMo-V2.6 is the biggest open-model release in the set : @XiaomiMiMo launched MiMo-V2.6 Pro and Flash , described as open omnimodal models with weights, technical report, RL environments, and training code. Artificial Analysis says MiMo-V2.6-Pro debuts as the top open-weights model on its Intelligence Index (46) , with 1.02T total \/ 42B active parameters and strong cost efficiency at $0.435\/M input and $0.87\/M output tokens.",
-      "summary_method" : "source-extract",
-      "title" : "Xiaomi MiMo-V2.6-Pro 1T-A42B: the new top Open Weights model, trained for $3M",
-      "topics" : [
-        "Image Models"
-      ]
-    },
-    {
       "confidence" : "high",
       "created_at" : "2026-09-22T00:00:00Z",
       "id" : "2026-09-23-e8be3ebd6086",
@@ -238,28 +256,6 @@
       ]
     },
     {
-      "confidence" : "high",
-      "created_at" : "2026-09-21T07:00:00Z",
-      "id" : "2026-09-23-53a596b61f67",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Expanding OpenAI Academy with new learning paths",
-          "url" : "https:\/\/openai.com\/index\/expanding-openai-academy-with-new-learning-paths"
-        }
-      ],
-      "summary" : "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
-      "summary_method" : "source-extract",
-      "title" : "Expanding OpenAI Academy with new learning paths",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
       "confidence" : "medium",
       "created_at" : "2026-09-21T20:15:58Z",
       "id" : "2026-09-23-d70eb8f705f6",
@@ -280,34 +276,57 @@
       "topics" : [
         "Research"
       ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-21T19:19:21Z",
+      "id" : "2026-09-23-76a7a4b914f5",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/21\/metas-muse-is-outpacing-chatgpts-early-mobile-launch\/"
+        }
+      ],
+      "summary" : "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+      "summary_method" : "source-extract",
+      "title" : "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "topics" : [
+        "ChatGPT",
+        "Agents"
+      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 4,
-    "summary" : "• Introducing GPT-6 Sol and Luna\n• Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity\n• Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "source_count" : 5,
+    "summary" : "• Anthropic releases Opus 5.5 with lower prices and Fable-level performance\n• Introducing GPT-6 Sol and Luna\n• Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-23",
-  "generated_at" : "2026-09-23T06:03:58Z",
+  "generated_at" : "2026-09-23T08:01:27Z",
   "processing_report" : {
-    "generated_at" : "2026-09-23T06:04:02Z",
-    "high_card_count" : 3,
+    "generated_at" : "2026-09-23T08:01:33Z",
+    "high_card_count" : 4,
     "source_reports" : [
       {
         "article_count" : 10,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-09-19T00:40:58Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-23T06:04:02Z",
+        "processed_at" : "2026-09-23T08:01:33Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-23T06:04:00Z",
+        "processed_at" : "2026-09-23T08:01:31Z",
         "state" : "processed"
       },
       {
@@ -315,15 +334,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-23T06:03:59Z",
+        "processed_at" : "2026-09-23T08:01:29Z",
         "state" : "processed"
       },
       {
-        "article_count" : 4,
+        "article_count" : 3,
         "id" : "aireport-nl",
         "latest_article_at" : "2026-09-22T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-23T06:04:00Z",
+        "processed_at" : "2026-09-23T08:01:30Z",
         "state" : "processed"
       },
       {
@@ -331,7 +350,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-09-22T19:45:47Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-23T06:03:59Z",
+        "processed_at" : "2026-09-23T08:01:29Z",
         "state" : "processed"
       },
       {
@@ -339,7 +358,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-18T14:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-23T06:03:58Z",
+        "processed_at" : "2026-09-23T08:01:28Z",
         "state" : "processed"
       },
       {
@@ -347,7 +366,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-15T17:05:57Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-23T06:03:59Z",
+        "processed_at" : "2026-09-23T08:01:29Z",
         "state" : "processed"
       },
       {
@@ -355,15 +374,15 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-09-22T00:00:00Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-23T06:03:59Z",
+        "processed_at" : "2026-09-23T08:01:29Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "latent-space",
-        "latest_article_at" : "2026-09-22T21:07:39Z",
+        "latest_article_at" : "2026-09-23T06:41:41Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-23T06:04:01Z",
+        "processed_at" : "2026-09-23T08:01:31Z",
         "state" : "processed"
       },
       {
@@ -371,7 +390,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-17T14:00:05Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-23T06:03:59Z",
+        "processed_at" : "2026-09-23T08:01:28Z",
         "state" : "processed"
       },
       {
@@ -379,7 +398,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-16T12:00:00Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-23T06:03:59Z",
+        "processed_at" : "2026-09-23T08:01:29Z",
         "state" : "processed"
       },
       {
@@ -387,7 +406,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-09-18T17:54:32Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-23T06:03:58Z",
+        "processed_at" : "2026-09-23T08:01:28Z",
         "state" : "processed"
       },
       {
@@ -395,7 +414,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-09-22T21:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-23T06:03:59Z",
+        "processed_at" : "2026-09-23T08:01:29Z",
         "state" : "processed"
       },
       {
@@ -403,7 +422,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-09-22T11:20:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-23T06:04:00Z",
+        "processed_at" : "2026-09-23T08:01:30Z",
         "state" : "processed"
       },
       {
@@ -411,7 +430,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-09-22T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-23T06:03:59Z",
+        "processed_at" : "2026-09-23T08:01:28Z",
         "state" : "processed"
       },
       {
@@ -419,15 +438,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-09-23T04:59:08Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-23T06:03:58Z",
+        "processed_at" : "2026-09-23T08:01:28Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 11,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-09-22T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-23T06:04:01Z",
+        "processed_at" : "2026-09-23T08:01:32Z",
         "state" : "processed"
       },
       {
@@ -435,14 +454,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-21T19:55:12Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-23T06:03:59Z",
+        "processed_at" : "2026-09-23T08:01:29Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-23T06:04:00Z",
+        "processed_at" : "2026-09-23T08:01:31Z",
         "state" : "processed"
       },
       {
@@ -450,7 +469,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-09-23T00:17:17Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-23T06:03:58Z",
+        "processed_at" : "2026-09-23T08:01:28Z",
         "state" : "processed"
       }
     ],
