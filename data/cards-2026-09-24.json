@@ -2,29 +2,6 @@
   "cards" : [
     {
       "confidence" : "medium",
-      "created_at" : "2026-09-24T11:52:32Z",
-      "id" : "2026-09-24-77ad05294672",
-      "importance" : "high",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "OpenAI agents hacked an Australian government website in search for data",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/999874\/openai-agents-hacked-an-australian-government-website-in-search-for-data"
-        }
-      ],
-      "summary" : "| Getty Images OpenAI's artificial intelligence agents hacked an Australian government website and attempted to breach numerous other government and university websites. The attack appears to be the first confirmed instance of a rogue AI agent breaching a government website, adding fuel to rapidly intensifying concerns about the safety of advanced AI systems and the responsibility of the companies building them.",
-      "summary_method" : "source-extract",
-      "title" : "OpenAI agents hacked an Australian government website in search for data",
-      "topics" : [
-        "Agents",
-        "Image Models"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-09-24T12:54:19Z",
       "id" : "2026-09-24-4132ddb65c0c",
       "importance" : "high",
@@ -126,23 +103,23 @@
       ]
     },
     {
-      "confidence" : "high",
-      "created_at" : "2026-09-23T18:00:00Z",
-      "id" : "2026-09-24-92c7845c2ce1",
+      "confidence" : "medium",
+      "created_at" : "2026-09-24T17:00:00Z",
+      "id" : "2026-09-24-e3202a2eb63b",
       "importance" : "medium",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "Google AI Blog",
-          "title" : "Google Beam expands with new regions, partners, and customers",
-          "url" : "https:\/\/blog.google\/innovation-and-ai\/technology\/research\/google-beam-expansion\/"
+          "source_name" : "The Verge AI",
+          "title" : "It’s sinister that Meta’s Muse AI mascot is so cute",
+          "url" : "https:\/\/www.theverge.com\/column\/999999\/optimizer-meta-muse-ai-cute"
         }
       ],
-      "summary" : "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
+      "summary" : "| Photo by Sean Hollister \/ The Verge This is Optimizer , a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life.",
       "summary_method" : "source-extract",
-      "title" : "Google Beam expands with new regions, partners, and customers",
+      "title" : "It’s sinister that Meta’s Muse AI mascot is so cute",
       "topics" : [
         "AI"
       ]
@@ -279,34 +256,56 @@
       "topics" : [
         "Safety"
       ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-09-23T10:00:00Z",
+      "id" : "2026-09-24-ea18b987e49c",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Introducing MentalHealthBench",
+          "url" : "https:\/\/openai.com\/index\/introducing-mentalhealthbench"
+        }
+      ],
+      "summary" : "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
+      "summary_method" : "source-extract",
+      "title" : "Introducing MentalHealthBench",
+      "topics" : [
+        "Benchmarks"
+      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 7,
-    "summary" : "• OpenAI agents hacked an Australian government website in search for data\n• Australia to investigate if OpenAI hack of government health website broke the law\n• Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%",
+    "source_count" : 6,
+    "summary" : "• Australia to investigate if OpenAI hack of government health website broke the law\n• Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%\n• Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-24",
-  "generated_at" : "2026-09-24T16:04:42Z",
+  "generated_at" : "2026-09-24T18:03:06Z",
   "processing_report" : {
-    "generated_at" : "2026-09-24T16:04:47Z",
-    "high_card_count" : 5,
+    "generated_at" : "2026-09-24T18:03:13Z",
+    "high_card_count" : 4,
     "source_reports" : [
       {
-        "article_count" : 8,
+        "article_count" : 3,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-09-23T13:49:15Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-24T16:04:47Z",
+        "processed_at" : "2026-09-24T18:03:12Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 10,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-24T16:04:45Z",
+        "processed_at" : "2026-09-24T18:03:10Z",
         "state" : "processed"
       },
       {
@@ -314,15 +313,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-24T16:04:44Z",
-        "state" : "processed"
-      },
-      {
-        "article_count" : 5,
-        "id" : "aireport-nl",
-        "latest_article_at" : "2026-09-24T10:00:00Z",
-        "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-24T16:04:46Z",
+        "processed_at" : "2026-09-24T18:03:08Z",
         "state" : "processed"
       },
       {
@@ -330,7 +321,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-09-22T19:45:47Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-24T16:04:44Z",
+        "processed_at" : "2026-09-24T18:03:08Z",
         "state" : "processed"
       },
       {
@@ -338,15 +329,15 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-23T18:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-24T16:04:43Z",
+        "processed_at" : "2026-09-24T18:03:07Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "deepmind-blog",
-        "latest_article_at" : "2026-09-23T16:00:57Z",
+        "latest_article_at" : "2026-09-24T16:20:39Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-24T16:04:43Z",
+        "processed_at" : "2026-09-24T18:03:07Z",
         "state" : "processed"
       },
       {
@@ -354,7 +345,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-09-24T14:08:57Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-24T16:04:43Z",
+        "processed_at" : "2026-09-24T18:03:08Z",
         "state" : "processed"
       },
       {
@@ -362,7 +353,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-09-24T15:03:16Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-24T16:04:46Z",
+        "processed_at" : "2026-09-24T18:03:10Z",
         "state" : "processed"
       },
       {
@@ -370,7 +361,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-17T14:00:05Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-24T16:04:43Z",
+        "processed_at" : "2026-09-24T18:03:07Z",
         "state" : "processed"
       },
       {
@@ -378,7 +369,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-16T12:00:00Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-24T16:04:43Z",
+        "processed_at" : "2026-09-24T18:03:08Z",
         "state" : "processed"
       },
       {
@@ -386,7 +377,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-09-18T17:54:32Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-24T16:04:43Z",
+        "processed_at" : "2026-09-24T18:03:07Z",
         "state" : "processed"
       },
       {
@@ -394,15 +385,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-09-23T16:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-24T16:04:43Z",
+        "processed_at" : "2026-09-24T18:03:08Z",
         "state" : "processed"
       },
       {
-        "article_count" : 8,
+        "article_count" : 7,
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-09-24T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-24T16:04:45Z",
+        "processed_at" : "2026-09-24T18:03:10Z",
         "state" : "processed"
       },
       {
@@ -410,23 +401,23 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-09-24T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-24T16:04:43Z",
+        "processed_at" : "2026-09-24T18:03:07Z",
         "state" : "processed"
       },
       {
-        "article_count" : 15,
+        "article_count" : 14,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-09-24T16:00:00Z",
+        "latest_article_at" : "2026-09-24T17:00:00Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-24T16:04:43Z",
+        "processed_at" : "2026-09-24T18:03:07Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 8,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-09-24T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-24T16:04:46Z",
+        "processed_at" : "2026-09-24T18:03:13Z",
         "state" : "processed"
       },
       {
@@ -434,23 +425,31 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-21T19:55:12Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-24T16:04:44Z",
+        "processed_at" : "2026-09-24T18:03:08Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-24T16:04:46Z",
+        "processed_at" : "2026-09-24T18:03:09Z",
         "state" : "processed"
       },
       {
-        "article_count" : 7,
+        "article_count" : 6,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-09-24T16:04:31Z",
+        "latest_article_at" : "2026-09-24T17:52:29Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-24T16:04:43Z",
+        "processed_at" : "2026-09-24T18:03:07Z",
         "state" : "processed"
+      },
+      {
+        "article_count" : 0,
+        "id" : "aireport-nl",
+        "message" : "Source returned no usable AI articles.",
+        "name" : "AI Report (NL)",
+        "processed_at" : "2026-09-24T18:03:11Z",
+        "state" : "empty"
       }
     ],
     "state" : "complete"
