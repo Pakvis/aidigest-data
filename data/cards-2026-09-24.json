@@ -3,6 +3,39 @@
     {
       "confidence" : "high",
       "consolidation" : {
+        "latest_source_at" : "2026-09-22T18:00:00Z",
+        "message_count" : 2,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
+      "created_at" : "2026-09-22T18:00:00Z",
+      "id" : "2026-09-24-ecfa78985e04",
+      "importance" : "high",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Introducing GPT-6 Sol and Luna",
+          "url" : "https:\/\/openai.com\/index\/introducing-gpt-6-sol-and-luna"
+        },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/22\/openai-launches-gpt-6-sol-and-luna\/"
+        }
+      ],
+      "summary" : "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+      "summary_method" : "source-extract",
+      "title" : "Introducing GPT-6 Sol and Luna",
+      "topics" : [
+        "GPT"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "consolidation" : {
         "latest_source_at" : "2026-09-23T06:41:41Z",
         "message_count" : 2,
         "reason" : "Multiple sources reported the same story.",
@@ -33,39 +66,6 @@
         "Claude",
         "APIs",
         "Benchmarks"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "consolidation" : {
-        "latest_source_at" : "2026-09-22T18:00:00Z",
-        "message_count" : 2,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
-      },
-      "created_at" : "2026-09-22T18:00:00Z",
-      "id" : "2026-09-24-ecfa78985e04",
-      "importance" : "high",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Introducing GPT-6 Sol and Luna",
-          "url" : "https:\/\/openai.com\/index\/introducing-gpt-6-sol-and-luna"
-        },
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/22\/openai-launches-gpt-6-sol-and-luna\/"
-        }
-      ],
-      "summary" : "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
-      "summary_method" : "source-extract",
-      "title" : "Introducing GPT-6 Sol and Luna",
-      "topics" : [
-        "GPT"
       ]
     },
     {
@@ -301,13 +301,13 @@
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 6,
-    "summary" : "• Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%\n• Introducing GPT-6 Sol and Luna\n• Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "summary" : "• Introducing GPT-6 Sol and Luna\n• Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%\n• Higgsfield AI ships new video features in a day with GPT-6 Astra",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-24",
-  "generated_at" : "2026-09-24T06:04:04Z",
+  "generated_at" : "2026-09-24T08:02:12Z",
   "processing_report" : {
-    "generated_at" : "2026-09-24T06:04:09Z",
+    "generated_at" : "2026-09-24T08:02:16Z",
     "high_card_count" : 3,
     "source_reports" : [
       {
@@ -315,14 +315,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-09-23T13:49:15Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-24T06:04:09Z",
+        "processed_at" : "2026-09-24T08:02:16Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-24T06:04:07Z",
+        "processed_at" : "2026-09-24T08:02:15Z",
         "state" : "processed"
       },
       {
@@ -330,7 +330,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-24T06:04:05Z",
+        "processed_at" : "2026-09-24T08:02:14Z",
         "state" : "processed"
       },
       {
@@ -338,7 +338,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-09-22T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-24T06:04:06Z",
+        "processed_at" : "2026-09-24T08:02:15Z",
         "state" : "processed"
       },
       {
@@ -346,7 +346,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-09-22T19:45:47Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-24T06:04:05Z",
+        "processed_at" : "2026-09-24T08:02:14Z",
         "state" : "processed"
       },
       {
@@ -354,7 +354,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-23T18:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-24T06:04:05Z",
+        "processed_at" : "2026-09-24T08:02:13Z",
         "state" : "processed"
       },
       {
@@ -362,7 +362,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-23T16:00:57Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-24T06:04:05Z",
+        "processed_at" : "2026-09-24T08:02:13Z",
         "state" : "processed"
       },
       {
@@ -370,7 +370,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-09-23T18:41:40Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-24T06:04:05Z",
+        "processed_at" : "2026-09-24T08:02:13Z",
         "state" : "processed"
       },
       {
@@ -378,7 +378,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-09-23T13:27:18Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-24T06:04:07Z",
+        "processed_at" : "2026-09-24T08:02:16Z",
         "state" : "processed"
       },
       {
@@ -386,7 +386,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-17T14:00:05Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-24T06:04:05Z",
+        "processed_at" : "2026-09-24T08:02:13Z",
         "state" : "processed"
       },
       {
@@ -394,7 +394,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-16T12:00:00Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-24T06:04:05Z",
+        "processed_at" : "2026-09-24T08:02:13Z",
         "state" : "processed"
       },
       {
@@ -402,7 +402,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-09-18T17:54:32Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-24T06:04:05Z",
+        "processed_at" : "2026-09-24T08:02:13Z",
         "state" : "processed"
       },
       {
@@ -410,7 +410,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-09-23T16:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-24T06:04:05Z",
+        "processed_at" : "2026-09-24T08:02:13Z",
         "state" : "processed"
       },
       {
@@ -418,7 +418,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-09-23T11:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-24T06:04:07Z",
+        "processed_at" : "2026-09-24T08:02:15Z",
         "state" : "processed"
       },
       {
@@ -426,7 +426,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-09-23T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-24T06:04:05Z",
+        "processed_at" : "2026-09-24T08:02:13Z",
         "state" : "processed"
       },
       {
@@ -434,15 +434,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-09-24T01:13:32Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-24T06:04:04Z",
+        "processed_at" : "2026-09-24T08:02:13Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 11,
         "id" : "the-ai-report",
-        "latest_article_at" : "2026-09-23T11:01:00Z",
+        "latest_article_at" : "2026-09-22T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-24T06:04:07Z",
+        "processed_at" : "2026-09-24T08:02:15Z",
         "state" : "processed"
       },
       {
@@ -450,14 +450,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-21T19:55:12Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-24T06:04:05Z",
+        "processed_at" : "2026-09-24T08:02:14Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-24T06:04:06Z",
+        "processed_at" : "2026-09-24T08:02:16Z",
         "state" : "processed"
       },
       {
@@ -465,7 +465,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-09-24T00:15:20Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-24T06:04:04Z",
+        "processed_at" : "2026-09-24T08:02:13Z",
         "state" : "processed"
       }
     ],
