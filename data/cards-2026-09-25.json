@@ -58,40 +58,6 @@
     },
     {
       "confidence" : "high",
-      "consolidation" : {
-        "latest_source_at" : "2026-09-24T19:59:26Z",
-        "message_count" : 2,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
-      },
-      "created_at" : "2026-09-24T19:59:26Z",
-      "id" : "2026-09-25-d7e614dd981c",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-          "url" : "https:\/\/www.theverge.com\/tech\/1000328\/google-gemini-ai-live-avatar-face"
-        },
-        {
-          "source_name" : "TLDR AI",
-          "title" : "Gemini TTS 🗣️, Claude’s novel enzyme 🧬, Google private memory 🔒",
-          "url" : "https:\/\/tldr.tech\/ai\/2026-09-24"
-        }
-      ],
-      "summary" : "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers.",
-      "summary_method" : "source-extract",
-      "title" : "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-      "topics" : [
-        "Gemini",
-        "Claude"
-      ]
-    },
-    {
-      "confidence" : "high",
       "created_at" : "2026-09-23T01:00:00Z",
       "id" : "2026-09-25-de1574edc837",
       "importance" : "high",
@@ -133,28 +99,6 @@
       "title" : "Introducing the new Copilot with Home, Code and Autopilot",
       "topics" : [
         "Coding"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-24T18:04:44Z",
-      "id" : "2026-09-25-bf2ce320aacc",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Jensen Huang talks about AI and climate change like a supervillain",
-          "url" : "https:\/\/www.theverge.com\/tech\/1000140\/jensen-huang-nvidia-ai-energy-climate-change-supervillain"
-        }
-      ],
-      "summary" : "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first.",
-      "summary_method" : "source-extract",
-      "title" : "Jensen Huang talks about AI and climate change like a supervillain",
-      "topics" : [
-        "AI"
       ]
     },
     {
@@ -223,6 +167,62 @@
         "Claude",
         "APIs",
         "Benchmarks"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-09-24T19:59:26Z",
+        "message_count" : 2,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
+      "created_at" : "2026-09-24T19:59:26Z",
+      "id" : "2026-09-25-d7e614dd981c",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
+          "url" : "https:\/\/www.theverge.com\/tech\/1000328\/google-gemini-ai-live-avatar-face"
+        },
+        {
+          "source_name" : "TLDR AI",
+          "title" : "Gemini TTS 🗣️, Claude’s novel enzyme 🧬, Google private memory 🔒",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-09-24"
+        }
+      ],
+      "summary" : "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers.",
+      "summary_method" : "source-extract",
+      "title" : "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
+      "topics" : [
+        "Gemini",
+        "Claude"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-24T18:04:44Z",
+      "id" : "2026-09-25-bf2ce320aacc",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Jensen Huang talks about AI and climate change like a supervillain",
+          "url" : "https:\/\/www.theverge.com\/tech\/1000140\/jensen-huang-nvidia-ai-energy-climate-change-supervillain"
+        }
+      ],
+      "summary" : "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first.",
+      "summary_method" : "source-extract",
+      "title" : "Jensen Huang talks about AI and climate change like a supervillain",
+      "topics" : [
+        "AI"
       ]
     },
     {
@@ -296,28 +296,28 @@
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 7,
-    "summary" : "• Anthropic’s founders seek voting control ahead of IPO\n• ChatGPT Ads expands to Southeast Asia and Taiwan\n• Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
+    "summary" : "• Anthropic’s founders seek voting control ahead of IPO\n• ChatGPT Ads expands to Southeast Asia and Taiwan\n• Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-25",
-  "generated_at" : "2026-09-25T18:02:13Z",
+  "generated_at" : "2026-09-25T20:05:04Z",
   "processing_report" : {
-    "generated_at" : "2026-09-25T18:02:19Z",
+    "generated_at" : "2026-09-25T20:05:08Z",
     "high_card_count" : 3,
     "source_reports" : [
       {
-        "article_count" : 7,
+        "article_count" : 10,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-09-23T13:49:15Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-25T18:02:19Z",
+        "processed_at" : "2026-09-25T20:05:08Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-25T18:02:17Z",
+        "processed_at" : "2026-09-25T20:05:06Z",
         "state" : "processed"
       },
       {
@@ -325,23 +325,23 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-25T18:02:15Z",
+        "processed_at" : "2026-09-25T20:05:05Z",
         "state" : "processed"
       },
       {
-        "article_count" : 3,
+        "article_count" : 5,
         "id" : "aireport-nl",
         "latest_article_at" : "2026-09-24T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-25T18:02:16Z",
+        "processed_at" : "2026-09-25T20:05:06Z",
         "state" : "processed"
       },
       {
         "article_count" : 18,
         "id" : "ars-technica-ai",
-        "latest_article_at" : "2026-09-25T11:00:28Z",
+        "latest_article_at" : "2026-09-25T19:11:05Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-25T18:02:14Z",
+        "processed_at" : "2026-09-25T20:05:05Z",
         "state" : "processed"
       },
       {
@@ -349,7 +349,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-23T18:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-25T18:02:14Z",
+        "processed_at" : "2026-09-25T20:05:05Z",
         "state" : "processed"
       },
       {
@@ -357,7 +357,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-24T16:20:39Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-25T18:02:14Z",
+        "processed_at" : "2026-09-25T20:05:05Z",
         "state" : "processed"
       },
       {
@@ -365,7 +365,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-09-24T14:08:57Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-25T18:02:14Z",
+        "processed_at" : "2026-09-25T20:05:05Z",
         "state" : "processed"
       },
       {
@@ -373,7 +373,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-09-25T05:37:00Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-25T18:02:17Z",
+        "processed_at" : "2026-09-25T20:05:08Z",
         "state" : "processed"
       },
       {
@@ -381,7 +381,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-25T12:03:50Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-25T18:02:14Z",
+        "processed_at" : "2026-09-25T20:05:05Z",
         "state" : "processed"
       },
       {
@@ -389,7 +389,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-16T12:00:00Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-25T18:02:14Z",
+        "processed_at" : "2026-09-25T20:05:05Z",
         "state" : "processed"
       },
       {
@@ -397,7 +397,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-09-18T17:54:32Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-25T18:02:14Z",
+        "processed_at" : "2026-09-25T20:05:05Z",
         "state" : "processed"
       },
       {
@@ -405,7 +405,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-09-25T19:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-25T18:02:14Z",
+        "processed_at" : "2026-09-25T20:05:05Z",
         "state" : "processed"
       },
       {
@@ -413,7 +413,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-09-25T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-25T18:02:16Z",
+        "processed_at" : "2026-09-25T20:05:07Z",
         "state" : "processed"
       },
       {
@@ -421,15 +421,15 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-09-25T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-25T18:02:14Z",
+        "processed_at" : "2026-09-25T20:05:05Z",
         "state" : "processed"
       },
       {
-        "article_count" : 9,
+        "article_count" : 11,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-09-25T16:16:52Z",
+        "latest_article_at" : "2026-09-25T19:13:38Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-25T18:02:14Z",
+        "processed_at" : "2026-09-25T20:05:04Z",
         "state" : "processed"
       },
       {
@@ -437,7 +437,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-09-24T20:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-25T18:02:17Z",
+        "processed_at" : "2026-09-25T20:05:07Z",
         "state" : "processed"
       },
       {
@@ -445,14 +445,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-24T18:40:23Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-25T18:02:14Z",
+        "processed_at" : "2026-09-25T20:05:05Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-25T18:02:16Z",
+        "processed_at" : "2026-09-25T20:05:06Z",
         "state" : "processed"
       },
       {
@@ -460,7 +460,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-09-25T15:51:56Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-25T18:02:14Z",
+        "processed_at" : "2026-09-25T20:05:04Z",
         "state" : "processed"
       }
     ],
