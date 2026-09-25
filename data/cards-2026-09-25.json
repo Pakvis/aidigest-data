@@ -23,30 +23,6 @@
       ]
     },
     {
-      "confidence" : "medium",
-      "created_at" : "2026-09-23T06:41:41Z",
-      "id" : "2026-09-25-17350b89a70b",
-      "importance" : "high",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-claude-opus-55-the-new-default"
-        }
-      ],
-      "summary" : "HOWEVER something that is a rare emphasis in the Claude launch was the writing improvements : “It puts the most important information up front and follows the writing rules you give it, which makes long sessions easier to follow.” We can confirm - here is today’s AINews section run on Opus 5.5 and Sol 6 .",
-      "summary_method" : "source-extract",
-      "title" : "Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%",
-      "topics" : [
-        "Claude",
-        "APIs",
-        "Benchmarks"
-      ]
-    },
-    {
       "confidence" : "high",
       "consolidation" : {
         "latest_source_at" : "2026-09-24T19:59:26Z",
@@ -214,6 +190,30 @@
       ]
     },
     {
+      "confidence" : "medium",
+      "created_at" : "2026-09-23T06:41:41Z",
+      "id" : "2026-09-25-17350b89a70b",
+      "importance" : "high",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-claude-opus-55-the-new-default"
+        }
+      ],
+      "summary" : "HOWEVER something that is a rare emphasis in the Claude launch was the writing improvements : “It puts the most important information up front and follows the writing rules you give it, which makes long sessions easier to follow.” We can confirm - here is today’s AINews section run on Opus 5.5 and Sol 6 .",
+      "summary_method" : "source-extract",
+      "title" : "Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%",
+      "topics" : [
+        "Claude",
+        "APIs",
+        "Benchmarks"
+      ]
+    },
+    {
       "confidence" : "high",
       "created_at" : "2026-09-23T16:00:57Z",
       "id" : "2026-09-25-191c48a4475c",
@@ -284,28 +284,28 @@
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 6,
-    "summary" : "• Australia to investigate if OpenAI hack of government health website broke the law\n• Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%\n• Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
+    "summary" : "• Australia to investigate if OpenAI hack of government health website broke the law\n• Gemini 3.8 Live with Live Avatar gives Google’s AI a face\n• Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-25",
-  "generated_at" : "2026-09-25T06:00:22Z",
+  "generated_at" : "2026-09-25T08:03:11Z",
   "processing_report" : {
-    "generated_at" : "2026-09-25T06:00:28Z",
+    "generated_at" : "2026-09-25T08:03:18Z",
     "high_card_count" : 4,
     "source_reports" : [
       {
-        "article_count" : 5,
+        "article_count" : 4,
         "id" : "ai-breakfast",
-        "latest_article_at" : "2026-09-19T00:40:58Z",
+        "latest_article_at" : "2026-09-23T13:49:15Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-25T06:00:28Z",
+        "processed_at" : "2026-09-25T08:03:17Z",
         "state" : "processed"
       },
       {
         "article_count" : 10,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-25T06:00:26Z",
+        "processed_at" : "2026-09-25T08:03:15Z",
         "state" : "processed"
       },
       {
@@ -313,15 +313,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-25T06:00:24Z",
+        "processed_at" : "2026-09-25T08:03:12Z",
         "state" : "processed"
       },
       {
-        "article_count" : 4,
+        "article_count" : 5,
         "id" : "aireport-nl",
         "latest_article_at" : "2026-09-24T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-25T06:00:25Z",
+        "processed_at" : "2026-09-25T08:03:14Z",
         "state" : "processed"
       },
       {
@@ -329,7 +329,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-09-22T19:45:47Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-25T06:00:23Z",
+        "processed_at" : "2026-09-25T08:03:12Z",
         "state" : "processed"
       },
       {
@@ -337,7 +337,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-23T18:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-25T06:00:23Z",
+        "processed_at" : "2026-09-25T08:03:11Z",
         "state" : "processed"
       },
       {
@@ -345,7 +345,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-24T16:20:39Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-25T06:00:23Z",
+        "processed_at" : "2026-09-25T08:03:12Z",
         "state" : "processed"
       },
       {
@@ -353,7 +353,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-09-24T14:08:57Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-25T06:00:23Z",
+        "processed_at" : "2026-09-25T08:03:12Z",
         "state" : "processed"
       },
       {
@@ -361,7 +361,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-09-25T05:37:00Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-25T06:00:26Z",
+        "processed_at" : "2026-09-25T08:03:15Z",
         "state" : "processed"
       },
       {
@@ -369,7 +369,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-17T14:00:05Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-25T06:00:23Z",
+        "processed_at" : "2026-09-25T08:03:12Z",
         "state" : "processed"
       },
       {
@@ -377,7 +377,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-16T12:00:00Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-25T06:00:23Z",
+        "processed_at" : "2026-09-25T08:03:12Z",
         "state" : "processed"
       },
       {
@@ -385,7 +385,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-09-18T17:54:32Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-25T06:00:23Z",
+        "processed_at" : "2026-09-25T08:03:12Z",
         "state" : "processed"
       },
       {
@@ -393,15 +393,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-09-23T16:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-25T06:00:23Z",
+        "processed_at" : "2026-09-25T08:03:12Z",
         "state" : "processed"
       },
       {
-        "article_count" : 6,
+        "article_count" : 9,
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-09-24T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-25T06:00:27Z",
+        "processed_at" : "2026-09-25T08:03:14Z",
         "state" : "processed"
       },
       {
@@ -409,7 +409,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-09-24T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-25T06:00:23Z",
+        "processed_at" : "2026-09-25T08:03:12Z",
         "state" : "processed"
       },
       {
@@ -417,15 +417,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-09-25T05:00:00Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-25T06:00:23Z",
+        "processed_at" : "2026-09-25T08:03:11Z",
         "state" : "processed"
       },
       {
-        "article_count" : 9,
+        "article_count" : 4,
         "id" : "the-ai-report",
-        "latest_article_at" : "2026-09-24T20:01:00Z",
+        "latest_article_at" : "2026-09-18T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-25T06:00:27Z",
+        "processed_at" : "2026-09-25T08:03:18Z",
         "state" : "processed"
       },
       {
@@ -433,14 +433,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-24T18:40:23Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-25T06:00:23Z",
+        "processed_at" : "2026-09-25T08:03:12Z",
         "state" : "processed"
       },
       {
-        "article_count" : 8,
+        "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-25T06:00:26Z",
+        "processed_at" : "2026-09-25T08:03:14Z",
         "state" : "processed"
       },
       {
@@ -448,7 +448,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-09-24T19:59:26Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-25T06:00:23Z",
+        "processed_at" : "2026-09-25T08:03:11Z",
         "state" : "processed"
       }
     ],
