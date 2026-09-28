@@ -94,28 +94,6 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-09-25T16:16:52Z",
-      "id" : "2026-09-28-dc487911bb10",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Meta is putting its muscle behind Muse as the AI app takes off",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/25\/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off\/"
-        }
-      ],
-      "summary" : "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
-      "summary_method" : "source-extract",
-      "title" : "Meta is putting its muscle behind Muse as the AI app takes off",
-      "topics" : [
-        "Agents"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-09-25T23:14:41Z",
       "id" : "2026-09-28-0af83226fd98",
       "importance" : "medium",
@@ -136,6 +114,28 @@
         "Agents",
         "Anthropic",
         "Inference"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-28T14:05:00Z",
+      "id" : "2026-09-28-db6286fee0fa",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Modulate raises $25M for its voice models and analysis suite",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/28\/modulate-raises-25m-for-its-voice-models-and-analysis-suite\/"
+        }
+      ],
+      "summary" : "Modulate deploys its models to detect deepfake, fraud and scam.",
+      "summary_method" : "source-extract",
+      "title" : "Modulate raises $25M for its voice models and analysis suite",
+      "topics" : [
+        "AI"
       ]
     },
     {
@@ -225,72 +225,27 @@
       "topics" : [
         "Tooling"
       ]
-    },
-    {
-      "confidence" : "high",
-      "created_at" : "2026-09-25T19:00:00Z",
-      "id" : "2026-09-28-2e98e3177ff9",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Proaction boosts sales 60% and saves 75+ hours with Codex",
-          "url" : "https:\/\/openai.com\/index\/proaction"
-        }
-      ],
-      "summary" : "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-      "summary_method" : "source-extract",
-      "title" : "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "topics" : [
-        "GPT"
-      ]
     }
   ],
-  "count" : 11,
+  "count" : 10,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 4,
+    "source_count" : 3,
     "summary" : "• Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’\n• Engram is a sampler that turns broken AI hallucinations into music\n• OpenAI agents tried to ‘bruteforce’ a UN website",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-28",
-  "generated_at" : "2026-09-28T14:00:40Z",
+  "generated_at" : "2026-09-28T16:02:29Z",
   "processing_report" : {
-    "generated_at" : "2026-09-28T14:00:51Z",
+    "generated_at" : "2026-09-28T16:02:38Z",
     "high_card_count" : 0,
     "source_reports" : [
-      {
-        "article_count" : 4,
-        "id" : "ai-breakfast",
-        "latest_article_at" : "2026-09-23T13:49:15Z",
-        "name" : "AI Breakfast",
-        "processed_at" : "2026-09-28T14:00:51Z",
-        "state" : "processed"
-      },
-      {
-        "article_count" : 8,
-        "id" : "ai-daily-brief",
-        "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-28T14:00:45Z",
-        "state" : "processed"
-      },
       {
         "article_count" : 80,
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-28T14:00:42Z",
-        "state" : "processed"
-      },
-      {
-        "article_count" : 1,
-        "id" : "aireport-nl",
-        "latest_article_at" : "2026-09-19T09:00:00Z",
-        "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-28T14:00:43Z",
+        "processed_at" : "2026-09-28T16:02:30Z",
         "state" : "processed"
       },
       {
@@ -298,7 +253,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-09-25T19:11:05Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-28T14:00:42Z",
+        "processed_at" : "2026-09-28T16:02:30Z",
         "state" : "processed"
       },
       {
@@ -306,7 +261,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-23T18:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-28T14:00:41Z",
+        "processed_at" : "2026-09-28T16:02:29Z",
         "state" : "processed"
       },
       {
@@ -314,7 +269,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-24T16:20:39Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-28T14:00:42Z",
+        "processed_at" : "2026-09-28T16:02:30Z",
         "state" : "processed"
       },
       {
@@ -322,7 +277,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-09-28T09:44:05Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-28T14:00:42Z",
+        "processed_at" : "2026-09-28T16:02:30Z",
         "state" : "processed"
       },
       {
@@ -330,7 +285,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-09-25T23:14:41Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-28T14:00:45Z",
+        "processed_at" : "2026-09-28T16:02:33Z",
         "state" : "processed"
       },
       {
@@ -338,7 +293,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-25T12:03:50Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-28T14:00:41Z",
+        "processed_at" : "2026-09-28T16:02:30Z",
         "state" : "processed"
       },
       {
@@ -346,7 +301,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-16T12:00:00Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-28T14:00:42Z",
+        "processed_at" : "2026-09-28T16:02:30Z",
         "state" : "processed"
       },
       {
@@ -354,7 +309,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-09-18T17:54:32Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-28T14:00:41Z",
+        "processed_at" : "2026-09-28T16:02:29Z",
         "state" : "processed"
       },
       {
@@ -362,15 +317,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-09-25T19:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-28T14:00:42Z",
-        "state" : "processed"
-      },
-      {
-        "article_count" : 3,
-        "id" : "superhuman-ai",
-        "latest_article_at" : "2026-09-24T11:02:57Z",
-        "name" : "Superhuman AI",
-        "processed_at" : "2026-09-28T14:00:45Z",
+        "processed_at" : "2026-09-28T16:02:30Z",
         "state" : "processed"
       },
       {
@@ -378,23 +325,23 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-09-28T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-28T14:00:41Z",
+        "processed_at" : "2026-09-28T16:02:30Z",
         "state" : "processed"
       },
       {
-        "article_count" : 13,
+        "article_count" : 12,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-09-28T14:00:00Z",
+        "latest_article_at" : "2026-09-28T15:30:00Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-28T14:00:41Z",
+        "processed_at" : "2026-09-28T16:02:29Z",
         "state" : "processed"
       },
       {
-        "article_count" : 8,
+        "article_count" : 4,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-09-24T20:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-28T14:00:46Z",
+        "processed_at" : "2026-09-28T16:02:33Z",
         "state" : "processed"
       },
       {
@@ -402,14 +349,7 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-24T18:40:23Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-28T14:00:42Z",
-        "state" : "processed"
-      },
-      {
-        "article_count" : 8,
-        "id" : "the-neuron-daily",
-        "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-28T14:00:45Z",
+        "processed_at" : "2026-09-28T16:02:30Z",
         "state" : "processed"
       },
       {
@@ -417,10 +357,50 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-09-28T13:36:06Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-28T14:00:41Z",
+        "processed_at" : "2026-09-28T16:02:30Z",
         "state" : "processed"
+      },
+      {
+        "article_count" : 0,
+        "id" : "ai-daily-brief",
+        "message" : "Source returned no usable AI articles.",
+        "name" : "AI Daily Brief",
+        "processed_at" : "2026-09-28T16:02:38Z",
+        "state" : "empty"
+      },
+      {
+        "article_count" : 0,
+        "id" : "aireport-nl",
+        "message" : "Source returned no usable AI articles.",
+        "name" : "AI Report (NL)",
+        "processed_at" : "2026-09-28T16:02:34Z",
+        "state" : "empty"
+      },
+      {
+        "article_count" : 0,
+        "id" : "ai-breakfast",
+        "message" : "HTTP 502 from aibreakfast.beehiiv.com",
+        "name" : "AI Breakfast",
+        "processed_at" : "2026-09-28T16:02:30Z",
+        "state" : "failed"
+      },
+      {
+        "article_count" : 0,
+        "id" : "superhuman-ai",
+        "message" : "HTTP 502 from www.superhuman.ai",
+        "name" : "Superhuman AI",
+        "processed_at" : "2026-09-28T16:02:30Z",
+        "state" : "failed"
+      },
+      {
+        "article_count" : 0,
+        "id" : "the-neuron-daily",
+        "message" : "HTTP 502 from www.theneurondaily.com",
+        "name" : "The Neuron Daily",
+        "processed_at" : "2026-09-28T16:02:29Z",
+        "state" : "failed"
       }
     ],
-    "state" : "complete"
+    "state" : "partial"
   }
 }
