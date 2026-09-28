@@ -116,6 +116,50 @@
     },
     {
       "confidence" : "medium",
+      "created_at" : "2026-09-28T19:33:57Z",
+      "id" : "2026-09-28-bc44149ecea4",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Shopify opens checkout to browser-based AI agents",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/28\/shopify-opens-checkout-to-browser-based-ai-agents\/"
+        }
+      ],
+      "summary" : "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
+      "summary_method" : "source-extract",
+      "title" : "Shopify opens checkout to browser-based AI agents",
+      "topics" : [
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-28T18:31:23Z",
+      "id" : "2026-09-28-504c09ccf190",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Nvidia launches new platform for reining in rogue AI agents",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/28\/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents\/"
+        }
+      ],
+      "summary" : "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem.",
+      "summary_method" : "source-extract",
+      "title" : "Nvidia launches new platform for reining in rogue AI agents",
+      "topics" : [
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "medium",
       "created_at" : "2026-09-27T17:21:07Z",
       "id" : "2026-09-28-f9e0f28ca92c",
       "importance" : "medium",
@@ -135,30 +179,6 @@
       "topics" : [
         "Agents",
         "Image Models"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-25T22:20:47Z",
-      "id" : "2026-09-28-9e39303643bf",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/25\/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge\/"
-        }
-      ],
-      "summary" : "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
-      "summary_method" : "source-extract",
-      "title" : "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "topics" : [
-        "Agents",
-        "Image Models",
-        "Research"
       ]
     },
     {
@@ -187,6 +207,28 @@
     },
     {
       "confidence" : "medium",
+      "created_at" : "2026-09-28T18:45:00Z",
+      "id" : "2026-09-28-3da80e2ad892",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "OpenAI’s AI agents need to catch up",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1001590\/openai-devday-2026-aeon-ai-agent"
+        }
+      ],
+      "summary" : "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents.",
+      "summary_method" : "source-extract",
+      "title" : "OpenAI’s AI agents need to catch up",
+      "topics" : [
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "medium",
       "created_at" : "2026-09-28T17:29:50Z",
       "id" : "2026-09-28-cc2512ab0a04",
       "importance" : "low",
@@ -207,31 +249,9 @@
         "Gemini",
         "Agents"
       ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-28T14:05:00Z",
-      "id" : "2026-09-28-db6286fee0fa",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Modulate raises $25M for its voice models and analysis suite",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/28\/modulate-raises-25m-for-its-voice-models-and-analysis-suite\/"
-        }
-      ],
-      "summary" : "Modulate deploys its models to detect deepfake, fraud and scam.",
-      "summary_method" : "source-extract",
-      "title" : "Modulate raises $25M for its voice models and analysis suite",
-      "topics" : [
-        "AI"
-      ]
     }
   ],
-  "count" : 10,
+  "count" : 11,
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 4,
@@ -239,24 +259,24 @@
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-28",
-  "generated_at" : "2026-09-28T18:04:00Z",
+  "generated_at" : "2026-09-28T20:01:08Z",
   "processing_report" : {
-    "generated_at" : "2026-09-28T18:04:04Z",
+    "generated_at" : "2026-09-28T20:01:13Z",
     "high_card_count" : 2,
     "source_reports" : [
       {
-        "article_count" : 8,
+        "article_count" : 7,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-09-28T17:45:37Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-28T18:04:04Z",
+        "processed_at" : "2026-09-28T20:01:13Z",
         "state" : "processed"
       },
       {
         "article_count" : 10,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-28T18:04:04Z",
+        "processed_at" : "2026-09-28T20:01:11Z",
         "state" : "processed"
       },
       {
@@ -264,7 +284,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-28T18:04:01Z",
+        "processed_at" : "2026-09-28T20:01:09Z",
         "state" : "processed"
       },
       {
@@ -272,7 +292,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-09-24T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-28T18:04:02Z",
+        "processed_at" : "2026-09-28T20:01:10Z",
         "state" : "processed"
       },
       {
@@ -280,15 +300,15 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-09-25T19:11:05Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-28T18:04:01Z",
+        "processed_at" : "2026-09-28T20:01:09Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "google-ai-blog",
-        "latest_article_at" : "2026-09-23T18:00:00Z",
+        "latest_article_at" : "2026-09-28T19:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-28T18:04:01Z",
+        "processed_at" : "2026-09-28T20:01:08Z",
         "state" : "processed"
       },
       {
@@ -296,7 +316,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-24T16:20:39Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-28T18:04:01Z",
+        "processed_at" : "2026-09-28T20:01:09Z",
         "state" : "processed"
       },
       {
@@ -304,7 +324,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-09-28T09:44:05Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-28T18:04:01Z",
+        "processed_at" : "2026-09-28T20:01:09Z",
         "state" : "processed"
       },
       {
@@ -312,7 +332,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-09-25T23:14:41Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-28T18:04:04Z",
+        "processed_at" : "2026-09-28T20:01:12Z",
         "state" : "processed"
       },
       {
@@ -320,7 +340,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-25T12:03:50Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-28T18:04:01Z",
+        "processed_at" : "2026-09-28T20:01:08Z",
         "state" : "processed"
       },
       {
@@ -328,7 +348,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-28T15:57:59Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-28T18:04:01Z",
+        "processed_at" : "2026-09-28T20:01:09Z",
         "state" : "processed"
       },
       {
@@ -336,7 +356,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-09-18T17:54:32Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-28T18:04:01Z",
+        "processed_at" : "2026-09-28T20:01:08Z",
         "state" : "processed"
       },
       {
@@ -344,7 +364,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-09-28T07:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-28T18:04:01Z",
+        "processed_at" : "2026-09-28T20:01:09Z",
         "state" : "processed"
       },
       {
@@ -352,7 +372,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-09-27T14:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-28T18:04:03Z",
+        "processed_at" : "2026-09-28T20:01:11Z",
         "state" : "processed"
       },
       {
@@ -360,15 +380,15 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-09-28T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-28T18:04:01Z",
+        "processed_at" : "2026-09-28T20:01:09Z",
         "state" : "processed"
       },
       {
-        "article_count" : 13,
+        "article_count" : 14,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-09-28T17:29:50Z",
+        "latest_article_at" : "2026-09-28T19:33:57Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-28T18:04:00Z",
+        "processed_at" : "2026-09-28T20:01:08Z",
         "state" : "processed"
       },
       {
@@ -376,7 +396,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-09-28T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-28T18:04:03Z",
+        "processed_at" : "2026-09-28T20:01:11Z",
         "state" : "processed"
       },
       {
@@ -384,22 +404,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-28T16:37:54Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-28T18:04:01Z",
+        "processed_at" : "2026-09-28T20:01:09Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-28T18:04:02Z",
+        "processed_at" : "2026-09-28T20:01:10Z",
         "state" : "processed"
       },
       {
-        "article_count" : 7,
+        "article_count" : 8,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-09-28T17:00:23Z",
+        "latest_article_at" : "2026-09-28T18:45:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-28T18:04:01Z",
+        "processed_at" : "2026-09-28T20:01:08Z",
         "state" : "processed"
       }
     ],
