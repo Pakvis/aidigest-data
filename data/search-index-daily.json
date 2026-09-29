@@ -1,23 +1,46 @@
 {
   "cards" : [
     {
-      "confidence" : "medium",
+      "confidence" : "high",
       "date" : "2026-09-29",
-      "id" : "2026-09-29-e506e9668801",
+      "id" : "2026-09-29-faa0f098c5d7",
       "importance" : "high",
       "sources" : [
         {
           "source_name" : "TechCrunch AI",
           "title" : "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
           "url" : "https:\/\/techcrunch.com\/2026\/09\/29\/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less\/"
+        },
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Introducing GPT-6.1 Sol",
+          "url" : "https:\/\/openai.com\/index\/introducing-gpt-6-1-sol"
         }
       ],
-      "summary" : "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows.",
-      "title" : "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+      "summary" : "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "title" : "Introducing GPT-6.1 Sol",
       "topics" : [
         "GPT",
-        "Coding",
-        "Workflows"
+        "APIs",
+        "Pricing"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-09-29",
+      "id" : "2026-09-29-ff5eb0906827",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Introducing dots",
+          "url" : "https:\/\/openai.com\/index\/introducing-dots"
+        }
+      ],
+      "summary" : "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "title" : "Introducing dots",
+      "topics" : [
+        "AI"
       ]
     },
     {
@@ -36,24 +59,6 @@
       "title" : "Opus 5.5 is good at explainer videos",
       "topics" : [
         "AI"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "date" : "2026-09-29",
-      "id" : "2026-09-29-5bf61e8aa7ed",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Towards safety cases for frontier AI training",
-          "url" : "https:\/\/openai.com\/index\/towards-safety-cases-for-frontier-ai-training"
-        }
-      ],
-      "summary" : "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents.",
-      "title" : "Towards safety cases for frontier AI training",
-      "topics" : [
-        "Safety"
       ]
     },
     {
@@ -77,6 +82,24 @@
     {
       "confidence" : "medium",
       "date" : "2026-09-29",
+      "id" : "2026-09-29-8d4adc83abc7",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "OpenAI DevDay 2026: The biggest news and announcements",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1001681\/openai-devday-2026-biggest-news-announcements"
+        }
+      ],
+      "summary" : "The company is hosting its annual DevDay on September 29th in San Francisco, and during a live keynote featuring CEO Sam Altman, it revealed several notable updates, including Dots , its AI agent product that rivals Meta’s recently-launched Muse.",
+      "title" : "OpenAI DevDay 2026: The biggest news and announcements",
+      "topics" : [
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-09-29",
       "id" : "2026-09-29-5642ef7ca888",
       "importance" : "medium",
       "sources" : [
@@ -91,6 +114,25 @@
       "topics" : [
         "Image Models",
         "Research"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-09-29",
+      "id" : "2026-09-29-5bf85f416c07",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/29\/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents\/"
+        }
+      ],
+      "summary" : "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+      "title" : "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+      "topics" : [
+        "Agents",
+        "Safety"
       ]
     },
     {
@@ -180,42 +222,6 @@
       ],
       "summary" : "The tech giant says the agent can help owners run their business and find new customers.",
       "title" : "Meta is expanding its AI agent Muse to small businesses",
-      "topics" : [
-        "Agents"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-09-29",
-      "id" : "2026-09-29-1e09f21069b2",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Shopify opens checkout to browser-based AI agents",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/28\/shopify-opens-checkout-to-browser-based-ai-agents\/"
-        }
-      ],
-      "summary" : "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
-      "title" : "Shopify opens checkout to browser-based AI agents",
-      "topics" : [
-        "Agents"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-09-29",
-      "id" : "2026-09-29-fca9962a70b4",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Nvidia launches new platform for reining in rogue AI agents",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/28\/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents\/"
-        }
-      ],
-      "summary" : "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out.",
-      "title" : "Nvidia launches new platform for reining in rogue AI agents",
       "topics" : [
         "Agents"
       ]

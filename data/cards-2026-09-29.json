@@ -1,9 +1,15 @@
 {
   "cards" : [
     {
-      "confidence" : "medium",
+      "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-09-29T17:15:00Z",
+        "message_count" : 2,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
       "created_at" : "2026-09-29T17:15:00Z",
-      "id" : "2026-09-29-e506e9668801",
+      "id" : "2026-09-29-faa0f098c5d7",
       "importance" : "high",
       "key_insights" : [
 
@@ -13,15 +19,42 @@
           "source_name" : "TechCrunch AI",
           "title" : "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
           "url" : "https:\/\/techcrunch.com\/2026\/09\/29\/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less\/"
+        },
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Introducing GPT-6.1 Sol",
+          "url" : "https:\/\/openai.com\/index\/introducing-gpt-6-1-sol"
         }
       ],
-      "summary" : "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows.",
+      "summary" : "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
       "summary_method" : "source-extract",
-      "title" : "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+      "title" : "Introducing GPT-6.1 Sol",
       "topics" : [
         "GPT",
-        "Coding",
-        "Workflows"
+        "APIs",
+        "Pricing"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-09-29T00:00:00Z",
+      "id" : "2026-09-29-ff5eb0906827",
+      "importance" : "high",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Introducing dots",
+          "url" : "https:\/\/openai.com\/index\/introducing-dots"
+        }
+      ],
+      "summary" : "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "summary_method" : "source-extract",
+      "title" : "Introducing dots",
+      "topics" : [
+        "AI"
       ]
     },
     {
@@ -44,28 +77,6 @@
       "title" : "Opus 5.5 is good at explainer videos",
       "topics" : [
         "AI"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "created_at" : "2026-09-28T19:00:00Z",
-      "id" : "2026-09-29-5bf61e8aa7ed",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Towards safety cases for frontier AI training",
-          "url" : "https:\/\/openai.com\/index\/towards-safety-cases-for-frontier-ai-training"
-        }
-      ],
-      "summary" : "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents.",
-      "summary_method" : "source-extract",
-      "title" : "Towards safety cases for frontier AI training",
-      "topics" : [
-        "Safety"
       ]
     },
     {
@@ -92,6 +103,28 @@
     },
     {
       "confidence" : "medium",
+      "created_at" : "2026-09-29T16:00:00Z",
+      "id" : "2026-09-29-8d4adc83abc7",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "OpenAI DevDay 2026: The biggest news and announcements",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1001681\/openai-devday-2026-biggest-news-announcements"
+        }
+      ],
+      "summary" : "The company is hosting its annual DevDay on September 29th in San Francisco, and during a live keynote featuring CEO Sam Altman, it revealed several notable updates, including Dots , its AI agent product that rivals Meta’s recently-launched Muse.",
+      "summary_method" : "source-extract",
+      "title" : "OpenAI DevDay 2026: The biggest news and announcements",
+      "topics" : [
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "medium",
       "created_at" : "2026-09-28T21:31:35Z",
       "id" : "2026-09-29-5642ef7ca888",
       "importance" : "medium",
@@ -111,6 +144,29 @@
       "topics" : [
         "Image Models",
         "Research"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-29T18:35:00Z",
+      "id" : "2026-09-29-5bf85f416c07",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/29\/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents\/"
+        }
+      ],
+      "summary" : "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+      "summary_method" : "source-extract",
+      "title" : "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+      "topics" : [
+        "Agents",
+        "Safety"
       ]
     },
     {
@@ -223,78 +279,34 @@
       "topics" : [
         "Agents"
       ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-28T19:33:57Z",
-      "id" : "2026-09-29-1e09f21069b2",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Shopify opens checkout to browser-based AI agents",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/28\/shopify-opens-checkout-to-browser-based-ai-agents\/"
-        }
-      ],
-      "summary" : "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
-      "summary_method" : "source-extract",
-      "title" : "Shopify opens checkout to browser-based AI agents",
-      "topics" : [
-        "Agents"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-28T18:31:23Z",
-      "id" : "2026-09-29-fca9962a70b4",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Nvidia launches new platform for reining in rogue AI agents",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/28\/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents\/"
-        }
-      ],
-      "summary" : "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out.",
-      "summary_method" : "source-extract",
-      "title" : "Nvidia launches new platform for reining in rogue AI agents",
-      "topics" : [
-        "Agents"
-      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 4,
-    "summary" : "• OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less\n• Opus 5.5 is good at explainer videos\n• Towards safety cases for frontier AI training",
+    "summary" : "• Introducing GPT-6.1 Sol\n• Introducing dots\n• Opus 5.5 is good at explainer videos",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-29",
-  "generated_at" : "2026-09-29T18:03:05Z",
+  "generated_at" : "2026-09-29T20:05:16Z",
   "processing_report" : {
-    "generated_at" : "2026-09-29T18:03:11Z",
-    "high_card_count" : 2,
+    "generated_at" : "2026-09-29T20:05:20Z",
+    "high_card_count" : 3,
     "source_reports" : [
       {
-        "article_count" : 5,
+        "article_count" : 9,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-09-28T17:45:37Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-29T18:03:10Z",
+        "processed_at" : "2026-09-29T20:05:20Z",
         "state" : "processed"
       },
       {
         "article_count" : 10,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-29T18:03:08Z",
+        "processed_at" : "2026-09-29T20:05:19Z",
         "state" : "processed"
       },
       {
@@ -302,7 +314,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-29T18:03:06Z",
+        "processed_at" : "2026-09-29T20:05:17Z",
         "state" : "processed"
       },
       {
@@ -310,7 +322,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-09-29T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-29T18:03:08Z",
+        "processed_at" : "2026-09-29T20:05:18Z",
         "state" : "processed"
       },
       {
@@ -318,7 +330,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-09-25T19:11:05Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-29T18:03:06Z",
+        "processed_at" : "2026-09-29T20:05:17Z",
         "state" : "processed"
       },
       {
@@ -326,7 +338,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-28T19:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-29T18:03:05Z",
+        "processed_at" : "2026-09-29T20:05:17Z",
         "state" : "processed"
       },
       {
@@ -334,7 +346,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-24T16:20:39Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-29T18:03:06Z",
+        "processed_at" : "2026-09-29T20:05:17Z",
         "state" : "processed"
       },
       {
@@ -342,7 +354,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-09-29T15:30:38Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-29T18:03:06Z",
+        "processed_at" : "2026-09-29T20:05:17Z",
         "state" : "processed"
       },
       {
@@ -350,7 +362,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-09-29T02:55:27Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-29T18:03:09Z",
+        "processed_at" : "2026-09-29T20:05:18Z",
         "state" : "processed"
       },
       {
@@ -358,7 +370,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-29T06:30:04Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-29T18:03:06Z",
+        "processed_at" : "2026-09-29T20:05:17Z",
         "state" : "processed"
       },
       {
@@ -366,7 +378,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-28T15:57:59Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-29T18:03:06Z",
+        "processed_at" : "2026-09-29T20:05:17Z",
         "state" : "processed"
       },
       {
@@ -374,23 +386,23 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-09-18T17:54:32Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-29T18:03:06Z",
+        "processed_at" : "2026-09-29T20:05:17Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "openai-news",
-        "latest_article_at" : "2026-09-28T19:00:00Z",
+        "latest_article_at" : "2026-09-29T10:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-29T18:03:06Z",
+        "processed_at" : "2026-09-29T20:05:17Z",
         "state" : "processed"
       },
       {
-        "article_count" : 7,
+        "article_count" : 8,
         "id" : "superhuman-ai",
-        "latest_article_at" : "2026-09-27T14:00:00Z",
+        "latest_article_at" : "2026-09-29T11:30:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-29T18:03:08Z",
+        "processed_at" : "2026-09-29T20:05:19Z",
         "state" : "processed"
       },
       {
@@ -398,15 +410,15 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-09-29T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-29T18:03:06Z",
+        "processed_at" : "2026-09-29T20:05:17Z",
         "state" : "processed"
       },
       {
         "article_count" : 16,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-09-29T17:45:51Z",
+        "latest_article_at" : "2026-09-29T19:52:37Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-29T18:03:05Z",
+        "processed_at" : "2026-09-29T20:05:16Z",
         "state" : "processed"
       },
       {
@@ -414,7 +426,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-09-29T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-29T18:03:09Z",
+        "processed_at" : "2026-09-29T20:05:20Z",
         "state" : "processed"
       },
       {
@@ -422,14 +434,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-28T16:37:54Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-29T18:03:06Z",
+        "processed_at" : "2026-09-29T20:05:17Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-29T18:03:11Z",
+        "processed_at" : "2026-09-29T20:05:19Z",
         "state" : "processed"
       },
       {
@@ -437,7 +449,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-09-29T17:35:03Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-29T18:03:05Z",
+        "processed_at" : "2026-09-29T20:05:16Z",
         "state" : "processed"
       }
     ],
