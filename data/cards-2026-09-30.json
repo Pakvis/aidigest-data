@@ -3,18 +3,23 @@
     {
       "confidence" : "high",
       "consolidation" : {
-        "latest_source_at" : "2026-09-29T17:15:00Z",
-        "message_count" : 2,
+        "latest_source_at" : "2026-09-30T00:00:00Z",
+        "message_count" : 3,
         "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
+        "source_count" : 3
       },
-      "created_at" : "2026-09-29T17:15:00Z",
+      "created_at" : "2026-09-30T00:00:00Z",
       "id" : "2026-09-30-739d3f9ef4d0",
       "importance" : "high",
       "key_insights" : [
 
       ],
       "sources" : [
+        {
+          "source_name" : "TLDR AI",
+          "title" : "OpenAI Dots 🟡, GPT-6.1 Sol ⚡, software factories 🏭",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-09-30"
+        },
         {
           "source_name" : "TechCrunch AI",
           "title" : "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
@@ -112,6 +117,29 @@
       "title" : "Opus 5.5 is good at explainer videos",
       "topics" : [
         "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-30T12:24:32Z",
+      "id" : "2026-09-30-98cbaf8759be",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1002584\/trump-us-ai-safety-deal-self-regulation-tech-execs"
+        }
+      ],
+      "summary" : "Cross\/The Washington Post\/Bloomberg via Getty Images We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology.",
+      "summary_method" : "source-extract",
+      "title" : "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+      "topics" : [
+        "Safety",
+        "Image Models"
       ]
     },
     {
@@ -268,56 +296,34 @@
       "topics" : [
         "ChatGPT"
       ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-29T17:17:15Z",
-      "id" : "2026-09-30-18a45c79f8ef",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "OpenAI launches Dots, its bubbly agentic avatar",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/29\/openai-launches-dots-its-bubbly-agentic-avatar\/"
-        }
-      ],
-      "summary" : "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
-      "summary_method" : "source-extract",
-      "title" : "OpenAI launches Dots, its bubbly agentic avatar",
-      "topics" : [
-        "AI"
-      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 5,
+    "source_count" : 6,
     "summary" : "• Introducing GPT-6.1 Sol\n• OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU\n• Trump orders US government to call AI ‘Super Intelligence’",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-30",
-  "generated_at" : "2026-09-30T12:01:49Z",
+  "generated_at" : "2026-09-30T14:04:08Z",
   "processing_report" : {
-    "generated_at" : "2026-09-30T12:01:53Z",
+    "generated_at" : "2026-09-30T14:04:14Z",
     "high_card_count" : 4,
     "source_reports" : [
       {
-        "article_count" : 7,
+        "article_count" : 5,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-09-23T13:49:15Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-30T12:01:53Z",
+        "processed_at" : "2026-09-30T14:04:13Z",
         "state" : "processed"
       },
       {
         "article_count" : 10,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-30T12:01:52Z",
+        "processed_at" : "2026-09-30T14:04:12Z",
         "state" : "processed"
       },
       {
@@ -325,15 +331,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-30T12:01:50Z",
+        "processed_at" : "2026-09-30T14:04:10Z",
         "state" : "processed"
       },
       {
-        "article_count" : 4,
+        "article_count" : 1,
         "id" : "aireport-nl",
         "latest_article_at" : "2026-09-29T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-30T12:01:51Z",
+        "processed_at" : "2026-09-30T14:04:12Z",
         "state" : "processed"
       },
       {
@@ -341,7 +347,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-09-29T21:52:58Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-30T12:01:50Z",
+        "processed_at" : "2026-09-30T14:04:10Z",
         "state" : "processed"
       },
       {
@@ -349,7 +355,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-28T19:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-30T12:01:49Z",
+        "processed_at" : "2026-09-30T14:04:09Z",
         "state" : "processed"
       },
       {
@@ -357,7 +363,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-24T16:20:39Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-30T12:01:50Z",
+        "processed_at" : "2026-09-30T14:04:09Z",
         "state" : "processed"
       },
       {
@@ -365,7 +371,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-09-29T15:30:38Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-30T12:01:50Z",
+        "processed_at" : "2026-09-30T14:04:09Z",
         "state" : "processed"
       },
       {
@@ -373,7 +379,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-09-30T05:53:10Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-30T12:01:53Z",
+        "processed_at" : "2026-09-30T14:04:12Z",
         "state" : "processed"
       },
       {
@@ -381,7 +387,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-29T06:30:04Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-30T12:01:50Z",
+        "processed_at" : "2026-09-30T14:04:09Z",
         "state" : "processed"
       },
       {
@@ -389,7 +395,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-28T15:57:59Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-30T12:01:50Z",
+        "processed_at" : "2026-09-30T14:04:09Z",
         "state" : "processed"
       },
       {
@@ -397,7 +403,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-09-18T17:54:32Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-30T12:01:50Z",
+        "processed_at" : "2026-09-30T14:04:09Z",
         "state" : "processed"
       },
       {
@@ -405,7 +411,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-09-29T10:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-30T12:01:50Z",
+        "processed_at" : "2026-09-30T14:04:09Z",
         "state" : "processed"
       },
       {
@@ -413,15 +419,15 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-09-30T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-30T12:01:52Z",
+        "processed_at" : "2026-09-30T14:04:12Z",
         "state" : "processed"
       },
       {
         "article_count" : 18,
         "id" : "tldr-ai",
-        "latest_article_at" : "2026-09-29T00:00:00Z",
+        "latest_article_at" : "2026-09-30T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-30T12:01:50Z",
+        "processed_at" : "2026-09-30T14:04:09Z",
         "state" : "processed"
       },
       {
@@ -429,15 +435,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-09-30T12:00:00Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-30T12:01:49Z",
+        "processed_at" : "2026-09-30T14:04:09Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 11,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-09-30T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-30T12:01:52Z",
+        "processed_at" : "2026-09-30T14:04:14Z",
         "state" : "processed"
       },
       {
@@ -445,22 +451,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-28T16:37:54Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-30T12:01:50Z",
+        "processed_at" : "2026-09-30T14:04:10Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 10,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-30T12:01:51Z",
+        "processed_at" : "2026-09-30T14:04:13Z",
         "state" : "processed"
       },
       {
         "article_count" : 10,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-09-30T00:19:13Z",
+        "latest_article_at" : "2026-09-30T12:24:32Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-30T12:01:49Z",
+        "processed_at" : "2026-09-30T14:04:09Z",
         "state" : "processed"
       }
     ],
