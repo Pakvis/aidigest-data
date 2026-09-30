@@ -80,6 +80,41 @@
       ]
     },
     {
+      "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-09-30T05:53:10Z",
+        "message_count" : 2,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
+      "created_at" : "2026-09-30T05:53:10Z",
+      "id" : "2026-09-30-75fc17dbb7d9",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-openai-devday-2026-dots-61"
+        },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/29\/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite\/"
+        }
+      ],
+      "summary" : "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
+      "summary_method" : "source-extract",
+      "title" : "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+      "topics" : [
+        "ChatGPT",
+        "APIs",
+        "Agents"
+      ]
+    },
+    {
       "confidence" : "medium",
       "created_at" : "2026-09-30T00:19:13Z",
       "id" : "2026-09-30-9e2f1597a5a6",
@@ -192,28 +227,6 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-09-29T17:45:51Z",
-      "id" : "2026-09-30-75fc17dbb7d9",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/29\/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite\/"
-        }
-      ],
-      "summary" : "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
-      "summary_method" : "source-extract",
-      "title" : "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-      "topics" : [
-        "ChatGPT"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-09-29T17:17:15Z",
       "id" : "2026-09-30-18a45c79f8ef",
       "importance" : "medium",
@@ -288,9 +301,9 @@
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-30",
-  "generated_at" : "2026-09-30T04:02:13Z",
+  "generated_at" : "2026-09-30T06:04:36Z",
   "processing_report" : {
-    "generated_at" : "2026-09-30T04:02:18Z",
+    "generated_at" : "2026-09-30T06:04:40Z",
     "high_card_count" : 3,
     "source_reports" : [
       {
@@ -298,14 +311,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-09-28T17:45:37Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-30T04:02:17Z",
+        "processed_at" : "2026-09-30T06:04:40Z",
         "state" : "processed"
       },
       {
         "article_count" : 10,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-30T04:02:16Z",
+        "processed_at" : "2026-09-30T06:04:39Z",
         "state" : "processed"
       },
       {
@@ -313,7 +326,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-30T04:02:15Z",
+        "processed_at" : "2026-09-30T06:04:38Z",
         "state" : "processed"
       },
       {
@@ -321,7 +334,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-09-29T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-30T04:02:16Z",
+        "processed_at" : "2026-09-30T06:04:38Z",
         "state" : "processed"
       },
       {
@@ -329,7 +342,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-09-29T21:52:58Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-30T04:02:15Z",
+        "processed_at" : "2026-09-30T06:04:37Z",
         "state" : "processed"
       },
       {
@@ -337,7 +350,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-28T19:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-30T04:02:14Z",
+        "processed_at" : "2026-09-30T06:04:37Z",
         "state" : "processed"
       },
       {
@@ -345,7 +358,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-24T16:20:39Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-30T04:02:15Z",
+        "processed_at" : "2026-09-30T06:04:37Z",
         "state" : "processed"
       },
       {
@@ -353,15 +366,15 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-09-29T15:30:38Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-30T04:02:14Z",
+        "processed_at" : "2026-09-30T06:04:37Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "latent-space",
-        "latest_article_at" : "2026-09-29T02:55:27Z",
+        "latest_article_at" : "2026-09-30T05:53:10Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-30T04:02:18Z",
+        "processed_at" : "2026-09-30T06:04:40Z",
         "state" : "processed"
       },
       {
@@ -369,7 +382,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-29T06:30:04Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-30T04:02:14Z",
+        "processed_at" : "2026-09-30T06:04:37Z",
         "state" : "processed"
       },
       {
@@ -377,7 +390,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-28T15:57:59Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-30T04:02:15Z",
+        "processed_at" : "2026-09-30T06:04:37Z",
         "state" : "processed"
       },
       {
@@ -385,7 +398,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-09-18T17:54:32Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-30T04:02:14Z",
+        "processed_at" : "2026-09-30T06:04:37Z",
         "state" : "processed"
       },
       {
@@ -393,7 +406,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-09-29T10:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-30T04:02:14Z",
+        "processed_at" : "2026-09-30T06:04:37Z",
         "state" : "processed"
       },
       {
@@ -401,7 +414,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-09-29T11:30:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-30T04:02:16Z",
+        "processed_at" : "2026-09-30T06:04:39Z",
         "state" : "processed"
       },
       {
@@ -409,7 +422,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-09-29T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-30T04:02:14Z",
+        "processed_at" : "2026-09-30T06:04:37Z",
         "state" : "processed"
       },
       {
@@ -417,7 +430,7 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-09-29T22:20:59Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-30T04:02:14Z",
+        "processed_at" : "2026-09-30T06:04:37Z",
         "state" : "processed"
       },
       {
@@ -425,7 +438,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-09-29T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-30T04:02:17Z",
+        "processed_at" : "2026-09-30T06:04:39Z",
         "state" : "processed"
       },
       {
@@ -433,14 +446,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-28T16:37:54Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-30T04:02:15Z",
+        "processed_at" : "2026-09-30T06:04:38Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-30T04:02:17Z",
+        "processed_at" : "2026-09-30T06:04:39Z",
         "state" : "processed"
       },
       {
@@ -448,7 +461,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-09-30T00:19:13Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-30T04:02:14Z",
+        "processed_at" : "2026-09-30T06:04:37Z",
         "state" : "processed"
       }
     ],
