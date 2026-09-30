@@ -3,18 +3,23 @@
     {
       "confidence" : "high",
       "consolidation" : {
-        "latest_source_at" : "2026-09-30T00:00:00Z",
-        "message_count" : 3,
+        "latest_source_at" : "2026-09-30T15:12:17Z",
+        "message_count" : 4,
         "reason" : "Multiple sources reported the same story.",
-        "source_count" : 3
+        "source_count" : 4
       },
-      "created_at" : "2026-09-30T00:00:00Z",
+      "created_at" : "2026-09-30T15:12:17Z",
       "id" : "2026-09-30-739d3f9ef4d0",
       "importance" : "high",
       "key_insights" : [
 
       ],
       "sources" : [
+        {
+          "source_name" : "AI Breakfast",
+          "title" : "OpenAI killed GPT-6.1 Astra for lying, then shipped its cheaper sibling",
+          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/openai-killed-gpt-6-1-astra-for-lying-then-shipped-its-cheaper-sibling"
+        },
         {
           "source_name" : "TLDR AI",
           "title" : "OpenAI Dots 🟡, GPT-6.1 Sol ⚡, software factories 🏭",
@@ -120,6 +125,50 @@
       ]
     },
     {
+      "confidence" : "high",
+      "created_at" : "2026-09-30T10:00:00Z",
+      "id" : "2026-09-30-efc7aabb40fa",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Helping small businesses put AI to work",
+          "url" : "https:\/\/openai.com\/index\/helping-small-businesses-put-ai-to-work"
+        }
+      ],
+      "summary" : "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+      "summary_method" : "source-extract",
+      "title" : "Helping small businesses put AI to work",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-30T14:30:00Z",
+      "id" : "2026-09-30-153377368487",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Instagram is adding an AI ‘assistant’ to tell you how to post",
+          "url" : "https:\/\/www.theverge.com\/tech\/1002402\/instagram-ai-edits-assistant-creators-analytics-youtube"
+        }
+      ],
+      "summary" : "The company announced Wednesday that its standalone Edits app will now include an AI \"creative assistant\" that pulls in data from a user's Instagram account and offers suggestions on what to change. Using the new assistant, creators can ask open-ended questions about what's trending on Instagram, why one video worked and another didn't, or what piece of content resonated most with their audience.",
+      "summary_method" : "source-extract",
+      "title" : "Instagram is adding an AI ‘assistant’ to tell you how to post",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
       "confidence" : "medium",
       "created_at" : "2026-09-30T12:24:32Z",
       "id" : "2026-09-30-98cbaf8759be",
@@ -188,22 +237,22 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-09-29T16:00:00Z",
-      "id" : "2026-09-30-b7aaedf58b26",
+      "created_at" : "2026-09-30T16:00:24Z",
+      "id" : "2026-09-30-866af9771526",
       "importance" : "medium",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "The Verge AI",
-          "title" : "OpenAI DevDay 2026: The biggest news and announcements",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1001681\/openai-devday-2026-biggest-news-announcements"
+          "source_name" : "TechCrunch AI",
+          "title" : "DoorDash launches an AI agent you can text to order food",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/30\/doordash-launches-an-ai-agent-you-can-text-to-order-food\/"
         }
       ],
-      "summary" : "The company is hosting its annual DevDay on September 29th in San Francisco, and during a live keynote featuring CEO Sam Altman, it revealed several notable updates, including Dots , its AI agent product that rivals Meta’s recently-launched Muse.",
+      "summary" : "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
       "summary_method" : "source-extract",
-      "title" : "OpenAI DevDay 2026: The biggest news and announcements",
+      "title" : "DoorDash launches an AI agent you can text to order food",
       "topics" : [
         "Agents"
       ]
@@ -251,79 +300,34 @@
       "topics" : [
         "Agents"
       ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-29T18:35:00Z",
-      "id" : "2026-09-30-614c9fbdc78e",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/29\/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents\/"
-        }
-      ],
-      "summary" : "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
-      "summary_method" : "source-extract",
-      "title" : "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-      "topics" : [
-        "Agents",
-        "Safety"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-29T17:45:51Z",
-      "id" : "2026-09-30-75fc17dbb7d9",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/29\/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite\/"
-        }
-      ],
-      "summary" : "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
-      "summary_method" : "source-extract",
-      "title" : "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-      "topics" : [
-        "ChatGPT"
-      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 6,
+    "source_count" : 7,
     "summary" : "• Introducing GPT-6.1 Sol\n• OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU\n• Trump orders US government to call AI ‘Super Intelligence’",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-09-30",
-  "generated_at" : "2026-09-30T14:04:08Z",
+  "generated_at" : "2026-09-30T16:01:29Z",
   "processing_report" : {
-    "generated_at" : "2026-09-30T14:04:14Z",
+    "generated_at" : "2026-09-30T16:01:33Z",
     "high_card_count" : 4,
     "source_reports" : [
       {
-        "article_count" : 5,
+        "article_count" : 8,
         "id" : "ai-breakfast",
-        "latest_article_at" : "2026-09-23T13:49:15Z",
+        "latest_article_at" : "2026-09-30T15:12:17Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-09-30T14:04:13Z",
+        "processed_at" : "2026-09-30T16:01:33Z",
         "state" : "processed"
       },
       {
         "article_count" : 10,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-09-30T14:04:12Z",
+        "processed_at" : "2026-09-30T16:01:32Z",
         "state" : "processed"
       },
       {
@@ -331,23 +335,23 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-09-30T14:04:10Z",
+        "processed_at" : "2026-09-30T16:01:30Z",
         "state" : "processed"
       },
       {
-        "article_count" : 1,
+        "article_count" : 4,
         "id" : "aireport-nl",
         "latest_article_at" : "2026-09-29T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-09-30T14:04:12Z",
+        "processed_at" : "2026-09-30T16:01:31Z",
         "state" : "processed"
       },
       {
         "article_count" : 18,
         "id" : "ars-technica-ai",
-        "latest_article_at" : "2026-09-29T21:52:58Z",
+        "latest_article_at" : "2026-09-30T15:54:52Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-09-30T14:04:10Z",
+        "processed_at" : "2026-09-30T16:01:30Z",
         "state" : "processed"
       },
       {
@@ -355,23 +359,23 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-28T19:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-09-30T14:04:09Z",
+        "processed_at" : "2026-09-30T16:01:29Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "deepmind-blog",
-        "latest_article_at" : "2026-09-24T16:20:39Z",
+        "latest_article_at" : "2026-09-30T15:03:07Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-09-30T14:04:09Z",
+        "processed_at" : "2026-09-30T16:01:29Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "huggingface-blog",
-        "latest_article_at" : "2026-09-29T15:30:38Z",
+        "latest_article_at" : "2026-09-30T00:00:00Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-09-30T14:04:09Z",
+        "processed_at" : "2026-09-30T16:01:29Z",
         "state" : "processed"
       },
       {
@@ -379,7 +383,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-09-30T05:53:10Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-09-30T14:04:12Z",
+        "processed_at" : "2026-09-30T16:01:33Z",
         "state" : "processed"
       },
       {
@@ -387,7 +391,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-29T06:30:04Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-09-30T14:04:09Z",
+        "processed_at" : "2026-09-30T16:01:29Z",
         "state" : "processed"
       },
       {
@@ -395,7 +399,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-28T15:57:59Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-09-30T14:04:09Z",
+        "processed_at" : "2026-09-30T16:01:29Z",
         "state" : "processed"
       },
       {
@@ -403,15 +407,15 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-09-18T17:54:32Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-09-30T14:04:09Z",
+        "processed_at" : "2026-09-30T16:01:29Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "openai-news",
-        "latest_article_at" : "2026-09-29T10:00:00Z",
+        "latest_article_at" : "2026-09-30T10:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-09-30T14:04:09Z",
+        "processed_at" : "2026-09-30T16:01:29Z",
         "state" : "processed"
       },
       {
@@ -419,7 +423,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-09-30T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-09-30T14:04:12Z",
+        "processed_at" : "2026-09-30T16:01:32Z",
         "state" : "processed"
       },
       {
@@ -427,23 +431,23 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-09-30T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-09-30T14:04:09Z",
+        "processed_at" : "2026-09-30T16:01:29Z",
         "state" : "processed"
       },
       {
-        "article_count" : 16,
+        "article_count" : 15,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-09-30T12:00:00Z",
+        "latest_article_at" : "2026-09-30T16:00:24Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-09-30T14:04:09Z",
+        "processed_at" : "2026-09-30T16:01:29Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 12,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-09-30T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-09-30T14:04:14Z",
+        "processed_at" : "2026-09-30T16:01:33Z",
         "state" : "processed"
       },
       {
@@ -451,22 +455,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-28T16:37:54Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-09-30T14:04:10Z",
+        "processed_at" : "2026-09-30T16:01:29Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-09-30T14:04:13Z",
+        "processed_at" : "2026-09-30T16:01:31Z",
         "state" : "processed"
       },
       {
         "article_count" : 10,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-09-30T12:24:32Z",
+        "latest_article_at" : "2026-09-30T15:18:49Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-09-30T14:04:09Z",
+        "processed_at" : "2026-09-30T16:01:29Z",
         "state" : "processed"
       }
     ],

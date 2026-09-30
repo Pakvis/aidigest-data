@@ -7,6 +7,11 @@
       "importance" : "high",
       "sources" : [
         {
+          "source_name" : "AI Breakfast",
+          "title" : "OpenAI killed GPT-6.1 Astra for lying, then shipped its cheaper sibling",
+          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/openai-killed-gpt-6-1-astra-for-lying-then-shipped-its-cheaper-sibling"
+        },
+        {
           "source_name" : "TLDR AI",
           "title" : "OpenAI Dots 🟡, GPT-6.1 Sol ⚡, software factories 🏭",
           "url" : "https:\/\/tldr.tech\/ai\/2026-09-30"
@@ -92,6 +97,42 @@
       ]
     },
     {
+      "confidence" : "high",
+      "date" : "2026-09-30",
+      "id" : "2026-09-30-efc7aabb40fa",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Helping small businesses put AI to work",
+          "url" : "https:\/\/openai.com\/index\/helping-small-businesses-put-ai-to-work"
+        }
+      ],
+      "summary" : "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+      "title" : "Helping small businesses put AI to work",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-09-30",
+      "id" : "2026-09-30-153377368487",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Instagram is adding an AI ‘assistant’ to tell you how to post",
+          "url" : "https:\/\/www.theverge.com\/tech\/1002402\/instagram-ai-edits-assistant-creators-analytics-youtube"
+        }
+      ],
+      "summary" : "The company announced Wednesday that its standalone Edits app will now include an AI \"creative assistant\" that pulls in data from a user's Instagram account and offers suggestions on what to change. Using the new assistant, creators can ask open-ended questions about what's trending on Instagram, why one video worked and another didn't, or what piece of content resonated most with their audience.",
+      "title" : "Instagram is adding an AI ‘assistant’ to tell you how to post",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
       "confidence" : "medium",
       "date" : "2026-09-30",
       "id" : "2026-09-30-98cbaf8759be",
@@ -149,17 +190,17 @@
     {
       "confidence" : "medium",
       "date" : "2026-09-30",
-      "id" : "2026-09-30-b7aaedf58b26",
+      "id" : "2026-09-30-866af9771526",
       "importance" : "medium",
       "sources" : [
         {
-          "source_name" : "The Verge AI",
-          "title" : "OpenAI DevDay 2026: The biggest news and announcements",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1001681\/openai-devday-2026-biggest-news-announcements"
+          "source_name" : "TechCrunch AI",
+          "title" : "DoorDash launches an AI agent you can text to order food",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/30\/doordash-launches-an-ai-agent-you-can-text-to-order-food\/"
         }
       ],
-      "summary" : "The company is hosting its annual DevDay on September 29th in San Francisco, and during a live keynote featuring CEO Sam Altman, it revealed several notable updates, including Dots , its AI agent product that rivals Meta’s recently-launched Muse.",
-      "title" : "OpenAI DevDay 2026: The biggest news and announcements",
+      "summary" : "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+      "title" : "DoorDash launches an AI agent you can text to order food",
       "topics" : [
         "Agents"
       ]
@@ -198,43 +239,6 @@
       "title" : "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
       "topics" : [
         "Agents"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-09-30",
-      "id" : "2026-09-30-614c9fbdc78e",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/29\/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents\/"
-        }
-      ],
-      "summary" : "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
-      "title" : "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-      "topics" : [
-        "Agents",
-        "Safety"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-09-30",
-      "id" : "2026-09-30-75fc17dbb7d9",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/29\/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite\/"
-        }
-      ],
-      "summary" : "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
-      "title" : "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-      "topics" : [
-        "ChatGPT"
       ]
     },
     {
