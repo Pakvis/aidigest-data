@@ -4,9 +4,9 @@
       "confidence" : "high",
       "consolidation" : {
         "latest_source_at" : "2026-09-30T15:12:17Z",
-        "message_count" : 2,
+        "message_count" : 3,
         "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
+        "source_count" : 3
       },
       "created_at" : "2026-09-30T15:12:17Z",
       "id" : "2026-10-01-6f36f009d89a",
@@ -19,6 +19,11 @@
           "source_name" : "AI Breakfast",
           "title" : "OpenAI killed GPT-6.1 Astra for lying, then shipped its cheaper sibling",
           "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/openai-killed-gpt-6-1-astra-for-lying-then-shipped-its-cheaper-sibling"
+        },
+        {
+          "source_name" : "TLDR AI",
+          "title" : "OpenAI Dots 🟡, GPT-6.1 Sol ⚡, software factories 🏭",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-09-30"
         },
         {
           "source_name" : "OpenAI News",
@@ -171,25 +176,24 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-09-30T12:24:32Z",
-      "id" : "2026-10-01-757c58ef82fb",
+      "created_at" : "2026-10-01T13:00:00Z",
+      "id" : "2026-10-01-66f94cc7ba04",
       "importance" : "medium",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "The Verge AI",
-          "title" : "Here’s how tech leaders will self-police AI safety under Trump’s deal",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1002584\/trump-us-ai-safety-deal-self-regulation-tech-execs"
+          "source_name" : "TechCrunch AI",
+          "title" : "Hearing tech startup Legato launches its AI hearing glasses",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/01\/hearing-tech-startup-legato-launches-its-ai-hearing-glasses\/"
         }
       ],
-      "summary" : "Cross\/The Washington Post\/Bloomberg via Getty Images We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology.",
+      "summary" : "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
       "summary_method" : "source-extract",
-      "title" : "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+      "title" : "Hearing tech startup Legato launches its AI hearing glasses",
       "topics" : [
-        "Safety",
-        "Image Models"
+        "AI"
       ]
     },
     {
@@ -282,8 +286,8 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-09-30T00:19:13Z",
-      "id" : "2026-10-01-2b8440ba7893",
+      "created_at" : "2026-09-30T12:24:32Z",
+      "id" : "2026-10-01-757c58ef82fb",
       "importance" : "medium",
       "key_insights" : [
 
@@ -291,44 +295,45 @@
       "sources" : [
         {
           "source_name" : "The Verge AI",
-          "title" : "Sam Altman says OpenAI won’t go public until its models are safe",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1002505\/sam-altman-openai-ipo-devday-ai-safety"
+          "title" : "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1002584\/trump-us-ai-safety-deal-self-regulation-tech-execs"
         }
       ],
-      "summary" : "CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight.",
+      "summary" : "Cross\/The Washington Post\/Bloomberg via Getty Images We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology.",
       "summary_method" : "source-extract",
-      "title" : "Sam Altman says OpenAI won’t go public until its models are safe",
+      "title" : "Here’s how tech leaders will self-police AI safety under Trump’s deal",
       "topics" : [
-        "Safety"
+        "Safety",
+        "Image Models"
       ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 7,
+    "source_count" : 8,
     "summary" : "• Introducing GPT-6.1 Sol\n• Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now\n• OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-01",
-  "generated_at" : "2026-10-01T12:04:57Z",
+  "generated_at" : "2026-10-01T14:02:43Z",
   "processing_report" : {
-    "generated_at" : "2026-10-01T12:05:01Z",
+    "generated_at" : "2026-10-01T14:02:48Z",
     "high_card_count" : 5,
     "source_reports" : [
       {
-        "article_count" : 9,
+        "article_count" : 7,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-09-30T15:12:17Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-01T12:05:01Z",
+        "processed_at" : "2026-10-01T14:02:48Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 9,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-01T12:05:00Z",
+        "processed_at" : "2026-10-01T14:02:47Z",
         "state" : "processed"
       },
       {
@@ -336,15 +341,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-01T12:04:58Z",
+        "processed_at" : "2026-10-01T14:02:45Z",
         "state" : "processed"
       },
       {
-        "article_count" : 4,
+        "article_count" : 1,
         "id" : "aireport-nl",
-        "latest_article_at" : "2026-10-01T10:00:00Z",
+        "latest_article_at" : "2026-09-19T09:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-01T12:04:59Z",
+        "processed_at" : "2026-10-01T14:02:46Z",
         "state" : "processed"
       },
       {
@@ -352,7 +357,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-09-30T19:31:25Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-01T12:04:58Z",
+        "processed_at" : "2026-10-01T14:02:45Z",
         "state" : "processed"
       },
       {
@@ -360,7 +365,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-28T19:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-01T12:04:58Z",
+        "processed_at" : "2026-10-01T14:02:43Z",
         "state" : "processed"
       },
       {
@@ -368,7 +373,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-30T20:01:45Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-01T12:04:58Z",
+        "processed_at" : "2026-10-01T14:02:44Z",
         "state" : "processed"
       },
       {
@@ -376,7 +381,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-09-30T00:00:00Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-01T12:04:58Z",
+        "processed_at" : "2026-10-01T14:02:44Z",
         "state" : "processed"
       },
       {
@@ -384,7 +389,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-01T06:45:05Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-01T12:05:01Z",
+        "processed_at" : "2026-10-01T14:02:47Z",
         "state" : "processed"
       },
       {
@@ -392,7 +397,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-29T06:30:04Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-01T12:04:58Z",
+        "processed_at" : "2026-10-01T14:02:44Z",
         "state" : "processed"
       },
       {
@@ -400,7 +405,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-28T15:57:59Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-01T12:04:58Z",
+        "processed_at" : "2026-10-01T14:02:44Z",
         "state" : "processed"
       },
       {
@@ -408,7 +413,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-01T10:54:12Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-01T12:04:58Z",
+        "processed_at" : "2026-10-01T14:02:44Z",
         "state" : "processed"
       },
       {
@@ -416,23 +421,31 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-09-30T10:30:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-01T12:04:58Z",
+        "processed_at" : "2026-10-01T14:02:44Z",
         "state" : "processed"
       },
       {
-        "article_count" : 9,
+        "article_count" : 6,
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-10-01T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-01T12:05:00Z",
+        "processed_at" : "2026-10-01T14:02:47Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 18,
+        "id" : "tldr-ai",
+        "latest_article_at" : "2026-09-30T00:00:00Z",
+        "name" : "TLDR AI",
+        "processed_at" : "2026-10-01T14:02:44Z",
         "state" : "processed"
       },
       {
         "article_count" : 16,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-09-30T23:43:07Z",
+        "latest_article_at" : "2026-10-01T14:00:00Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-01T12:04:58Z",
+        "processed_at" : "2026-10-01T14:02:43Z",
         "state" : "processed"
       },
       {
@@ -440,7 +453,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-01T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-01T12:05:00Z",
+        "processed_at" : "2026-10-01T14:02:47Z",
         "state" : "processed"
       },
       {
@@ -448,14 +461,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-28T16:37:54Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-01T12:04:58Z",
+        "processed_at" : "2026-10-01T14:02:44Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-01T12:05:01Z",
+        "processed_at" : "2026-10-01T14:02:46Z",
         "state" : "processed"
       },
       {
@@ -463,18 +476,10 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-09-30T20:41:41Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-01T12:04:58Z",
+        "processed_at" : "2026-10-01T14:02:44Z",
         "state" : "processed"
-      },
-      {
-        "article_count" : 0,
-        "id" : "tldr-ai",
-        "message" : "HTTP 500 from tldr.tech",
-        "name" : "TLDR AI",
-        "processed_at" : "2026-10-01T12:05:00Z",
-        "state" : "failed"
       }
     ],
-    "state" : "partial"
+    "state" : "complete"
   }
 }
