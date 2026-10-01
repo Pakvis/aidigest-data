@@ -3,23 +3,57 @@
     {
       "confidence" : "high",
       "consolidation" : {
-        "latest_source_at" : "2026-09-30T15:12:17Z",
+        "latest_source_at" : "2026-10-01T00:00:00Z",
         "message_count" : 3,
         "reason" : "Multiple sources reported the same story.",
         "source_count" : 3
       },
-      "created_at" : "2026-09-30T15:12:17Z",
-      "id" : "2026-10-01-6f36f009d89a",
+      "created_at" : "2026-10-01T00:00:00Z",
+      "id" : "2026-10-01-32d182f161e0",
       "importance" : "high",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "AI Breakfast",
-          "title" : "OpenAI killed GPT-6.1 Astra for lying, then shipped its cheaper sibling",
-          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/openai-killed-gpt-6-1-astra-for-lying-then-shipped-its-cheaper-sibling"
+          "source_name" : "TLDR AI",
+          "title" : "Gemini 4 Argon 🧠, inside OpenAI’s chip ⚡, distillation takedown 🕵️",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-10-01"
         },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Google releases Gemini 4 Argon, called its most powerful model yet",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/30\/google-releases-gemini-4-argon-called-its-most-powerful-model-yet\/"
+        },
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+          "url" : "https:\/\/www.theverge.com\/tech\/1002980\/google-gemini-4-argon"
+        }
+      ],
+      "summary" : "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" according to chief AI architect and Google DeepMind SVP Koray Kavukcuoglu.",
+      "summary_method" : "source-extract",
+      "title" : "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+      "topics" : [
+        "Gemini",
+        "Compute"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-09-30T00:00:00Z",
+        "message_count" : 2,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
+      "created_at" : "2026-09-30T00:00:00Z",
+      "id" : "2026-10-01-6f36f009d89a",
+      "importance" : "high",
+      "key_insights" : [
+
+      ],
+      "sources" : [
         {
           "source_name" : "TLDR AI",
           "title" : "OpenAI Dots 🟡, GPT-6.1 Sol ⚡, software factories 🏭",
@@ -38,39 +72,6 @@
         "GPT",
         "APIs",
         "Pricing"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "consolidation" : {
-        "latest_source_at" : "2026-09-30T23:43:07Z",
-        "message_count" : 2,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
-      },
-      "created_at" : "2026-09-30T23:43:07Z",
-      "id" : "2026-10-01-32d182f161e0",
-      "importance" : "high",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Google releases Gemini 4 Argon, called its most powerful model yet",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/30\/google-releases-gemini-4-argon-called-its-most-powerful-model-yet\/"
-        },
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
-          "url" : "https:\/\/www.theverge.com\/tech\/1002980\/google-gemini-4-argon"
-        }
-      ],
-      "summary" : "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" according to chief AI architect and Google DeepMind SVP Koray Kavukcuoglu.",
-      "summary_method" : "source-extract",
-      "title" : "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
-      "topics" : [
-        "Gemini"
       ]
     },
     {
@@ -110,28 +111,6 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-09-29T22:25:45Z",
-      "id" : "2026-10-01-e3ccad820065",
-      "importance" : "high",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Trump orders US government to call AI ‘Super Intelligence’",
-          "url" : "https:\/\/www.theverge.com\/policy\/1002468\/trump-ai-superintelligence-executive-order-ai"
-        }
-      ],
-      "summary" : "The word super is the best word of all, and it's the simplest,\" Trump said at an event announcing the launch of America.gov earlier on Tuesday, and said Chinese President Xi Jinping, who visited the White House last week, \"loves it\" too.",
-      "summary_method" : "source-extract",
-      "title" : "Trump orders US government to call AI ‘Super Intelligence’",
-      "topics" : [
-        "Image Models"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-09-30T17:15:49Z",
       "id" : "2026-10-01-9fc4ca5b2a41",
       "importance" : "medium",
@@ -154,28 +133,6 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-09-30T14:30:00Z",
-      "id" : "2026-10-01-31d29a6dc447",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Instagram is adding an AI ‘assistant’ to tell you how to post",
-          "url" : "https:\/\/www.theverge.com\/tech\/1002402\/instagram-ai-edits-assistant-creators-analytics-youtube"
-        }
-      ],
-      "summary" : "The company announced Wednesday that its standalone Edits app will now include an AI \"creative assistant\" that pulls in data from a user's Instagram account and offers suggestions on what to change. Using the new assistant, creators can ask open-ended questions about what's trending on Instagram, why one video worked and another didn't, or what piece of content resonated most with their audience.",
-      "summary_method" : "source-extract",
-      "title" : "Instagram is adding an AI ‘assistant’ to tell you how to post",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-10-01T13:00:00Z",
       "id" : "2026-10-01-66f94cc7ba04",
       "importance" : "medium",
@@ -194,28 +151,6 @@
       "title" : "Hearing tech startup Legato launches its AI hearing glasses",
       "topics" : [
         "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-09-30T16:00:24Z",
-      "id" : "2026-10-01-ca041a423c94",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "DoorDash launches an AI agent you can text to order food",
-          "url" : "https:\/\/techcrunch.com\/2026\/09\/30\/doordash-launches-an-ai-agent-you-can-text-to-order-food\/"
-        }
-      ],
-      "summary" : "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
-      "summary_method" : "source-extract",
-      "title" : "DoorDash launches an AI agent you can text to order food",
-      "topics" : [
-        "Agents"
       ]
     },
     {
@@ -286,6 +221,28 @@
     },
     {
       "confidence" : "medium",
+      "created_at" : "2026-09-30T14:30:00Z",
+      "id" : "2026-10-01-31d29a6dc447",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Instagram is adding an AI ‘assistant’ to tell you how to post",
+          "url" : "https:\/\/www.theverge.com\/tech\/1002402\/instagram-ai-edits-assistant-creators-analytics-youtube"
+        }
+      ],
+      "summary" : "The company announced Wednesday that its standalone Edits app will now include an AI \"creative assistant\" that pulls in data from a user's Instagram account and offers suggestions on what to change. Using the new assistant, creators can ask open-ended questions about what's trending on Instagram, why one video worked and another didn't, or what piece of content resonated most with their audience.",
+      "summary_method" : "source-extract",
+      "title" : "Instagram is adding an AI ‘assistant’ to tell you how to post",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
       "created_at" : "2026-09-30T12:24:32Z",
       "id" : "2026-10-01-757c58ef82fb",
       "importance" : "medium",
@@ -306,34 +263,78 @@
         "Safety",
         "Image Models"
       ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-30T16:00:24Z",
+      "id" : "2026-10-01-ca041a423c94",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "DoorDash launches an AI agent you can text to order food",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/30\/doordash-launches-an-ai-agent-you-can-text-to-order-food\/"
+        }
+      ],
+      "summary" : "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+      "summary_method" : "source-extract",
+      "title" : "DoorDash launches an AI agent you can text to order food",
+      "topics" : [
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-09-30T12:00:00Z",
+      "id" : "2026-10-01-50ad85c9f1dc",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Airbnb adds AI search, more social features",
+          "url" : "https:\/\/techcrunch.com\/2026\/09\/30\/airbnb-adds-ai-search-more-social-features\/"
+        }
+      ],
+      "summary" : "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
+      "summary_method" : "source-extract",
+      "title" : "Airbnb adds AI search, more social features",
+      "topics" : [
+        "AI"
+      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 8,
-    "summary" : "• Introducing GPT-6.1 Sol\n• Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now\n• OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU",
+    "source_count" : 7,
+    "summary" : "• Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now\n• Introducing GPT-6.1 Sol\n• OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-01",
-  "generated_at" : "2026-10-01T14:02:43Z",
+  "generated_at" : "2026-10-01T16:00:26Z",
   "processing_report" : {
-    "generated_at" : "2026-10-01T14:02:48Z",
-    "high_card_count" : 5,
+    "generated_at" : "2026-10-01T16:00:31Z",
+    "high_card_count" : 4,
     "source_reports" : [
       {
-        "article_count" : 7,
+        "article_count" : 6,
         "id" : "ai-breakfast",
-        "latest_article_at" : "2026-09-30T15:12:17Z",
+        "latest_article_at" : "2026-09-19T00:40:58Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-01T14:02:48Z",
+        "processed_at" : "2026-10-01T16:00:31Z",
         "state" : "processed"
       },
       {
-        "article_count" : 9,
+        "article_count" : 10,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-01T14:02:47Z",
+        "processed_at" : "2026-10-01T16:00:30Z",
         "state" : "processed"
       },
       {
@@ -341,15 +342,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-01T14:02:45Z",
-        "state" : "processed"
-      },
-      {
-        "article_count" : 1,
-        "id" : "aireport-nl",
-        "latest_article_at" : "2026-09-19T09:00:00Z",
-        "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-01T14:02:46Z",
+        "processed_at" : "2026-10-01T16:00:28Z",
         "state" : "processed"
       },
       {
@@ -357,7 +350,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-09-30T19:31:25Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-01T14:02:45Z",
+        "processed_at" : "2026-10-01T16:00:28Z",
         "state" : "processed"
       },
       {
@@ -365,7 +358,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-09-28T19:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-01T14:02:43Z",
+        "processed_at" : "2026-10-01T16:00:27Z",
         "state" : "processed"
       },
       {
@@ -373,15 +366,15 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-30T20:01:45Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-01T14:02:44Z",
+        "processed_at" : "2026-10-01T16:00:27Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "huggingface-blog",
-        "latest_article_at" : "2026-09-30T00:00:00Z",
+        "latest_article_at" : "2026-10-01T15:01:43Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-01T14:02:44Z",
+        "processed_at" : "2026-10-01T16:00:27Z",
         "state" : "processed"
       },
       {
@@ -389,7 +382,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-01T06:45:05Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-01T14:02:47Z",
+        "processed_at" : "2026-10-01T16:00:30Z",
         "state" : "processed"
       },
       {
@@ -397,7 +390,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-29T06:30:04Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-01T14:02:44Z",
+        "processed_at" : "2026-10-01T16:00:27Z",
         "state" : "processed"
       },
       {
@@ -405,7 +398,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-28T15:57:59Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-01T14:02:44Z",
+        "processed_at" : "2026-10-01T16:00:27Z",
         "state" : "processed"
       },
       {
@@ -413,7 +406,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-01T10:54:12Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-01T14:02:44Z",
+        "processed_at" : "2026-10-01T16:00:27Z",
         "state" : "processed"
       },
       {
@@ -421,39 +414,39 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-09-30T10:30:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-01T14:02:44Z",
+        "processed_at" : "2026-10-01T16:00:27Z",
         "state" : "processed"
       },
       {
-        "article_count" : 6,
+        "article_count" : 8,
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-10-01T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-01T14:02:47Z",
+        "processed_at" : "2026-10-01T16:00:30Z",
         "state" : "processed"
       },
       {
         "article_count" : 18,
         "id" : "tldr-ai",
-        "latest_article_at" : "2026-09-30T00:00:00Z",
+        "latest_article_at" : "2026-10-01T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-01T14:02:44Z",
+        "processed_at" : "2026-10-01T16:00:27Z",
         "state" : "processed"
       },
       {
         "article_count" : 16,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-10-01T14:00:00Z",
+        "latest_article_at" : "2026-10-01T15:12:00Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-01T14:02:43Z",
+        "processed_at" : "2026-10-01T16:00:26Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 9,
         "id" : "the-ai-report",
-        "latest_article_at" : "2026-10-01T11:01:00Z",
+        "latest_article_at" : "2026-09-28T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-01T14:02:47Z",
+        "processed_at" : "2026-10-01T16:00:31Z",
         "state" : "processed"
       },
       {
@@ -461,23 +454,31 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-28T16:37:54Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-01T14:02:44Z",
+        "processed_at" : "2026-10-01T16:00:27Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-01T14:02:46Z",
+        "processed_at" : "2026-10-01T16:00:30Z",
         "state" : "processed"
       },
       {
-        "article_count" : 9,
+        "article_count" : 8,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-09-30T20:41:41Z",
+        "latest_article_at" : "2026-10-01T14:36:50Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-01T14:02:44Z",
+        "processed_at" : "2026-10-01T16:00:27Z",
         "state" : "processed"
+      },
+      {
+        "article_count" : 0,
+        "id" : "aireport-nl",
+        "message" : "Source returned no usable AI articles.",
+        "name" : "AI Report (NL)",
+        "processed_at" : "2026-10-01T16:00:30Z",
+        "state" : "empty"
       }
     ],
     "state" : "complete"
