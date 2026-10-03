@@ -3,6 +3,41 @@
     {
       "confidence" : "high",
       "consolidation" : {
+        "latest_source_at" : "2026-10-03T08:45:15Z",
+        "message_count" : 2,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
+      "created_at" : "2026-10-03T08:45:15Z",
+      "id" : "2026-10-03-6b8937f2751c",
+      "importance" : "high",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "not much happened today",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-not-much-happened-today-cee"
+        },
+        {
+          "source_name" : "AI Breakfast",
+          "title" : "OpenAI killed GPT-6.1 Astra for lying, then shipped its cheaper sibling",
+          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/openai-killed-gpt-6-1-astra-for-lying-then-shipped-its-cheaper-sibling"
+        }
+      ],
+      "summary" : "OpenAI scrapped GPT-6.1 Astra over deception, then shipped GPT-6.1 Sol as Critical for cybersecurity plus always-on dots agents.",
+      "summary_method" : "source-extract",
+      "title" : "OpenAI killed GPT-6.1 Astra for lying, then shipped its cheaper sibling",
+      "topics" : [
+        "GPT",
+        "Agents",
+        "APIs"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "consolidation" : {
         "latest_source_at" : "2026-10-02T20:08:40Z",
         "message_count" : 2,
         "reason" : "Multiple sources reported the same story.",
@@ -76,28 +111,6 @@
       "topics" : [
         "Coding",
         "Agents"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-10-02T14:04:49Z",
-      "id" : "2026-10-03-ce58087663ba",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
-          "url" : "https:\/\/www.latent.space\/p\/airbnb"
-        }
-      ],
-      "summary" : "An example of inside-out AI: Airbnb used a custom internal tool called Everest to help accelerate the launch of a new external service. (Diagram by Latent Space) Al-Dahle spoke with Latent Space about Airbnb’s AI transformation.",
-      "summary_method" : "source-extract",
-      "title" : "Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
-      "topics" : [
-        "Tooling"
       ]
     },
     {
@@ -189,6 +202,28 @@
       ]
     },
     {
+      "confidence" : "medium",
+      "created_at" : "2026-10-02T14:04:49Z",
+      "id" : "2026-10-03-ce58087663ba",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
+          "url" : "https:\/\/www.latent.space\/p\/airbnb"
+        }
+      ],
+      "summary" : "An example of inside-out AI: Airbnb used a custom internal tool called Everest to help accelerate the launch of a new external service. (Diagram by Latent Space) Al-Dahle spoke with Latent Space about Airbnb’s AI transformation.",
+      "summary_method" : "source-extract",
+      "title" : "Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
+      "topics" : [
+        "Tooling"
+      ]
+    },
+    {
       "confidence" : "low",
       "created_at" : "2026-10-01T10:54:12Z",
       "id" : "2026-10-03-93d25a52afa3",
@@ -208,41 +243,6 @@
       "title" : "The Dot and the Swarm",
       "topics" : [
         "Agents"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "consolidation" : {
-        "latest_source_at" : "2026-10-03T08:45:15Z",
-        "message_count" : 2,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
-      },
-      "created_at" : "2026-10-03T08:45:15Z",
-      "id" : "2026-10-03-d09003004f71",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "not much happened today",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-not-much-happened-today-cee"
-        },
-        {
-          "source_name" : "Google DeepMind",
-          "title" : "Gemini 4 Argon: our next era of frontier intelligence",
-          "url" : "https:\/\/deepmind.google\/blog\/gemini-4-argon-our-next-era-of-frontier-intelligence\/"
-        }
-      ],
-      "summary" : "Gemini 4 Argon : Argon [High] took 1 in Text Arena.",
-      "summary_method" : "source-extract",
-      "title" : "Gemini 4 Argon: our next era of frontier intelligence",
-      "topics" : [
-        "Gemini",
-        "Agents",
-        "Anthropic"
       ]
     },
     {
@@ -274,28 +274,28 @@
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 7,
-    "summary" : "• Apple will limit Mac disk access as AI agents ‘substantially’ increase risk\n• The latest AI news we announced in September 2026\n• Meta open sources code to let you make Muse AI gadgets",
+    "summary" : "• OpenAI killed GPT-6.1 Astra for lying, then shipped its cheaper sibling\n• Apple will limit Mac disk access as AI agents ‘substantially’ increase risk\n• The latest AI news we announced in September 2026",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-03",
-  "generated_at" : "2026-10-03T12:03:05Z",
+  "generated_at" : "2026-10-03T14:05:16Z",
   "processing_report" : {
-    "generated_at" : "2026-10-03T12:03:10Z",
-    "high_card_count" : 0,
+    "generated_at" : "2026-10-03T14:05:21Z",
+    "high_card_count" : 1,
     "source_reports" : [
       {
-        "article_count" : 1,
+        "article_count" : 9,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-10-02T19:26:54Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-03T12:03:10Z",
+        "processed_at" : "2026-10-03T14:05:21Z",
         "state" : "processed"
       },
       {
-        "article_count" : 9,
+        "article_count" : 10,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-03T12:03:08Z",
+        "processed_at" : "2026-10-03T14:05:19Z",
         "state" : "processed"
       },
       {
@@ -303,7 +303,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-03T12:03:05Z",
+        "processed_at" : "2026-10-03T14:05:18Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 5,
+        "id" : "aireport-nl",
+        "latest_article_at" : "2026-10-01T10:00:00Z",
+        "name" : "AI Report (NL)",
+        "processed_at" : "2026-10-03T14:05:19Z",
         "state" : "processed"
       },
       {
@@ -311,7 +319,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-01T16:28:04Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-03T12:03:06Z",
+        "processed_at" : "2026-10-03T14:05:18Z",
         "state" : "processed"
       },
       {
@@ -319,7 +327,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-02T15:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-03T12:03:05Z",
+        "processed_at" : "2026-10-03T14:05:17Z",
         "state" : "processed"
       },
       {
@@ -327,7 +335,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-30T20:01:45Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-03T12:03:05Z",
+        "processed_at" : "2026-10-03T14:05:18Z",
         "state" : "processed"
       },
       {
@@ -335,7 +343,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-10-02T15:19:50Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-03T12:03:05Z",
+        "processed_at" : "2026-10-03T14:05:18Z",
         "state" : "processed"
       },
       {
@@ -343,7 +351,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-03T08:45:15Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-03T12:03:07Z",
+        "processed_at" : "2026-10-03T14:05:21Z",
         "state" : "processed"
       },
       {
@@ -351,7 +359,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-29T06:30:04Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-03T12:03:06Z",
+        "processed_at" : "2026-10-03T14:05:17Z",
         "state" : "processed"
       },
       {
@@ -359,7 +367,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-28T15:57:59Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-03T12:03:05Z",
+        "processed_at" : "2026-10-03T14:05:18Z",
         "state" : "processed"
       },
       {
@@ -367,7 +375,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-01T10:54:12Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-03T12:03:05Z",
+        "processed_at" : "2026-10-03T14:05:17Z",
         "state" : "processed"
       },
       {
@@ -375,15 +383,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-10-02T16:15:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-03T12:03:05Z",
+        "processed_at" : "2026-10-03T14:05:18Z",
         "state" : "processed"
       },
       {
-        "article_count" : 7,
+        "article_count" : 9,
         "id" : "superhuman-ai",
-        "latest_article_at" : "2026-10-02T11:02:57Z",
+        "latest_article_at" : "2026-10-03T14:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-03T12:03:09Z",
+        "processed_at" : "2026-10-03T14:05:20Z",
         "state" : "processed"
       },
       {
@@ -391,23 +399,23 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-02T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-03T12:03:05Z",
+        "processed_at" : "2026-10-03T14:05:17Z",
         "state" : "processed"
       },
       {
         "article_count" : 15,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-10-02T21:09:14Z",
+        "latest_article_at" : "2026-10-03T14:00:00Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-03T12:03:05Z",
+        "processed_at" : "2026-10-03T14:05:17Z",
         "state" : "processed"
       },
       {
-        "article_count" : 9,
+        "article_count" : 12,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-02T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-03T12:03:09Z",
+        "processed_at" : "2026-10-03T14:05:20Z",
         "state" : "processed"
       },
       {
@@ -415,14 +423,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-28T16:37:54Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-03T12:03:05Z",
+        "processed_at" : "2026-10-03T14:05:18Z",
         "state" : "processed"
       },
       {
-        "article_count" : 9,
+        "article_count" : 12,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-03T12:03:09Z",
+        "processed_at" : "2026-10-03T14:05:19Z",
         "state" : "processed"
       },
       {
@@ -430,16 +438,8 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-10-02T21:08:37Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-03T12:03:05Z",
+        "processed_at" : "2026-10-03T14:05:17Z",
         "state" : "processed"
-      },
-      {
-        "article_count" : 0,
-        "id" : "aireport-nl",
-        "message" : "Source returned no usable AI articles.",
-        "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-03T12:03:09Z",
-        "state" : "empty"
       }
     ],
     "state" : "complete"
