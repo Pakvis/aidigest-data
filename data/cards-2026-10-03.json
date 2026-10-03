@@ -3,6 +3,46 @@
     {
       "confidence" : "high",
       "consolidation" : {
+        "latest_source_at" : "2026-10-03T08:45:15Z",
+        "message_count" : 4,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 3
+      },
+      "created_at" : "2026-10-03T08:45:15Z",
+      "id" : "2026-10-03-e34de1eb6e5f",
+      "importance" : "high",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "not much happened today",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-not-much-happened-today-cee"
+        },
+        {
+          "source_name" : "AI Breakfast",
+          "title" : "Gemini 4 Argon... A new Frontier?",
+          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/gemini-4-argon-a-new-frontier"
+        },
+        {
+          "source_name" : "TLDR AI",
+          "title" : "Gemini 4 Argon 🧠, inside OpenAI’s chip ⚡, distillation takedown 🕵️",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-10-01"
+        }
+      ],
+      "summary" : "Gemini 4 Argon : Argon [High] took 1 in Text Arena.",
+      "summary_method" : "source-extract",
+      "title" : "Gemini 4 Argon: GDM’s answer to Astra\/Fable, with 1M output",
+      "topics" : [
+        "Gemini",
+        "Agents",
+        "Compute"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "consolidation" : {
         "latest_source_at" : "2026-10-02T20:08:40Z",
         "message_count" : 2,
         "reason" : "Multiple sources reported the same story.",
@@ -124,28 +164,6 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-10-01T18:14:42Z",
-      "id" : "2026-10-03-e3cd590ab7b9",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/01\/openai-cuts-ties-with-three-safety-researchers-wsj-reports\/"
-        }
-      ],
-      "summary" : "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
-      "summary_method" : "source-extract",
-      "title" : "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-      "topics" : [
-        "Safety"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-10-02T14:04:49Z",
       "id" : "2026-10-03-ce58087663ba",
       "importance" : "medium",
@@ -168,6 +186,28 @@
     },
     {
       "confidence" : "medium",
+      "created_at" : "2026-10-01T18:14:42Z",
+      "id" : "2026-10-03-e3cd590ab7b9",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/01\/openai-cuts-ties-with-three-safety-researchers-wsj-reports\/"
+        }
+      ],
+      "summary" : "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+      "summary_method" : "source-extract",
+      "title" : "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "topics" : [
+        "Safety"
+      ]
+    },
+    {
+      "confidence" : "medium",
       "created_at" : "2026-10-01T16:49:22Z",
       "id" : "2026-10-03-fada6a23a8ff",
       "importance" : "medium",
@@ -186,68 +226,6 @@
       "title" : "Amazon releases its own Jev clone as decision models flood the web",
       "topics" : [
         "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-10-01T16:44:35Z",
-      "id" : "2026-10-03-8ac156408c30",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/01\/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai\/"
-        }
-      ],
-      "summary" : "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
-      "summary_method" : "source-extract",
-      "title" : "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-      "topics" : [
-        "Agents"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "consolidation" : {
-        "latest_source_at" : "2026-10-03T08:45:15Z",
-        "message_count" : 4,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 3
-      },
-      "created_at" : "2026-10-03T08:45:15Z",
-      "id" : "2026-10-03-d09003004f71",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "not much happened today",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-not-much-happened-today-cee"
-        },
-        {
-          "source_name" : "TLDR AI",
-          "title" : "Gemini 4 Argon 🧠, inside OpenAI’s chip ⚡, distillation takedown 🕵️",
-          "url" : "https:\/\/tldr.tech\/ai\/2026-10-01"
-        },
-        {
-          "source_name" : "Google DeepMind",
-          "title" : "Gemini 4 Argon: our next era of frontier intelligence",
-          "url" : "https:\/\/deepmind.google\/blog\/gemini-4-argon-our-next-era-of-frontier-intelligence\/"
-        }
-      ],
-      "summary" : "Gemini 4 Argon : Argon [High] took 1 in Text Arena.",
-      "summary_method" : "source-extract",
-      "title" : "Gemini 4 Argon: our next era of frontier intelligence",
-      "topics" : [
-        "Gemini",
-        "Compute",
-        "Agents"
       ]
     },
     {
@@ -293,26 +271,56 @@
       "topics" : [
         "AI"
       ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-03T15:00:00Z",
+      "id" : "2026-10-03-d54ca0b65e2a",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+          "url" : "https:\/\/www.theverge.com\/entertainment\/1004162\/splice-ceo-kakul-srivastava-ai-interview"
+        }
+      ],
+      "summary" : "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops.",
+      "summary_method" : "source-extract",
+      "title" : "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+      "topics" : [
+        "AI"
+      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 7,
-    "summary" : "• Apple will limit Mac disk access as AI agents ‘substantially’ increase risk\n• An OpenAI safety employee has quit and is sounding the alarm\n• Meta open sources code to let you make Muse AI gadgets",
+    "summary" : "• Gemini 4 Argon: GDM’s answer to Astra\/Fable, with 1M output\n• Apple will limit Mac disk access as AI agents ‘substantially’ increase risk\n• An OpenAI safety employee has quit and is sounding the alarm",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-03",
-  "generated_at" : "2026-10-03T18:00:30Z",
+  "generated_at" : "2026-10-03T20:02:25Z",
   "processing_report" : {
-    "generated_at" : "2026-10-03T18:00:42Z",
-    "high_card_count" : 0,
+    "generated_at" : "2026-10-03T20:02:31Z",
+    "high_card_count" : 1,
     "source_reports" : [
       {
-        "article_count" : 1,
+        "article_count" : 3,
+        "id" : "ai-breakfast",
+        "latest_article_at" : "2026-10-02T19:26:54Z",
+        "name" : "AI Breakfast",
+        "processed_at" : "2026-10-03T20:02:31Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 10,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-03T18:00:41Z",
+        "processed_at" : "2026-10-03T20:02:28Z",
         "state" : "processed"
       },
       {
@@ -320,7 +328,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-03T18:00:31Z",
+        "processed_at" : "2026-10-03T20:02:26Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 5,
+        "id" : "aireport-nl",
+        "latest_article_at" : "2026-10-01T10:00:00Z",
+        "name" : "AI Report (NL)",
+        "processed_at" : "2026-10-03T20:02:27Z",
         "state" : "processed"
       },
       {
@@ -328,7 +344,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-01T16:28:04Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-03T18:00:31Z",
+        "processed_at" : "2026-10-03T20:02:26Z",
         "state" : "processed"
       },
       {
@@ -336,7 +352,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-02T15:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-03T18:00:30Z",
+        "processed_at" : "2026-10-03T20:02:26Z",
         "state" : "processed"
       },
       {
@@ -344,7 +360,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-30T20:01:45Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-03T18:00:30Z",
+        "processed_at" : "2026-10-03T20:02:26Z",
         "state" : "processed"
       },
       {
@@ -352,7 +368,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-10-02T15:19:50Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-03T18:00:31Z",
+        "processed_at" : "2026-10-03T20:02:26Z",
         "state" : "processed"
       },
       {
@@ -360,7 +376,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-03T08:45:15Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-03T18:00:34Z",
+        "processed_at" : "2026-10-03T20:02:29Z",
         "state" : "processed"
       },
       {
@@ -368,7 +384,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-29T06:30:04Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-03T18:00:30Z",
+        "processed_at" : "2026-10-03T20:02:26Z",
         "state" : "processed"
       },
       {
@@ -376,7 +392,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-28T15:57:59Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-03T18:00:30Z",
+        "processed_at" : "2026-10-03T20:02:26Z",
         "state" : "processed"
       },
       {
@@ -384,7 +400,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-01T10:54:12Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-03T18:00:30Z",
+        "processed_at" : "2026-10-03T20:02:26Z",
         "state" : "processed"
       },
       {
@@ -392,7 +408,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-10-02T16:15:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-03T18:00:31Z",
+        "processed_at" : "2026-10-03T20:02:26Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 8,
+        "id" : "superhuman-ai",
+        "latest_article_at" : "2026-10-03T14:00:00Z",
+        "name" : "Superhuman AI",
+        "processed_at" : "2026-10-03T20:02:29Z",
         "state" : "processed"
       },
       {
@@ -400,15 +424,23 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-02T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-03T18:00:30Z",
+        "processed_at" : "2026-10-03T20:02:26Z",
         "state" : "processed"
       },
       {
-        "article_count" : 15,
+        "article_count" : 14,
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-10-03T16:30:01Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-03T18:00:30Z",
+        "processed_at" : "2026-10-03T20:02:25Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 8,
+        "id" : "the-ai-report",
+        "latest_article_at" : "2026-10-02T11:01:00Z",
+        "name" : "The AI Report",
+        "processed_at" : "2026-10-03T20:02:29Z",
         "state" : "processed"
       },
       {
@@ -416,7 +448,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-28T16:37:54Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-03T18:00:31Z",
+        "processed_at" : "2026-10-03T20:02:26Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 9,
+        "id" : "the-neuron-daily",
+        "name" : "The Neuron Daily",
+        "processed_at" : "2026-10-03T20:02:29Z",
         "state" : "processed"
       },
       {
@@ -424,50 +463,10 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-10-03T16:49:10Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-03T18:00:30Z",
+        "processed_at" : "2026-10-03T20:02:25Z",
         "state" : "processed"
-      },
-      {
-        "article_count" : 0,
-        "id" : "ai-breakfast",
-        "message" : "Source returned no usable AI articles.",
-        "name" : "AI Breakfast",
-        "processed_at" : "2026-10-03T18:00:40Z",
-        "state" : "empty"
-      },
-      {
-        "article_count" : 0,
-        "id" : "aireport-nl",
-        "message" : "Source returned no usable AI articles.",
-        "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-03T18:00:35Z",
-        "state" : "empty"
-      },
-      {
-        "article_count" : 0,
-        "id" : "the-ai-report",
-        "message" : "Source returned no usable AI articles.",
-        "name" : "The AI Report",
-        "processed_at" : "2026-10-03T18:00:39Z",
-        "state" : "empty"
-      },
-      {
-        "article_count" : 0,
-        "id" : "superhuman-ai",
-        "message" : "Did not finish before the startup source budget.",
-        "name" : "Superhuman AI",
-        "processed_at" : "2026-10-03T18:00:42Z",
-        "state" : "timedOut"
-      },
-      {
-        "article_count" : 0,
-        "id" : "the-neuron-daily",
-        "message" : "Did not finish before the startup source budget.",
-        "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-03T18:00:42Z",
-        "state" : "timedOut"
       }
     ],
-    "state" : "timedOut"
+    "state" : "complete"
   }
 }
