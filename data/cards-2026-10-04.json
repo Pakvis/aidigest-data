@@ -2,48 +2,46 @@
   "cards" : [
     {
       "confidence" : "high",
-      "created_at" : "2026-10-02T16:15:00Z",
-      "id" : "2026-10-04-100d9340500a",
-      "importance" : "low",
+      "created_at" : "2026-10-02T15:00:00Z",
+      "id" : "2026-10-04-7d6686b662f9",
+      "importance" : "medium",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "OpenAI News",
-          "title" : "A model guide for the GPT-6 family",
-          "url" : "https:\/\/openai.com\/index\/practical-guide-building-gpt-6"
+          "source_name" : "Google AI Blog",
+          "title" : "The latest AI news we announced in September 2026",
+          "url" : "https:\/\/blog.google\/innovation-and-ai\/technology\/ai\/google-ai-updates-september-2026\/"
         }
       ],
-      "summary" : "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "summary" : "Here are Google’s latest AI updates from September 2026.",
       "summary_method" : "source-extract",
-      "title" : "A model guide for the GPT-6 family",
+      "title" : "The latest AI news we announced in September 2026",
       "topics" : [
-        "GPT",
-        "Tooling",
-        "Workflows"
+        "AI"
       ]
     },
     {
-      "confidence" : "high",
-      "created_at" : "2026-10-02T00:00:00Z",
-      "id" : "2026-10-04-204b1a8dc110",
+      "confidence" : "medium",
+      "created_at" : "2026-10-01T20:01:00Z",
+      "id" : "2026-10-04-8a431d7c4c5b",
       "importance" : "low",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "OpenAI News",
-          "title" : "Chatham scales its capital markets expertise with OpenAI",
-          "url" : "https:\/\/openai.com\/index\/chatham-financial"
+          "source_name" : "The AI Report",
+          "title" : "️ EY Tech Leader: 4 Questions to Keep AI Agents in Check",
+          "url" : "https:\/\/newsletter.theaireport.ai\/p\/ey-tech-leader-4-questions-to-keep-ai-agents-in-check"
         }
       ],
-      "summary" : "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "summary" : "Inside: AI-first workflows, agent costs, and how to keep agents accountable.",
       "summary_method" : "source-extract",
-      "title" : "Chatham scales its capital markets expertise with OpenAI",
+      "title" : "️ EY Tech Leader: 4 Questions to Keep AI Agents in Check",
       "topics" : [
-        "GPT",
+        "Agents",
         "Workflows"
       ]
     }
@@ -51,37 +49,61 @@
   "count" : 2,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 1,
-    "summary" : "• A model guide for the GPT-6 family\n• Chatham scales its capital markets expertise with OpenAI",
+    "source_count" : 2,
+    "summary" : "• The latest AI news we announced in September 2026\n• ️ EY Tech Leader: 4 Questions to Keep AI Agents in Check",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-04",
-  "generated_at" : "2026-10-04T14:01:34Z",
+  "generated_at" : "2026-10-04T16:03:21Z",
   "processing_report" : {
-    "generated_at" : "2026-10-04T14:01:47Z",
+    "generated_at" : "2026-10-04T16:03:33Z",
     "high_card_count" : 0,
     "source_reports" : [
       {
-        "article_count" : 6,
+        "article_count" : 2,
         "id" : "ai-breakfast",
-        "latest_article_at" : "2026-10-02T19:26:54Z",
+        "latest_article_at" : "2026-09-16T18:28:03Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-04T14:01:40Z",
+        "processed_at" : "2026-10-04T16:03:28Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 6,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-04T14:01:37Z",
+        "processed_at" : "2026-10-04T16:03:26Z",
         "state" : "processed"
       },
       {
-        "article_count" : 5,
+        "article_count" : 80,
+        "id" : "ai-news",
+        "latest_article_at" : "2026-09-09T05:44:39Z",
+        "name" : "AI News (Swyx)",
+        "processed_at" : "2026-10-04T16:03:27Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 3,
         "id" : "aireport-nl",
-        "latest_article_at" : "2026-10-01T10:00:00Z",
+        "latest_article_at" : "2026-09-29T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-04T14:01:37Z",
+        "processed_at" : "2026-10-04T16:03:24Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 20,
+        "id" : "google-ai-blog",
+        "latest_article_at" : "2026-10-02T15:00:00Z",
+        "name" : "Google AI Blog",
+        "processed_at" : "2026-10-04T16:03:28Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 80,
+        "id" : "deepmind-blog",
+        "latest_article_at" : "2026-09-30T20:01:45Z",
+        "name" : "Google DeepMind",
+        "processed_at" : "2026-10-04T16:03:30Z",
         "state" : "processed"
       },
       {
@@ -89,7 +111,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-10-03T22:56:48Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-04T14:01:46Z",
+        "processed_at" : "2026-10-04T16:03:28Z",
         "state" : "processed"
       },
       {
@@ -97,7 +119,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-29T06:30:04Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-04T14:01:40Z",
+        "processed_at" : "2026-10-04T16:03:25Z",
         "state" : "processed"
       },
       {
@@ -105,7 +127,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-28T15:57:59Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-04T14:01:34Z",
+        "processed_at" : "2026-10-04T16:03:23Z",
         "state" : "processed"
       },
       {
@@ -113,31 +135,23 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-01T10:54:12Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-04T14:01:38Z",
+        "processed_at" : "2026-10-04T16:03:22Z",
         "state" : "processed"
       },
       {
-        "article_count" : 80,
-        "id" : "openai-news",
-        "latest_article_at" : "2026-10-02T16:15:00Z",
-        "name" : "OpenAI News",
-        "processed_at" : "2026-10-04T14:01:43Z",
+        "article_count" : 4,
+        "id" : "superhuman-ai",
+        "latest_article_at" : "2026-10-03T14:00:00Z",
+        "name" : "Superhuman AI",
+        "processed_at" : "2026-10-04T16:03:25Z",
         "state" : "processed"
       },
       {
         "article_count" : 8,
-        "id" : "superhuman-ai",
-        "latest_article_at" : "2026-10-03T14:00:00Z",
-        "name" : "Superhuman AI",
-        "processed_at" : "2026-10-04T14:01:40Z",
-        "state" : "processed"
-      },
-      {
-        "article_count" : 1,
         "id" : "the-ai-report",
-        "latest_article_at" : "2026-10-04T12:01:00Z",
+        "latest_article_at" : "2026-10-02T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-04T14:01:41Z",
+        "processed_at" : "2026-10-04T16:03:27Z",
         "state" : "processed"
       },
       {
@@ -145,46 +159,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-28T16:37:54Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-04T14:01:38Z",
+        "processed_at" : "2026-10-04T16:03:25Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 9,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-04T14:01:39Z",
+        "processed_at" : "2026-10-04T16:03:27Z",
         "state" : "processed"
-      },
-      {
-        "article_count" : 0,
-        "id" : "ai-news",
-        "message" : "Did not finish before the startup source budget.",
-        "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-04T14:01:47Z",
-        "state" : "timedOut"
       },
       {
         "article_count" : 0,
         "id" : "ars-technica-ai",
         "message" : "Did not finish before the startup source budget.",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-04T14:01:47Z",
-        "state" : "timedOut"
-      },
-      {
-        "article_count" : 0,
-        "id" : "google-ai-blog",
-        "message" : "Did not finish before the startup source budget.",
-        "name" : "Google AI Blog",
-        "processed_at" : "2026-10-04T14:01:47Z",
-        "state" : "timedOut"
-      },
-      {
-        "article_count" : 0,
-        "id" : "deepmind-blog",
-        "message" : "Did not finish before the startup source budget.",
-        "name" : "Google DeepMind",
-        "processed_at" : "2026-10-04T14:01:47Z",
+        "processed_at" : "2026-10-04T16:03:33Z",
         "state" : "timedOut"
       },
       {
@@ -192,7 +182,15 @@
         "id" : "latent-space",
         "message" : "Did not finish before the startup source budget.",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-04T14:01:47Z",
+        "processed_at" : "2026-10-04T16:03:33Z",
+        "state" : "timedOut"
+      },
+      {
+        "article_count" : 0,
+        "id" : "openai-news",
+        "message" : "Did not finish before the startup source budget.",
+        "name" : "OpenAI News",
+        "processed_at" : "2026-10-04T16:03:33Z",
         "state" : "timedOut"
       },
       {
@@ -200,7 +198,7 @@
         "id" : "tldr-ai",
         "message" : "Did not finish before the startup source budget.",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-04T14:01:47Z",
+        "processed_at" : "2026-10-04T16:03:33Z",
         "state" : "timedOut"
       },
       {
@@ -208,7 +206,7 @@
         "id" : "techcrunch-ai",
         "message" : "Did not finish before the startup source budget.",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-04T14:01:47Z",
+        "processed_at" : "2026-10-04T16:03:33Z",
         "state" : "timedOut"
       },
       {
@@ -216,7 +214,7 @@
         "id" : "the-verge-ai",
         "message" : "Did not finish before the startup source budget.",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-04T14:01:47Z",
+        "processed_at" : "2026-10-04T16:03:33Z",
         "state" : "timedOut"
       }
     ],
