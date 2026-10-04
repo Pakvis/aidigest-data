@@ -36,83 +36,6 @@
       ]
     },
     {
-      "confidence" : "medium",
-      "created_at" : "2026-10-03T14:31:56Z",
-      "id" : "2026-10-04-a3c4c2de6133",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "An OpenAI safety employee has quit and is sounding the alarm",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1004408\/openai-safety-quits-sounding-the-alarm"
-        }
-      ],
-      "summary" : "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic .",
-      "summary_method" : "source-extract",
-      "title" : "An OpenAI safety employee has quit and is sounding the alarm",
-      "topics" : [
-        "Safety"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-10-03T16:30:01Z",
-      "id" : "2026-10-04-09902ac91a6d",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/03\/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken\/"
-        }
-      ],
-      "summary" : "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-      "summary_method" : "source-extract",
-      "title" : "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "topics" : [
-        "Safety"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "consolidation" : {
-        "latest_source_at" : "2026-10-02T20:08:40Z",
-        "message_count" : 2,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
-      },
-      "created_at" : "2026-10-02T20:08:40Z",
-      "id" : "2026-10-04-58dd049cad5d",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-          "url" : "https:\/\/www.theverge.com\/tech\/1004295\/apple-limit-mac-disk-access-ai-agents"
-        },
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/02\/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents\/"
-        }
-      ],
-      "summary" : "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch .",
-      "summary_method" : "source-extract",
-      "title" : "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-      "topics" : [
-        "Agents"
-      ]
-    },
-    {
       "confidence" : "high",
       "created_at" : "2026-10-02T15:00:00Z",
       "id" : "2026-10-04-7d6686b662f9",
@@ -132,29 +55,6 @@
       "title" : "The latest AI news we announced in September 2026",
       "topics" : [
         "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-10-02T21:08:37Z",
-      "id" : "2026-10-04-c9e43b39ae4a",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Meta open sources code to let you make Muse AI gadgets",
-          "url" : "https:\/\/www.theverge.com\/tech\/1004330\/meta-muse-ai-gadgets-home-link"
-        }
-      ],
-      "summary" : "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced . The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or putting Muse on a small touchscreen device to make what looks kind of like a DIY Muse Charm .",
-      "summary_method" : "source-extract",
-      "title" : "Meta open sources code to let you make Muse AI gadgets",
-      "topics" : [
-        "Coding",
-        "Agents"
       ]
     },
     {
@@ -180,50 +80,6 @@
       ]
     },
     {
-      "confidence" : "medium",
-      "created_at" : "2026-10-01T18:14:42Z",
-      "id" : "2026-10-04-79b623bc3bbc",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/01\/openai-cuts-ties-with-three-safety-researchers-wsj-reports\/"
-        }
-      ],
-      "summary" : "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
-      "summary_method" : "source-extract",
-      "title" : "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-      "topics" : [
-        "Safety"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-10-01T16:49:22Z",
-      "id" : "2026-10-04-13bf09e479f7",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Amazon releases its own Jev clone as decision models flood the web",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/01\/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web\/"
-        }
-      ],
-      "summary" : "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
-      "summary_method" : "source-extract",
-      "title" : "Amazon releases its own Jev clone as decision models flood the web",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
       "confidence" : "low",
       "created_at" : "2026-10-01T10:54:12Z",
       "id" : "2026-10-04-04b513d68fdc",
@@ -246,76 +102,146 @@
       ]
     },
     {
-      "confidence" : "medium",
-      "created_at" : "2026-10-03T16:49:10Z",
-      "id" : "2026-10-04-6afe8cd6c30f",
+      "confidence" : "high",
+      "created_at" : "2026-10-02T16:15:00Z",
+      "id" : "2026-10-04-100d9340500a",
       "importance" : "low",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "The Verge AI",
-          "title" : "Capcom is preparing for a ‘future where we create games together with AI’",
-          "url" : "https:\/\/www.theverge.com\/games\/1004418\/capcom-ai-game-development"
+          "source_name" : "OpenAI News",
+          "title" : "A model guide for the GPT-6 family",
+          "url" : "https:\/\/openai.com\/index\/practical-guide-building-gpt-6"
         }
       ],
-      "summary" : "Capcom's Pragmata might be all about the horrors of AI , but in practice the studio doesn't seem so down on the tech .",
+      "summary" : "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
       "summary_method" : "source-extract",
-      "title" : "Capcom is preparing for a ‘future where we create games together with AI’",
+      "title" : "A model guide for the GPT-6 family",
+      "topics" : [
+        "GPT",
+        "Tooling",
+        "Workflows"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-10-02T00:00:00Z",
+      "id" : "2026-10-04-204b1a8dc110",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Chatham scales its capital markets expertise with OpenAI",
+          "url" : "https:\/\/openai.com\/index\/chatham-financial"
+        }
+      ],
+      "summary" : "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "summary_method" : "source-extract",
+      "title" : "Chatham scales its capital markets expertise with OpenAI",
+      "topics" : [
+        "GPT",
+        "Workflows"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-02T06:40:53Z",
+      "id" : "2026-10-04-9fe0432c1c26",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Pi 1.0, Pi Durable, and AIE NYC",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-pi-10-pi-durable-and-aie-nyc"
+        }
+      ],
+      "summary" : "Last call for regular tickets for AI Engineer NYC !.",
+      "summary_method" : "source-extract",
+      "title" : "Pi 1.0, Pi Durable, and AIE NYC",
       "topics" : [
         "AI"
       ]
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-10-03T15:00:00Z",
-      "id" : "2026-10-04-a37669ee483f",
+      "created_at" : "2026-10-02T00:28:04Z",
+      "id" : "2026-10-04-1a6cd4785eb8",
       "importance" : "low",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "The Verge AI",
-          "title" : "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-          "url" : "https:\/\/www.theverge.com\/entertainment\/1004162\/splice-ceo-kakul-srivastava-ai-interview"
+          "source_name" : "Latent Space",
+          "title" : "Academia is for Ambition — Alex Zhang, MIT",
+          "url" : "https:\/\/www.latent.space\/p\/rlm"
         }
       ],
-      "summary" : "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops.",
+      "summary" : "I collaborate with people that I don’t Alex Zhang [01:40:39]: I guess it’s true Swyx [01:40:39]: I don’t agree with or Closing: Research, Academia, and What Comes Next Alex Zhang [01:40:40]: That’s true Swyx [01:40:40]: Whatever.",
       "summary_method" : "source-extract",
-      "title" : "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+      "title" : "Academia is for Ambition — Alex Zhang, MIT",
       "topics" : [
         "AI"
       ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-01T20:01:00Z",
+      "id" : "2026-10-04-8a431d7c4c5b",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The AI Report",
+          "title" : "️ EY Tech Leader: 4 Questions to Keep AI Agents in Check",
+          "url" : "https:\/\/newsletter.theaireport.ai\/p\/ey-tech-leader-4-questions-to-keep-ai-agents-in-check"
+        }
+      ],
+      "summary" : "Inside: AI-first workflows, agent costs, and how to keep agents accountable.",
+      "summary_method" : "source-extract",
+      "title" : "️ EY Tech Leader: 4 Questions to Keep AI Agents in Check",
+      "topics" : [
+        "Agents",
+        "Workflows"
+      ]
     }
   ],
-  "count" : 12,
+  "count" : 9,
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 6,
-    "summary" : "• Gemini 4 Argon... A new Frontier?\n• An OpenAI safety employee has quit and is sounding the alarm\n• OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+    "summary" : "• Gemini 4 Argon... A new Frontier?\n• The latest AI news we announced in September 2026\n• Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-04",
-  "generated_at" : "2026-10-04T08:02:56Z",
+  "generated_at" : "2026-10-04T10:05:08Z",
   "processing_report" : {
-    "generated_at" : "2026-10-04T08:03:01Z",
+    "generated_at" : "2026-10-04T10:05:20Z",
     "high_card_count" : 1,
     "source_reports" : [
       {
-        "article_count" : 8,
+        "article_count" : 5,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-10-02T19:26:54Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-04T08:03:01Z",
+        "processed_at" : "2026-10-04T10:05:14Z",
         "state" : "processed"
       },
       {
         "article_count" : 10,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-04T08:02:58Z",
+        "processed_at" : "2026-10-04T10:05:12Z",
         "state" : "processed"
       },
       {
@@ -323,7 +249,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-04T08:02:57Z",
+        "processed_at" : "2026-10-04T10:05:13Z",
         "state" : "processed"
       },
       {
@@ -331,15 +257,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-10-01T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-04T08:02:58Z",
-        "state" : "processed"
-      },
-      {
-        "article_count" : 18,
-        "id" : "ars-technica-ai",
-        "latest_article_at" : "2026-10-01T16:28:04Z",
-        "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-04T08:02:57Z",
+        "processed_at" : "2026-10-04T10:05:13Z",
         "state" : "processed"
       },
       {
@@ -347,7 +265,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-02T15:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-04T08:02:56Z",
+        "processed_at" : "2026-10-04T10:05:16Z",
         "state" : "processed"
       },
       {
@@ -355,7 +273,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-30T20:01:45Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-04T08:02:57Z",
+        "processed_at" : "2026-10-04T10:05:16Z",
         "state" : "processed"
       },
       {
@@ -363,7 +281,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-10-03T22:56:48Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-04T08:02:57Z",
+        "processed_at" : "2026-10-04T10:05:13Z",
         "state" : "processed"
       },
       {
@@ -371,7 +289,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-03T08:45:15Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-04T08:03:00Z",
+        "processed_at" : "2026-10-04T10:05:17Z",
         "state" : "processed"
       },
       {
@@ -379,7 +297,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-29T06:30:04Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-04T08:02:57Z",
+        "processed_at" : "2026-10-04T10:05:16Z",
         "state" : "processed"
       },
       {
@@ -387,7 +305,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-28T15:57:59Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-04T08:02:57Z",
+        "processed_at" : "2026-10-04T10:05:10Z",
         "state" : "processed"
       },
       {
@@ -395,7 +313,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-01T10:54:12Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-04T08:02:56Z",
+        "processed_at" : "2026-10-04T10:05:10Z",
         "state" : "processed"
       },
       {
@@ -403,39 +321,23 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-10-02T16:15:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-04T08:02:57Z",
+        "processed_at" : "2026-10-04T10:05:13Z",
         "state" : "processed"
       },
       {
-        "article_count" : 8,
+        "article_count" : 9,
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-10-03T14:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-04T08:03:01Z",
+        "processed_at" : "2026-10-04T10:05:12Z",
         "state" : "processed"
       },
       {
-        "article_count" : 18,
-        "id" : "tldr-ai",
-        "latest_article_at" : "2026-10-02T00:00:00Z",
-        "name" : "TLDR AI",
-        "processed_at" : "2026-10-04T08:02:56Z",
-        "state" : "processed"
-      },
-      {
-        "article_count" : 14,
-        "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-10-03T16:30:01Z",
-        "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-04T08:02:56Z",
-        "state" : "processed"
-      },
-      {
-        "article_count" : 10,
+        "article_count" : 11,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-02T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-04T08:02:59Z",
+        "processed_at" : "2026-10-04T10:05:13Z",
         "state" : "processed"
       },
       {
@@ -443,25 +345,49 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-28T16:37:54Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-04T08:02:57Z",
+        "processed_at" : "2026-10-04T10:05:14Z",
         "state" : "processed"
       },
       {
-        "article_count" : 9,
+        "article_count" : 10,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-04T08:02:59Z",
+        "processed_at" : "2026-10-04T10:05:12Z",
         "state" : "processed"
       },
       {
-        "article_count" : 7,
+        "article_count" : 0,
+        "id" : "ars-technica-ai",
+        "message" : "Did not finish before the startup source budget.",
+        "name" : "Ars Technica AI",
+        "processed_at" : "2026-10-04T10:05:20Z",
+        "state" : "timedOut"
+      },
+      {
+        "article_count" : 0,
+        "id" : "tldr-ai",
+        "message" : "Did not finish before the startup source budget.",
+        "name" : "TLDR AI",
+        "processed_at" : "2026-10-04T10:05:20Z",
+        "state" : "timedOut"
+      },
+      {
+        "article_count" : 0,
+        "id" : "techcrunch-ai",
+        "message" : "Did not finish before the startup source budget.",
+        "name" : "TechCrunch AI",
+        "processed_at" : "2026-10-04T10:05:20Z",
+        "state" : "timedOut"
+      },
+      {
+        "article_count" : 0,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-10-03T16:49:10Z",
+        "message" : "Did not finish before the startup source budget.",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-04T08:02:56Z",
-        "state" : "processed"
+        "processed_at" : "2026-10-04T10:05:20Z",
+        "state" : "timedOut"
       }
     ],
-    "state" : "complete"
+    "state" : "timedOut"
   }
 }
