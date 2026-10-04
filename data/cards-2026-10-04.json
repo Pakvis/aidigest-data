@@ -23,6 +23,28 @@
       ]
     },
     {
+      "confidence" : "high",
+      "created_at" : "2026-10-02T15:00:00Z",
+      "id" : "2026-10-04-7d6686b662f9",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Google AI Blog",
+          "title" : "The latest AI news we announced in September 2026",
+          "url" : "https:\/\/blog.google\/innovation-and-ai\/technology\/ai\/google-ai-updates-september-2026\/"
+        }
+      ],
+      "summary" : "Here are Google’s latest AI updates from September 2026.",
+      "summary_method" : "source-extract",
+      "title" : "The latest AI news we announced in September 2026",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
       "confidence" : "medium",
       "created_at" : "2026-10-02T18:11:27Z",
       "id" : "2026-10-04-77f4f860dbd6",
@@ -42,28 +64,6 @@
       "title" : "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
       "topics" : [
         "Agents"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-10-01T18:14:42Z",
-      "id" : "2026-10-04-79b623bc3bbc",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/01\/openai-cuts-ties-with-three-safety-researchers-wsj-reports\/"
-        }
-      ],
-      "summary" : "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
-      "summary_method" : "source-extract",
-      "title" : "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-      "topics" : [
-        "Safety"
       ]
     },
     {
@@ -222,72 +222,58 @@
       "topics" : [
         "AI"
       ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-10-01T19:21:53Z",
-      "id" : "2026-10-04-d0bc589931af",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "ChatGPT can now virtually try on clothes for you",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/01\/chatgpt-can-now-virtually-try-on-clothes-for-you\/"
-        }
-      ],
-      "summary" : "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
-      "summary_method" : "source-extract",
-      "title" : "ChatGPT can now virtually try on clothes for you",
-      "topics" : [
-        "ChatGPT"
-      ]
     }
   ],
-  "count" : 11,
+  "count" : 10,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 2,
-    "summary" : "• OpenAI safety employee resigns, claiming the company’s ‘culture is broken’\n• Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents\n• OpenAI cuts ties with 3 safety researchers, WSJ reports",
+    "source_count" : 3,
+    "summary" : "• OpenAI safety employee resigns, claiming the company’s ‘culture is broken’\n• The latest AI news we announced in September 2026\n• Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-04",
-  "generated_at" : "2026-10-04T18:02:42Z",
+  "generated_at" : "2026-10-04T20:00:55Z",
   "processing_report" : {
-    "generated_at" : "2026-10-04T18:02:54Z",
+    "generated_at" : "2026-10-04T20:01:07Z",
     "high_card_count" : 0,
     "source_reports" : [
       {
-        "article_count" : 7,
+        "article_count" : 6,
         "id" : "ai-breakfast",
-        "latest_article_at" : "2026-10-02T19:26:54Z",
+        "latest_article_at" : "2026-09-30T15:12:17Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-04T18:02:48Z",
+        "processed_at" : "2026-10-04T20:01:00Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 9,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-04T18:02:45Z",
+        "processed_at" : "2026-10-04T20:00:58Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 5,
+        "id" : "aireport-nl",
+        "latest_article_at" : "2026-10-01T10:00:00Z",
+        "name" : "AI Report (NL)",
+        "processed_at" : "2026-10-04T20:00:58Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 20,
+        "id" : "google-ai-blog",
+        "latest_article_at" : "2026-10-02T15:00:00Z",
+        "name" : "Google AI Blog",
+        "processed_at" : "2026-10-04T20:01:02Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
-        "id" : "ai-news",
-        "latest_article_at" : "2026-09-09T05:44:39Z",
-        "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-04T18:02:48Z",
-        "state" : "processed"
-      },
-      {
-        "article_count" : 2,
-        "id" : "aireport-nl",
-        "latest_article_at" : "2026-09-24T10:00:00Z",
-        "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-04T18:02:49Z",
+        "id" : "deepmind-blog",
+        "latest_article_at" : "2026-09-30T20:01:45Z",
+        "name" : "Google DeepMind",
+        "processed_at" : "2026-10-04T20:01:02Z",
         "state" : "processed"
       },
       {
@@ -295,7 +281,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-10-03T22:56:48Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-04T18:02:51Z",
+        "processed_at" : "2026-10-04T20:01:00Z",
         "state" : "processed"
       },
       {
@@ -303,7 +289,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-29T06:30:04Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-04T18:02:46Z",
+        "processed_at" : "2026-10-04T20:01:00Z",
         "state" : "processed"
       },
       {
@@ -311,7 +297,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-28T15:57:59Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-04T18:02:43Z",
+        "processed_at" : "2026-10-04T20:00:56Z",
         "state" : "processed"
       },
       {
@@ -319,7 +305,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-01T10:54:12Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-04T18:02:46Z",
+        "processed_at" : "2026-10-04T20:00:58Z",
         "state" : "processed"
       },
       {
@@ -327,15 +313,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-10-02T16:15:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-04T18:02:49Z",
+        "processed_at" : "2026-10-04T20:01:00Z",
         "state" : "processed"
       },
       {
-        "article_count" : 7,
+        "article_count" : 8,
         "id" : "superhuman-ai",
-        "latest_article_at" : "2026-10-02T11:02:57Z",
+        "latest_article_at" : "2026-10-03T14:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-04T18:02:45Z",
+        "processed_at" : "2026-10-04T20:00:58Z",
         "state" : "processed"
       },
       {
@@ -343,15 +329,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-10-03T16:30:01Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-04T18:02:47Z",
+        "processed_at" : "2026-10-04T20:00:59Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "the-ai-report",
-        "latest_article_at" : "2026-10-02T11:01:00Z",
+        "latest_article_at" : "2026-10-04T12:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-04T18:02:46Z",
+        "processed_at" : "2026-10-04T20:01:00Z",
         "state" : "processed"
       },
       {
@@ -359,38 +345,30 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-28T16:37:54Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-04T18:02:44Z",
+        "processed_at" : "2026-10-04T20:00:57Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-04T18:02:45Z",
+        "processed_at" : "2026-10-04T20:01:00Z",
         "state" : "processed"
+      },
+      {
+        "article_count" : 0,
+        "id" : "ai-news",
+        "message" : "Did not finish before the startup source budget.",
+        "name" : "AI News (Swyx)",
+        "processed_at" : "2026-10-04T20:01:07Z",
+        "state" : "timedOut"
       },
       {
         "article_count" : 0,
         "id" : "ars-technica-ai",
         "message" : "Did not finish before the startup source budget.",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-04T18:02:54Z",
-        "state" : "timedOut"
-      },
-      {
-        "article_count" : 0,
-        "id" : "google-ai-blog",
-        "message" : "Did not finish before the startup source budget.",
-        "name" : "Google AI Blog",
-        "processed_at" : "2026-10-04T18:02:54Z",
-        "state" : "timedOut"
-      },
-      {
-        "article_count" : 0,
-        "id" : "deepmind-blog",
-        "message" : "Did not finish before the startup source budget.",
-        "name" : "Google DeepMind",
-        "processed_at" : "2026-10-04T18:02:54Z",
+        "processed_at" : "2026-10-04T20:01:07Z",
         "state" : "timedOut"
       },
       {
@@ -398,7 +376,7 @@
         "id" : "latent-space",
         "message" : "Did not finish before the startup source budget.",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-04T18:02:54Z",
+        "processed_at" : "2026-10-04T20:01:07Z",
         "state" : "timedOut"
       },
       {
@@ -406,7 +384,7 @@
         "id" : "tldr-ai",
         "message" : "Did not finish before the startup source budget.",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-04T18:02:54Z",
+        "processed_at" : "2026-10-04T20:01:07Z",
         "state" : "timedOut"
       },
       {
@@ -414,7 +392,7 @@
         "id" : "the-verge-ai",
         "message" : "Did not finish before the startup source budget.",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-04T18:02:54Z",
+        "processed_at" : "2026-10-04T20:01:07Z",
         "state" : "timedOut"
       }
     ],
