@@ -1,44 +1,73 @@
 {
   "cards" : [
     {
-      "confidence" : "high",
+      "confidence" : "medium",
       "date" : "2026-10-04",
-      "id" : "2026-10-04-6ba8e4231fc8",
-      "importance" : "high",
+      "id" : "2026-10-04-09902ac91a6d",
+      "importance" : "medium",
       "sources" : [
         {
-          "source_name" : "Latent Space",
-          "title" : "not much happened today",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-not-much-happened-today-cee"
-        },
-        {
-          "source_name" : "AI Breakfast",
-          "title" : "Gemini 4 Argon... A new Frontier?",
-          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/gemini-4-argon-a-new-frontier"
+          "source_name" : "TechCrunch AI",
+          "title" : "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/03\/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken\/"
         }
       ],
-      "summary" : "Gemini 4 Argon : Argon [High] took 1 in Text Arena.",
-      "title" : "Gemini 4 Argon... A new Frontier?",
+      "summary" : "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "title" : "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
       "topics" : [
-        "Gemini",
-        "Anthropic",
+        "Safety"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-10-04",
+      "id" : "2026-10-04-77f4f860dbd6",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/02\/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents\/"
+        }
+      ],
+      "summary" : "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+      "title" : "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "topics" : [
         "Agents"
       ]
     },
     {
-      "confidence" : "high",
+      "confidence" : "medium",
       "date" : "2026-10-04",
-      "id" : "2026-10-04-7d6686b662f9",
+      "id" : "2026-10-04-79b623bc3bbc",
       "importance" : "medium",
       "sources" : [
         {
-          "source_name" : "Google AI Blog",
-          "title" : "The latest AI news we announced in September 2026",
-          "url" : "https:\/\/blog.google\/innovation-and-ai\/technology\/ai\/google-ai-updates-september-2026\/"
+          "source_name" : "TechCrunch AI",
+          "title" : "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/01\/openai-cuts-ties-with-three-safety-researchers-wsj-reports\/"
         }
       ],
-      "summary" : "Here are Google’s latest AI updates from September 2026.",
-      "title" : "The latest AI news we announced in September 2026",
+      "summary" : "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+      "title" : "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "topics" : [
+        "Safety"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-10-04",
+      "id" : "2026-10-04-13bf09e479f7",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Amazon releases its own Jev clone as decision models flood the web",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/01\/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web\/"
+        }
+      ],
+      "summary" : "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
+      "title" : "Amazon releases its own Jev clone as decision models flood the web",
       "topics" : [
         "AI"
       ]
@@ -46,35 +75,17 @@
     {
       "confidence" : "medium",
       "date" : "2026-10-04",
-      "id" : "2026-10-04-b71ab2d1e83b",
-      "importance" : "medium",
+      "id" : "2026-10-04-9458a842fdf0",
+      "importance" : "low",
       "sources" : [
         {
-          "source_name" : "Latent Space",
-          "title" : "Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
-          "url" : "https:\/\/www.latent.space\/p\/airbnb"
+          "source_name" : "TechCrunch AI",
+          "title" : "All the AI agents that can live in your text messages",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/03\/all-the-ai-agents-that-can-live-in-your-text-messages\/"
         }
       ],
-      "summary" : "An example of inside-out AI: Airbnb used a custom internal tool called Everest to help accelerate the launch of a new external service. (Diagram by Latent Space) Al-Dahle spoke with Latent Space about Airbnb’s AI transformation.",
-      "title" : "Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
-      "topics" : [
-        "Tooling"
-      ]
-    },
-    {
-      "confidence" : "low",
-      "date" : "2026-10-04",
-      "id" : "2026-10-04-04b513d68fdc",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "One Useful Thing",
-          "title" : "The Dot and the Swarm",
-          "url" : "https:\/\/www.oneusefulthing.org\/p\/the-dot-and-the-swarm"
-        }
-      ],
-      "summary" : "OpenAI launched what is now being called a swarm (terrible name, but it appears to be what we are stuck with), a group of thousands of agents powered by an advanced model.",
-      "title" : "The Dot and the Swarm",
+      "summary" : "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "title" : "All the AI agents that can live in your text messages",
       "topics" : [
         "Agents"
       ]
@@ -100,6 +111,60 @@
       ]
     },
     {
+      "confidence" : "medium",
+      "date" : "2026-10-04",
+      "id" : "2026-10-04-3bd17b03b5a5",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Sean Parker is rebuilding Stability AI around music",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/02\/sean-parker-is-rebuilding-stability-ai-around-music\/"
+        }
+      ],
+      "summary" : "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+      "title" : "Sean Parker is rebuilding Stability AI around music",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-10-04",
+      "id" : "2026-10-04-37d7a5a39c17",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/02\/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you\/"
+        }
+      ],
+      "summary" : "Circuit Breaker Labs has created \"crash-test dummies\" to solve that.",
+      "title" : "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-10-04",
+      "id" : "2026-10-04-dc66d2489d74",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Pope Leo XIV is not a fan of AI-generated art",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/02\/pope-leo-xiv-is-not-a-fan-of-ai-generated-art\/"
+        }
+      ],
+      "summary" : "There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote.",
+      "title" : "Pope Leo XIV is not a fan of AI-generated art",
+      "topics" : [
+        "Image Models"
+      ]
+    },
+    {
       "confidence" : "high",
       "date" : "2026-10-04",
       "id" : "2026-10-04-204b1a8dc110",
@@ -115,61 +180,6 @@
       "title" : "Chatham scales its capital markets expertise with OpenAI",
       "topics" : [
         "GPT",
-        "Workflows"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-10-04",
-      "id" : "2026-10-04-9fe0432c1c26",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "Pi 1.0, Pi Durable, and AIE NYC",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-pi-10-pi-durable-and-aie-nyc"
-        }
-      ],
-      "summary" : "Last call for regular tickets for AI Engineer NYC !.",
-      "title" : "Pi 1.0, Pi Durable, and AIE NYC",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-10-04",
-      "id" : "2026-10-04-1a6cd4785eb8",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "Academia is for Ambition — Alex Zhang, MIT",
-          "url" : "https:\/\/www.latent.space\/p\/rlm"
-        }
-      ],
-      "summary" : "I collaborate with people that I don’t Alex Zhang [01:40:39]: I guess it’s true Swyx [01:40:39]: I don’t agree with or Closing: Research, Academia, and What Comes Next Alex Zhang [01:40:40]: That’s true Swyx [01:40:40]: Whatever.",
-      "title" : "Academia is for Ambition — Alex Zhang, MIT",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-10-04",
-      "id" : "2026-10-04-8a431d7c4c5b",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "The AI Report",
-          "title" : "️ EY Tech Leader: 4 Questions to Keep AI Agents in Check",
-          "url" : "https:\/\/newsletter.theaireport.ai\/p\/ey-tech-leader-4-questions-to-keep-ai-agents-in-check"
-        }
-      ],
-      "summary" : "Inside: AI-first workflows, agent costs, and how to keep agents accountable.",
-      "title" : "️ EY Tech Leader: 4 Questions to Keep AI Agents in Check",
-      "topics" : [
-        "Agents",
         "Workflows"
       ]
     },
