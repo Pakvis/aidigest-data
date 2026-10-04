@@ -1,77 +1,277 @@
 {
   "cards" : [
     {
-      "confidence" : "high",
-      "created_at" : "2026-10-02T15:00:00Z",
-      "id" : "2026-10-04-7d6686b662f9",
+      "confidence" : "medium",
+      "created_at" : "2026-10-03T16:30:01Z",
+      "id" : "2026-10-04-09902ac91a6d",
       "importance" : "medium",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "Google AI Blog",
-          "title" : "The latest AI news we announced in September 2026",
-          "url" : "https:\/\/blog.google\/innovation-and-ai\/technology\/ai\/google-ai-updates-september-2026\/"
+          "source_name" : "TechCrunch AI",
+          "title" : "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/03\/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken\/"
         }
       ],
-      "summary" : "Here are Google’s latest AI updates from September 2026.",
+      "summary" : "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
       "summary_method" : "source-extract",
-      "title" : "The latest AI news we announced in September 2026",
+      "title" : "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
       "topics" : [
-        "AI"
+        "Safety"
       ]
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-10-01T20:01:00Z",
-      "id" : "2026-10-04-8a431d7c4c5b",
+      "created_at" : "2026-10-02T18:11:27Z",
+      "id" : "2026-10-04-77f4f860dbd6",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/02\/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents\/"
+        }
+      ],
+      "summary" : "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+      "summary_method" : "source-extract",
+      "title" : "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "topics" : [
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-01T18:14:42Z",
+      "id" : "2026-10-04-79b623bc3bbc",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/01\/openai-cuts-ties-with-three-safety-researchers-wsj-reports\/"
+        }
+      ],
+      "summary" : "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+      "summary_method" : "source-extract",
+      "title" : "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "topics" : [
+        "Safety"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-03T14:00:00Z",
+      "id" : "2026-10-04-9458a842fdf0",
       "importance" : "low",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "The AI Report",
-          "title" : "️ EY Tech Leader: 4 Questions to Keep AI Agents in Check",
-          "url" : "https:\/\/newsletter.theaireport.ai\/p\/ey-tech-leader-4-questions-to-keep-ai-agents-in-check"
+          "source_name" : "TechCrunch AI",
+          "title" : "All the AI agents that can live in your text messages",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/03\/all-the-ai-agents-that-can-live-in-your-text-messages\/"
         }
       ],
-      "summary" : "Inside: AI-first workflows, agent costs, and how to keep agents accountable.",
+      "summary" : "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
       "summary_method" : "source-extract",
-      "title" : "️ EY Tech Leader: 4 Questions to Keep AI Agents in Check",
+      "title" : "All the AI agents that can live in your text messages",
       "topics" : [
-        "Agents",
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-02T21:09:14Z",
+      "id" : "2026-10-04-3bd17b03b5a5",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Sean Parker is rebuilding Stability AI around music",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/02\/sean-parker-is-rebuilding-stability-ai-around-music\/"
+        }
+      ],
+      "summary" : "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+      "summary_method" : "source-extract",
+      "title" : "Sean Parker is rebuilding Stability AI around music",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-10-02T16:15:00Z",
+      "id" : "2026-10-04-100d9340500a",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "A model guide for the GPT-6 family",
+          "url" : "https:\/\/openai.com\/index\/practical-guide-building-gpt-6"
+        }
+      ],
+      "summary" : "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "summary_method" : "source-extract",
+      "title" : "A model guide for the GPT-6 family",
+      "topics" : [
+        "GPT",
+        "Tooling",
         "Workflows"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-10-02T00:00:00Z",
+      "id" : "2026-10-04-204b1a8dc110",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Chatham scales its capital markets expertise with OpenAI",
+          "url" : "https:\/\/openai.com\/index\/chatham-financial"
+        }
+      ],
+      "summary" : "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "summary_method" : "source-extract",
+      "title" : "Chatham scales its capital markets expertise with OpenAI",
+      "topics" : [
+        "GPT",
+        "Workflows"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-02T17:00:00Z",
+      "id" : "2026-10-04-37d7a5a39c17",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/02\/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you\/"
+        }
+      ],
+      "summary" : "Circuit Breaker Labs has created \"crash-test dummies\" to solve that.",
+      "summary_method" : "source-extract",
+      "title" : "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-02T15:39:41Z",
+      "id" : "2026-10-04-dc66d2489d74",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Pope Leo XIV is not a fan of AI-generated art",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/02\/pope-leo-xiv-is-not-a-fan-of-ai-generated-art\/"
+        }
+      ],
+      "summary" : "There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote.",
+      "summary_method" : "source-extract",
+      "title" : "Pope Leo XIV is not a fan of AI-generated art",
+      "topics" : [
+        "Image Models"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-01T21:08:11Z",
+      "id" : "2026-10-04-cc0c2ddc0a34",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/01\/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president\/"
+        }
+      ],
+      "summary" : "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+      "summary_method" : "source-extract",
+      "title" : "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-01T19:21:53Z",
+      "id" : "2026-10-04-d0bc589931af",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "ChatGPT can now virtually try on clothes for you",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/01\/chatgpt-can-now-virtually-try-on-clothes-for-you\/"
+        }
+      ],
+      "summary" : "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+      "summary_method" : "source-extract",
+      "title" : "ChatGPT can now virtually try on clothes for you",
+      "topics" : [
+        "ChatGPT"
       ]
     }
   ],
-  "count" : 2,
+  "count" : 11,
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 2,
-    "summary" : "• The latest AI news we announced in September 2026\n• ️ EY Tech Leader: 4 Questions to Keep AI Agents in Check",
+    "summary" : "• OpenAI safety employee resigns, claiming the company’s ‘culture is broken’\n• Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents\n• OpenAI cuts ties with 3 safety researchers, WSJ reports",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-04",
-  "generated_at" : "2026-10-04T16:03:21Z",
+  "generated_at" : "2026-10-04T18:02:42Z",
   "processing_report" : {
-    "generated_at" : "2026-10-04T16:03:33Z",
+    "generated_at" : "2026-10-04T18:02:54Z",
     "high_card_count" : 0,
     "source_reports" : [
       {
-        "article_count" : 2,
+        "article_count" : 7,
         "id" : "ai-breakfast",
-        "latest_article_at" : "2026-09-16T18:28:03Z",
+        "latest_article_at" : "2026-10-02T19:26:54Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-04T16:03:28Z",
+        "processed_at" : "2026-10-04T18:02:48Z",
         "state" : "processed"
       },
       {
-        "article_count" : 6,
+        "article_count" : 10,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-04T16:03:26Z",
+        "processed_at" : "2026-10-04T18:02:45Z",
         "state" : "processed"
       },
       {
@@ -79,31 +279,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-04T16:03:27Z",
+        "processed_at" : "2026-10-04T18:02:48Z",
         "state" : "processed"
       },
       {
-        "article_count" : 3,
+        "article_count" : 2,
         "id" : "aireport-nl",
-        "latest_article_at" : "2026-09-29T10:00:00Z",
+        "latest_article_at" : "2026-09-24T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-04T16:03:24Z",
-        "state" : "processed"
-      },
-      {
-        "article_count" : 20,
-        "id" : "google-ai-blog",
-        "latest_article_at" : "2026-10-02T15:00:00Z",
-        "name" : "Google AI Blog",
-        "processed_at" : "2026-10-04T16:03:28Z",
-        "state" : "processed"
-      },
-      {
-        "article_count" : 80,
-        "id" : "deepmind-blog",
-        "latest_article_at" : "2026-09-30T20:01:45Z",
-        "name" : "Google DeepMind",
-        "processed_at" : "2026-10-04T16:03:30Z",
+        "processed_at" : "2026-10-04T18:02:49Z",
         "state" : "processed"
       },
       {
@@ -111,7 +295,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-10-03T22:56:48Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-04T16:03:28Z",
+        "processed_at" : "2026-10-04T18:02:51Z",
         "state" : "processed"
       },
       {
@@ -119,7 +303,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-29T06:30:04Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-04T16:03:25Z",
+        "processed_at" : "2026-10-04T18:02:46Z",
         "state" : "processed"
       },
       {
@@ -127,7 +311,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-09-28T15:57:59Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-04T16:03:23Z",
+        "processed_at" : "2026-10-04T18:02:43Z",
         "state" : "processed"
       },
       {
@@ -135,23 +319,39 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-01T10:54:12Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-04T16:03:22Z",
+        "processed_at" : "2026-10-04T18:02:46Z",
         "state" : "processed"
       },
       {
-        "article_count" : 4,
+        "article_count" : 80,
+        "id" : "openai-news",
+        "latest_article_at" : "2026-10-02T16:15:00Z",
+        "name" : "OpenAI News",
+        "processed_at" : "2026-10-04T18:02:49Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 7,
         "id" : "superhuman-ai",
-        "latest_article_at" : "2026-10-03T14:00:00Z",
+        "latest_article_at" : "2026-10-02T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-04T16:03:25Z",
+        "processed_at" : "2026-10-04T18:02:45Z",
         "state" : "processed"
       },
       {
-        "article_count" : 8,
+        "article_count" : 13,
+        "id" : "techcrunch-ai",
+        "latest_article_at" : "2026-10-03T16:30:01Z",
+        "name" : "TechCrunch AI",
+        "processed_at" : "2026-10-04T18:02:47Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 11,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-02T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-04T16:03:27Z",
+        "processed_at" : "2026-10-04T18:02:46Z",
         "state" : "processed"
       },
       {
@@ -159,14 +359,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-09-28T16:37:54Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-04T16:03:25Z",
+        "processed_at" : "2026-10-04T18:02:44Z",
         "state" : "processed"
       },
       {
-        "article_count" : 9,
+        "article_count" : 12,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-04T16:03:27Z",
+        "processed_at" : "2026-10-04T18:02:45Z",
         "state" : "processed"
       },
       {
@@ -174,7 +374,23 @@
         "id" : "ars-technica-ai",
         "message" : "Did not finish before the startup source budget.",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-04T16:03:33Z",
+        "processed_at" : "2026-10-04T18:02:54Z",
+        "state" : "timedOut"
+      },
+      {
+        "article_count" : 0,
+        "id" : "google-ai-blog",
+        "message" : "Did not finish before the startup source budget.",
+        "name" : "Google AI Blog",
+        "processed_at" : "2026-10-04T18:02:54Z",
+        "state" : "timedOut"
+      },
+      {
+        "article_count" : 0,
+        "id" : "deepmind-blog",
+        "message" : "Did not finish before the startup source budget.",
+        "name" : "Google DeepMind",
+        "processed_at" : "2026-10-04T18:02:54Z",
         "state" : "timedOut"
       },
       {
@@ -182,15 +398,7 @@
         "id" : "latent-space",
         "message" : "Did not finish before the startup source budget.",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-04T16:03:33Z",
-        "state" : "timedOut"
-      },
-      {
-        "article_count" : 0,
-        "id" : "openai-news",
-        "message" : "Did not finish before the startup source budget.",
-        "name" : "OpenAI News",
-        "processed_at" : "2026-10-04T16:03:33Z",
+        "processed_at" : "2026-10-04T18:02:54Z",
         "state" : "timedOut"
       },
       {
@@ -198,15 +406,7 @@
         "id" : "tldr-ai",
         "message" : "Did not finish before the startup source budget.",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-04T16:03:33Z",
-        "state" : "timedOut"
-      },
-      {
-        "article_count" : 0,
-        "id" : "techcrunch-ai",
-        "message" : "Did not finish before the startup source budget.",
-        "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-04T16:03:33Z",
+        "processed_at" : "2026-10-04T18:02:54Z",
         "state" : "timedOut"
       },
       {
@@ -214,7 +414,7 @@
         "id" : "the-verge-ai",
         "message" : "Did not finish before the startup source budget.",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-04T16:03:33Z",
+        "processed_at" : "2026-10-04T18:02:54Z",
         "state" : "timedOut"
       }
     ],
