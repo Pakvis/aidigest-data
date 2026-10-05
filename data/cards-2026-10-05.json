@@ -1,38 +1,82 @@
 {
   "cards" : [
     {
-      "confidence" : "high",
-      "consolidation" : {
-        "latest_source_at" : "2026-10-03T08:45:15Z",
-        "message_count" : 2,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
-      },
-      "created_at" : "2026-10-03T08:45:15Z",
-      "id" : "2026-10-05-612cc22f08f9",
+      "confidence" : "medium",
+      "created_at" : "2026-10-05T19:33:53Z",
+      "id" : "2026-10-05-6f2141d7d0a3",
       "importance" : "high",
       "key_insights" : [
 
       ],
       "sources" : [
         {
+          "source_name" : "TechCrunch AI",
+          "title" : "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/05\/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost\/"
+        }
+      ],
+      "summary" : "Nvidia-backed Reflection AI unveils Beam, its first open-weight model, which it says rivals GLM-5.2 on reasoning with far less inference compute.",
+      "summary_method" : "source-extract",
+      "title" : "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "topics" : [
+        "Inference"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-10-05T15:14:24Z",
+        "message_count" : 2,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
+      "created_at" : "2026-10-05T15:14:24Z",
+      "id" : "2026-10-05-99a6d39464ed",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "OpenAI launches visual ads that appear alongside image generation results",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/05\/openai-launches-visual-ads-that-appear-alongside-image-generation-results\/"
+        },
+        {
           "source_name" : "Latent Space",
           "title" : "not much happened today",
           "url" : "https:\/\/www.latent.space\/p\/ainews-not-much-happened-today-cee"
-        },
-        {
-          "source_name" : "AI Breakfast",
-          "title" : "Gemini 4 Argon... A new Frontier?",
-          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/gemini-4-argon-a-new-frontier"
         }
       ],
-      "summary" : "Gemini 4 Argon : Argon [High] took 1 in Text Arena.",
+      "summary" : "Pi Durable : Pi now runs on Cloudflare Durable Objects via agents SDK v0.26.0, alongside Pi’s v1.0 release ( @mattzcarey , @badlogicgames ).",
       "summary_method" : "source-extract",
-      "title" : "Gemini 4 Argon... A new Frontier?",
+      "title" : "OpenAI launches visual ads that appear alongside image generation results",
       "topics" : [
-        "Gemini",
-        "Anthropic",
-        "Agents"
+        "Image Models",
+        "Agents",
+        "Anthropic"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-05T18:08:39Z",
+      "id" : "2026-10-05-0eb2ec1d9e33",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "OpenAI is adding text watermarking in ChatGPT and Codex",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1004880\/openai-chatgpt-text-watermarks-eu-ai-act"
+        }
+      ],
+      "summary" : "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also the basis for the watermarking Anthropic announced in August .",
+      "summary_method" : "source-extract",
+      "title" : "OpenAI is adding text watermarking in ChatGPT and Codex",
+      "topics" : [
+        "ChatGPT"
       ]
     },
     {
@@ -55,6 +99,50 @@
       "title" : "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide",
       "topics" : [
         "ChatGPT"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-05T18:54:30Z",
+      "id" : "2026-10-05-3f6fdab93676",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Instinct brings its AI agent to group chats, even for friends without an account",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/05\/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account\/"
+        }
+      ],
+      "summary" : "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events.",
+      "summary_method" : "source-extract",
+      "title" : "Instinct brings its AI agent to group chats, even for friends without an account",
+      "topics" : [
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-05T18:29:00Z",
+      "id" : "2026-10-05-08d6d334a21e",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "TikTok rolls out an AI shopping assistant and one-click checkout",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/05\/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout\/"
+        }
+      ],
+      "summary" : "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+      "summary_method" : "source-extract",
+      "title" : "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "topics" : [
+        "Agents"
       ]
     },
     {
@@ -124,28 +212,6 @@
       ]
     },
     {
-      "confidence" : "medium",
-      "created_at" : "2026-10-02T18:11:27Z",
-      "id" : "2026-10-05-b09452ce34ea",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/02\/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents\/"
-        }
-      ],
-      "summary" : "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
-      "summary_method" : "source-extract",
-      "title" : "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-      "topics" : [
-        "Agents"
-      ]
-    },
-    {
       "confidence" : "high",
       "created_at" : "2026-10-05T15:00:00Z",
       "id" : "2026-10-05-070b80f28d3b",
@@ -169,8 +235,8 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-10-05T16:44:21Z",
-      "id" : "2026-10-05-d0400a126f6d",
+      "created_at" : "2026-10-05T19:28:59Z",
+      "id" : "2026-10-05-20e658462c20",
       "importance" : "low",
       "key_insights" : [
 
@@ -178,21 +244,21 @@
       "sources" : [
         {
           "source_name" : "The Verge AI",
-          "title" : "Sam Altman says ‘some bad things’ will happen, but AI is totally worth it",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1004811\/openai-altman-bad-things-ai-tradeoff"
+          "title" : "All the drama around AI’s takeover of mathematics",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1004933\/ai-math-openai-breakthrough-solution"
         }
       ],
-      "summary" : "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way. The OpenAI CEO pointed to hacks, scams, and \"other bad things\" as costs society should expect to tolerate because \"people will do tremendously orders of magnitude more good stuff\" with AI, without elaborating on the potential benefits.",
+      "summary" : "Read on below for the latest updates in the AI takeover of mathematics.",
       "summary_method" : "source-extract",
-      "title" : "Sam Altman says ‘some bad things’ will happen, but AI is totally worth it",
+      "title" : "All the drama around AI’s takeover of mathematics",
       "topics" : [
         "AI"
       ]
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-10-05T14:30:00Z",
-      "id" : "2026-10-05-2f204bda0358",
+      "created_at" : "2026-10-05T19:05:19Z",
+      "id" : "2026-10-05-e75aae1f53f5",
       "importance" : "low",
       "key_insights" : [
 
@@ -200,111 +266,44 @@
       "sources" : [
         {
           "source_name" : "The Verge AI",
-          "title" : "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
-          "url" : "https:\/\/www.theverge.com\/podcast\/1004286\/senator-adam-schiff-ai-trump-regulation-corruption"
+          "title" : "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
+          "url" : "https:\/\/www.theverge.com\/news\/1004929\/wikipedia-openai-rogue-bots-wikimedia-foundation-outage"
         }
       ],
-      "summary" : "I asked Schiff if he thinks that’s enough, how he thinks a more formal regulatory framework would look, and what might happen next if Democrats retake Congress in the midterms — all the way to whether he’d support impeaching the president ( again ) over all that corruption. We also spent some time comparing and contrasting how you might regulate AI with where we’ve landed regulating social media.",
+      "summary" : "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wikimedia platforms.",
       "summary_method" : "source-extract",
-      "title" : "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+      "title" : "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
       "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-10-05T13:09:48Z",
-      "id" : "2026-10-05-20803e28da86",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "OpenAI is sticking more ads in ChatGPT",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1004655\/openai-chatgpt-visual-ads"
-        }
-      ],
-      "summary" : "The ads, which OpenAI will begin testing in the US later this month, will \"initially\" appear when you generate images with ChatGPT, according to an announcement on Monday. The company first brought ads to ChatGPT in February.",
-      "summary_method" : "source-extract",
-      "title" : "OpenAI is sticking more ads in ChatGPT",
-      "topics" : [
-        "ChatGPT",
-        "Image Models"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-10-05T10:00:00Z",
-      "id" : "2026-10-05-4609dded82d4",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Our minds aren’t equipped to handle AI",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1003794\/ai-education-computational-model-thought"
-        }
-      ],
-      "summary" : "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry.",
-      "summary_method" : "source-extract",
-      "title" : "Our minds aren’t equipped to handle AI",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-10-05T16:43:35Z",
-      "id" : "2026-10-05-de4a1aeb11de",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/05\/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become\/"
-        }
-      ],
-      "summary" : "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
-      "summary_method" : "source-extract",
-      "title" : "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
-      "topics" : [
-        "AI"
+        "Agents"
       ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 5,
-    "summary" : "• Gemini 4 Argon... A new Frontier?\n• OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide\n• Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+    "source_count" : 4,
+    "summary" : "• Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost\n• OpenAI launches visual ads that appear alongside image generation results\n• OpenAI is adding text watermarking in ChatGPT and Codex",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-05",
-  "generated_at" : "2026-10-05T18:02:15Z",
+  "generated_at" : "2026-10-05T20:03:48Z",
   "processing_report" : {
-    "generated_at" : "2026-10-05T18:02:20Z",
+    "generated_at" : "2026-10-05T20:03:52Z",
     "high_card_count" : 1,
     "source_reports" : [
       {
-        "article_count" : 7,
+        "article_count" : 8,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-10-02T19:26:54Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-05T18:02:19Z",
+        "processed_at" : "2026-10-05T20:03:52Z",
         "state" : "processed"
       },
       {
         "article_count" : 10,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-05T18:02:18Z",
+        "processed_at" : "2026-10-05T20:03:51Z",
         "state" : "processed"
       },
       {
@@ -312,23 +311,23 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-05T18:02:17Z",
+        "processed_at" : "2026-10-05T20:03:49Z",
         "state" : "processed"
       },
       {
-        "article_count" : 4,
+        "article_count" : 5,
         "id" : "aireport-nl",
         "latest_article_at" : "2026-10-01T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-05T18:02:18Z",
+        "processed_at" : "2026-10-05T20:03:51Z",
         "state" : "processed"
       },
       {
-        "article_count" : 18,
+        "article_count" : 17,
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-01T16:28:04Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-05T18:02:17Z",
+        "processed_at" : "2026-10-05T20:03:49Z",
         "state" : "processed"
       },
       {
@@ -336,7 +335,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-02T15:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-05T18:02:16Z",
+        "processed_at" : "2026-10-05T20:03:49Z",
         "state" : "processed"
       },
       {
@@ -344,7 +343,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-09-30T20:01:45Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-05T18:02:17Z",
+        "processed_at" : "2026-10-05T20:03:49Z",
         "state" : "processed"
       },
       {
@@ -352,7 +351,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-10-03T22:56:48Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-05T18:02:17Z",
+        "processed_at" : "2026-10-05T20:03:49Z",
         "state" : "processed"
       },
       {
@@ -360,7 +359,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-03T08:45:15Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-05T18:02:20Z",
+        "processed_at" : "2026-10-05T20:03:52Z",
         "state" : "processed"
       },
       {
@@ -368,15 +367,15 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-29T06:30:04Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-05T18:02:16Z",
+        "processed_at" : "2026-10-05T20:03:49Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "mistral-news",
-        "latest_article_at" : "2026-09-28T15:57:59Z",
+        "latest_article_at" : "2026-09-09T12:00:46Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-05T18:02:17Z",
+        "processed_at" : "2026-10-05T20:03:49Z",
         "state" : "processed"
       },
       {
@@ -384,7 +383,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-01T10:54:12Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-05T18:02:16Z",
+        "processed_at" : "2026-10-05T20:03:49Z",
         "state" : "processed"
       },
       {
@@ -392,7 +391,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-10-05T15:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-05T18:02:17Z",
+        "processed_at" : "2026-10-05T20:03:49Z",
         "state" : "processed"
       },
       {
@@ -400,7 +399,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-10-03T14:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-05T18:02:18Z",
+        "processed_at" : "2026-10-05T20:03:51Z",
         "state" : "processed"
       },
       {
@@ -408,23 +407,23 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-05T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-05T18:02:16Z",
+        "processed_at" : "2026-10-05T20:03:49Z",
         "state" : "processed"
       },
       {
         "article_count" : 14,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-10-05T17:29:22Z",
+        "latest_article_at" : "2026-10-05T19:33:53Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-05T18:02:16Z",
+        "processed_at" : "2026-10-05T20:03:49Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 11,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-05T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-05T18:02:19Z",
+        "processed_at" : "2026-10-05T20:03:51Z",
         "state" : "processed"
       },
       {
@@ -432,22 +431,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-05T11:54:33Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-05T18:02:17Z",
+        "processed_at" : "2026-10-05T20:03:49Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-05T18:02:18Z",
+        "processed_at" : "2026-10-05T20:03:51Z",
         "state" : "processed"
       },
       {
         "article_count" : 9,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-10-05T16:55:42Z",
+        "latest_article_at" : "2026-10-05T19:28:59Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-05T18:02:16Z",
+        "processed_at" : "2026-10-05T20:03:49Z",
         "state" : "processed"
       }
     ],

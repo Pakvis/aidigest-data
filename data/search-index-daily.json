@@ -1,28 +1,64 @@
 {
   "cards" : [
     {
-      "confidence" : "high",
+      "confidence" : "medium",
       "date" : "2026-10-05",
-      "id" : "2026-10-05-612cc22f08f9",
+      "id" : "2026-10-05-6f2141d7d0a3",
       "importance" : "high",
       "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/05\/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost\/"
+        }
+      ],
+      "summary" : "Nvidia-backed Reflection AI unveils Beam, its first open-weight model, which it says rivals GLM-5.2 on reasoning with far less inference compute.",
+      "title" : "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "topics" : [
+        "Inference"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-10-05",
+      "id" : "2026-10-05-99a6d39464ed",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "OpenAI launches visual ads that appear alongside image generation results",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/05\/openai-launches-visual-ads-that-appear-alongside-image-generation-results\/"
+        },
         {
           "source_name" : "Latent Space",
           "title" : "not much happened today",
           "url" : "https:\/\/www.latent.space\/p\/ainews-not-much-happened-today-cee"
-        },
-        {
-          "source_name" : "AI Breakfast",
-          "title" : "Gemini 4 Argon... A new Frontier?",
-          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/gemini-4-argon-a-new-frontier"
         }
       ],
-      "summary" : "Gemini 4 Argon : Argon [High] took 1 in Text Arena.",
-      "title" : "Gemini 4 Argon... A new Frontier?",
+      "summary" : "Pi Durable : Pi now runs on Cloudflare Durable Objects via agents SDK v0.26.0, alongside Pi’s v1.0 release ( @mattzcarey , @badlogicgames ).",
+      "title" : "OpenAI launches visual ads that appear alongside image generation results",
       "topics" : [
-        "Gemini",
-        "Anthropic",
-        "Agents"
+        "Image Models",
+        "Agents",
+        "Anthropic"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-10-05",
+      "id" : "2026-10-05-0eb2ec1d9e33",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "OpenAI is adding text watermarking in ChatGPT and Codex",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1004880\/openai-chatgpt-text-watermarks-eu-ai-act"
+        }
+      ],
+      "summary" : "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also the basis for the watermarking Anthropic announced in August .",
+      "title" : "OpenAI is adding text watermarking in ChatGPT and Codex",
+      "topics" : [
+        "ChatGPT"
       ]
     },
     {
@@ -41,6 +77,42 @@
       "title" : "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide",
       "topics" : [
         "ChatGPT"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-10-05",
+      "id" : "2026-10-05-3f6fdab93676",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Instinct brings its AI agent to group chats, even for friends without an account",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/05\/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account\/"
+        }
+      ],
+      "summary" : "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events.",
+      "title" : "Instinct brings its AI agent to group chats, even for friends without an account",
+      "topics" : [
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-10-05",
+      "id" : "2026-10-05-08d6d334a21e",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "TikTok rolls out an AI shopping assistant and one-click checkout",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/05\/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout\/"
+        }
+      ],
+      "summary" : "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+      "title" : "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "topics" : [
+        "Agents"
       ]
     },
     {
@@ -98,24 +170,6 @@
       ]
     },
     {
-      "confidence" : "medium",
-      "date" : "2026-10-05",
-      "id" : "2026-10-05-b09452ce34ea",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/02\/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents\/"
-        }
-      ],
-      "summary" : "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
-      "title" : "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-      "topics" : [
-        "Agents"
-      ]
-    },
-    {
       "confidence" : "high",
       "date" : "2026-10-05",
       "id" : "2026-10-05-070b80f28d3b",
@@ -136,17 +190,17 @@
     {
       "confidence" : "medium",
       "date" : "2026-10-05",
-      "id" : "2026-10-05-d0400a126f6d",
+      "id" : "2026-10-05-20e658462c20",
       "importance" : "low",
       "sources" : [
         {
           "source_name" : "The Verge AI",
-          "title" : "Sam Altman says ‘some bad things’ will happen, but AI is totally worth it",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1004811\/openai-altman-bad-things-ai-tradeoff"
+          "title" : "All the drama around AI’s takeover of mathematics",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1004933\/ai-math-openai-breakthrough-solution"
         }
       ],
-      "summary" : "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way. The OpenAI CEO pointed to hacks, scams, and \"other bad things\" as costs society should expect to tolerate because \"people will do tremendously orders of magnitude more good stuff\" with AI, without elaborating on the potential benefits.",
-      "title" : "Sam Altman says ‘some bad things’ will happen, but AI is totally worth it",
+      "summary" : "Read on below for the latest updates in the AI takeover of mathematics.",
+      "title" : "All the drama around AI’s takeover of mathematics",
       "topics" : [
         "AI"
       ]
@@ -154,74 +208,19 @@
     {
       "confidence" : "medium",
       "date" : "2026-10-05",
-      "id" : "2026-10-05-2f204bda0358",
+      "id" : "2026-10-05-e75aae1f53f5",
       "importance" : "low",
       "sources" : [
         {
           "source_name" : "The Verge AI",
-          "title" : "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
-          "url" : "https:\/\/www.theverge.com\/podcast\/1004286\/senator-adam-schiff-ai-trump-regulation-corruption"
+          "title" : "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
+          "url" : "https:\/\/www.theverge.com\/news\/1004929\/wikipedia-openai-rogue-bots-wikimedia-foundation-outage"
         }
       ],
-      "summary" : "I asked Schiff if he thinks that’s enough, how he thinks a more formal regulatory framework would look, and what might happen next if Democrats retake Congress in the midterms — all the way to whether he’d support impeaching the president ( again ) over all that corruption. We also spent some time comparing and contrasting how you might regulate AI with where we’ve landed regulating social media.",
-      "title" : "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+      "summary" : "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wikimedia platforms.",
+      "title" : "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
       "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-10-05",
-      "id" : "2026-10-05-20803e28da86",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "OpenAI is sticking more ads in ChatGPT",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1004655\/openai-chatgpt-visual-ads"
-        }
-      ],
-      "summary" : "The ads, which OpenAI will begin testing in the US later this month, will \"initially\" appear when you generate images with ChatGPT, according to an announcement on Monday. The company first brought ads to ChatGPT in February.",
-      "title" : "OpenAI is sticking more ads in ChatGPT",
-      "topics" : [
-        "ChatGPT",
-        "Image Models"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-10-05",
-      "id" : "2026-10-05-4609dded82d4",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Our minds aren’t equipped to handle AI",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1003794\/ai-education-computational-model-thought"
-        }
-      ],
-      "summary" : "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry.",
-      "title" : "Our minds aren’t equipped to handle AI",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-10-05",
-      "id" : "2026-10-05-de4a1aeb11de",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/05\/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become\/"
-        }
-      ],
-      "summary" : "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
-      "title" : "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
-      "topics" : [
-        "AI"
+        "Agents"
       ]
     },
     {
