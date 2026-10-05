@@ -3,26 +3,26 @@
     {
       "confidence" : "high",
       "date" : "2026-10-05",
-      "id" : "2026-10-05-612cc22f08f9",
-      "importance" : "high",
+      "id" : "2026-10-05-99a6d39464ed",
+      "importance" : "medium",
       "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "OpenAI launches visual ads that appear alongside image generation results",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/05\/openai-launches-visual-ads-that-appear-alongside-image-generation-results\/"
+        },
         {
           "source_name" : "Latent Space",
           "title" : "not much happened today",
           "url" : "https:\/\/www.latent.space\/p\/ainews-not-much-happened-today-cee"
-        },
-        {
-          "source_name" : "AI Breakfast",
-          "title" : "Gemini 4 Argon... A new Frontier?",
-          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/gemini-4-argon-a-new-frontier"
         }
       ],
-      "summary" : "Gemini 4 Argon : Argon [High] took 1 in Text Arena.",
-      "title" : "Gemini 4 Argon... A new Frontier?",
+      "summary" : "Pi Durable : Pi now runs on Cloudflare Durable Objects via agents SDK v0.26.0, alongside Pi’s v1.0 release ( @mattzcarey , @badlogicgames ).",
+      "title" : "OpenAI launches visual ads that appear alongside image generation results",
       "topics" : [
-        "Gemini",
-        "Anthropic",
-        "Agents"
+        "Image Models",
+        "Agents",
+        "Anthropic"
       ]
     },
     {
@@ -46,24 +46,6 @@
     {
       "confidence" : "medium",
       "date" : "2026-10-05",
-      "id" : "2026-10-05-c5f0d7290cf8",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "An OpenAI safety employee has quit and is sounding the alarm",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1004408\/openai-safety-quits-sounding-the-alarm"
-        }
-      ],
-      "summary" : "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic .",
-      "title" : "An OpenAI safety employee has quit and is sounding the alarm",
-      "topics" : [
-        "Safety"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-10-05",
       "id" : "2026-10-05-9f80faa74ab5",
       "importance" : "medium",
       "sources" : [
@@ -80,44 +62,21 @@
       ]
     },
     {
-      "confidence" : "high",
+      "confidence" : "medium",
       "date" : "2026-10-05",
-      "id" : "2026-10-05-60d120f4e4c2",
+      "id" : "2026-10-05-c5f0d7290cf8",
       "importance" : "medium",
       "sources" : [
         {
           "source_name" : "The Verge AI",
-          "title" : "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-          "url" : "https:\/\/www.theverge.com\/tech\/1004295\/apple-limit-mac-disk-access-ai-agents"
-        },
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/02\/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents\/"
+          "title" : "An OpenAI safety employee has quit and is sounding the alarm",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1004408\/openai-safety-quits-sounding-the-alarm"
         }
       ],
-      "summary" : "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch .",
-      "title" : "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+      "summary" : "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic .",
+      "title" : "An OpenAI safety employee has quit and is sounding the alarm",
       "topics" : [
-        "Agents"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "date" : "2026-10-05",
-      "id" : "2026-10-05-9a801fb4ec68",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "Google AI Blog",
-          "title" : "The latest AI news we announced in September 2026",
-          "url" : "https:\/\/blog.google\/innovation-and-ai\/technology\/ai\/google-ai-updates-september-2026\/"
-        }
-      ],
-      "summary" : "Here are Google’s latest AI updates from September 2026.",
-      "title" : "The latest AI news we announced in September 2026",
-      "topics" : [
-        "AI"
+        "Safety"
       ]
     },
     {
@@ -142,19 +101,55 @@
     {
       "confidence" : "medium",
       "date" : "2026-10-05",
-      "id" : "2026-10-05-765b00f355d6",
+      "id" : "2026-10-05-b09452ce34ea",
       "importance" : "medium",
       "sources" : [
         {
-          "source_name" : "Latent Space",
-          "title" : "Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
-          "url" : "https:\/\/www.latent.space\/p\/airbnb"
+          "source_name" : "TechCrunch AI",
+          "title" : "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/02\/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents\/"
         }
       ],
-      "summary" : "An example of inside-out AI: Airbnb used a custom internal tool called Everest to help accelerate the launch of a new external service. (Diagram by Latent Space) Al-Dahle spoke with Latent Space about Airbnb’s AI transformation.",
-      "title" : "Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
+      "summary" : "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+      "title" : "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
       "topics" : [
-        "Tooling"
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-10-05",
+      "id" : "2026-10-05-070b80f28d3b",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Our approach to EU text provenance rules",
+          "url" : "https:\/\/openai.com\/index\/eu-text-provenance"
+        }
+      ],
+      "summary" : "How OpenAI is approaching text watermarking under EU rules.",
+      "title" : "Our approach to EU text provenance rules",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-10-05",
+      "id" : "2026-10-05-2f204bda0358",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+          "url" : "https:\/\/www.theverge.com\/podcast\/1004286\/senator-adam-schiff-ai-trump-regulation-corruption"
+        }
+      ],
+      "summary" : "I asked Schiff if he thinks that’s enough, how he thinks a more formal regulatory framework would look, and what might happen next if Democrats retake Congress in the midterms — all the way to whether he’d support impeaching the president ( again ) over all that corruption. We also spent some time comparing and contrasting how you might regulate AI with where we’ve landed regulating social media.",
+      "title" : "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+      "topics" : [
+        "AI"
       ]
     },
     {
@@ -197,19 +192,19 @@
     {
       "confidence" : "medium",
       "date" : "2026-10-05",
-      "id" : "2026-10-05-da0e56f76589",
+      "id" : "2026-10-05-779186396311",
       "importance" : "low",
       "sources" : [
         {
-          "source_name" : "The Verge AI",
-          "title" : "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1004543\/openai-gpt-cheat-starcraft"
+          "source_name" : "TechCrunch AI",
+          "title" : "Researchers are tracking a Chinese AI ‘agent fleet’",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/05\/researchers-are-tracking-a-chinese-ai-agent-fleet\/"
         }
       ],
-      "summary" : "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot.",
-      "title" : "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+      "summary" : "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
+      "title" : "Researchers are tracking a Chinese AI ‘agent fleet’",
       "topics" : [
-        "AI"
+        "Agents"
       ]
     },
     {
