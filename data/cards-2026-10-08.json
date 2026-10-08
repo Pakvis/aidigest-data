@@ -1,6 +1,30 @@
 {
   "cards" : [
     {
+      "confidence" : "medium",
+      "created_at" : "2026-10-08T07:27:51Z",
+      "id" : "2026-10-08-5a87ed493f04",
+      "importance" : "high",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-claude-haiku-55-better-than"
+        }
+      ],
+      "summary" : "Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing. It’s been about a year since Anthropic shipped Haiku 4.5 , and with successive launches of Sonnet and Opus and Fable up to 5.5 it was seeming a little forgotten, especially as OpenAI launched Luna 6 alongside Astra and Sol 6.",
+      "summary_method" : "source-extract",
+      "title" : "Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
+      "topics" : [
+        "Claude",
+        "GPT",
+        "Pricing"
+      ]
+    },
+    {
       "confidence" : "high",
       "consolidation" : {
         "latest_source_at" : "2026-10-07T19:10:42Z",
@@ -255,57 +279,34 @@
       "topics" : [
         "AI"
       ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-10-06T16:35:00Z",
-      "id" : "2026-10-08-42f14e5075aa",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Mirror Particle is building a ‘world model’ of human behavior",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/06\/mirror-particle-is-building-a-world-model-of-human-behavior\/"
-        }
-      ],
-      "summary" : "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
-      "summary_method" : "source-extract",
-      "title" : "Mirror Particle is building a ‘world model’ of human behavior",
-      "topics" : [
-        "LLMs",
-        "Research"
-      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 5,
-    "summary" : "• ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons\n• Introducing Playground: Create and play custom games\n• Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+    "summary" : "• Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing\n• ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons\n• Introducing Playground: Create and play custom games",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-08",
-  "generated_at" : "2026-10-08T06:00:50Z",
+  "generated_at" : "2026-10-08T08:02:44Z",
   "processing_report" : {
-    "generated_at" : "2026-10-08T06:00:55Z",
-    "high_card_count" : 0,
+    "generated_at" : "2026-10-08T08:02:47Z",
+    "high_card_count" : 1,
     "source_reports" : [
       {
         "article_count" : 8,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-10-07T13:06:44Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-08T06:00:53Z",
+        "processed_at" : "2026-10-08T08:02:47Z",
         "state" : "processed"
       },
       {
         "article_count" : 10,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-08T06:00:53Z",
+        "processed_at" : "2026-10-08T08:02:46Z",
         "state" : "processed"
       },
       {
@@ -313,7 +314,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-08T06:00:51Z",
+        "processed_at" : "2026-10-08T08:02:45Z",
         "state" : "processed"
       },
       {
@@ -321,7 +322,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-10-06T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-08T06:00:53Z",
+        "processed_at" : "2026-10-08T08:02:47Z",
         "state" : "processed"
       },
       {
@@ -329,7 +330,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-06T20:50:32Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-08T06:00:51Z",
+        "processed_at" : "2026-10-08T08:02:45Z",
         "state" : "processed"
       },
       {
@@ -337,7 +338,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-07T12:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-08T06:00:51Z",
+        "processed_at" : "2026-10-08T08:02:45Z",
         "state" : "processed"
       },
       {
@@ -345,7 +346,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-10-06T19:57:04Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-08T06:00:51Z",
+        "processed_at" : "2026-10-08T08:02:45Z",
         "state" : "processed"
       },
       {
@@ -353,15 +354,15 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-10-07T16:54:33Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-08T06:00:51Z",
+        "processed_at" : "2026-10-08T08:02:45Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "latent-space",
-        "latest_article_at" : "2026-10-07T14:10:45Z",
+        "latest_article_at" : "2026-10-08T07:27:51Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-08T06:00:53Z",
+        "processed_at" : "2026-10-08T08:02:47Z",
         "state" : "processed"
       },
       {
@@ -369,7 +370,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-29T06:30:04Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-08T06:00:51Z",
+        "processed_at" : "2026-10-08T08:02:45Z",
         "state" : "processed"
       },
       {
@@ -377,7 +378,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-06T12:00:27Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-08T06:00:51Z",
+        "processed_at" : "2026-10-08T08:02:45Z",
         "state" : "processed"
       },
       {
@@ -385,7 +386,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-01T10:54:12Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-08T06:00:51Z",
+        "processed_at" : "2026-10-08T08:02:45Z",
         "state" : "processed"
       },
       {
@@ -393,7 +394,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-10-07T12:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-08T06:00:51Z",
+        "processed_at" : "2026-10-08T08:02:45Z",
         "state" : "processed"
       },
       {
@@ -401,7 +402,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-10-07T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-08T06:00:53Z",
+        "processed_at" : "2026-10-08T08:02:46Z",
         "state" : "processed"
       },
       {
@@ -409,7 +410,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-07T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-08T06:00:51Z",
+        "processed_at" : "2026-10-08T08:02:45Z",
         "state" : "processed"
       },
       {
@@ -417,7 +418,7 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-10-07T20:48:45Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-08T06:00:50Z",
+        "processed_at" : "2026-10-08T08:02:44Z",
         "state" : "processed"
       },
       {
@@ -425,7 +426,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-07T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-08T06:00:55Z",
+        "processed_at" : "2026-10-08T08:02:47Z",
         "state" : "processed"
       },
       {
@@ -433,14 +434,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-07T14:14:20Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-08T06:00:51Z",
+        "processed_at" : "2026-10-08T08:02:45Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-08T06:00:53Z",
+        "processed_at" : "2026-10-08T08:02:46Z",
         "state" : "processed"
       },
       {
@@ -448,7 +449,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-10-07T19:10:42Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-08T06:00:50Z",
+        "processed_at" : "2026-10-08T08:02:44Z",
         "state" : "processed"
       }
     ],
