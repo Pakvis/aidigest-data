@@ -27,18 +27,23 @@
     {
       "confidence" : "high",
       "consolidation" : {
-        "latest_source_at" : "2026-10-07T19:10:42Z",
-        "message_count" : 5,
+        "latest_source_at" : "2026-10-08T11:02:57Z",
+        "message_count" : 6,
         "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
+        "source_count" : 3
       },
-      "created_at" : "2026-10-07T19:10:42Z",
+      "created_at" : "2026-10-08T11:02:57Z",
       "id" : "2026-10-08-3cfb0204d506",
       "importance" : "medium",
       "key_insights" : [
 
       ],
       "sources" : [
+        {
+          "source_name" : "Superhuman AI",
+          "title" : "ChatGPT gets a visual transformation, powered by GPT-6",
+          "url" : "https:\/\/www.superhuman.ai\/p\/chatgpt-gets-a-visual-transformation-powered-by-gpt-6"
+        },
         {
           "source_name" : "The Verge AI",
           "title" : "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
@@ -57,28 +62,6 @@
         "ChatGPT",
         "GPT",
         "Tooling"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "created_at" : "2026-10-07T12:00:00Z",
-      "id" : "2026-10-08-fd80a6c86082",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Google AI Blog",
-          "title" : "Introducing Playground: Create and play custom games",
-          "url" : "https:\/\/blog.google\/innovation-and-ai\/technology\/ai\/playground-experimental-gaming-platform\/"
-        }
-      ],
-      "summary" : "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
-      "summary_method" : "source-extract",
-      "title" : "Introducing Playground: Create and play custom games",
-      "topics" : [
-        "AI"
       ]
     },
     {
@@ -171,47 +154,24 @@
     },
     {
       "confidence" : "high",
-      "created_at" : "2026-10-06T12:00:00Z",
-      "id" : "2026-10-08-1c86f3bafad6",
+      "created_at" : "2026-10-07T12:00:00Z",
+      "id" : "2026-10-08-fd80a6c86082",
       "importance" : "medium",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "OpenAI News",
-          "title" : "Sharing AI progress in mathematics",
-          "url" : "https:\/\/openai.com\/index\/sharing-ai-progress-in-mathematics"
+          "source_name" : "Google AI Blog",
+          "title" : "Introducing Playground: Create and play custom games",
+          "url" : "https:\/\/blog.google\/innovation-and-ai\/technology\/ai\/playground-experimental-gaming-platform\/"
         }
       ],
-      "summary" : "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "summary" : "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
       "summary_method" : "source-extract",
-      "title" : "Sharing AI progress in mathematics",
+      "title" : "Introducing Playground: Create and play custom games",
       "topics" : [
-        "Research"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "created_at" : "2026-10-06T12:00:00Z",
-      "id" : "2026-10-08-bb5f7877b467",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "How Jump Trading is scaling quant research with ChatGPT",
-          "url" : "https:\/\/openai.com\/index\/jump-trading"
-        }
-      ],
-      "summary" : "Jump Trading uses OpenAI to expand quantitative research.",
-      "summary_method" : "source-extract",
-      "title" : "How Jump Trading is scaling quant research with ChatGPT",
-      "topics" : [
-        "ChatGPT",
-        "Research"
+        "AI"
       ]
     },
     {
@@ -279,19 +239,64 @@
       "topics" : [
         "AI"
       ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-06T16:35:00Z",
+      "id" : "2026-10-08-42f14e5075aa",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Mirror Particle is building a ‘world model’ of human behavior",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/06\/mirror-particle-is-building-a-world-model-of-human-behavior\/"
+        }
+      ],
+      "summary" : "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
+      "summary_method" : "source-extract",
+      "title" : "Mirror Particle is building a ‘world model’ of human behavior",
+      "topics" : [
+        "LLMs",
+        "Research"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-10-06T12:00:00Z",
+      "id" : "2026-10-08-1c86f3bafad6",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Sharing AI progress in mathematics",
+          "url" : "https:\/\/openai.com\/index\/sharing-ai-progress-in-mathematics"
+        }
+      ],
+      "summary" : "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "summary_method" : "source-extract",
+      "title" : "Sharing AI progress in mathematics",
+      "topics" : [
+        "Research"
+      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 5,
-    "summary" : "• Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing\n• ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons\n• Introducing Playground: Create and play custom games",
+    "source_count" : 6,
+    "summary" : "• Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing\n• ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons\n• Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-08",
-  "generated_at" : "2026-10-08T10:04:39Z",
+  "generated_at" : "2026-10-08T12:01:31Z",
   "processing_report" : {
-    "generated_at" : "2026-10-08T10:04:44Z",
+    "generated_at" : "2026-10-08T12:01:35Z",
     "high_card_count" : 1,
     "source_reports" : [
       {
@@ -299,14 +304,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-10-07T13:06:44Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-08T10:04:44Z",
+        "processed_at" : "2026-10-08T12:01:35Z",
         "state" : "processed"
       },
       {
-        "article_count" : 9,
+        "article_count" : 10,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-08T10:04:43Z",
+        "processed_at" : "2026-10-08T12:01:34Z",
         "state" : "processed"
       },
       {
@@ -314,7 +319,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-08T10:04:41Z",
+        "processed_at" : "2026-10-08T12:01:32Z",
         "state" : "processed"
       },
       {
@@ -322,7 +327,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-10-06T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-08T10:04:42Z",
+        "processed_at" : "2026-10-08T12:01:33Z",
         "state" : "processed"
       },
       {
@@ -330,7 +335,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-06T20:50:32Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-08T10:04:41Z",
+        "processed_at" : "2026-10-08T12:01:32Z",
         "state" : "processed"
       },
       {
@@ -338,7 +343,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-07T12:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-08T10:04:40Z",
+        "processed_at" : "2026-10-08T12:01:32Z",
         "state" : "processed"
       },
       {
@@ -346,7 +351,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-10-06T19:57:04Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-08T10:04:41Z",
+        "processed_at" : "2026-10-08T12:01:32Z",
         "state" : "processed"
       },
       {
@@ -354,7 +359,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-10-07T16:54:33Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-08T10:04:41Z",
+        "processed_at" : "2026-10-08T12:01:32Z",
         "state" : "processed"
       },
       {
@@ -362,7 +367,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-08T07:27:51Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-08T10:04:42Z",
+        "processed_at" : "2026-10-08T12:01:34Z",
         "state" : "processed"
       },
       {
@@ -370,7 +375,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-29T06:30:04Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-08T10:04:40Z",
+        "processed_at" : "2026-10-08T12:01:32Z",
         "state" : "processed"
       },
       {
@@ -378,7 +383,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-06T12:00:27Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-08T10:04:41Z",
+        "processed_at" : "2026-10-08T12:01:32Z",
         "state" : "processed"
       },
       {
@@ -386,7 +391,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-01T10:54:12Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-08T10:04:41Z",
+        "processed_at" : "2026-10-08T12:01:32Z",
         "state" : "processed"
       },
       {
@@ -394,15 +399,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-10-07T12:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-08T10:04:41Z",
+        "processed_at" : "2026-10-08T12:01:32Z",
         "state" : "processed"
       },
       {
-        "article_count" : 5,
+        "article_count" : 8,
         "id" : "superhuman-ai",
-        "latest_article_at" : "2026-10-07T11:02:57Z",
+        "latest_article_at" : "2026-10-08T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-08T10:04:43Z",
+        "processed_at" : "2026-10-08T12:01:35Z",
         "state" : "processed"
       },
       {
@@ -410,7 +415,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-07T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-08T10:04:40Z",
+        "processed_at" : "2026-10-08T12:01:32Z",
         "state" : "processed"
       },
       {
@@ -418,15 +423,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-10-07T20:48:45Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-08T10:04:40Z",
+        "processed_at" : "2026-10-08T12:01:32Z",
         "state" : "processed"
       },
       {
-        "article_count" : 7,
+        "article_count" : 11,
         "id" : "the-ai-report",
-        "latest_article_at" : "2026-10-07T11:01:00Z",
+        "latest_article_at" : "2026-10-08T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-08T10:04:44Z",
+        "processed_at" : "2026-10-08T12:01:35Z",
         "state" : "processed"
       },
       {
@@ -434,14 +439,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-07T14:14:20Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-08T10:04:41Z",
+        "processed_at" : "2026-10-08T12:01:32Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-08T10:04:43Z",
+        "processed_at" : "2026-10-08T12:01:34Z",
         "state" : "processed"
       },
       {
@@ -449,7 +454,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-10-07T19:10:42Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-08T10:04:40Z",
+        "processed_at" : "2026-10-08T12:01:32Z",
         "state" : "processed"
       }
     ],

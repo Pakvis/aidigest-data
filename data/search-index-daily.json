@@ -27,6 +27,11 @@
       "importance" : "medium",
       "sources" : [
         {
+          "source_name" : "Superhuman AI",
+          "title" : "ChatGPT gets a visual transformation, powered by GPT-6",
+          "url" : "https:\/\/www.superhuman.ai\/p\/chatgpt-gets-a-visual-transformation-powered-by-gpt-6"
+        },
+        {
           "source_name" : "The Verge AI",
           "title" : "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1007276\/openai-chatgpt-intelligent-ui-gpt-6"
@@ -43,24 +48,6 @@
         "ChatGPT",
         "GPT",
         "Tooling"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "date" : "2026-10-08",
-      "id" : "2026-10-08-fd80a6c86082",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "Google AI Blog",
-          "title" : "Introducing Playground: Create and play custom games",
-          "url" : "https:\/\/blog.google\/innovation-and-ai\/technology\/ai\/playground-experimental-gaming-platform\/"
-        }
-      ],
-      "summary" : "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
-      "title" : "Introducing Playground: Create and play custom games",
-      "topics" : [
-        "AI"
       ]
     },
     {
@@ -138,38 +125,19 @@
     {
       "confidence" : "high",
       "date" : "2026-10-08",
-      "id" : "2026-10-08-1c86f3bafad6",
+      "id" : "2026-10-08-fd80a6c86082",
       "importance" : "medium",
       "sources" : [
         {
-          "source_name" : "OpenAI News",
-          "title" : "Sharing AI progress in mathematics",
-          "url" : "https:\/\/openai.com\/index\/sharing-ai-progress-in-mathematics"
+          "source_name" : "Google AI Blog",
+          "title" : "Introducing Playground: Create and play custom games",
+          "url" : "https:\/\/blog.google\/innovation-and-ai\/technology\/ai\/playground-experimental-gaming-platform\/"
         }
       ],
-      "summary" : "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-      "title" : "Sharing AI progress in mathematics",
+      "summary" : "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+      "title" : "Introducing Playground: Create and play custom games",
       "topics" : [
-        "Research"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "date" : "2026-10-08",
-      "id" : "2026-10-08-bb5f7877b467",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "How Jump Trading is scaling quant research with ChatGPT",
-          "url" : "https:\/\/openai.com\/index\/jump-trading"
-        }
-      ],
-      "summary" : "Jump Trading uses OpenAI to expand quantitative research.",
-      "title" : "How Jump Trading is scaling quant research with ChatGPT",
-      "topics" : [
-        "ChatGPT",
-        "Research"
+        "AI"
       ]
     },
     {
@@ -224,6 +192,43 @@
       "title" : "Hark releases an AI personal assistant with a focus on privacy",
       "topics" : [
         "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-10-08",
+      "id" : "2026-10-08-42f14e5075aa",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Mirror Particle is building a ‘world model’ of human behavior",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/06\/mirror-particle-is-building-a-world-model-of-human-behavior\/"
+        }
+      ],
+      "summary" : "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
+      "title" : "Mirror Particle is building a ‘world model’ of human behavior",
+      "topics" : [
+        "LLMs",
+        "Research"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-10-08",
+      "id" : "2026-10-08-1c86f3bafad6",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Sharing AI progress in mathematics",
+          "url" : "https:\/\/openai.com\/index\/sharing-ai-progress-in-mathematics"
+        }
+      ],
+      "summary" : "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "title" : "Sharing AI progress in mathematics",
+      "topics" : [
+        "Research"
       ]
     },
     {
