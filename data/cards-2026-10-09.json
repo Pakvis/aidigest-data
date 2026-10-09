@@ -1,41 +1,6 @@
 {
   "cards" : [
     {
-      "confidence" : "high",
-      "consolidation" : {
-        "latest_source_at" : "2026-10-08T23:29:43Z",
-        "message_count" : 3,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
-      },
-      "created_at" : "2026-10-08T23:29:43Z",
-      "id" : "2026-10-09-7f23b661eb0f",
-      "importance" : "high",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "not much happened today",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-not-much-happened-today-60f"
-        },
-        {
-          "source_name" : "TLDR AI",
-          "title" : "ChatGPT Intelligent UI 🧠, Claude Haiku 5.5 ⚡, Grok Bot 3rd party models 🤖",
-          "url" : "https:\/\/tldr.tech\/ai\/2026-10-08"
-        }
-      ],
-      "summary" : "Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing. It’s been about a year since Anthropic shipped Haiku 4.5 , and with successive launches of Sonnet and Opus and Fable up to 5.5 it was seeming a little forgotten, especially as OpenAI launched Luna 6 alongside Astra and Sol 6.",
-      "summary_method" : "source-extract",
-      "title" : "Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
-      "topics" : [
-        "Claude",
-        "GPT",
-        "Pricing"
-      ]
-    },
-    {
       "confidence" : "medium",
       "created_at" : "2026-10-09T09:48:26Z",
       "id" : "2026-10-09-b46437382ea5",
@@ -59,29 +24,6 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-10-08T17:00:00Z",
-      "id" : "2026-10-09-0d14c5590e91",
-      "importance" : "high",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1008100\/anthropic-new-usage-policy-abuse-claude"
-        }
-      ],
-      "summary" : "But one of the most significant changes prohibits \"sustained and needless abusive or cruel behavior\" toward Claude.",
-      "summary_method" : "source-extract",
-      "title" : "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
-      "topics" : [
-        "Anthropic",
-        "Claude"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-10-08T18:16:24Z",
       "id" : "2026-10-09-320e8037b227",
       "importance" : "high",
@@ -98,6 +40,59 @@
       "summary" : "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
       "summary_method" : "source-extract",
       "title" : "Anthropic changes usage policy to ban model abuse and election interference",
+      "topics" : [
+        "Anthropic",
+        "Claude"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "consolidation" : {
+        "latest_source_at" : "2026-10-08T23:29:43Z",
+        "message_count" : 2,
+        "reason" : "Multiple messages matched the same story.",
+        "source_count" : 1
+      },
+      "created_at" : "2026-10-08T23:29:43Z",
+      "id" : "2026-10-09-7f23b661eb0f",
+      "importance" : "high",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "not much happened today",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-not-much-happened-today-60f"
+        }
+      ],
+      "summary" : "Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing. It’s been about a year since Anthropic shipped Haiku 4.5 , and with successive launches of Sonnet and Opus and Fable up to 5.5 it was seeming a little forgotten, especially as OpenAI launched Luna 6 alongside Astra and Sol 6.",
+      "summary_method" : "source-extract",
+      "title" : "Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
+      "topics" : [
+        "Claude",
+        "GPT",
+        "Pricing"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-08T17:00:00Z",
+      "id" : "2026-10-09-0d14c5590e91",
+      "importance" : "high",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1008100\/anthropic-new-usage-policy-abuse-claude"
+        }
+      ],
+      "summary" : "But one of the most significant changes prohibits \"sustained and needless abusive or cruel behavior\" toward Claude.",
+      "summary_method" : "source-extract",
+      "title" : "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
       "topics" : [
         "Anthropic",
         "Claude"
@@ -188,28 +183,6 @@
       ]
     },
     {
-      "confidence" : "medium",
-      "created_at" : "2026-10-08T16:27:54Z",
-      "id" : "2026-10-09-6461bb397ba4",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
-          "url" : "https:\/\/www.latent.space\/p\/periodic"
-        }
-      ],
-      "summary" : "In this episode, Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk join swyx and Brandon to explain why scientific discovery is fundamentally different from math and coding, and what it takes to build AI scientists that can actually discover new materials.",
-      "summary_method" : "source-extract",
-      "title" : "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
       "confidence" : "low",
       "created_at" : "2026-10-09T15:25:22Z",
       "id" : "2026-10-09-aae7c05d64e0",
@@ -296,34 +269,56 @@
       "topics" : [
         "Agents"
       ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-08T16:27:54Z",
+      "id" : "2026-10-09-6461bb397ba4",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
+          "url" : "https:\/\/www.latent.space\/p\/periodic"
+        }
+      ],
+      "summary" : "In this episode, Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk join swyx and Brandon to explain why scientific discovery is fundamentally different from math and coding, and what it takes to build AI scientists that can actually discover new materials.",
+      "summary_method" : "source-extract",
+      "title" : "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
+      "topics" : [
+        "AI"
+      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 5,
-    "summary" : "• Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing\n• OpenAI doubles down on decision to fire three AI safety researchers\n• Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+    "summary" : "• OpenAI doubles down on decision to fire three AI safety researchers\n• Anthropic changes usage policy to ban model abuse and election interference\n• Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-09",
-  "generated_at" : "2026-10-09T16:03:04Z",
+  "generated_at" : "2026-10-09T18:00:37Z",
   "processing_report" : {
-    "generated_at" : "2026-10-09T16:03:10Z",
+    "generated_at" : "2026-10-09T18:00:41Z",
     "high_card_count" : 4,
     "source_reports" : [
       {
-        "article_count" : 4,
+        "article_count" : 8,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-10-09T13:56:09Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-09T16:03:09Z",
+        "processed_at" : "2026-10-09T18:00:41Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-09T16:03:08Z",
+        "processed_at" : "2026-10-09T18:00:41Z",
         "state" : "processed"
       },
       {
@@ -331,15 +326,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-09T16:03:06Z",
+        "processed_at" : "2026-10-09T18:00:39Z",
         "state" : "processed"
       },
       {
-        "article_count" : 4,
+        "article_count" : 5,
         "id" : "aireport-nl",
-        "latest_article_at" : "2026-10-01T10:00:00Z",
+        "latest_article_at" : "2026-10-06T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-09T16:03:07Z",
+        "processed_at" : "2026-10-09T18:00:40Z",
         "state" : "processed"
       },
       {
@@ -347,7 +342,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-06T20:50:32Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-09T16:03:05Z",
+        "processed_at" : "2026-10-09T18:00:38Z",
         "state" : "processed"
       },
       {
@@ -355,7 +350,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-07T12:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-09T16:03:05Z",
+        "processed_at" : "2026-10-09T18:00:38Z",
         "state" : "processed"
       },
       {
@@ -363,7 +358,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-10-06T19:57:04Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-09T16:03:05Z",
+        "processed_at" : "2026-10-09T18:00:38Z",
         "state" : "processed"
       },
       {
@@ -371,7 +366,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-10-09T15:20:29Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-09T16:03:05Z",
+        "processed_at" : "2026-10-09T18:00:38Z",
         "state" : "processed"
       },
       {
@@ -379,7 +374,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-08T23:29:43Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-09T16:03:08Z",
+        "processed_at" : "2026-10-09T18:00:41Z",
         "state" : "processed"
       },
       {
@@ -387,7 +382,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-29T06:30:04Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-09T16:03:05Z",
+        "processed_at" : "2026-10-09T18:00:38Z",
         "state" : "processed"
       },
       {
@@ -395,7 +390,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-06T12:00:27Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-09T16:03:05Z",
+        "processed_at" : "2026-10-09T18:00:38Z",
         "state" : "processed"
       },
       {
@@ -403,7 +398,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-01T10:54:12Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-09T16:03:05Z",
+        "processed_at" : "2026-10-09T18:00:38Z",
         "state" : "processed"
       },
       {
@@ -411,7 +406,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-10-09T07:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-09T16:03:05Z",
+        "processed_at" : "2026-10-09T18:00:38Z",
         "state" : "processed"
       },
       {
@@ -419,7 +414,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-10-09T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-09T16:03:08Z",
+        "processed_at" : "2026-10-09T18:00:40Z",
         "state" : "processed"
       },
       {
@@ -427,23 +422,23 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-09T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-09T16:03:05Z",
+        "processed_at" : "2026-10-09T18:00:38Z",
         "state" : "processed"
       },
       {
         "article_count" : 16,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-10-09T15:43:33Z",
+        "latest_article_at" : "2026-10-09T16:53:02Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-09T16:03:05Z",
+        "processed_at" : "2026-10-09T18:00:38Z",
         "state" : "processed"
       },
       {
-        "article_count" : 9,
+        "article_count" : 11,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-09T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-09T16:03:10Z",
+        "processed_at" : "2026-10-09T18:00:41Z",
         "state" : "processed"
       },
       {
@@ -451,14 +446,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-09T15:25:22Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-09T16:03:06Z",
+        "processed_at" : "2026-10-09T18:00:39Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 12,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-09T16:03:09Z",
+        "processed_at" : "2026-10-09T18:00:40Z",
         "state" : "processed"
       },
       {
@@ -466,7 +461,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-10-09T14:25:43Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-09T16:03:05Z",
+        "processed_at" : "2026-10-09T18:00:38Z",
         "state" : "processed"
       }
     ],
