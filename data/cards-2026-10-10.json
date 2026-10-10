@@ -164,28 +164,6 @@
       ]
     },
     {
-      "confidence" : "medium",
-      "created_at" : "2026-10-08T16:27:54Z",
-      "id" : "2026-10-10-efe233e7ebbb",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
-          "url" : "https:\/\/www.latent.space\/p\/periodic"
-        }
-      ],
-      "summary" : "In this episode, Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk join swyx and Brandon to explain why scientific discovery is fundamentally different from math and coding, and what it takes to build AI scientists that can actually discover new materials.",
-      "summary_method" : "source-extract",
-      "title" : "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
       "confidence" : "low",
       "created_at" : "2026-10-09T15:25:22Z",
       "id" : "2026-10-10-f43afd3cad12",
@@ -203,6 +181,28 @@
       "summary" : "Paid subscribers get Monday how-to guides and Friday news commentary (back soon).",
       "summary_method" : "source-extract",
       "title" : "The Actual Reason Why Meta Got Back in the AI Race Changes Everything",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-08T16:27:54Z",
+      "id" : "2026-10-10-efe233e7ebbb",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
+          "url" : "https:\/\/www.latent.space\/p\/periodic"
+        }
+      ],
+      "summary" : "In this episode, Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk join swyx and Brandon to explain why scientific discovery is fundamentally different from math and coding, and what it takes to build AI scientists that can actually discover new materials.",
+      "summary_method" : "source-extract",
+      "title" : "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
       "topics" : [
         "AI"
       ]
@@ -306,24 +306,24 @@
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-10",
-  "generated_at" : "2026-10-10T16:02:44Z",
+  "generated_at" : "2026-10-10T18:05:12Z",
   "processing_report" : {
-    "generated_at" : "2026-10-10T16:02:49Z",
+    "generated_at" : "2026-10-10T18:05:17Z",
     "high_card_count" : 3,
     "source_reports" : [
       {
-        "article_count" : 6,
+        "article_count" : 8,
         "id" : "ai-breakfast",
-        "latest_article_at" : "2026-10-07T13:06:44Z",
+        "latest_article_at" : "2026-10-09T13:56:09Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-10T16:02:48Z",
+        "processed_at" : "2026-10-10T18:05:17Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-10T16:02:48Z",
+        "processed_at" : "2026-10-10T18:05:16Z",
         "state" : "processed"
       },
       {
@@ -331,7 +331,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-10T16:02:45Z",
+        "processed_at" : "2026-10-10T18:05:14Z",
         "state" : "processed"
       },
       {
@@ -339,7 +339,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-10-06T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-10T16:02:46Z",
+        "processed_at" : "2026-10-10T18:05:15Z",
         "state" : "processed"
       },
       {
@@ -347,7 +347,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-06T20:50:32Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-10T16:02:45Z",
+        "processed_at" : "2026-10-10T18:05:14Z",
         "state" : "processed"
       },
       {
@@ -355,7 +355,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-07T12:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-10T16:02:45Z",
+        "processed_at" : "2026-10-10T18:05:13Z",
         "state" : "processed"
       },
       {
@@ -363,7 +363,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-10-06T19:57:04Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-10T16:02:45Z",
+        "processed_at" : "2026-10-10T18:05:13Z",
         "state" : "processed"
       },
       {
@@ -371,7 +371,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-10-09T15:20:29Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-10T16:02:45Z",
+        "processed_at" : "2026-10-10T18:05:14Z",
         "state" : "processed"
       },
       {
@@ -379,7 +379,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-10T14:04:11Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-10T16:02:47Z",
+        "processed_at" : "2026-10-10T18:05:16Z",
         "state" : "processed"
       },
       {
@@ -387,7 +387,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-29T06:30:04Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-10T16:02:45Z",
+        "processed_at" : "2026-10-10T18:05:13Z",
         "state" : "processed"
       },
       {
@@ -395,7 +395,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-06T12:00:27Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-10T16:02:45Z",
+        "processed_at" : "2026-10-10T18:05:14Z",
         "state" : "processed"
       },
       {
@@ -403,7 +403,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-01T10:54:12Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-10T16:02:45Z",
+        "processed_at" : "2026-10-10T18:05:13Z",
         "state" : "processed"
       },
       {
@@ -411,15 +411,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-10-09T07:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-10T16:02:45Z",
+        "processed_at" : "2026-10-10T18:05:14Z",
         "state" : "processed"
       },
       {
-        "article_count" : 6,
+        "article_count" : 8,
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-10-10T14:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-10T16:02:48Z",
+        "processed_at" : "2026-10-10T18:05:16Z",
         "state" : "processed"
       },
       {
@@ -427,7 +427,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-09T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-10T16:02:45Z",
+        "processed_at" : "2026-10-10T18:05:13Z",
         "state" : "processed"
       },
       {
@@ -435,15 +435,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-10-10T15:00:00Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-10T16:02:44Z",
+        "processed_at" : "2026-10-10T18:05:13Z",
         "state" : "processed"
       },
       {
-        "article_count" : 7,
+        "article_count" : 11,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-09T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-10T16:02:49Z",
+        "processed_at" : "2026-10-10T18:05:17Z",
         "state" : "processed"
       },
       {
@@ -451,14 +451,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-09T15:25:22Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-10T16:02:45Z",
+        "processed_at" : "2026-10-10T18:05:14Z",
         "state" : "processed"
       },
       {
-        "article_count" : 9,
+        "article_count" : 12,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-10T16:02:48Z",
+        "processed_at" : "2026-10-10T18:05:15Z",
         "state" : "processed"
       },
       {
@@ -466,7 +466,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-10-10T14:41:16Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-10T16:02:44Z",
+        "processed_at" : "2026-10-10T18:05:13Z",
         "state" : "processed"
       }
     ],
