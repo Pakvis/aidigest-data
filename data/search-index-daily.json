@@ -2,6 +2,230 @@
   "cards" : [
     {
       "confidence" : "medium",
+      "date" : "2026-10-10",
+      "id" : "2026-10-10-192bd72aa78e",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "OpenAI doubles down on decision to fire three AI safety researchers",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1008604\/openai-defends-decision-fire-safety-researchers"
+        }
+      ],
+      "summary" : "The post is a direct response to an open letter the researchers published on Thursday urging OpenAI to be more transparent about the decision.",
+      "title" : "OpenAI doubles down on decision to fire three AI safety researchers",
+      "topics" : [
+        "Safety"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-10-10",
+      "id" : "2026-10-10-7fa04af5d688",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Anthropic changes usage policy to ban model abuse and election interference",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/08\/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference\/"
+        }
+      ],
+      "summary" : "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
+      "title" : "Anthropic changes usage policy to ban model abuse and election interference",
+      "topics" : [
+        "Anthropic",
+        "Claude"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-10-10",
+      "id" : "2026-10-10-717eadc0c6c5",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "not much happened today",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-not-much-happened-today-60f"
+        }
+      ],
+      "summary" : "Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing. It’s been about a year since Anthropic shipped Haiku 4.5 , and with successive launches of Sonnet and Opus and Fable up to 5.5 it was seeming a little forgotten, especially as OpenAI launched Luna 6 alongside Astra and Sol 6.",
+      "title" : "Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
+      "topics" : [
+        "Claude",
+        "GPT",
+        "Pricing"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-10-10",
+      "id" : "2026-10-10-c98d81e0136b",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/09\/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch\/"
+        }
+      ],
+      "summary" : "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+      "title" : "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "low",
+      "date" : "2026-10-10",
+      "id" : "2026-10-10-f43afd3cad12",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "The Algorithmic Bridge",
+          "title" : "The Actual Reason Why Meta Got Back in the AI Race Changes Everything",
+          "url" : "https:\/\/www.thealgorithmicbridge.com\/p\/the-actual-reason-why-meta-got-back"
+        }
+      ],
+      "summary" : "Paid subscribers get Monday how-to guides and Friday news commentary (back soon).",
+      "title" : "The Actual Reason Why Meta Got Back in the AI Race Changes Everything",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-10-10",
+      "id" : "2026-10-10-8d3ba8c3fc61",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Anthropic launches free AI security scans for open-source projects",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1008521\/anthropic-open-source-oss-scanner"
+        }
+      ],
+      "summary" : "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner .",
+      "title" : "Anthropic launches free AI security scans for open-source projects",
+      "topics" : [
+        "Anthropic"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-10-10",
+      "id" : "2026-10-10-1f0084b1e248",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/08\/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect\/"
+        }
+      ],
+      "summary" : "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+      "title" : "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "topics" : [
+        "Safety"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-10-10",
+      "id" : "2026-10-10-9fc89ae1f4d9",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/08\/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost\/"
+        }
+      ],
+      "summary" : "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
+      "title" : "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+      "topics" : [
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-10-10",
+      "id" : "2026-10-10-efe233e7ebbb",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
+          "url" : "https:\/\/www.latent.space\/p\/periodic"
+        }
+      ],
+      "summary" : "In this episode, Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk join swyx and Brandon to explain why scientific discovery is fundamentally different from math and coding, and what it takes to build AI scientists that can actually discover new materials.",
+      "title" : "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-10-10",
+      "id" : "2026-10-10-64444127909b",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "Google AI Blog",
+          "title" : "Introducing Playground: Create and play custom games",
+          "url" : "https:\/\/blog.google\/innovation-and-ai\/technology\/ai\/playground-experimental-gaming-platform\/"
+        }
+      ],
+      "summary" : "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+      "title" : "Introducing Playground: Create and play custom games",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-10-10",
+      "id" : "2026-10-10-b4a268ee461c",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Can a Cloud-Native Harness Make Agents Reliable Beyond the Desktop?",
+          "url" : "https:\/\/www.latent.space\/p\/stacklok"
+        }
+      ],
+      "summary" : "Mecatl: a harness built for the cloud The most interesting product of Stacklok is Mecatl, a “cloud-native harness” begun in June as an open source project on GitHub .",
+      "title" : "Can a Cloud-Native Harness Make Agents Reliable Beyond the Desktop?",
+      "topics" : [
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-10-10",
+      "id" : "2026-10-10-232a9fb0f353",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1009090\/anthropic-fake-homicide-information-philadelphia-pd-tip"
+        },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/09\/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police\/"
+        }
+      ],
+      "summary" : "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigators never reviewed it because it was marked as spam.",
+      "title" : "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "topics" : [
+        "Anthropic"
+      ]
+    },
+    {
+      "confidence" : "medium",
       "date" : "2026-10-09",
       "id" : "2026-10-09-b46437382ea5",
       "importance" : "high",
