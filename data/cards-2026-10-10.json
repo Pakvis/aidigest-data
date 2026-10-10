@@ -120,28 +120,6 @@
       ]
     },
     {
-      "confidence" : "low",
-      "created_at" : "2026-10-09T15:25:22Z",
-      "id" : "2026-10-10-f43afd3cad12",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Algorithmic Bridge",
-          "title" : "The Actual Reason Why Meta Got Back in the AI Race Changes Everything",
-          "url" : "https:\/\/www.thealgorithmicbridge.com\/p\/the-actual-reason-why-meta-got-back"
-        }
-      ],
-      "summary" : "Paid subscribers get Monday how-to guides and Friday news commentary (back soon).",
-      "summary_method" : "source-extract",
-      "title" : "The Actual Reason Why Meta Got Back in the AI Race Changes Everything",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
       "confidence" : "medium",
       "created_at" : "2026-10-08T21:53:51Z",
       "id" : "2026-10-10-8d3ba8c3fc61",
@@ -187,28 +165,6 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-10-08T16:00:00Z",
-      "id" : "2026-10-10-9fc89ae1f4d9",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/08\/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost\/"
-        }
-      ],
-      "summary" : "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
-      "summary_method" : "source-extract",
-      "title" : "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
-      "topics" : [
-        "Agents"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-10-08T16:27:54Z",
       "id" : "2026-10-10-efe233e7ebbb",
       "importance" : "medium",
@@ -230,25 +186,60 @@
       ]
     },
     {
-      "confidence" : "medium",
-      "created_at" : "2026-10-07T14:10:45Z",
-      "id" : "2026-10-10-b4a268ee461c",
+      "confidence" : "low",
+      "created_at" : "2026-10-09T15:25:22Z",
+      "id" : "2026-10-10-f43afd3cad12",
       "importance" : "medium",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "Latent Space",
-          "title" : "Can a Cloud-Native Harness Make Agents Reliable Beyond the Desktop?",
-          "url" : "https:\/\/www.latent.space\/p\/stacklok"
+          "source_name" : "The Algorithmic Bridge",
+          "title" : "The Actual Reason Why Meta Got Back in the AI Race Changes Everything",
+          "url" : "https:\/\/www.thealgorithmicbridge.com\/p\/the-actual-reason-why-meta-got-back"
         }
       ],
-      "summary" : "Mecatl: a harness built for the cloud The most interesting product of Stacklok is Mecatl, a “cloud-native harness” begun in June as an open source project on GitHub .",
+      "summary" : "Paid subscribers get Monday how-to guides and Friday news commentary (back soon).",
       "summary_method" : "source-extract",
-      "title" : "Can a Cloud-Native Harness Make Agents Reliable Beyond the Desktop?",
+      "title" : "The Actual Reason Why Meta Got Back in the AI Race Changes Everything",
       "topics" : [
-        "Agents"
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-10-10T14:41:16Z",
+        "message_count" : 2,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
+      "created_at" : "2026-10-10T14:41:16Z",
+      "id" : "2026-10-10-e27c41059fa2",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Anthropic is cutting off its internal evaluations from the internet",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1009286\/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet"
+        },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/09\/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead\/"
+        }
+      ],
+      "summary" : "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations.",
+      "summary_method" : "source-extract",
+      "title" : "Anthropic is cutting off its internal evaluations from the internet",
+      "topics" : [
+        "Anthropic",
+        "Agents",
+        "Benchmarks"
       ]
     },
     {
@@ -283,6 +274,28 @@
       "topics" : [
         "Anthropic"
       ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-10T13:00:00Z",
+      "id" : "2026-10-10-5028723b6048",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "AI agent makers are promising privacy — will they deliver?",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1009051\/privacy-ai-agent-promises-openai-meta-muse-dots"
+        }
+      ],
+      "summary" : "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe.",
+      "summary_method" : "source-extract",
+      "title" : "AI agent makers are promising privacy — will they deliver?",
+      "topics" : [
+        "Agents"
+      ]
     }
   ],
   "count" : 12,
@@ -293,24 +306,24 @@
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-10",
-  "generated_at" : "2026-10-10T14:05:08Z",
+  "generated_at" : "2026-10-10T16:02:44Z",
   "processing_report" : {
-    "generated_at" : "2026-10-10T14:05:12Z",
+    "generated_at" : "2026-10-10T16:02:49Z",
     "high_card_count" : 3,
     "source_reports" : [
       {
-        "article_count" : 8,
+        "article_count" : 6,
         "id" : "ai-breakfast",
-        "latest_article_at" : "2026-10-09T13:56:09Z",
+        "latest_article_at" : "2026-10-07T13:06:44Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-10T14:05:12Z",
+        "processed_at" : "2026-10-10T16:02:48Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-10T14:05:10Z",
+        "processed_at" : "2026-10-10T16:02:48Z",
         "state" : "processed"
       },
       {
@@ -318,7 +331,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-10T14:05:09Z",
+        "processed_at" : "2026-10-10T16:02:45Z",
         "state" : "processed"
       },
       {
@@ -326,7 +339,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-10-06T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-10T14:05:10Z",
+        "processed_at" : "2026-10-10T16:02:46Z",
         "state" : "processed"
       },
       {
@@ -334,7 +347,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-06T20:50:32Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-10T14:05:09Z",
+        "processed_at" : "2026-10-10T16:02:45Z",
         "state" : "processed"
       },
       {
@@ -342,7 +355,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-07T12:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-10T14:05:08Z",
+        "processed_at" : "2026-10-10T16:02:45Z",
         "state" : "processed"
       },
       {
@@ -350,7 +363,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-10-06T19:57:04Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-10T14:05:09Z",
+        "processed_at" : "2026-10-10T16:02:45Z",
         "state" : "processed"
       },
       {
@@ -358,15 +371,15 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-10-09T15:20:29Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-10T14:05:09Z",
+        "processed_at" : "2026-10-10T16:02:45Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "latent-space",
-        "latest_article_at" : "2026-10-10T06:45:57Z",
+        "latest_article_at" : "2026-10-10T14:04:11Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-10T14:05:12Z",
+        "processed_at" : "2026-10-10T16:02:47Z",
         "state" : "processed"
       },
       {
@@ -374,7 +387,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-29T06:30:04Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-10T14:05:08Z",
+        "processed_at" : "2026-10-10T16:02:45Z",
         "state" : "processed"
       },
       {
@@ -382,7 +395,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-06T12:00:27Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-10T14:05:09Z",
+        "processed_at" : "2026-10-10T16:02:45Z",
         "state" : "processed"
       },
       {
@@ -390,7 +403,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-01T10:54:12Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-10T14:05:08Z",
+        "processed_at" : "2026-10-10T16:02:45Z",
         "state" : "processed"
       },
       {
@@ -398,15 +411,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-10-09T07:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-10T14:05:09Z",
+        "processed_at" : "2026-10-10T16:02:45Z",
         "state" : "processed"
       },
       {
-        "article_count" : 7,
+        "article_count" : 6,
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-10-10T14:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-10T14:05:12Z",
+        "processed_at" : "2026-10-10T16:02:48Z",
         "state" : "processed"
       },
       {
@@ -414,23 +427,23 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-09T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-10T14:05:08Z",
+        "processed_at" : "2026-10-10T16:02:45Z",
         "state" : "processed"
       },
       {
         "article_count" : 18,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-10-10T00:18:32Z",
+        "latest_article_at" : "2026-10-10T15:00:00Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-10T14:05:08Z",
+        "processed_at" : "2026-10-10T16:02:44Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 7,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-09T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-10T14:05:11Z",
+        "processed_at" : "2026-10-10T16:02:49Z",
         "state" : "processed"
       },
       {
@@ -438,22 +451,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-09T15:25:22Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-10T14:05:09Z",
+        "processed_at" : "2026-10-10T16:02:45Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 9,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-10T14:05:11Z",
+        "processed_at" : "2026-10-10T16:02:48Z",
         "state" : "processed"
       },
       {
         "article_count" : 10,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-10-10T13:00:00Z",
+        "latest_article_at" : "2026-10-10T14:41:16Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-10T14:05:08Z",
+        "processed_at" : "2026-10-10T16:02:44Z",
         "state" : "processed"
       }
     ],

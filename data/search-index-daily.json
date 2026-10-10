@@ -94,24 +94,6 @@
       ]
     },
     {
-      "confidence" : "low",
-      "date" : "2026-10-10",
-      "id" : "2026-10-10-f43afd3cad12",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "The Algorithmic Bridge",
-          "title" : "The Actual Reason Why Meta Got Back in the AI Race Changes Everything",
-          "url" : "https:\/\/www.thealgorithmicbridge.com\/p\/the-actual-reason-why-meta-got-back"
-        }
-      ],
-      "summary" : "Paid subscribers get Monday how-to guides and Friday news commentary (back soon).",
-      "title" : "The Actual Reason Why Meta Got Back in the AI Race Changes Everything",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
       "confidence" : "medium",
       "date" : "2026-10-10",
       "id" : "2026-10-10-8d3ba8c3fc61",
@@ -150,24 +132,6 @@
     {
       "confidence" : "medium",
       "date" : "2026-10-10",
-      "id" : "2026-10-10-9fc89ae1f4d9",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/08\/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost\/"
-        }
-      ],
-      "summary" : "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
-      "title" : "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
-      "topics" : [
-        "Agents"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-10-10",
       "id" : "2026-10-10-efe233e7ebbb",
       "importance" : "medium",
       "sources" : [
@@ -184,21 +148,46 @@
       ]
     },
     {
-      "confidence" : "medium",
+      "confidence" : "low",
       "date" : "2026-10-10",
-      "id" : "2026-10-10-b4a268ee461c",
+      "id" : "2026-10-10-f43afd3cad12",
       "importance" : "medium",
       "sources" : [
         {
-          "source_name" : "Latent Space",
-          "title" : "Can a Cloud-Native Harness Make Agents Reliable Beyond the Desktop?",
-          "url" : "https:\/\/www.latent.space\/p\/stacklok"
+          "source_name" : "The Algorithmic Bridge",
+          "title" : "The Actual Reason Why Meta Got Back in the AI Race Changes Everything",
+          "url" : "https:\/\/www.thealgorithmicbridge.com\/p\/the-actual-reason-why-meta-got-back"
         }
       ],
-      "summary" : "Mecatl: a harness built for the cloud The most interesting product of Stacklok is Mecatl, a “cloud-native harness” begun in June as an open source project on GitHub .",
-      "title" : "Can a Cloud-Native Harness Make Agents Reliable Beyond the Desktop?",
+      "summary" : "Paid subscribers get Monday how-to guides and Friday news commentary (back soon).",
+      "title" : "The Actual Reason Why Meta Got Back in the AI Race Changes Everything",
       "topics" : [
-        "Agents"
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-10-10",
+      "id" : "2026-10-10-e27c41059fa2",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Anthropic is cutting off its internal evaluations from the internet",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1009286\/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet"
+        },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/09\/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead\/"
+        }
+      ],
+      "summary" : "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations.",
+      "title" : "Anthropic is cutting off its internal evaluations from the internet",
+      "topics" : [
+        "Anthropic",
+        "Agents",
+        "Benchmarks"
       ]
     },
     {
@@ -222,6 +211,24 @@
       "title" : "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
       "topics" : [
         "Anthropic"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-10-10",
+      "id" : "2026-10-10-5028723b6048",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "AI agent makers are promising privacy — will they deliver?",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1009051\/privacy-ai-agent-promises-openai-meta-muse-dots"
+        }
+      ],
+      "summary" : "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe.",
+      "title" : "AI agent makers are promising privacy — will they deliver?",
+      "topics" : [
+        "Agents"
       ]
     },
     {
