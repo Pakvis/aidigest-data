@@ -2,28 +2,6 @@
   "cards" : [
     {
       "confidence" : "medium",
-      "created_at" : "2026-10-09T09:48:26Z",
-      "id" : "2026-10-11-31781553a4cd",
-      "importance" : "high",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "OpenAI doubles down on decision to fire three AI safety researchers",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1008604\/openai-defends-decision-fire-safety-researchers"
-        }
-      ],
-      "summary" : "The post is a direct response to an open letter the researchers published on Thursday urging OpenAI to be more transparent about the decision.",
-      "summary_method" : "source-extract",
-      "title" : "OpenAI doubles down on decision to fire three AI safety researchers",
-      "topics" : [
-        "Safety"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-10-08T18:16:24Z",
       "id" : "2026-10-11-f33340a469e4",
       "importance" : "high",
@@ -277,34 +255,56 @@
       "topics" : [
         "AI"
       ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-10T14:00:00Z",
+      "id" : "2026-10-11-6b3c13f6e316",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Here are the top AI agents that can live in your text messages",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/10\/all-the-ai-agents-that-can-live-in-your-text-messages\/"
+        }
+      ],
+      "summary" : "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "summary_method" : "source-extract",
+      "title" : "Here are the top AI agents that can live in your text messages",
+      "topics" : [
+        "Agents"
+      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 4,
-    "summary" : "• OpenAI doubles down on decision to fire three AI safety researchers\n• Anthropic changes usage policy to ban model abuse and election interference\n• The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+    "summary" : "• Anthropic changes usage policy to ban model abuse and election interference\n• The maker of non-text AI model Jev valued at $7.5B just weeks after launch\n• TypeSafe\/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-11",
-  "generated_at" : "2026-10-11T10:00:57Z",
+  "generated_at" : "2026-10-11T12:03:18Z",
   "processing_report" : {
-    "generated_at" : "2026-10-11T10:01:01Z",
-    "high_card_count" : 2,
+    "generated_at" : "2026-10-11T12:03:23Z",
+    "high_card_count" : 1,
     "source_reports" : [
       {
         "article_count" : 6,
         "id" : "ai-breakfast",
-        "latest_article_at" : "2026-10-09T13:56:09Z",
+        "latest_article_at" : "2026-10-07T13:06:44Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-11T10:01:01Z",
+        "processed_at" : "2026-10-11T12:03:22Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-11T10:01:00Z",
+        "processed_at" : "2026-10-11T12:03:21Z",
         "state" : "processed"
       },
       {
@@ -312,7 +312,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-11T10:00:58Z",
+        "processed_at" : "2026-10-11T12:03:19Z",
         "state" : "processed"
       },
       {
@@ -320,7 +320,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-10-06T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-11T10:00:59Z",
+        "processed_at" : "2026-10-11T12:03:20Z",
         "state" : "processed"
       },
       {
@@ -328,7 +328,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-06T20:50:32Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-11T10:00:58Z",
+        "processed_at" : "2026-10-11T12:03:19Z",
         "state" : "processed"
       },
       {
@@ -336,7 +336,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-07T12:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-11T10:00:58Z",
+        "processed_at" : "2026-10-11T12:03:19Z",
         "state" : "processed"
       },
       {
@@ -344,7 +344,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-10-06T19:57:04Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-11T10:00:58Z",
+        "processed_at" : "2026-10-11T12:03:19Z",
         "state" : "processed"
       },
       {
@@ -352,7 +352,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-10-09T15:20:29Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-11T10:00:58Z",
+        "processed_at" : "2026-10-11T12:03:19Z",
         "state" : "processed"
       },
       {
@@ -360,7 +360,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-10T22:07:17Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-11T10:01:00Z",
+        "processed_at" : "2026-10-11T12:03:20Z",
         "state" : "processed"
       },
       {
@@ -368,7 +368,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-29T06:30:04Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-11T10:00:58Z",
+        "processed_at" : "2026-10-11T12:03:19Z",
         "state" : "processed"
       },
       {
@@ -376,7 +376,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-06T12:00:27Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-11T10:00:58Z",
+        "processed_at" : "2026-10-11T12:03:19Z",
         "state" : "processed"
       },
       {
@@ -384,7 +384,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-01T10:54:12Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-11T10:00:58Z",
+        "processed_at" : "2026-10-11T12:03:19Z",
         "state" : "processed"
       },
       {
@@ -392,15 +392,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-10-09T07:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-11T10:00:58Z",
+        "processed_at" : "2026-10-11T12:03:19Z",
         "state" : "processed"
       },
       {
-        "article_count" : 8,
+        "article_count" : 7,
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-10-10T14:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-11T10:01:00Z",
+        "processed_at" : "2026-10-11T12:03:21Z",
         "state" : "processed"
       },
       {
@@ -408,7 +408,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-09T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-11T10:00:58Z",
+        "processed_at" : "2026-10-11T12:03:19Z",
         "state" : "processed"
       },
       {
@@ -416,15 +416,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-10-10T21:47:51Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-11T10:00:57Z",
+        "processed_at" : "2026-10-11T12:03:18Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 10,
         "id" : "the-ai-report",
-        "latest_article_at" : "2026-10-09T11:01:00Z",
+        "latest_article_at" : "2026-10-11T12:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-11T10:01:00Z",
+        "processed_at" : "2026-10-11T12:03:23Z",
         "state" : "processed"
       },
       {
@@ -432,22 +432,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-09T15:25:22Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-11T10:00:58Z",
+        "processed_at" : "2026-10-11T12:03:19Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 12,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-11T10:01:00Z",
+        "processed_at" : "2026-10-11T12:03:20Z",
         "state" : "processed"
       },
       {
         "article_count" : 9,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-10-10T22:10:17Z",
+        "latest_article_at" : "2026-10-11T11:00:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-11T10:00:57Z",
+        "processed_at" : "2026-10-11T12:03:18Z",
         "state" : "processed"
       }
     ],
