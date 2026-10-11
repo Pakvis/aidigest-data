@@ -2,29 +2,6 @@
   "cards" : [
     {
       "confidence" : "medium",
-      "created_at" : "2026-10-08T18:16:24Z",
-      "id" : "2026-10-11-f33340a469e4",
-      "importance" : "high",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Anthropic changes usage policy to ban model abuse and election interference",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/08\/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference\/"
-        }
-      ],
-      "summary" : "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
-      "summary_method" : "source-extract",
-      "title" : "Anthropic changes usage policy to ban model abuse and election interference",
-      "topics" : [
-        "Anthropic",
-        "Claude"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-10-09T21:41:29Z",
       "id" : "2026-10-11-42f7e34a2b62",
       "importance" : "medium",
@@ -192,24 +169,24 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-10-10T13:00:00Z",
-      "id" : "2026-10-11-01f0064b3bf4",
+      "created_at" : "2026-10-11T14:00:00Z",
+      "id" : "2026-10-11-43f6385d0b05",
       "importance" : "low",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "The Verge AI",
-          "title" : "AI agent makers are promising privacy — will they deliver?",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1009051\/privacy-ai-agent-promises-openai-meta-muse-dots"
+          "source_name" : "TechCrunch AI",
+          "title" : "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/11\/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet\/"
         }
       ],
-      "summary" : "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe.",
+      "summary" : "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break.",
       "summary_method" : "source-extract",
-      "title" : "AI agent makers are promising privacy — will they deliver?",
+      "title" : "These execs think voice AI hasn’t reached its ChatGPT moment yet",
       "topics" : [
-        "Agents"
+        "ChatGPT"
       ]
     },
     {
@@ -258,24 +235,57 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-10-10T14:00:00Z",
-      "id" : "2026-10-11-6b3c13f6e316",
+      "created_at" : "2026-10-10T14:04:11Z",
+      "id" : "2026-10-11-3817ae6247e3",
       "importance" : "low",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "TechCrunch AI",
-          "title" : "Here are the top AI agents that can live in your text messages",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/10\/all-the-ai-agents-that-can-live-in-your-text-messages\/"
+          "source_name" : "Latent Space",
+          "title" : "Building AI for Reliable Execution: Lessons From Industrial Robotics",
+          "url" : "https:\/\/www.latent.space\/p\/standard-bots"
         }
       ],
-      "summary" : "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "summary" : "Standard Bots claims to be “America’s largest AI-native industrial robot manufacturer.” It recently raised $200 million at a $1 billion valuation, in a series C round led by General Catalyst and RoboStrategy, a fund focused on robotics. Its customers include NASA, Amazon and Lockheed Martin.",
       "summary_method" : "source-extract",
-      "title" : "Here are the top AI agents that can live in your text messages",
+      "title" : "Building AI for Reliable Execution: Lessons From Industrial Robotics",
       "topics" : [
-        "Agents"
+        "Robotics"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-10-09T21:15:38Z",
+        "message_count" : 2,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
+      "created_at" : "2026-10-09T21:15:38Z",
+      "id" : "2026-10-11-6859415c73eb",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1009090\/anthropic-fake-homicide-information-philadelphia-pd-tip"
+        },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/09\/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police\/"
+        }
+      ],
+      "summary" : "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigators never reviewed it because it was marked as spam.",
+      "summary_method" : "source-extract",
+      "title" : "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "topics" : [
+        "Anthropic"
       ]
     }
   ],
@@ -283,28 +293,28 @@
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 4,
-    "summary" : "• Anthropic changes usage policy to ban model abuse and election interference\n• The maker of non-text AI model Jev valued at $7.5B just weeks after launch\n• TypeSafe\/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
+    "summary" : "• The maker of non-text AI model Jev valued at $7.5B just weeks after launch\n• TypeSafe\/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch\n• The Actual Reason Why Meta Got Back in the AI Race Changes Everything",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-11",
-  "generated_at" : "2026-10-11T12:03:18Z",
+  "generated_at" : "2026-10-11T14:00:33Z",
   "processing_report" : {
-    "generated_at" : "2026-10-11T12:03:23Z",
-    "high_card_count" : 1,
+    "generated_at" : "2026-10-11T14:00:41Z",
+    "high_card_count" : 0,
     "source_reports" : [
       {
-        "article_count" : 6,
+        "article_count" : 4,
         "id" : "ai-breakfast",
-        "latest_article_at" : "2026-10-07T13:06:44Z",
+        "latest_article_at" : "2026-10-09T13:56:09Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-11T12:03:22Z",
+        "processed_at" : "2026-10-11T14:00:38Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 8,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-11T12:03:21Z",
+        "processed_at" : "2026-10-11T14:00:41Z",
         "state" : "processed"
       },
       {
@@ -312,15 +322,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-11T12:03:19Z",
+        "processed_at" : "2026-10-11T14:00:35Z",
         "state" : "processed"
       },
       {
-        "article_count" : 4,
+        "article_count" : 2,
         "id" : "aireport-nl",
-        "latest_article_at" : "2026-10-06T10:00:00Z",
+        "latest_article_at" : "2026-09-29T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-11T12:03:20Z",
+        "processed_at" : "2026-10-11T14:00:37Z",
         "state" : "processed"
       },
       {
@@ -328,7 +338,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-06T20:50:32Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-11T12:03:19Z",
+        "processed_at" : "2026-10-11T14:00:35Z",
         "state" : "processed"
       },
       {
@@ -336,7 +346,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-07T12:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-11T12:03:19Z",
+        "processed_at" : "2026-10-11T14:00:34Z",
         "state" : "processed"
       },
       {
@@ -344,7 +354,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-10-06T19:57:04Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-11T12:03:19Z",
+        "processed_at" : "2026-10-11T14:00:34Z",
         "state" : "processed"
       },
       {
@@ -352,7 +362,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-10-09T15:20:29Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-11T12:03:19Z",
+        "processed_at" : "2026-10-11T14:00:34Z",
         "state" : "processed"
       },
       {
@@ -360,7 +370,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-10T22:07:17Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-11T12:03:20Z",
+        "processed_at" : "2026-10-11T14:00:36Z",
         "state" : "processed"
       },
       {
@@ -368,7 +378,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-29T06:30:04Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-11T12:03:19Z",
+        "processed_at" : "2026-10-11T14:00:34Z",
         "state" : "processed"
       },
       {
@@ -376,7 +386,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-06T12:00:27Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-11T12:03:19Z",
+        "processed_at" : "2026-10-11T14:00:34Z",
         "state" : "processed"
       },
       {
@@ -384,7 +394,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-01T10:54:12Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-11T12:03:19Z",
+        "processed_at" : "2026-10-11T14:00:34Z",
         "state" : "processed"
       },
       {
@@ -392,15 +402,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-10-09T07:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-11T12:03:19Z",
+        "processed_at" : "2026-10-11T14:00:34Z",
         "state" : "processed"
       },
       {
-        "article_count" : 7,
+        "article_count" : 8,
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-10-10T14:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-11T12:03:21Z",
+        "processed_at" : "2026-10-11T14:00:37Z",
         "state" : "processed"
       },
       {
@@ -408,23 +418,23 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-09T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-11T12:03:19Z",
+        "processed_at" : "2026-10-11T14:00:34Z",
         "state" : "processed"
       },
       {
         "article_count" : 17,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-10-10T21:47:51Z",
+        "latest_article_at" : "2026-10-11T14:00:00Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-11T12:03:18Z",
+        "processed_at" : "2026-10-11T14:00:34Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 7,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-11T12:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-11T12:03:23Z",
+        "processed_at" : "2026-10-11T14:00:40Z",
         "state" : "processed"
       },
       {
@@ -432,14 +442,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-09T15:25:22Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-11T12:03:19Z",
+        "processed_at" : "2026-10-11T14:00:35Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 9,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-11T12:03:20Z",
+        "processed_at" : "2026-10-11T14:00:37Z",
         "state" : "processed"
       },
       {
@@ -447,7 +457,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-10-11T11:00:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-11T12:03:18Z",
+        "processed_at" : "2026-10-11T14:00:34Z",
         "state" : "processed"
       }
     ],
