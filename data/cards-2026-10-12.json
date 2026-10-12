@@ -45,28 +45,6 @@
       ]
     },
     {
-      "confidence" : "low",
-      "created_at" : "2026-10-09T15:25:22Z",
-      "id" : "2026-10-12-24d327e34cac",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Algorithmic Bridge",
-          "title" : "The Actual Reason Why Meta Got Back in the AI Race Changes Everything",
-          "url" : "https:\/\/www.thealgorithmicbridge.com\/p\/the-actual-reason-why-meta-got-back"
-        }
-      ],
-      "summary" : "Paid subscribers get Monday how-to guides and Friday news commentary (back soon).",
-      "summary_method" : "source-extract",
-      "title" : "The Actual Reason Why Meta Got Back in the AI Race Changes Everything",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
       "confidence" : "medium",
       "created_at" : "2026-10-12T13:00:00Z",
       "id" : "2026-10-12-b8c1998fedbb",
@@ -108,6 +86,50 @@
       "title" : "Silicon Valley is falling in line with Trump’s attempt to rename AI",
       "topics" : [
         "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-12T15:31:19Z",
+      "id" : "2026-10-12-f9366654b05a",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Microsoft president says UK is best placed to drive AI regulation",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/12\/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation\/"
+        }
+      ],
+      "summary" : "Microsoft President Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+      "summary_method" : "source-extract",
+      "title" : "Microsoft president says UK is best placed to drive AI regulation",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-12T15:27:59Z",
+      "id" : "2026-10-12-9fc5fd11e2c5",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "This AI startup says it can generate permit-ready blueprints in minutes",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/12\/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes\/"
+        }
+      ],
+      "summary" : "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+      "summary_method" : "source-extract",
+      "title" : "This AI startup says it can generate permit-ready blueprints in minutes",
+      "topics" : [
+        "Coding"
       ]
     },
     {
@@ -155,41 +177,6 @@
       ]
     },
     {
-      "confidence" : "high",
-      "consolidation" : {
-        "latest_source_at" : "2026-10-10T14:41:16Z",
-        "message_count" : 2,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
-      },
-      "created_at" : "2026-10-10T14:41:16Z",
-      "id" : "2026-10-12-bc0b49701b53",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Anthropic is cutting off its internal evaluations from the internet",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1009286\/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet"
-        },
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/09\/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead\/"
-        }
-      ],
-      "summary" : "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations.",
-      "summary_method" : "source-extract",
-      "title" : "Anthropic is cutting off its internal evaluations from the internet",
-      "topics" : [
-        "Anthropic",
-        "Agents",
-        "Benchmarks"
-      ]
-    },
-    {
       "confidence" : "medium",
       "created_at" : "2026-10-10T22:10:17Z",
       "id" : "2026-10-12-2326a54f7905",
@@ -226,7 +213,7 @@
           "url" : "https:\/\/techcrunch.com\/2026\/10\/11\/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet\/"
         }
       ],
-      "summary" : "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break.",
+      "summary" : "Voice AI often misses important points for its context layer, and causes the whole pipeline to break.",
       "summary_method" : "source-extract",
       "title" : "These execs think voice AI hasn’t reached its ChatGPT moment yet",
       "topics" : [
@@ -256,54 +243,67 @@
       ]
     },
     {
-      "confidence" : "medium",
-      "created_at" : "2026-10-10T15:00:00Z",
-      "id" : "2026-10-12-f4f2af7391da",
+      "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-10-10T14:41:16Z",
+        "message_count" : 2,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
+      "created_at" : "2026-10-10T14:41:16Z",
+      "id" : "2026-10-12-bc0b49701b53",
       "importance" : "low",
       "key_insights" : [
 
       ],
       "sources" : [
         {
+          "source_name" : "The Verge AI",
+          "title" : "Anthropic is cutting off its internal evaluations from the internet",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1009286\/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet"
+        },
+        {
           "source_name" : "TechCrunch AI",
-          "title" : "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/10\/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream\/"
+          "title" : "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/09\/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead\/"
         }
       ],
-      "summary" : "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders.",
+      "summary" : "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations.",
       "summary_method" : "source-extract",
-      "title" : "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+      "title" : "Anthropic is cutting off its internal evaluations from the internet",
       "topics" : [
-        "AI"
+        "Anthropic",
+        "Agents",
+        "Benchmarks"
       ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 4,
-    "summary" : "• The maker of non-text AI model Jev valued at $7.5B just weeks after launch\n• TypeSafe\/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch\n• The Actual Reason Why Meta Got Back in the AI Race Changes Everything",
+    "source_count" : 3,
+    "summary" : "• The maker of non-text AI model Jev valued at $7.5B just weeks after launch\n• TypeSafe\/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch\n• Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-12",
-  "generated_at" : "2026-10-12T14:00:54Z",
+  "generated_at" : "2026-10-12T16:02:27Z",
   "processing_report" : {
-    "generated_at" : "2026-10-12T14:01:00Z",
+    "generated_at" : "2026-10-12T16:02:35Z",
     "high_card_count" : 0,
     "source_reports" : [
       {
-        "article_count" : 7,
+        "article_count" : 2,
         "id" : "ai-breakfast",
-        "latest_article_at" : "2026-10-09T13:56:09Z",
+        "latest_article_at" : "2026-10-02T19:26:54Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-12T14:00:58Z",
+        "processed_at" : "2026-10-12T16:02:35Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 2,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-12T14:00:57Z",
+        "processed_at" : "2026-10-12T16:02:35Z",
         "state" : "processed"
       },
       {
@@ -311,15 +311,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-12T14:00:55Z",
+        "processed_at" : "2026-10-12T16:02:29Z",
         "state" : "processed"
       },
       {
-        "article_count" : 4,
+        "article_count" : 1,
         "id" : "aireport-nl",
-        "latest_article_at" : "2026-10-06T10:00:00Z",
+        "latest_article_at" : "2026-09-29T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-12T14:00:56Z",
+        "processed_at" : "2026-10-12T16:02:30Z",
         "state" : "processed"
       },
       {
@@ -327,7 +327,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-06T20:50:32Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-12T14:00:55Z",
+        "processed_at" : "2026-10-12T16:02:28Z",
         "state" : "processed"
       },
       {
@@ -335,7 +335,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-07T12:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-12T14:00:55Z",
+        "processed_at" : "2026-10-12T16:02:28Z",
         "state" : "processed"
       },
       {
@@ -343,7 +343,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-10-06T19:57:04Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-12T14:00:55Z",
+        "processed_at" : "2026-10-12T16:02:28Z",
         "state" : "processed"
       },
       {
@@ -351,7 +351,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-10-09T15:20:29Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-12T14:00:55Z",
+        "processed_at" : "2026-10-12T16:02:28Z",
         "state" : "processed"
       },
       {
@@ -359,7 +359,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-10T22:07:17Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-12T14:00:57Z",
+        "processed_at" : "2026-10-12T16:02:30Z",
         "state" : "processed"
       },
       {
@@ -367,7 +367,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-29T06:30:04Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-12T14:01:00Z",
+        "processed_at" : "2026-10-12T16:02:28Z",
         "state" : "processed"
       },
       {
@@ -375,7 +375,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-06T12:00:27Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-12T14:00:55Z",
+        "processed_at" : "2026-10-12T16:02:28Z",
         "state" : "processed"
       },
       {
@@ -383,7 +383,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-01T10:54:12Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-12T14:00:55Z",
+        "processed_at" : "2026-10-12T16:02:28Z",
         "state" : "processed"
       },
       {
@@ -391,15 +391,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-10-09T07:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-12T14:00:55Z",
+        "processed_at" : "2026-10-12T16:02:28Z",
         "state" : "processed"
       },
       {
-        "article_count" : 7,
+        "article_count" : 1,
         "id" : "superhuman-ai",
-        "latest_article_at" : "2026-10-12T11:02:57Z",
+        "latest_article_at" : "2026-10-09T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-12T14:00:58Z",
+        "processed_at" : "2026-10-12T16:02:32Z",
         "state" : "processed"
       },
       {
@@ -407,23 +407,23 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-12T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-12T14:00:55Z",
+        "processed_at" : "2026-10-12T16:02:28Z",
         "state" : "processed"
       },
       {
-        "article_count" : 14,
+        "article_count" : 15,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-10-12T12:47:59Z",
+        "latest_article_at" : "2026-10-12T15:31:19Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-12T14:00:55Z",
+        "processed_at" : "2026-10-12T16:02:28Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 2,
         "id" : "the-ai-report",
-        "latest_article_at" : "2026-10-12T11:01:00Z",
+        "latest_article_at" : "2026-10-08T20:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-12T14:00:58Z",
+        "processed_at" : "2026-10-12T16:02:33Z",
         "state" : "processed"
       },
       {
@@ -431,14 +431,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-09T15:25:22Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-12T14:00:55Z",
+        "processed_at" : "2026-10-12T16:02:29Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 3,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-12T14:00:57Z",
+        "processed_at" : "2026-10-12T16:02:33Z",
         "state" : "processed"
       },
       {
@@ -446,7 +446,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-10-12T13:00:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-12T14:00:55Z",
+        "processed_at" : "2026-10-12T16:02:28Z",
         "state" : "processed"
       }
     ],
