@@ -1,6 +1,24 @@
 {
   "cards" : [
     {
+      "confidence" : "medium",
+      "date" : "2026-10-13",
+      "id" : "2026-10-13-3f8ac94581ca",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Google finally releases Gemini 4 Argon",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1009862\/google-releases-gemini-4-argon"
+        }
+      ],
+      "summary" : "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. Google says Argon delivers \"frontier reasoning and improved performance across complex workflows,\" while cutting down on hedging, repetition, and the cliches that continue to plague AI chatbots.",
+      "title" : "Google finally releases Gemini 4 Argon",
+      "topics" : [
+        "Gemini"
+      ]
+    },
+    {
       "confidence" : "high",
       "date" : "2026-10-13",
       "id" : "2026-10-13-ffec2aeec09c",
@@ -26,19 +44,19 @@
     {
       "confidence" : "medium",
       "date" : "2026-10-13",
-      "id" : "2026-10-13-3f8ac94581ca",
-      "importance" : "high",
+      "id" : "2026-10-13-35a36acc772a",
+      "importance" : "medium",
       "sources" : [
         {
           "source_name" : "The Verge AI",
-          "title" : "Google finally releases Gemini 4 Argon",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1009862\/google-releases-gemini-4-argon"
+          "title" : "Shopify opens its catalog up to more AI agents",
+          "url" : "https:\/\/www.theverge.com\/news\/1010365\/shopify-opens-its-catalog-up-to-more-ai-agents"
         }
       ],
-      "summary" : "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. Google says Argon delivers \"frontier reasoning and improved performance across complex workflows,\" while cutting down on hedging, repetition, and the cliches that continue to plague AI chatbots.",
-      "title" : "Google finally releases Gemini 4 Argon",
+      "summary" : "Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion listings in Shopify's catalog. (The catalog consists of both items on and off Shopify storefronts.) In September, Shopify announced it was partnering with Meta to allow its Muse agent to browse and purchase items on a human's behalf; now, shoppers can use any agent without a partnership integration.",
+      "title" : "Shopify opens its catalog up to more AI agents",
       "topics" : [
-        "Gemini"
+        "Agents"
       ]
     },
     {
@@ -140,22 +158,36 @@
     {
       "confidence" : "high",
       "date" : "2026-10-13",
-      "id" : "2026-10-13-de911afb515f",
+      "id" : "2026-10-13-fc4d30b0bc37",
       "importance" : "low",
       "sources" : [
         {
-          "source_name" : "TechCrunch AI",
-          "title" : "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/13\/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy\/"
-        },
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Character.AI files for bankruptcy",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1009802\/character-ai-files-for-bankruptcy-disney"
+          "source_name" : "OpenAI News",
+          "title" : "Higgsfield takes AI video from 1 minute to over 10",
+          "url" : "https:\/\/openai.com\/index\/higgsfield-longer-videos-voice"
         }
       ],
-      "summary" : "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney.",
-      "title" : "Character.AI files for bankruptcy",
+      "summary" : "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "title" : "Higgsfield takes AI video from 1 minute to over 10",
+      "topics" : [
+        "GPT",
+        "Image Models"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-10-13",
+      "id" : "2026-10-13-87ef08c10456",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Xbox is officially embracing the chaos of AI-powered game ports",
+          "url" : "https:\/\/www.theverge.com\/news\/1010406\/xbox-labs-game-decompiling-emulation-exploration"
+        }
+      ],
+      "summary" : "Microsoft has witnessed skateboarding being modded into Call of Duty and Halo being played in a web browser , and the company is now officially embracing the chaos of this new AI-powered era of game modding. Microsoft is putting together a new Xbox Labs group to explore the rapid emergence of these mods, many of which use AI models to help modders remix games in ways we've rarely seen before.",
+      "title" : "Xbox is officially embracing the chaos of AI-powered game ports",
       "topics" : [
         "AI"
       ]
@@ -194,43 +226,6 @@
       "title" : "Epic Games reportedly pivoting to \"AI first\" game development model",
       "topics" : [
         "Coding"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-10-13",
-      "id" : "2026-10-13-3f2328f1f3fd",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/13\/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world\/"
-        }
-      ],
-      "summary" : "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment.",
-      "title" : "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-      "topics" : [
-        "Agents",
-        "Robotics"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-10-13",
-      "id" : "2026-10-13-cfae6fa1d938",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/13\/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites\/"
-        }
-      ],
-      "summary" : "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-      "title" : "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-      "topics" : [
-        "AI"
       ]
     },
     {

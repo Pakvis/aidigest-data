@@ -1,6 +1,28 @@
 {
   "cards" : [
     {
+      "confidence" : "medium",
+      "created_at" : "2026-10-13T16:00:00Z",
+      "id" : "2026-10-13-3f8ac94581ca",
+      "importance" : "high",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Google finally releases Gemini 4 Argon",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1009862\/google-releases-gemini-4-argon"
+        }
+      ],
+      "summary" : "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. Google says Argon delivers \"frontier reasoning and improved performance across complex workflows,\" while cutting down on hedging, repetition, and the cliches that continue to plague AI chatbots.",
+      "summary_method" : "source-extract",
+      "title" : "Google finally releases Gemini 4 Argon",
+      "topics" : [
+        "Gemini"
+      ]
+    },
+    {
       "confidence" : "high",
       "consolidation" : {
         "latest_source_at" : "2026-10-12T18:22:24Z",
@@ -35,24 +57,24 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-10-13T16:00:00Z",
-      "id" : "2026-10-13-3f8ac94581ca",
-      "importance" : "high",
+      "created_at" : "2026-10-13T19:42:42Z",
+      "id" : "2026-10-13-35a36acc772a",
+      "importance" : "medium",
       "key_insights" : [
 
       ],
       "sources" : [
         {
           "source_name" : "The Verge AI",
-          "title" : "Google finally releases Gemini 4 Argon",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1009862\/google-releases-gemini-4-argon"
+          "title" : "Shopify opens its catalog up to more AI agents",
+          "url" : "https:\/\/www.theverge.com\/news\/1010365\/shopify-opens-its-catalog-up-to-more-ai-agents"
         }
       ],
-      "summary" : "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. Google says Argon delivers \"frontier reasoning and improved performance across complex workflows,\" while cutting down on hedging, repetition, and the cliches that continue to plague AI chatbots.",
+      "summary" : "Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion listings in Shopify's catalog. (The catalog consists of both items on and off Shopify storefronts.) In September, Shopify announced it was partnering with Meta to allow its Muse agent to browse and purchase items on a human's behalf; now, shoppers can use any agent without a partnership integration.",
       "summary_method" : "source-extract",
-      "title" : "Google finally releases Gemini 4 Argon",
+      "title" : "Shopify opens its catalog up to more AI agents",
       "topics" : [
-        "Gemini"
+        "Agents"
       ]
     },
     {
@@ -179,33 +201,45 @@
     },
     {
       "confidence" : "high",
-      "consolidation" : {
-        "latest_source_at" : "2026-10-13T12:23:42Z",
-        "message_count" : 2,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
-      },
-      "created_at" : "2026-10-13T12:23:42Z",
-      "id" : "2026-10-13-de911afb515f",
+      "created_at" : "2026-10-13T12:00:00Z",
+      "id" : "2026-10-13-fc4d30b0bc37",
       "importance" : "low",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "TechCrunch AI",
-          "title" : "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/13\/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy\/"
-        },
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Character.AI files for bankruptcy",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1009802\/character-ai-files-for-bankruptcy-disney"
+          "source_name" : "OpenAI News",
+          "title" : "Higgsfield takes AI video from 1 minute to over 10",
+          "url" : "https:\/\/openai.com\/index\/higgsfield-longer-videos-voice"
         }
       ],
-      "summary" : "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney.",
+      "summary" : "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
       "summary_method" : "source-extract",
-      "title" : "Character.AI files for bankruptcy",
+      "title" : "Higgsfield takes AI video from 1 minute to over 10",
+      "topics" : [
+        "GPT",
+        "Image Models"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-13T19:00:48Z",
+      "id" : "2026-10-13-87ef08c10456",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Xbox is officially embracing the chaos of AI-powered game ports",
+          "url" : "https:\/\/www.theverge.com\/news\/1010406\/xbox-labs-game-decompiling-emulation-exploration"
+        }
+      ],
+      "summary" : "Microsoft has witnessed skateboarding being modded into Call of Duty and Halo being played in a web browser , and the company is now officially embracing the chaos of this new AI-powered era of game modding. Microsoft is putting together a new Xbox Labs group to explore the rapid emergence of these mods, many of which use AI models to help modders remix games in ways we've rarely seen before.",
+      "summary_method" : "source-extract",
+      "title" : "Xbox is officially embracing the chaos of AI-powered game ports",
       "topics" : [
         "AI"
       ]
@@ -253,79 +287,34 @@
       "topics" : [
         "Coding"
       ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-10-13T17:30:00Z",
-      "id" : "2026-10-13-3f2328f1f3fd",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/13\/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world\/"
-        }
-      ],
-      "summary" : "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment.",
-      "summary_method" : "source-extract",
-      "title" : "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-      "topics" : [
-        "Agents",
-        "Robotics"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-10-13T16:30:00Z",
-      "id" : "2026-10-13-cfae6fa1d938",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/13\/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites\/"
-        }
-      ],
-      "summary" : "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-      "summary_method" : "source-extract",
-      "title" : "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-      "topics" : [
-        "AI"
-      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 6,
-    "summary" : "• Meta releases its first frontier model, Muse Wonder\n• Google finally releases Gemini 4 Argon\n• Facebook will let you customize your feed algorithm using AI",
+    "source_count" : 7,
+    "summary" : "• Google finally releases Gemini 4 Argon\n• Meta releases its first frontier model, Muse Wonder\n• Shopify opens its catalog up to more AI agents",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-13",
-  "generated_at" : "2026-10-13T18:02:07Z",
+  "generated_at" : "2026-10-13T20:03:41Z",
   "processing_report" : {
-    "generated_at" : "2026-10-13T18:02:11Z",
+    "generated_at" : "2026-10-13T20:03:45Z",
     "high_card_count" : 2,
     "source_reports" : [
       {
-        "article_count" : 8,
+        "article_count" : 9,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-10-12T18:22:24Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-13T18:02:11Z",
+        "processed_at" : "2026-10-13T20:03:45Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-13T18:02:10Z",
+        "processed_at" : "2026-10-13T20:03:45Z",
         "state" : "processed"
       },
       {
@@ -333,15 +322,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-13T18:02:09Z",
+        "processed_at" : "2026-10-13T20:03:42Z",
         "state" : "processed"
       },
       {
-        "article_count" : 3,
+        "article_count" : 2,
         "id" : "aireport-nl",
         "latest_article_at" : "2026-10-06T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-13T18:02:09Z",
+        "processed_at" : "2026-10-13T20:03:43Z",
         "state" : "processed"
       },
       {
@@ -349,7 +338,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-12T20:59:50Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-13T18:02:08Z",
+        "processed_at" : "2026-10-13T20:03:42Z",
         "state" : "processed"
       },
       {
@@ -357,15 +346,15 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-13T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-13T18:02:08Z",
+        "processed_at" : "2026-10-13T20:03:41Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "deepmind-blog",
-        "latest_article_at" : "2026-10-13T16:01:58Z",
+        "latest_article_at" : "2026-10-13T19:43:07Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-13T18:02:08Z",
+        "processed_at" : "2026-10-13T20:03:42Z",
         "state" : "processed"
       },
       {
@@ -373,7 +362,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-10-13T17:05:48Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-13T18:02:08Z",
+        "processed_at" : "2026-10-13T20:03:42Z",
         "state" : "processed"
       },
       {
@@ -381,7 +370,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-13T09:37:04Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-13T18:02:10Z",
+        "processed_at" : "2026-10-13T20:03:43Z",
         "state" : "processed"
       },
       {
@@ -389,7 +378,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-29T06:30:04Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-13T18:02:08Z",
+        "processed_at" : "2026-10-13T20:03:41Z",
         "state" : "processed"
       },
       {
@@ -397,7 +386,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-06T12:00:27Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-13T18:02:08Z",
+        "processed_at" : "2026-10-13T20:03:42Z",
         "state" : "processed"
       },
       {
@@ -405,23 +394,23 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-01T10:54:12Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-13T18:02:08Z",
+        "processed_at" : "2026-10-13T20:03:41Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "openai-news",
-        "latest_article_at" : "2026-10-09T07:00:00Z",
+        "latest_article_at" : "2026-10-13T12:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-13T18:02:08Z",
+        "processed_at" : "2026-10-13T20:03:42Z",
         "state" : "processed"
       },
       {
-        "article_count" : 7,
+        "article_count" : 6,
         "id" : "superhuman-ai",
-        "latest_article_at" : "2026-10-13T11:02:57Z",
+        "latest_article_at" : "2026-10-12T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-13T18:02:10Z",
+        "processed_at" : "2026-10-13T20:03:44Z",
         "state" : "processed"
       },
       {
@@ -429,23 +418,23 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-13T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-13T18:02:08Z",
+        "processed_at" : "2026-10-13T20:03:41Z",
         "state" : "processed"
       },
       {
-        "article_count" : 13,
+        "article_count" : 12,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-10-13T17:30:00Z",
+        "latest_article_at" : "2026-10-13T18:30:00Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-13T18:02:08Z",
+        "processed_at" : "2026-10-13T20:03:41Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 10,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-13T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-13T18:02:11Z",
+        "processed_at" : "2026-10-13T20:03:45Z",
         "state" : "processed"
       },
       {
@@ -453,22 +442,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-09T15:25:22Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-13T18:02:09Z",
+        "processed_at" : "2026-10-13T20:03:42Z",
         "state" : "processed"
       },
       {
         "article_count" : 9,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-13T18:02:09Z",
+        "processed_at" : "2026-10-13T20:03:44Z",
         "state" : "processed"
       },
       {
         "article_count" : 6,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-10-13T17:01:31Z",
+        "latest_article_at" : "2026-10-13T19:42:42Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-13T18:02:08Z",
+        "processed_at" : "2026-10-13T20:03:41Z",
         "state" : "processed"
       }
     ],
