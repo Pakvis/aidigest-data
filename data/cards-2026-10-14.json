@@ -26,6 +26,28 @@
     },
     {
       "confidence" : "medium",
+      "created_at" : "2026-10-14T17:00:00Z",
+      "id" : "2026-10-14-566ae844551c",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "My AI doppelganger tells me what to eat",
+          "url" : "https:\/\/www.theverge.com\/column\/1011264\/digital-twin-metabolism-ai-twin-health"
+        }
+      ],
+      "summary" : "My AI doppelganger tells me what to eat. This is Optimizer , a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life.",
+      "summary_method" : "source-extract",
+      "title" : "My AI doppelganger tells me what to eat",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
       "created_at" : "2026-10-14T16:00:00Z",
       "id" : "2026-10-14-ba01ba8e0160",
       "importance" : "medium",
@@ -89,28 +111,6 @@
       "title" : "Shopify opens its catalog up to more AI agents",
       "topics" : [
         "Agents"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-10-13T17:01:31Z",
-      "id" : "2026-10-14-8fa888c606ae",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Facebook will let you customize your feed algorithm using AI",
-          "url" : "https:\/\/www.theverge.com\/tech\/1010344\/meta-facebook-your-algorithm-ai"
-        }
-      ],
-      "summary" : "Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations \"respond right away\" after you make updates using the new feature by hitting \"interested\" or \"not interested\" for different topics.",
-      "summary_method" : "source-extract",
-      "title" : "Facebook will let you customize your feed algorithm using AI",
-      "topics" : [
-        "AI"
       ]
     },
     {
@@ -238,6 +238,30 @@
     },
     {
       "confidence" : "high",
+      "created_at" : "2026-10-14T12:00:00Z",
+      "id" : "2026-10-14-3c5bd88ff6a3",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Amp puts AI agents to work beyond code with OpenAI models",
+          "url" : "https:\/\/openai.com\/index\/amp-beyond-coding"
+        }
+      ],
+      "summary" : "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "summary_method" : "source-extract",
+      "title" : "Amp puts AI agents to work beyond code with OpenAI models",
+      "topics" : [
+        "Coding",
+        "Agents",
+        "ChatGPT"
+      ]
+    },
+    {
+      "confidence" : "high",
       "created_at" : "2026-10-14T02:00:14Z",
       "id" : "2026-10-14-96733b7ddb14",
       "importance" : "low",
@@ -279,56 +303,34 @@
       "topics" : [
         "Enterprise"
       ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-10-13T20:45:25Z",
-      "id" : "2026-10-14-88ffa0d55d64",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "OpenAI employee arrested for allegedly planting a bug in a conference room",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1010642\/openai-employee-arrested-recording-device"
-        }
-      ],
-      "summary" : "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national.",
-      "summary_method" : "source-extract",
-      "title" : "OpenAI employee arrested for allegedly planting a bug in a conference room",
-      "topics" : [
-        "AI"
-      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 8,
-    "summary" : "• How Third Moment Research runs 10,000 agents for 36+ hours\n• Square’s new kiosk lets you talk to AI for help with your order\n• Android is using AI to suss out scammers in Google Messages",
+    "summary" : "• How Third Moment Research runs 10,000 agents for 36+ hours\n• My AI doppelganger tells me what to eat\n• Square’s new kiosk lets you talk to AI for help with your order",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-14",
-  "generated_at" : "2026-10-14T16:02:50Z",
+  "generated_at" : "2026-10-14T18:05:00Z",
   "processing_report" : {
-    "generated_at" : "2026-10-14T16:02:55Z",
+    "generated_at" : "2026-10-14T18:05:08Z",
     "high_card_count" : 0,
     "source_reports" : [
       {
-        "article_count" : 9,
+        "article_count" : 5,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-10-14T16:01:12Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-14T16:02:55Z",
+        "processed_at" : "2026-10-14T18:05:05Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-14T16:02:54Z",
+        "processed_at" : "2026-10-14T18:05:08Z",
         "state" : "processed"
       },
       {
@@ -336,7 +338,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-14T16:02:52Z",
+        "processed_at" : "2026-10-14T18:05:02Z",
         "state" : "processed"
       },
       {
@@ -344,15 +346,15 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-10-06T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-14T16:02:53Z",
+        "processed_at" : "2026-10-14T18:05:02Z",
         "state" : "processed"
       },
       {
         "article_count" : 17,
         "id" : "ars-technica-ai",
-        "latest_article_at" : "2026-10-14T12:55:06Z",
+        "latest_article_at" : "2026-10-14T17:10:15Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-14T16:02:52Z",
+        "processed_at" : "2026-10-14T18:05:02Z",
         "state" : "processed"
       },
       {
@@ -360,7 +362,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-13T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-14T16:02:51Z",
+        "processed_at" : "2026-10-14T18:05:01Z",
         "state" : "processed"
       },
       {
@@ -368,15 +370,15 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-10-14T02:00:14Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-14T16:02:52Z",
+        "processed_at" : "2026-10-14T18:05:01Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "huggingface-blog",
-        "latest_article_at" : "2026-10-13T17:05:48Z",
+        "latest_article_at" : "2026-10-14T16:12:42Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-14T16:02:52Z",
+        "processed_at" : "2026-10-14T18:05:01Z",
         "state" : "processed"
       },
       {
@@ -384,7 +386,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-14T05:40:28Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-14T16:02:53Z",
+        "processed_at" : "2026-10-14T18:05:04Z",
         "state" : "processed"
       },
       {
@@ -392,7 +394,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-29T06:30:04Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-14T16:02:52Z",
+        "processed_at" : "2026-10-14T18:05:01Z",
         "state" : "processed"
       },
       {
@@ -400,7 +402,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-06T12:00:27Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-14T16:02:52Z",
+        "processed_at" : "2026-10-14T18:05:01Z",
         "state" : "processed"
       },
       {
@@ -408,23 +410,23 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-01T10:54:12Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-14T16:02:51Z",
+        "processed_at" : "2026-10-14T18:05:01Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "openai-news",
-        "latest_article_at" : "2026-10-14T07:00:00Z",
+        "latest_article_at" : "2026-10-14T12:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-14T16:02:51Z",
+        "processed_at" : "2026-10-14T18:05:01Z",
         "state" : "processed"
       },
       {
-        "article_count" : 8,
+        "article_count" : 6,
         "id" : "superhuman-ai",
-        "latest_article_at" : "2026-10-14T11:02:57Z",
+        "latest_article_at" : "2026-10-13T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-14T16:02:54Z",
+        "processed_at" : "2026-10-14T18:05:04Z",
         "state" : "processed"
       },
       {
@@ -432,15 +434,15 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-14T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-14T16:02:51Z",
+        "processed_at" : "2026-10-14T18:05:01Z",
         "state" : "processed"
       },
       {
-        "article_count" : 13,
+        "article_count" : 14,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-10-14T15:16:04Z",
+        "latest_article_at" : "2026-10-14T18:00:00Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-14T16:02:51Z",
+        "processed_at" : "2026-10-14T18:05:01Z",
         "state" : "processed"
       },
       {
@@ -448,7 +450,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-14T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-14T16:02:54Z",
+        "processed_at" : "2026-10-14T18:05:05Z",
         "state" : "processed"
       },
       {
@@ -456,22 +458,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-09T15:25:22Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-14T16:02:52Z",
-        "state" : "processed"
-      },
-      {
-        "article_count" : 9,
-        "id" : "the-neuron-daily",
-        "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-14T16:02:53Z",
+        "processed_at" : "2026-10-14T18:05:02Z",
         "state" : "processed"
       },
       {
         "article_count" : 7,
+        "id" : "the-neuron-daily",
+        "name" : "The Neuron Daily",
+        "processed_at" : "2026-10-14T18:05:04Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 9,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-10-14T16:00:00Z",
+        "latest_article_at" : "2026-10-14T17:00:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-14T16:02:51Z",
+        "processed_at" : "2026-10-14T18:05:01Z",
         "state" : "processed"
       }
     ],
