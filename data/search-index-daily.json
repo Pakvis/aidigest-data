@@ -42,24 +42,6 @@
       ]
     },
     {
-      "confidence" : "high",
-      "date" : "2026-10-14",
-      "id" : "2026-10-14-cd423ff8bad2",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "Google DeepMind",
-          "title" : "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
-          "url" : "https:\/\/deepmind.google\/blog\/on-device-ai-scam-detection-mddi\/"
-        }
-      ],
-      "summary" : "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-      "title" : "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
-      "topics" : [
-        "Tooling"
-      ]
-    },
-    {
       "confidence" : "medium",
       "date" : "2026-10-14",
       "id" : "2026-10-14-fe087d027f52",
@@ -152,6 +134,35 @@
     {
       "confidence" : "high",
       "date" : "2026-10-14",
+      "id" : "2026-10-14-d1603d23f27c",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-ai-engineer-nyc-gemini-4-argon"
+        },
+        {
+          "source_name" : "Google DeepMind",
+          "title" : "Developing Gemini 4 Argon responsibly and safely",
+          "url" : "https:\/\/deepmind.google\/blog\/developing-gemini-4-argon-responsibly-and-safely\/"
+        },
+        {
+          "source_name" : "TLDR AI",
+          "title" : "Gemini 4 Carbon 🧠, Nvidia weighs Reflection acquihire 💰, decision model race 🤖",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-10-12"
+        }
+      ],
+      "summary" : "Gemini 4 Argon went GA today, but we already gave it title story 2 weeks ago and most benchmarks, like CursorBench , simply independently confirm their claims.",
+      "title" : "Developing Gemini 4 Argon responsibly and safely",
+      "topics" : [
+        "Gemini",
+        "Benchmarks"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-10-14",
       "id" : "2026-10-14-93560b4ddd03",
       "importance" : "low",
       "sources" : [
@@ -171,6 +182,24 @@
       "topics" : [
         "Gemini",
         "Enterprise"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-10-14",
+      "id" : "2026-10-14-96733b7ddb14",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "Google DeepMind",
+          "title" : "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+          "url" : "https:\/\/deepmind.google\/blog\/on-device-ai-scam-detection-mddi\/"
+        }
+      ],
+      "summary" : "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "title" : "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "topics" : [
+        "AI"
       ]
     },
     {
@@ -206,24 +235,6 @@
       ],
       "summary" : "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national.",
       "title" : "OpenAI employee arrested for allegedly planting a bug in a conference room",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-10-14",
-      "id" : "2026-10-14-1468cf7b290d",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Xbox is officially embracing the chaos of AI-powered game ports",
-          "url" : "https:\/\/www.theverge.com\/news\/1010406\/xbox-labs-game-decompiling-emulation-exploration"
-        }
-      ],
-      "summary" : "Microsoft has witnessed skateboarding being modded into Call of Duty and Halo being played in a web browser , and the company is now officially embracing the chaos of this new AI-powered era of game modding. Microsoft is putting together a new Xbox Labs group to explore the rapid emergence of these mods, many of which use AI models to help modders remix games in ways we've rarely seen before.",
-      "title" : "Xbox is officially embracing the chaos of AI-powered game ports",
       "topics" : [
         "AI"
       ]
