@@ -1,58 +1,72 @@
 {
   "cards" : [
     {
+      "confidence" : "high",
+      "created_at" : "2026-10-14T07:00:00Z",
+      "id" : "2026-10-14-1d70963ed99b",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "How Third Moment Research runs 10,000 agents for 36+ hours",
+          "url" : "https:\/\/openai.com\/index\/third-moment-research"
+        }
+      ],
+      "summary" : "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "summary_method" : "source-extract",
+      "title" : "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "topics" : [
+        "Research",
+        "Agents",
+        "GPT"
+      ]
+    },
+    {
       "confidence" : "medium",
-      "created_at" : "2026-10-13T16:00:00Z",
-      "id" : "2026-10-14-cf8f8e9f2e07",
-      "importance" : "high",
+      "created_at" : "2026-10-14T16:00:00Z",
+      "id" : "2026-10-14-ba01ba8e0160",
+      "importance" : "medium",
       "key_insights" : [
 
       ],
       "sources" : [
         {
           "source_name" : "The Verge AI",
-          "title" : "Google finally releases Gemini 4 Argon",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1009862\/google-releases-gemini-4-argon"
+          "title" : "Square’s new kiosk lets you talk to AI for help with your order",
+          "url" : "https:\/\/www.theverge.com\/tech\/1009086\/square-kiosk"
         }
       ],
-      "summary" : "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. Google says Argon delivers \"frontier reasoning and improved performance across complex workflows,\" while cutting down on hedging, repetition, and the cliches that continue to plague AI chatbots.",
+      "summary" : "Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI.",
       "summary_method" : "source-extract",
-      "title" : "Google finally releases Gemini 4 Argon",
+      "title" : "Square’s new kiosk lets you talk to AI for help with your order",
       "topics" : [
-        "Gemini"
+        "AI"
       ]
     },
     {
-      "confidence" : "high",
-      "consolidation" : {
-        "latest_source_at" : "2026-10-12T18:22:24Z",
-        "message_count" : 2,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
-      },
-      "created_at" : "2026-10-12T18:22:24Z",
-      "id" : "2026-10-14-0779ddd7f8fd",
-      "importance" : "high",
+      "confidence" : "medium",
+      "created_at" : "2026-10-14T16:00:00Z",
+      "id" : "2026-10-14-f51fbf0589ba",
+      "importance" : "medium",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "AI Breakfast",
-          "title" : "Meta's Frontier Model: Muse Wonder",
-          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/meta-s-frontier-model-muse-wonder"
-        },
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Meta releases its first frontier model, Muse Wonder",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/12\/meta-releases-its-first-frontier-model-muse-wonder\/"
+          "source_name" : "The Verge AI",
+          "title" : "Android is using AI to suss out scammers in Google Messages",
+          "url" : "https:\/\/www.theverge.com\/tech\/1010928\/android-scam-protection-enhanced-protection-google-messages"
         }
       ],
-      "summary" : "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+      "summary" : "| Image: Google \/ Android Android is introducing new scam defense features that aim to make it easier for users to evade mobile fraud, including bolstered protection in Google Messages and additional safeguarding tools. Building on the Scam Detection feature in Google Messages, a new \"enhanced protection\" setting will be rolling out in the coming weeks that taps into cloud-based Gemini AI models to quickly evaluate a potential scammer's intentions in conversations with an unrecognized sender.",
       "summary_method" : "source-extract",
-      "title" : "Meta releases its first frontier model, Muse Wonder",
+      "title" : "Android is using AI to suss out scammers in Google Messages",
       "topics" : [
-        "Benchmarks"
+        "Image Models",
+        "Tooling"
       ]
     },
     {
@@ -101,24 +115,25 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-10-13T15:12:59Z",
-      "id" : "2026-10-14-1c905b6b9b67",
+      "created_at" : "2026-10-14T15:00:00Z",
+      "id" : "2026-10-14-a4bfbb9e169c",
       "importance" : "medium",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "The Verge AI",
-          "title" : "Epic shifts to ‘AI-accelerated development’ for upcoming Disney game",
-          "url" : "https:\/\/www.theverge.com\/games\/1010097\/epic-games-disney-project-ai-coding-art"
+          "source_name" : "TechCrunch AI",
+          "title" : "Floqer’s AI agents research sales prospects so teams don’t have to",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/14\/floqers-ai-agents-help-b2b-revenue-teams-research-customers\/"
         }
       ],
-      "summary" : "Epic Games plans to use AI to generate code and art for an unannounced Disney game, which is now delayed from its original March release window, according to a report from Bloomberg . The project's developers have been given an \"AI-first\" mandate directing them to use tools like Anthropic's Claude more to finish the game.",
+      "summary" : "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
       "summary_method" : "source-extract",
-      "title" : "Epic shifts to ‘AI-accelerated development’ for upcoming Disney game",
+      "title" : "Floqer’s AI agents research sales prospects so teams don’t have to",
       "topics" : [
-        "Coding"
+        "Research",
+        "Agents"
       ]
     },
     {
@@ -141,28 +156,6 @@
       "title" : "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
       "topics" : [
         "Enterprise"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-10-13T13:00:00Z",
-      "id" : "2026-10-14-8e7d295c7489",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/13\/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases\/"
-        }
-      ],
-      "summary" : "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
-      "summary_method" : "source-extract",
-      "title" : "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-      "topics" : [
-        "Agents"
       ]
     },
     {
@@ -213,35 +206,34 @@
     {
       "confidence" : "high",
       "consolidation" : {
-        "latest_source_at" : "2026-10-13T16:01:52Z",
+        "latest_source_at" : "2026-10-14T15:19:02Z",
         "message_count" : 2,
         "reason" : "Multiple sources reported the same story.",
         "source_count" : 2
       },
-      "created_at" : "2026-10-13T16:01:52Z",
-      "id" : "2026-10-14-93560b4ddd03",
+      "created_at" : "2026-10-14T15:19:02Z",
+      "id" : "2026-10-14-78952863a7c7",
       "importance" : "low",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "Google DeepMind",
-          "title" : "Gemini 4 Argon: Built to solve your hardest problems",
-          "url" : "https:\/\/deepmind.google\/blog\/introducing-gemini-4-argon\/"
+          "source_name" : "The Verge AI",
+          "title" : "Anthropic’s self-replicating AI warning is alarming deja vu",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1011108\/anthropic-self-replicating-ai-smart-devices-risk"
         },
         {
-          "source_name" : "Google AI Blog",
-          "title" : "Gemini 4 Argon: Built to solve your hardest problems",
-          "url" : "https:\/\/blog.google\/innovation-and-ai\/models-and-research\/gemini-models\/introducing-gemini-4-argon\/"
+          "source_name" : "Ars Technica AI",
+          "title" : "Anthropic warns small AI models could self-replicate through IoT devices",
+          "url" : "https:\/\/arstechnica.com\/security\/2026\/10\/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices\/"
         }
       ],
-      "summary" : "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+      "summary" : "But they could soon be unwitting hosts to self-replicating AI models that spread from device to device and prove remarkably difficult to contain.",
       "summary_method" : "source-extract",
-      "title" : "Gemini 4 Argon: Built to solve your hardest problems",
+      "title" : "Anthropic’s self-replicating AI warning is alarming deja vu",
       "topics" : [
-        "Gemini",
-        "Enterprise"
+        "Anthropic"
       ]
     },
     {
@@ -314,29 +306,29 @@
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 9,
-    "summary" : "• Google finally releases Gemini 4 Argon\n• Meta releases its first frontier model, Muse Wonder\n• Shopify opens its catalog up to more AI agents",
+    "source_count" : 8,
+    "summary" : "• How Third Moment Research runs 10,000 agents for 36+ hours\n• Square’s new kiosk lets you talk to AI for help with your order\n• Android is using AI to suss out scammers in Google Messages",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-14",
-  "generated_at" : "2026-10-14T14:00:45Z",
+  "generated_at" : "2026-10-14T16:02:50Z",
   "processing_report" : {
-    "generated_at" : "2026-10-14T14:00:48Z",
-    "high_card_count" : 2,
+    "generated_at" : "2026-10-14T16:02:55Z",
+    "high_card_count" : 0,
     "source_reports" : [
       {
         "article_count" : 9,
         "id" : "ai-breakfast",
-        "latest_article_at" : "2026-10-12T18:22:24Z",
+        "latest_article_at" : "2026-10-14T16:01:12Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-14T14:00:48Z",
+        "processed_at" : "2026-10-14T16:02:55Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-14T14:00:48Z",
+        "processed_at" : "2026-10-14T16:02:54Z",
         "state" : "processed"
       },
       {
@@ -344,7 +336,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-14T14:00:46Z",
+        "processed_at" : "2026-10-14T16:02:52Z",
         "state" : "processed"
       },
       {
@@ -352,7 +344,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-10-06T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-14T14:00:47Z",
+        "processed_at" : "2026-10-14T16:02:53Z",
         "state" : "processed"
       },
       {
@@ -360,7 +352,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-14T12:55:06Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-14T14:00:46Z",
+        "processed_at" : "2026-10-14T16:02:52Z",
         "state" : "processed"
       },
       {
@@ -368,7 +360,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-13T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-14T14:00:46Z",
+        "processed_at" : "2026-10-14T16:02:51Z",
         "state" : "processed"
       },
       {
@@ -376,7 +368,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-10-14T02:00:14Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-14T14:00:46Z",
+        "processed_at" : "2026-10-14T16:02:52Z",
         "state" : "processed"
       },
       {
@@ -384,7 +376,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-10-13T17:05:48Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-14T14:00:46Z",
+        "processed_at" : "2026-10-14T16:02:52Z",
         "state" : "processed"
       },
       {
@@ -392,7 +384,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-14T05:40:28Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-14T14:00:48Z",
+        "processed_at" : "2026-10-14T16:02:53Z",
         "state" : "processed"
       },
       {
@@ -400,7 +392,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-29T06:30:04Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-14T14:00:46Z",
+        "processed_at" : "2026-10-14T16:02:52Z",
         "state" : "processed"
       },
       {
@@ -408,7 +400,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-06T12:00:27Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-14T14:00:46Z",
+        "processed_at" : "2026-10-14T16:02:52Z",
         "state" : "processed"
       },
       {
@@ -416,15 +408,15 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-01T10:54:12Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-14T14:00:46Z",
+        "processed_at" : "2026-10-14T16:02:51Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "openai-news",
-        "latest_article_at" : "2026-10-14T00:00:00Z",
+        "latest_article_at" : "2026-10-14T07:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-14T14:00:46Z",
+        "processed_at" : "2026-10-14T16:02:51Z",
         "state" : "processed"
       },
       {
@@ -432,7 +424,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-10-14T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-14T14:00:48Z",
+        "processed_at" : "2026-10-14T16:02:54Z",
         "state" : "processed"
       },
       {
@@ -440,23 +432,23 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-14T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-14T14:00:46Z",
+        "processed_at" : "2026-10-14T16:02:51Z",
         "state" : "processed"
       },
       {
-        "article_count" : 15,
+        "article_count" : 13,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-10-14T11:00:00Z",
+        "latest_article_at" : "2026-10-14T15:16:04Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-14T14:00:45Z",
+        "processed_at" : "2026-10-14T16:02:51Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 10,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-14T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-14T14:00:48Z",
+        "processed_at" : "2026-10-14T16:02:54Z",
         "state" : "processed"
       },
       {
@@ -464,22 +456,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-09T15:25:22Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-14T14:00:46Z",
+        "processed_at" : "2026-10-14T16:02:52Z",
         "state" : "processed"
       },
       {
-        "article_count" : 8,
+        "article_count" : 9,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-14T14:00:48Z",
+        "processed_at" : "2026-10-14T16:02:53Z",
         "state" : "processed"
       },
       {
         "article_count" : 7,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-10-13T20:45:25Z",
+        "latest_article_at" : "2026-10-14T16:00:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-14T14:00:45Z",
+        "processed_at" : "2026-10-14T16:02:51Z",
         "state" : "processed"
       }
     ],

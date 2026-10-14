@@ -1,44 +1,60 @@
 {
   "cards" : [
     {
-      "confidence" : "medium",
+      "confidence" : "high",
       "date" : "2026-10-14",
-      "id" : "2026-10-14-cf8f8e9f2e07",
-      "importance" : "high",
+      "id" : "2026-10-14-1d70963ed99b",
+      "importance" : "medium",
       "sources" : [
         {
-          "source_name" : "The Verge AI",
-          "title" : "Google finally releases Gemini 4 Argon",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1009862\/google-releases-gemini-4-argon"
+          "source_name" : "OpenAI News",
+          "title" : "How Third Moment Research runs 10,000 agents for 36+ hours",
+          "url" : "https:\/\/openai.com\/index\/third-moment-research"
         }
       ],
-      "summary" : "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. Google says Argon delivers \"frontier reasoning and improved performance across complex workflows,\" while cutting down on hedging, repetition, and the cliches that continue to plague AI chatbots.",
-      "title" : "Google finally releases Gemini 4 Argon",
+      "summary" : "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "title" : "How Third Moment Research runs 10,000 agents for 36+ hours",
       "topics" : [
-        "Gemini"
+        "Research",
+        "Agents",
+        "GPT"
       ]
     },
     {
-      "confidence" : "high",
+      "confidence" : "medium",
       "date" : "2026-10-14",
-      "id" : "2026-10-14-0779ddd7f8fd",
-      "importance" : "high",
+      "id" : "2026-10-14-ba01ba8e0160",
+      "importance" : "medium",
       "sources" : [
         {
-          "source_name" : "AI Breakfast",
-          "title" : "Meta's Frontier Model: Muse Wonder",
-          "url" : "https:\/\/aibreakfast.beehiiv.com\/p\/meta-s-frontier-model-muse-wonder"
-        },
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Meta releases its first frontier model, Muse Wonder",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/12\/meta-releases-its-first-frontier-model-muse-wonder\/"
+          "source_name" : "The Verge AI",
+          "title" : "Square’s new kiosk lets you talk to AI for help with your order",
+          "url" : "https:\/\/www.theverge.com\/tech\/1009086\/square-kiosk"
         }
       ],
-      "summary" : "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
-      "title" : "Meta releases its first frontier model, Muse Wonder",
+      "summary" : "Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI.",
+      "title" : "Square’s new kiosk lets you talk to AI for help with your order",
       "topics" : [
-        "Benchmarks"
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-10-14",
+      "id" : "2026-10-14-f51fbf0589ba",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Android is using AI to suss out scammers in Google Messages",
+          "url" : "https:\/\/www.theverge.com\/tech\/1010928\/android-scam-protection-enhanced-protection-google-messages"
+        }
+      ],
+      "summary" : "| Image: Google \/ Android Android is introducing new scam defense features that aim to make it easier for users to evade mobile fraud, including bolstered protection in Google Messages and additional safeguarding tools. Building on the Scam Detection feature in Google Messages, a new \"enhanced protection\" setting will be rolling out in the coming weeks that taps into cloud-based Gemini AI models to quickly evaluate a potential scammer's intentions in conversations with an unrecognized sender.",
+      "title" : "Android is using AI to suss out scammers in Google Messages",
+      "topics" : [
+        "Image Models",
+        "Tooling"
       ]
     },
     {
@@ -80,19 +96,20 @@
     {
       "confidence" : "medium",
       "date" : "2026-10-14",
-      "id" : "2026-10-14-1c905b6b9b67",
+      "id" : "2026-10-14-a4bfbb9e169c",
       "importance" : "medium",
       "sources" : [
         {
-          "source_name" : "The Verge AI",
-          "title" : "Epic shifts to ‘AI-accelerated development’ for upcoming Disney game",
-          "url" : "https:\/\/www.theverge.com\/games\/1010097\/epic-games-disney-project-ai-coding-art"
+          "source_name" : "TechCrunch AI",
+          "title" : "Floqer’s AI agents research sales prospects so teams don’t have to",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/14\/floqers-ai-agents-help-b2b-revenue-teams-research-customers\/"
         }
       ],
-      "summary" : "Epic Games plans to use AI to generate code and art for an unannounced Disney game, which is now delayed from its original March release window, according to a report from Bloomberg . The project's developers have been given an \"AI-first\" mandate directing them to use tools like Anthropic's Claude more to finish the game.",
-      "title" : "Epic shifts to ‘AI-accelerated development’ for upcoming Disney game",
+      "summary" : "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
+      "title" : "Floqer’s AI agents research sales prospects so teams don’t have to",
       "topics" : [
-        "Coding"
+        "Research",
+        "Agents"
       ]
     },
     {
@@ -111,24 +128,6 @@
       "title" : "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
       "topics" : [
         "Enterprise"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-10-14",
-      "id" : "2026-10-14-8e7d295c7489",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/13\/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases\/"
-        }
-      ],
-      "summary" : "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
-      "title" : "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-      "topics" : [
-        "Agents"
       ]
     },
     {
@@ -169,25 +168,24 @@
     {
       "confidence" : "high",
       "date" : "2026-10-14",
-      "id" : "2026-10-14-93560b4ddd03",
+      "id" : "2026-10-14-78952863a7c7",
       "importance" : "low",
       "sources" : [
         {
-          "source_name" : "Google DeepMind",
-          "title" : "Gemini 4 Argon: Built to solve your hardest problems",
-          "url" : "https:\/\/deepmind.google\/blog\/introducing-gemini-4-argon\/"
+          "source_name" : "The Verge AI",
+          "title" : "Anthropic’s self-replicating AI warning is alarming deja vu",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1011108\/anthropic-self-replicating-ai-smart-devices-risk"
         },
         {
-          "source_name" : "Google AI Blog",
-          "title" : "Gemini 4 Argon: Built to solve your hardest problems",
-          "url" : "https:\/\/blog.google\/innovation-and-ai\/models-and-research\/gemini-models\/introducing-gemini-4-argon\/"
+          "source_name" : "Ars Technica AI",
+          "title" : "Anthropic warns small AI models could self-replicate through IoT devices",
+          "url" : "https:\/\/arstechnica.com\/security\/2026\/10\/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices\/"
         }
       ],
-      "summary" : "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
-      "title" : "Gemini 4 Argon: Built to solve your hardest problems",
+      "summary" : "But they could soon be unwitting hosts to self-replicating AI models that spread from device to device and prove remarkably difficult to contain.",
+      "title" : "Anthropic’s self-replicating AI warning is alarming deja vu",
       "topics" : [
-        "Gemini",
-        "Enterprise"
+        "Anthropic"
       ]
     },
     {
