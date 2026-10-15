@@ -91,28 +91,6 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-10-14T18:47:54Z",
-      "id" : "2026-10-15-1837dbcd09ab",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
-          "url" : "https:\/\/www.theverge.com\/policy\/1011417\/new-york-ag-characterai-bankruptcy"
-        }
-      ],
-      "summary" : "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding.",
-      "summary_method" : "source-extract",
-      "title" : "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-10-15T04:30:00Z",
       "id" : "2026-10-15-566e52f45b72",
       "importance" : "medium",
@@ -273,7 +251,7 @@
       ]
     }
   ],
-  "count" : 12,
+  "count" : 11,
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 4,
@@ -281,24 +259,24 @@
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-15",
-  "generated_at" : "2026-10-15T16:05:09Z",
+  "generated_at" : "2026-10-15T18:02:44Z",
   "processing_report" : {
-    "generated_at" : "2026-10-15T16:05:13Z",
+    "generated_at" : "2026-10-15T18:02:48Z",
     "high_card_count" : 1,
     "source_reports" : [
       {
-        "article_count" : 8,
+        "article_count" : 9,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-10-14T16:01:12Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-15T16:05:13Z",
+        "processed_at" : "2026-10-15T18:02:48Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-15T16:05:12Z",
+        "processed_at" : "2026-10-15T18:02:48Z",
         "state" : "processed"
       },
       {
@@ -306,7 +284,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-15T16:05:10Z",
+        "processed_at" : "2026-10-15T18:02:45Z",
         "state" : "processed"
       },
       {
@@ -314,7 +292,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-10-15T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-15T16:05:12Z",
+        "processed_at" : "2026-10-15T18:02:47Z",
         "state" : "processed"
       },
       {
@@ -322,7 +300,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-14T17:10:15Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-15T16:05:10Z",
+        "processed_at" : "2026-10-15T18:02:45Z",
         "state" : "processed"
       },
       {
@@ -330,15 +308,15 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-13T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-15T16:05:10Z",
+        "processed_at" : "2026-10-15T18:02:44Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "deepmind-blog",
-        "latest_article_at" : "2026-10-14T02:00:14Z",
+        "latest_article_at" : "2026-10-15T16:08:03Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-15T16:05:10Z",
+        "processed_at" : "2026-10-15T18:02:45Z",
         "state" : "processed"
       },
       {
@@ -346,7 +324,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-10-15T09:08:45Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-15T16:05:10Z",
+        "processed_at" : "2026-10-15T18:02:45Z",
         "state" : "processed"
       },
       {
@@ -354,7 +332,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-15T10:08:08Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-15T16:05:11Z",
+        "processed_at" : "2026-10-15T18:02:46Z",
         "state" : "processed"
       },
       {
@@ -362,7 +340,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-29T06:30:04Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-15T16:05:10Z",
+        "processed_at" : "2026-10-15T18:02:45Z",
         "state" : "processed"
       },
       {
@@ -370,7 +348,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-15T12:00:00Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-15T16:05:10Z",
+        "processed_at" : "2026-10-15T18:02:45Z",
         "state" : "processed"
       },
       {
@@ -378,7 +356,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-01T10:54:12Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-15T16:05:10Z",
+        "processed_at" : "2026-10-15T18:02:44Z",
         "state" : "processed"
       },
       {
@@ -386,15 +364,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-10-15T13:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-15T16:05:10Z",
+        "processed_at" : "2026-10-15T18:02:45Z",
         "state" : "processed"
       },
       {
-        "article_count" : 7,
+        "article_count" : 9,
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-10-15T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-15T16:05:13Z",
+        "processed_at" : "2026-10-15T18:02:48Z",
         "state" : "processed"
       },
       {
@@ -402,23 +380,23 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-15T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-15T16:05:10Z",
+        "processed_at" : "2026-10-15T18:02:45Z",
         "state" : "processed"
       },
       {
-        "article_count" : 15,
+        "article_count" : 14,
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-10-15T15:02:36Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-15T16:05:09Z",
+        "processed_at" : "2026-10-15T18:02:44Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 11,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-15T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-15T16:05:12Z",
+        "processed_at" : "2026-10-15T18:02:48Z",
         "state" : "processed"
       },
       {
@@ -426,22 +404,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-09T15:25:22Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-15T16:05:10Z",
+        "processed_at" : "2026-10-15T18:02:45Z",
         "state" : "processed"
       },
       {
         "article_count" : 8,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-15T16:05:12Z",
+        "processed_at" : "2026-10-15T18:02:47Z",
         "state" : "processed"
       },
       {
         "article_count" : 7,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-10-15T14:30:00Z",
+        "latest_article_at" : "2026-10-15T16:21:45Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-15T16:05:09Z",
+        "processed_at" : "2026-10-15T18:02:44Z",
         "state" : "processed"
       }
     ],
