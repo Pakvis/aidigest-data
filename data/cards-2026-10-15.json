@@ -182,6 +182,29 @@
     },
     {
       "confidence" : "medium",
+      "created_at" : "2026-10-15T04:30:00Z",
+      "id" : "2026-10-15-566e52f45b72",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Figma announces new features to define how agents work on its platform",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/14\/figma-announces-new-features-to-define-how-agents-work-on-its-platform\/"
+        }
+      ],
+      "summary" : "Figma is also releasing its code layers feature in open beta.",
+      "summary_method" : "source-extract",
+      "title" : "Figma announces new features to define how agents work on its platform",
+      "topics" : [
+        "Agents",
+        "Coding"
+      ]
+    },
+    {
+      "confidence" : "medium",
       "created_at" : "2026-10-14T18:23:46Z",
       "id" : "2026-10-15-f7a7e16ff925",
       "importance" : "medium",
@@ -248,28 +271,6 @@
         "Safety",
         "Agents"
       ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-10-13T17:18:25Z",
-      "id" : "2026-10-15-c77ac00fee13",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/13\/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache\/"
-        }
-      ],
-      "summary" : "And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
-      "summary_method" : "source-extract",
-      "title" : "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-      "topics" : [
-        "Enterprise"
-      ]
     }
   ],
   "count" : 12,
@@ -280,9 +281,9 @@
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-15",
-  "generated_at" : "2026-10-15T04:04:53Z",
+  "generated_at" : "2026-10-15T06:02:23Z",
   "processing_report" : {
-    "generated_at" : "2026-10-15T04:04:57Z",
+    "generated_at" : "2026-10-15T06:02:27Z",
     "high_card_count" : 0,
     "source_reports" : [
       {
@@ -290,14 +291,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-10-14T16:01:12Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-15T04:04:56Z",
+        "processed_at" : "2026-10-15T06:02:27Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-15T04:04:57Z",
+        "processed_at" : "2026-10-15T06:02:26Z",
         "state" : "processed"
       },
       {
@@ -305,7 +306,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-15T04:04:54Z",
+        "processed_at" : "2026-10-15T06:02:25Z",
         "state" : "processed"
       },
       {
@@ -313,7 +314,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-10-06T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-15T04:04:55Z",
+        "processed_at" : "2026-10-15T06:02:26Z",
         "state" : "processed"
       },
       {
@@ -321,7 +322,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-14T17:10:15Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-15T04:04:54Z",
+        "processed_at" : "2026-10-15T06:02:25Z",
         "state" : "processed"
       },
       {
@@ -329,7 +330,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-13T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-15T04:04:54Z",
+        "processed_at" : "2026-10-15T06:02:24Z",
         "state" : "processed"
       },
       {
@@ -337,7 +338,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-10-14T02:00:14Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-15T04:04:54Z",
+        "processed_at" : "2026-10-15T06:02:24Z",
         "state" : "processed"
       },
       {
@@ -345,7 +346,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-10-14T16:12:42Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-15T04:04:54Z",
+        "processed_at" : "2026-10-15T06:02:25Z",
         "state" : "processed"
       },
       {
@@ -353,7 +354,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-14T21:40:52Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-15T04:04:56Z",
+        "processed_at" : "2026-10-15T06:02:26Z",
         "state" : "processed"
       },
       {
@@ -361,7 +362,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-29T06:30:04Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-15T04:04:54Z",
+        "processed_at" : "2026-10-15T06:02:24Z",
         "state" : "processed"
       },
       {
@@ -369,7 +370,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-06T12:00:27Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-15T04:04:54Z",
+        "processed_at" : "2026-10-15T06:02:25Z",
         "state" : "processed"
       },
       {
@@ -377,7 +378,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-01T10:54:12Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-15T04:04:54Z",
+        "processed_at" : "2026-10-15T06:02:24Z",
         "state" : "processed"
       },
       {
@@ -385,7 +386,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-10-14T12:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-15T04:04:54Z",
+        "processed_at" : "2026-10-15T06:02:25Z",
         "state" : "processed"
       },
       {
@@ -393,7 +394,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-10-14T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-15T04:04:55Z",
+        "processed_at" : "2026-10-15T06:02:26Z",
         "state" : "processed"
       },
       {
@@ -401,15 +402,15 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-14T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-15T04:04:54Z",
+        "processed_at" : "2026-10-15T06:02:24Z",
         "state" : "processed"
       },
       {
         "article_count" : 16,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-10-15T01:01:32Z",
+        "latest_article_at" : "2026-10-15T04:30:00Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-15T04:04:53Z",
+        "processed_at" : "2026-10-15T06:02:24Z",
         "state" : "processed"
       },
       {
@@ -417,7 +418,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-14T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-15T04:04:56Z",
+        "processed_at" : "2026-10-15T06:02:27Z",
         "state" : "processed"
       },
       {
@@ -425,14 +426,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-09T15:25:22Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-15T04:04:54Z",
+        "processed_at" : "2026-10-15T06:02:25Z",
         "state" : "processed"
       },
       {
         "article_count" : 9,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-15T04:04:56Z",
+        "processed_at" : "2026-10-15T06:02:27Z",
         "state" : "processed"
       },
       {
@@ -440,7 +441,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-10-14T22:53:31Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-15T04:04:53Z",
+        "processed_at" : "2026-10-15T06:02:24Z",
         "state" : "processed"
       }
     ],
