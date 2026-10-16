@@ -180,52 +180,6 @@
       ]
     },
     {
-      "confidence" : "high",
-      "created_at" : "2026-10-14T07:00:00Z",
-      "id" : "2026-10-16-ab76f89166c6",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "How Third Moment Research runs 10,000 agents for 36+ hours",
-          "url" : "https:\/\/openai.com\/index\/third-moment-research"
-        }
-      ],
-      "summary" : "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-      "summary_method" : "source-extract",
-      "title" : "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "topics" : [
-        "Research",
-        "Agents",
-        "GPT"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "created_at" : "2026-10-14T07:00:00Z",
-      "id" : "2026-10-16-f1cce57751cc",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "How Block is building AI-powered security with OpenAI technology",
-          "url" : "https:\/\/openai.com\/index\/block-ai-powered-security"
-        }
-      ],
-      "summary" : "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-      "summary_method" : "source-extract",
-      "title" : "How Block is building AI-powered security with OpenAI technology",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
       "confidence" : "medium",
       "created_at" : "2026-10-15T04:30:00Z",
       "id" : "2026-10-16-d50a0a269051",
@@ -269,6 +223,53 @@
       "topics" : [
         "AI"
       ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-14T15:00:00Z",
+      "id" : "2026-10-16-3b02277b0de0",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Floqer’s AI agents research sales prospects so teams don’t have to",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/14\/floqers-ai-agents-help-b2b-revenue-teams-research-customers\/"
+        }
+      ],
+      "summary" : "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
+      "summary_method" : "source-extract",
+      "title" : "Floqer’s AI agents research sales prospects so teams don’t have to",
+      "topics" : [
+        "Research",
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-14T21:40:52Z",
+      "id" : "2026-10-16-fe9d1eb60b84",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
+          "url" : "https:\/\/www.latent.space\/p\/crossing-the-threshold"
+        }
+      ],
+      "summary" : "Anthropic: Give agents context, then define the boundaries of trust Anthropic’s presentation outlined a similar framework, in its case with the goal of building “trust” into financial agentic workflows. Last month, Anthropic announced Claude for Financial Advisors , allowing financial advisors to connect their systems to Claude and a set of workflow skills.",
+      "summary_method" : "source-extract",
+      "title" : "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
+      "topics" : [
+        "Anthropic",
+        "Safety",
+        "Agents"
+      ]
     }
   ],
   "count" : 12,
@@ -279,9 +280,9 @@
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-16",
-  "generated_at" : "2026-10-16T06:03:07Z",
+  "generated_at" : "2026-10-16T08:00:57Z",
   "processing_report" : {
-    "generated_at" : "2026-10-16T06:03:10Z",
+    "generated_at" : "2026-10-16T08:01:01Z",
     "high_card_count" : 2,
     "source_reports" : [
       {
@@ -289,14 +290,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-10-14T16:01:12Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-16T06:03:10Z",
+        "processed_at" : "2026-10-16T08:01:01Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-16T06:03:09Z",
+        "processed_at" : "2026-10-16T08:01:00Z",
         "state" : "processed"
       },
       {
@@ -304,15 +305,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-16T06:03:08Z",
+        "processed_at" : "2026-10-16T08:00:59Z",
         "state" : "processed"
       },
       {
-        "article_count" : 4,
+        "article_count" : 3,
         "id" : "aireport-nl",
         "latest_article_at" : "2026-10-15T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-16T06:03:09Z",
+        "processed_at" : "2026-10-16T08:01:00Z",
         "state" : "processed"
       },
       {
@@ -320,7 +321,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-14T17:10:15Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-16T06:03:08Z",
+        "processed_at" : "2026-10-16T08:00:58Z",
         "state" : "processed"
       },
       {
@@ -328,7 +329,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-13T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-16T06:03:07Z",
+        "processed_at" : "2026-10-16T08:00:58Z",
         "state" : "processed"
       },
       {
@@ -336,7 +337,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-10-15T16:08:03Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-16T06:03:08Z",
+        "processed_at" : "2026-10-16T08:00:58Z",
         "state" : "processed"
       },
       {
@@ -344,7 +345,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-10-16T01:44:47Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-16T06:03:08Z",
+        "processed_at" : "2026-10-16T08:00:58Z",
         "state" : "processed"
       },
       {
@@ -352,7 +353,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-16T04:16:45Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-16T06:03:09Z",
+        "processed_at" : "2026-10-16T08:00:59Z",
         "state" : "processed"
       },
       {
@@ -360,7 +361,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-29T06:30:04Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-16T06:03:08Z",
+        "processed_at" : "2026-10-16T08:00:58Z",
         "state" : "processed"
       },
       {
@@ -368,7 +369,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-15T12:00:00Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-16T06:03:08Z",
+        "processed_at" : "2026-10-16T08:00:58Z",
         "state" : "processed"
       },
       {
@@ -376,7 +377,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-01T10:54:12Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-16T06:03:07Z",
+        "processed_at" : "2026-10-16T08:00:58Z",
         "state" : "processed"
       },
       {
@@ -384,15 +385,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-10-15T19:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-16T06:03:08Z",
+        "processed_at" : "2026-10-16T08:00:58Z",
         "state" : "processed"
       },
       {
-        "article_count" : 9,
+        "article_count" : 8,
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-10-15T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-16T06:03:10Z",
+        "processed_at" : "2026-10-16T08:01:01Z",
         "state" : "processed"
       },
       {
@@ -400,7 +401,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-15T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-16T06:03:07Z",
+        "processed_at" : "2026-10-16T08:00:58Z",
         "state" : "processed"
       },
       {
@@ -408,7 +409,7 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-10-15T23:44:56Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-16T06:03:07Z",
+        "processed_at" : "2026-10-16T08:00:58Z",
         "state" : "processed"
       },
       {
@@ -416,7 +417,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-15T20:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-16T06:03:10Z",
+        "processed_at" : "2026-10-16T08:01:01Z",
         "state" : "processed"
       },
       {
@@ -424,14 +425,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-15T20:26:31Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-16T06:03:08Z",
+        "processed_at" : "2026-10-16T08:00:58Z",
         "state" : "processed"
       },
       {
         "article_count" : 8,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-16T06:03:09Z",
+        "processed_at" : "2026-10-16T08:01:00Z",
         "state" : "processed"
       },
       {
@@ -439,7 +440,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-10-15T22:43:23Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-16T06:03:07Z",
+        "processed_at" : "2026-10-16T08:00:57Z",
         "state" : "processed"
       }
     ],
