@@ -46,29 +46,6 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-10-16T16:30:00Z",
-      "id" : "2026-10-17-016333b1879d",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-          "url" : "https:\/\/techcrunch.com\/podcast\/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it\/"
-        }
-      ],
-      "summary" : "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt.",
-      "summary_method" : "source-extract",
-      "title" : "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-      "topics" : [
-        "Robotics",
-        "Safety"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-10-15T12:00:00Z",
       "id" : "2026-10-17-de8ac41d7138",
       "importance" : "high",
@@ -155,6 +132,29 @@
       "title" : "Bluesky’s AI tool now lets you make games and apps to share on social",
       "topics" : [
         "Tooling"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-16T16:30:00Z",
+      "id" : "2026-10-17-016333b1879d",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+          "url" : "https:\/\/techcrunch.com\/podcast\/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it\/"
+        }
+      ],
+      "summary" : "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt.",
+      "summary_method" : "source-extract",
+      "title" : "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "topics" : [
+        "Robotics",
+        "Safety"
       ]
     },
     {
@@ -274,13 +274,13 @@
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 4,
-    "summary" : "• Meta and Apple team up to make Muse AI models run better on Macs\n• Replit is no longer working with Anthropic, CEO says\n• Physical AI is more than robots, says the Nvidia veteran now investing in it",
+    "summary" : "• Meta and Apple team up to make Muse AI models run better on Macs\n• Replit is no longer working with Anthropic, CEO says\n• Amazon’s Bee launches two new personal AI devices, starting at $75",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-17",
-  "generated_at" : "2026-10-17T16:00:32Z",
+  "generated_at" : "2026-10-17T18:02:30Z",
   "processing_report" : {
-    "generated_at" : "2026-10-17T16:00:38Z",
+    "generated_at" : "2026-10-17T18:02:35Z",
     "high_card_count" : 2,
     "source_reports" : [
       {
@@ -288,14 +288,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-10-16T12:39:45Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-17T16:00:36Z",
+        "processed_at" : "2026-10-17T18:02:34Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 10,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-17T16:00:36Z",
+        "processed_at" : "2026-10-17T18:02:34Z",
         "state" : "processed"
       },
       {
@@ -303,7 +303,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-17T16:00:33Z",
+        "processed_at" : "2026-10-17T18:02:32Z",
         "state" : "processed"
       },
       {
@@ -311,7 +311,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-10-15T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-17T16:00:34Z",
+        "processed_at" : "2026-10-17T18:02:33Z",
         "state" : "processed"
       },
       {
@@ -319,7 +319,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-14T17:10:15Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-17T16:00:33Z",
+        "processed_at" : "2026-10-17T18:02:31Z",
         "state" : "processed"
       },
       {
@@ -327,7 +327,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-13T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-17T16:00:33Z",
+        "processed_at" : "2026-10-17T18:02:31Z",
         "state" : "processed"
       },
       {
@@ -335,7 +335,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-10-15T16:08:03Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-17T16:00:33Z",
+        "processed_at" : "2026-10-17T18:02:31Z",
         "state" : "processed"
       },
       {
@@ -343,7 +343,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-10-16T01:44:47Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-17T16:00:33Z",
+        "processed_at" : "2026-10-17T18:02:31Z",
         "state" : "processed"
       },
       {
@@ -351,7 +351,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-17T07:47:38Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-17T16:00:34Z",
+        "processed_at" : "2026-10-17T18:02:32Z",
         "state" : "processed"
       },
       {
@@ -359,7 +359,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-29T06:30:04Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-17T16:00:33Z",
+        "processed_at" : "2026-10-17T18:02:32Z",
         "state" : "processed"
       },
       {
@@ -367,7 +367,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-15T12:00:00Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-17T16:00:33Z",
+        "processed_at" : "2026-10-17T18:02:31Z",
         "state" : "processed"
       },
       {
@@ -375,7 +375,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-01T10:54:12Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-17T16:00:33Z",
+        "processed_at" : "2026-10-17T18:02:31Z",
         "state" : "processed"
       },
       {
@@ -383,7 +383,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-10-16T19:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-17T16:00:33Z",
+        "processed_at" : "2026-10-17T18:02:31Z",
         "state" : "processed"
       },
       {
@@ -391,7 +391,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-10-17T14:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-17T16:00:36Z",
+        "processed_at" : "2026-10-17T18:02:33Z",
         "state" : "processed"
       },
       {
@@ -399,7 +399,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-16T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-17T16:00:33Z",
+        "processed_at" : "2026-10-17T18:02:31Z",
         "state" : "processed"
       },
       {
@@ -407,15 +407,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-10-16T21:22:28Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-17T16:00:33Z",
+        "processed_at" : "2026-10-17T18:02:31Z",
         "state" : "processed"
       },
       {
-        "article_count" : 7,
+        "article_count" : 9,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-16T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-17T16:00:38Z",
+        "processed_at" : "2026-10-17T18:02:34Z",
         "state" : "processed"
       },
       {
@@ -423,14 +423,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-15T20:26:31Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-17T16:00:33Z",
+        "processed_at" : "2026-10-17T18:02:32Z",
         "state" : "processed"
       },
       {
         "article_count" : 6,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-17T16:00:35Z",
+        "processed_at" : "2026-10-17T18:02:35Z",
         "state" : "processed"
       },
       {
@@ -438,7 +438,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-10-17T13:00:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-17T16:00:33Z",
+        "processed_at" : "2026-10-17T18:02:31Z",
         "state" : "processed"
       }
     ],
