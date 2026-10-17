@@ -24,28 +24,6 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-10-15T12:00:00Z",
-      "id" : "2026-10-17-de8ac41d7138",
-      "importance" : "high",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Amazon’s Bee launches two new personal AI devices, starting at $75",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/15\/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75\/"
-        }
-      ],
-      "summary" : "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.",
-      "summary_method" : "source-extract",
-      "title" : "Amazon’s Bee launches two new personal AI devices, starting at $75",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-10-16T14:02:40Z",
       "id" : "2026-10-17-76b64726a24a",
       "importance" : "medium",
@@ -131,6 +109,28 @@
       "title" : "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
       "topics" : [
         "Compute"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-15T12:00:00Z",
+      "id" : "2026-10-17-de8ac41d7138",
+      "importance" : "high",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Amazon’s Bee launches two new personal AI devices, starting at $75",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/15\/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75\/"
+        }
+      ],
+      "summary" : "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.",
+      "summary_method" : "source-extract",
+      "title" : "Amazon’s Bee launches two new personal AI devices, starting at $75",
+      "topics" : [
+        "AI"
       ]
     },
     {
@@ -247,39 +247,39 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-10-15T10:08:08Z",
-      "id" : "2026-10-17-762c4362dab0",
+      "created_at" : "2026-10-15T04:30:00Z",
+      "id" : "2026-10-17-3277acb0e867",
       "importance" : "medium",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "Latent Space",
-          "title" : "Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-modals-1b-arr-16b-series-d"
+          "source_name" : "TechCrunch AI",
+          "title" : "Figma announces new features to define how agents work on its platform",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/14\/figma-announces-new-features-to-define-how-agents-work-on-its-platform\/"
         }
       ],
-      "summary" : "Today Modal switches from our infra unicorn category to infra decacorn .",
+      "summary" : "Figma is also releasing its code layers feature in open beta.",
       "summary_method" : "source-extract",
-      "title" : "Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
+      "title" : "Figma announces new features to define how agents work on its platform",
       "topics" : [
-        "Coding",
-        "Image Models"
+        "Agents",
+        "Coding"
       ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 4,
-    "summary" : "• Meta and Apple team up to make Muse AI models run better on Macs\n• Amazon’s Bee launches two new personal AI devices, starting at $75\n• Meta’s new terms may allow it to train AI on news sites for free",
+    "source_count" : 3,
+    "summary" : "• Meta and Apple team up to make Muse AI models run better on Macs\n• Meta’s new terms may allow it to train AI on news sites for free\n• Replit is no longer working with Anthropic, CEO says",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-17",
-  "generated_at" : "2026-10-17T10:04:22Z",
+  "generated_at" : "2026-10-17T12:01:28Z",
   "processing_report" : {
-    "generated_at" : "2026-10-17T10:04:25Z",
+    "generated_at" : "2026-10-17T12:01:32Z",
     "high_card_count" : 2,
     "source_reports" : [
       {
@@ -287,14 +287,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-10-16T12:39:45Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-17T10:04:25Z",
+        "processed_at" : "2026-10-17T12:01:32Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-17T10:04:24Z",
+        "processed_at" : "2026-10-17T12:01:32Z",
         "state" : "processed"
       },
       {
@@ -302,7 +302,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-17T10:04:23Z",
+        "processed_at" : "2026-10-17T12:01:30Z",
         "state" : "processed"
       },
       {
@@ -310,7 +310,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-10-15T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-17T10:04:24Z",
+        "processed_at" : "2026-10-17T12:01:31Z",
         "state" : "processed"
       },
       {
@@ -318,7 +318,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-14T17:10:15Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-17T10:04:23Z",
+        "processed_at" : "2026-10-17T12:01:30Z",
         "state" : "processed"
       },
       {
@@ -326,7 +326,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-13T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-17T10:04:23Z",
+        "processed_at" : "2026-10-17T12:01:29Z",
         "state" : "processed"
       },
       {
@@ -334,7 +334,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-10-15T16:08:03Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-17T10:04:23Z",
+        "processed_at" : "2026-10-17T12:01:29Z",
         "state" : "processed"
       },
       {
@@ -342,7 +342,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-10-16T01:44:47Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-17T10:04:23Z",
+        "processed_at" : "2026-10-17T12:01:29Z",
         "state" : "processed"
       },
       {
@@ -350,7 +350,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-17T07:47:38Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-17T10:04:24Z",
+        "processed_at" : "2026-10-17T12:01:30Z",
         "state" : "processed"
       },
       {
@@ -358,7 +358,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-09-29T06:30:04Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-17T10:04:23Z",
+        "processed_at" : "2026-10-17T12:01:29Z",
         "state" : "processed"
       },
       {
@@ -366,7 +366,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-15T12:00:00Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-17T10:04:23Z",
+        "processed_at" : "2026-10-17T12:01:29Z",
         "state" : "processed"
       },
       {
@@ -374,7 +374,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-01T10:54:12Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-17T10:04:22Z",
+        "processed_at" : "2026-10-17T12:01:29Z",
         "state" : "processed"
       },
       {
@@ -382,7 +382,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-10-16T19:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-17T10:04:23Z",
+        "processed_at" : "2026-10-17T12:01:29Z",
         "state" : "processed"
       },
       {
@@ -390,7 +390,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-10-15T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-17T10:04:24Z",
+        "processed_at" : "2026-10-17T12:01:31Z",
         "state" : "processed"
       },
       {
@@ -398,7 +398,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-16T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-17T10:04:23Z",
+        "processed_at" : "2026-10-17T12:01:29Z",
         "state" : "processed"
       },
       {
@@ -406,7 +406,7 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-10-16T21:22:28Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-17T10:04:22Z",
+        "processed_at" : "2026-10-17T12:01:29Z",
         "state" : "processed"
       },
       {
@@ -414,7 +414,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-16T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-17T10:04:25Z",
+        "processed_at" : "2026-10-17T12:01:32Z",
         "state" : "processed"
       },
       {
@@ -422,14 +422,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-15T20:26:31Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-17T10:04:23Z",
+        "processed_at" : "2026-10-17T12:01:30Z",
         "state" : "processed"
       },
       {
         "article_count" : 7,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-17T10:04:24Z",
+        "processed_at" : "2026-10-17T12:01:31Z",
         "state" : "processed"
       },
       {
@@ -437,7 +437,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-10-16T15:00:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-17T10:04:22Z",
+        "processed_at" : "2026-10-17T12:01:29Z",
         "state" : "processed"
       }
     ],
