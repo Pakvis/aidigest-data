@@ -59,6 +59,29 @@
     },
     {
       "confidence" : "medium",
+      "created_at" : "2026-10-19T15:37:09Z",
+      "id" : "2026-10-19-ef1863573fde",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Nvidia launches new open models to run agents in the enterprise and on PCs",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/19\/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs\/"
+        }
+      ],
+      "summary" : "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+      "summary_method" : "source-extract",
+      "title" : "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "topics" : [
+        "Enterprise",
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "medium",
       "created_at" : "2026-10-17T21:31:32Z",
       "id" : "2026-10-19-925421cc0ce1",
       "importance" : "medium",
@@ -103,28 +126,6 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-10-16T14:02:40Z",
-      "id" : "2026-10-19-022ddd722271",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Meta’s new terms may allow it to train AI on news sites for free",
-          "url" : "https:\/\/www.theverge.com\/tech\/1012846\/meta-business-terms-scrape-news-publishers"
-        }
-      ],
-      "summary" : "The new terms , which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, research,\" and \"train\" its AI products. While Meta spokesperson Daniel Roberts says that the company is just \"consolidating\" its commercial and self-serve ad terms, legal experts tell Nieman Lab that this could allow Meta \"to argue its commercial terms supersede other blocking instructions,\" like a site's robots.txt file .",
-      "summary_method" : "source-extract",
-      "title" : "Meta’s new terms may allow it to train AI on news sites for free",
-      "topics" : [
-        "Research"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-10-16T16:30:00Z",
       "id" : "2026-10-19-33aaf0d9a602",
       "importance" : "medium",
@@ -164,6 +165,28 @@
       "summary" : "The post Securing the agentic insider appeared first on The Official Microsoft Blog .",
       "summary_method" : "source-extract",
       "title" : "Securing the agentic insider",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-19T14:30:00Z",
+      "id" : "2026-10-19-43060055dda7",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+          "url" : "https:\/\/www.theverge.com\/podcast\/1012839\/pritzker-ai-privacy-data-centers-flock-congress-laws"
+        }
+      ],
+      "summary" : "For me, I am not one of those people who thinks that I’m right 100 percent of the time.",
+      "summary_method" : "source-extract",
+      "title" : "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
       "topics" : [
         "AI"
       ]
@@ -255,56 +278,34 @@
       "topics" : [
         "AI"
       ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-10-17T18:48:08Z",
-      "id" : "2026-10-19-0db3b70e51e6",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Replit makes OpenAI its default over Anthropic, CEO says",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/17\/replit-is-no-longer-working-with-anthropic-ceo-says\/"
-        }
-      ],
-      "summary" : "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider.",
-      "summary_method" : "source-extract",
-      "title" : "Replit makes OpenAI its default over Anthropic, CEO says",
-      "topics" : [
-        "Anthropic"
-      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 4,
-    "summary" : "• An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet\n• A hacker broke into John Deere and SharkNinja with an army of AI agents\n• Meta removes language that raised scraping and AI training concerns",
+    "summary" : "• An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet\n• A hacker broke into John Deere and SharkNinja with an army of AI agents\n• Nvidia launches new open models to run agents in the enterprise and on PCs",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-19",
-  "generated_at" : "2026-10-19T14:01:34Z",
+  "generated_at" : "2026-10-19T16:02:54Z",
   "processing_report" : {
-    "generated_at" : "2026-10-19T14:01:38Z",
+    "generated_at" : "2026-10-19T16:02:59Z",
     "high_card_count" : 0,
     "source_reports" : [
       {
-        "article_count" : 8,
+        "article_count" : 7,
         "id" : "ai-breakfast",
-        "latest_article_at" : "2026-10-16T12:39:45Z",
+        "latest_article_at" : "2026-10-14T16:01:12Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-19T14:01:38Z",
+        "processed_at" : "2026-10-19T16:02:59Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 9,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-19T14:01:37Z",
+        "processed_at" : "2026-10-19T16:02:59Z",
         "state" : "processed"
       },
       {
@@ -312,7 +313,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-19T14:01:36Z",
+        "processed_at" : "2026-10-19T16:02:56Z",
         "state" : "processed"
       },
       {
@@ -320,7 +321,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-10-15T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-19T14:01:36Z",
+        "processed_at" : "2026-10-19T16:02:57Z",
         "state" : "processed"
       },
       {
@@ -328,7 +329,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-14T17:10:15Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-19T14:01:35Z",
+        "processed_at" : "2026-10-19T16:02:56Z",
         "state" : "processed"
       },
       {
@@ -336,7 +337,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-13T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-19T14:01:35Z",
+        "processed_at" : "2026-10-19T16:02:55Z",
         "state" : "processed"
       },
       {
@@ -344,7 +345,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-10-15T16:08:03Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-19T14:01:35Z",
+        "processed_at" : "2026-10-19T16:02:55Z",
         "state" : "processed"
       },
       {
@@ -352,7 +353,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-10-16T01:44:47Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-19T14:01:35Z",
+        "processed_at" : "2026-10-19T16:02:56Z",
         "state" : "processed"
       },
       {
@@ -360,7 +361,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-17T07:47:38Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-19T14:01:36Z",
+        "processed_at" : "2026-10-19T16:02:56Z",
         "state" : "processed"
       },
       {
@@ -368,7 +369,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-10-19T13:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-19T14:01:35Z",
+        "processed_at" : "2026-10-19T16:02:56Z",
         "state" : "processed"
       },
       {
@@ -376,7 +377,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-15T12:00:00Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-19T14:01:35Z",
+        "processed_at" : "2026-10-19T16:02:56Z",
         "state" : "processed"
       },
       {
@@ -384,7 +385,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-01T10:54:12Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-19T14:01:35Z",
+        "processed_at" : "2026-10-19T16:02:55Z",
         "state" : "processed"
       },
       {
@@ -392,15 +393,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-10-16T19:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-19T14:01:35Z",
+        "processed_at" : "2026-10-19T16:02:56Z",
         "state" : "processed"
       },
       {
-        "article_count" : 6,
+        "article_count" : 7,
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-10-19T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-19T14:01:38Z",
+        "processed_at" : "2026-10-19T16:02:57Z",
         "state" : "processed"
       },
       {
@@ -408,23 +409,23 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-19T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-19T14:01:35Z",
+        "processed_at" : "2026-10-19T16:02:55Z",
         "state" : "processed"
       },
       {
         "article_count" : 18,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-10-18T20:37:40Z",
+        "latest_article_at" : "2026-10-19T15:37:09Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-19T14:01:35Z",
+        "processed_at" : "2026-10-19T16:02:55Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 11,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-19T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-19T14:01:38Z",
+        "processed_at" : "2026-10-19T16:02:58Z",
         "state" : "processed"
       },
       {
@@ -432,22 +433,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-15T20:26:31Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-19T14:01:35Z",
+        "processed_at" : "2026-10-19T16:02:56Z",
         "state" : "processed"
       },
       {
-        "article_count" : 5,
+        "article_count" : 4,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-19T14:01:37Z",
+        "processed_at" : "2026-10-19T16:02:58Z",
         "state" : "processed"
       },
       {
-        "article_count" : 7,
+        "article_count" : 8,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-10-19T13:58:41Z",
+        "latest_article_at" : "2026-10-19T14:30:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-19T14:01:35Z",
+        "processed_at" : "2026-10-19T16:02:55Z",
         "state" : "processed"
       }
     ],
