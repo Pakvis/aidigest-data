@@ -1,6 +1,31 @@
 {
   "cards" : [
     {
+      "confidence" : "high",
+      "date" : "2026-10-19",
+      "id" : "2026-10-19-660303807fb3",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "Superhuman AI",
+          "title" : "ChatGPT learns to use Chrome",
+          "url" : "https:\/\/www.superhuman.ai\/p\/final-test"
+        },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+          "url" : "https:\/\/techcrunch.com\/video\/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet\/"
+        }
+      ],
+      "summary" : "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt.",
+      "title" : "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "topics" : [
+        "ChatGPT",
+        "Robotics",
+        "Safety"
+      ]
+    },
+    {
       "confidence" : "medium",
       "date" : "2026-10-19",
       "id" : "2026-10-19-925421cc0ce1",
@@ -76,26 +101,6 @@
     {
       "confidence" : "medium",
       "date" : "2026-10-19",
-      "id" : "2026-10-19-660303807fb3",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-          "url" : "https:\/\/techcrunch.com\/video\/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet\/"
-        }
-      ],
-      "summary" : "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt.",
-      "title" : "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "topics" : [
-        "ChatGPT",
-        "Robotics",
-        "Safety"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-10-19",
       "id" : "2026-10-19-7875fe2df9d1",
       "importance" : "medium",
       "sources" : [
@@ -109,6 +114,24 @@
       "title" : "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
       "topics" : [
         "Compute"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-10-19",
+      "id" : "2026-10-19-00662527896f",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Democrats think cracking down on AI could give them an edge",
+          "url" : "https:\/\/www.theverge.com\/policy\/1013113\/democrats-ai-midterms"
+        }
+      ],
+      "summary" : "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee leadership back in their hands.",
+      "title" : "Democrats think cracking down on AI could give them an edge",
+      "topics" : [
+        "AI"
       ]
     },
     {
@@ -199,24 +222,6 @@
       "title" : "Replit makes OpenAI its default over Anthropic, CEO says",
       "topics" : [
         "Anthropic"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "date" : "2026-10-19",
-      "id" : "2026-10-19-5e298a71c3d3",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "How Itaú is building generative AI for its entire customer base",
-          "url" : "https:\/\/openai.com\/index\/itau-generative-ai"
-        }
-      ],
-      "summary" : "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-      "title" : "How Itaú is building generative AI for its entire customer base",
-      "topics" : [
-        "AI"
       ]
     },
     {
