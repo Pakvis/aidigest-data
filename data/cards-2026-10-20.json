@@ -110,6 +110,28 @@
     },
     {
       "confidence" : "medium",
+      "created_at" : "2026-10-19T13:58:41Z",
+      "id" : "2026-10-20-e78b0471cf5b",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1013643\/ai-agents-hack-john-deere-shark-ninja-cummins"
+        }
+      ],
+      "summary" : "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge . Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins.",
+      "summary_method" : "source-extract",
+      "title" : "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "topics" : [
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "medium",
       "created_at" : "2026-10-19T15:37:09Z",
       "id" : "2026-10-20-6067b29eeb77",
       "importance" : "medium",
@@ -128,28 +150,6 @@
       "title" : "Nvidia launches new open models to run agents in the enterprise and on PCs",
       "topics" : [
         "Enterprise",
-        "Agents"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-10-19T13:58:41Z",
-      "id" : "2026-10-20-e78b0471cf5b",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1013643\/ai-agents-hack-john-deere-shark-ninja-cummins"
-        }
-      ],
-      "summary" : "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge . Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins.",
-      "summary_method" : "source-extract",
-      "title" : "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-      "topics" : [
         "Agents"
       ]
     },
@@ -176,25 +176,48 @@
       ]
     },
     {
-      "confidence" : "medium",
-      "created_at" : "2026-10-17T20:21:19Z",
-      "id" : "2026-10-20-f99236acb125",
-      "importance" : "medium",
+      "confidence" : "high",
+      "created_at" : "2026-10-20T12:00:22Z",
+      "id" : "2026-10-20-bdfe1f5e9a12",
+      "importance" : "low",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "TechCrunch AI",
-          "title" : "Anthropic says its workforce has become less junior and is spending more time in meetings",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/17\/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings\/"
+          "source_name" : "Mistral AI",
+          "title" : "Voxtral 3",
+          "url" : "https:\/\/mistral.ai\/news\/voxtral-3\/"
         }
       ],
-      "summary" : "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "summary" : "Voxtral 3: Mistral's voice agent SDK for real-time speech in 50+ languages — accurate transcription, emotional TTS, deep tool use.",
       "summary_method" : "source-extract",
-      "title" : "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "title" : "Voxtral 3",
       "topics" : [
-        "Anthropic"
+        "Agents",
+        "Tooling"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-20T14:18:37Z",
+      "id" : "2026-10-20-fcfb85f48bdd",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+          "url" : "https:\/\/www.theverge.com\/entertainment\/1014284\/spotify-ai-slop-spam-songs-removed"
+        }
+      ],
+      "summary" : "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists.",
+      "summary_method" : "source-extract",
+      "title" : "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+      "topics" : [
+        "AI"
       ]
     },
     {
@@ -215,28 +238,6 @@
       "summary" : "Last Tuesday Chamath \"SPAC King\" Palihapitiya noticed the distressed debt , and also asked whether the AI buildout was a private credit bubble . Its shares are down more than 20 percent since Tuesday's close, which is kind of a lot!.",
       "summary_method" : "source-extract",
       "title" : "CoreWeave’s debt is becoming the whole AI industry’s problem",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-10-19T14:30:00Z",
-      "id" : "2026-10-20-9eb81bda0724",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
-          "url" : "https:\/\/www.theverge.com\/podcast\/1012839\/pritzker-ai-privacy-data-centers-flock-congress-laws"
-        }
-      ],
-      "summary" : "For me, I am not one of those people who thinks that I’m right 100 percent of the time.",
-      "summary_method" : "source-extract",
-      "title" : "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
       "topics" : [
         "AI"
       ]
@@ -289,14 +290,14 @@
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 5,
+    "source_count" : 6,
     "summary" : "• US orders federal agencies to remove China’s DeepSeek AI from their systems\n• Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool\n• Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-20",
-  "generated_at" : "2026-10-20T14:00:25Z",
+  "generated_at" : "2026-10-20T16:02:08Z",
   "processing_report" : {
-    "generated_at" : "2026-10-20T14:00:29Z",
+    "generated_at" : "2026-10-20T16:02:13Z",
     "high_card_count" : 0,
     "source_reports" : [
       {
@@ -304,14 +305,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-10-16T12:39:45Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-20T14:00:29Z",
+        "processed_at" : "2026-10-20T16:02:13Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-20T14:00:28Z",
+        "processed_at" : "2026-10-20T16:02:12Z",
         "state" : "processed"
       },
       {
@@ -319,7 +320,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-20T14:00:26Z",
+        "processed_at" : "2026-10-20T16:02:10Z",
         "state" : "processed"
       },
       {
@@ -327,7 +328,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-10-20T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-20T14:00:27Z",
+        "processed_at" : "2026-10-20T16:02:10Z",
         "state" : "processed"
       },
       {
@@ -335,7 +336,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-19T16:59:22Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-20T14:00:26Z",
+        "processed_at" : "2026-10-20T16:02:10Z",
         "state" : "processed"
       },
       {
@@ -343,7 +344,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-13T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-20T14:00:25Z",
+        "processed_at" : "2026-10-20T16:02:09Z",
         "state" : "processed"
       },
       {
@@ -351,15 +352,15 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-10-15T16:08:03Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-20T14:00:26Z",
+        "processed_at" : "2026-10-20T16:02:10Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "huggingface-blog",
-        "latest_article_at" : "2026-10-20T00:00:00Z",
+        "latest_article_at" : "2026-10-20T15:19:48Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-20T14:00:26Z",
+        "processed_at" : "2026-10-20T16:02:10Z",
         "state" : "processed"
       },
       {
@@ -367,7 +368,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-20T05:21:52Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-20T14:00:26Z",
+        "processed_at" : "2026-10-20T16:02:10Z",
         "state" : "processed"
       },
       {
@@ -375,23 +376,23 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-10-19T13:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-20T14:00:26Z",
+        "processed_at" : "2026-10-20T16:02:09Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "mistral-news",
-        "latest_article_at" : "2026-10-15T12:00:00Z",
+        "latest_article_at" : "2026-10-20T12:00:22Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-20T14:00:26Z",
+        "processed_at" : "2026-10-20T16:02:10Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "one-useful-thing",
-        "latest_article_at" : "2026-10-01T10:54:12Z",
+        "latest_article_at" : "2026-10-20T15:57:59Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-20T14:00:26Z",
+        "processed_at" : "2026-10-20T16:02:09Z",
         "state" : "processed"
       },
       {
@@ -399,7 +400,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-10-19T12:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-20T14:00:25Z",
+        "processed_at" : "2026-10-20T16:02:10Z",
         "state" : "processed"
       },
       {
@@ -407,7 +408,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-10-20T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-20T14:00:28Z",
+        "processed_at" : "2026-10-20T16:02:12Z",
         "state" : "processed"
       },
       {
@@ -415,15 +416,15 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-20T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-20T14:00:25Z",
+        "processed_at" : "2026-10-20T16:02:09Z",
         "state" : "processed"
       },
       {
-        "article_count" : 20,
+        "article_count" : 19,
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-10-20T13:07:24Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-20T14:00:25Z",
+        "processed_at" : "2026-10-20T16:02:09Z",
         "state" : "processed"
       },
       {
@@ -431,7 +432,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-20T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-20T14:00:29Z",
+        "processed_at" : "2026-10-20T16:02:12Z",
         "state" : "processed"
       },
       {
@@ -439,22 +440,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-15T20:26:31Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-20T14:00:26Z",
+        "processed_at" : "2026-10-20T16:02:10Z",
         "state" : "processed"
       },
       {
         "article_count" : 5,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-20T14:00:27Z",
+        "processed_at" : "2026-10-20T16:02:11Z",
         "state" : "processed"
       },
       {
         "article_count" : 7,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-10-19T21:28:20Z",
+        "latest_article_at" : "2026-10-20T14:18:37Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-20T14:00:25Z",
+        "processed_at" : "2026-10-20T16:02:09Z",
         "state" : "processed"
       }
     ],

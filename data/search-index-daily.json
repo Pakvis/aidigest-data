@@ -89,6 +89,24 @@
     {
       "confidence" : "medium",
       "date" : "2026-10-20",
+      "id" : "2026-10-20-e78b0471cf5b",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1013643\/ai-agents-hack-john-deere-shark-ninja-cummins"
+        }
+      ],
+      "summary" : "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge . Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins.",
+      "title" : "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "topics" : [
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-10-20",
       "id" : "2026-10-20-6067b29eeb77",
       "importance" : "medium",
       "sources" : [
@@ -102,24 +120,6 @@
       "title" : "Nvidia launches new open models to run agents in the enterprise and on PCs",
       "topics" : [
         "Enterprise",
-        "Agents"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-10-20",
-      "id" : "2026-10-20-e78b0471cf5b",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1013643\/ai-agents-hack-john-deere-shark-ninja-cummins"
-        }
-      ],
-      "summary" : "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge . Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins.",
-      "title" : "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-      "topics" : [
         "Agents"
       ]
     },
@@ -142,21 +142,40 @@
       ]
     },
     {
-      "confidence" : "medium",
+      "confidence" : "high",
       "date" : "2026-10-20",
-      "id" : "2026-10-20-f99236acb125",
-      "importance" : "medium",
+      "id" : "2026-10-20-bdfe1f5e9a12",
+      "importance" : "low",
       "sources" : [
         {
-          "source_name" : "TechCrunch AI",
-          "title" : "Anthropic says its workforce has become less junior and is spending more time in meetings",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/17\/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings\/"
+          "source_name" : "Mistral AI",
+          "title" : "Voxtral 3",
+          "url" : "https:\/\/mistral.ai\/news\/voxtral-3\/"
         }
       ],
-      "summary" : "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
-      "title" : "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "summary" : "Voxtral 3: Mistral's voice agent SDK for real-time speech in 50+ languages — accurate transcription, emotional TTS, deep tool use.",
+      "title" : "Voxtral 3",
       "topics" : [
-        "Anthropic"
+        "Agents",
+        "Tooling"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-10-20",
+      "id" : "2026-10-20-fcfb85f48bdd",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+          "url" : "https:\/\/www.theverge.com\/entertainment\/1014284\/spotify-ai-slop-spam-songs-removed"
+        }
+      ],
+      "summary" : "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists.",
+      "title" : "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+      "topics" : [
+        "AI"
       ]
     },
     {
@@ -173,24 +192,6 @@
       ],
       "summary" : "Last Tuesday Chamath \"SPAC King\" Palihapitiya noticed the distressed debt , and also asked whether the AI buildout was a private credit bubble . Its shares are down more than 20 percent since Tuesday's close, which is kind of a lot!.",
       "title" : "CoreWeave’s debt is becoming the whole AI industry’s problem",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-10-20",
-      "id" : "2026-10-20-9eb81bda0724",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
-          "url" : "https:\/\/www.theverge.com\/podcast\/1012839\/pritzker-ai-privacy-data-centers-flock-congress-laws"
-        }
-      ],
-      "summary" : "For me, I am not one of those people who thinks that I’m right 100 percent of the time.",
-      "title" : "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
       "topics" : [
         "AI"
       ]
