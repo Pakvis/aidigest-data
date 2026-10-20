@@ -1,25 +1,43 @@
 {
   "cards" : [
     {
-      "confidence" : "medium",
-      "created_at" : "2026-10-19T13:58:41Z",
-      "id" : "2026-10-20-e78b0471cf5b",
+      "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-10-20T13:07:24Z",
+        "message_count" : 3,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 3
+      },
+      "created_at" : "2026-10-20T13:07:24Z",
+      "id" : "2026-10-20-3dbae648fb3a",
       "importance" : "medium",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "The Verge AI",
-          "title" : "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1013643\/ai-agents-hack-john-deere-shark-ninja-cummins"
+          "source_name" : "TechCrunch AI",
+          "title" : "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/20\/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems\/"
+        },
+        {
+          "source_name" : "Latent Space",
+          "title" : "not much happened today",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-not-much-happened-today-f09"
+        },
+        {
+          "source_name" : "TLDR AI",
+          "title" : "DeepSeek’s new Flash ⚡, Replit drops Anthropic 🔄, Anthropic’s workforce 💼",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-10-19"
         }
       ],
-      "summary" : "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge . Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins.",
+      "summary" : "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
       "summary_method" : "source-extract",
-      "title" : "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "title" : "US orders federal agencies to remove China’s DeepSeek AI from their systems",
       "topics" : [
-        "Agents"
+        "DeepSeek",
+        "Agents",
+        "APIs"
       ]
     },
     {
@@ -115,6 +133,28 @@
     },
     {
       "confidence" : "medium",
+      "created_at" : "2026-10-19T13:58:41Z",
+      "id" : "2026-10-20-e78b0471cf5b",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1013643\/ai-agents-hack-john-deere-shark-ninja-cummins"
+        }
+      ],
+      "summary" : "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge . Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins.",
+      "summary_method" : "source-extract",
+      "title" : "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "topics" : [
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "medium",
       "created_at" : "2026-10-17T21:31:32Z",
       "id" : "2026-10-20-d82e2745b42a",
       "importance" : "medium",
@@ -155,85 +195,6 @@
       "title" : "Anthropic says its workforce has become less junior and is spending more time in meetings",
       "topics" : [
         "Anthropic"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-10-17T18:48:08Z",
-      "id" : "2026-10-20-9785cf3c1128",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Replit makes OpenAI its default over Anthropic, CEO says",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/17\/replit-is-no-longer-working-with-anthropic-ceo-says\/"
-        }
-      ],
-      "summary" : "Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer partnering with Anthropic.",
-      "summary_method" : "source-extract",
-      "title" : "Replit makes OpenAI its default over Anthropic, CEO says",
-      "topics" : [
-        "Anthropic"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "consolidation" : {
-        "latest_source_at" : "2026-10-20T05:21:52Z",
-        "message_count" : 2,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
-      },
-      "created_at" : "2026-10-20T05:21:52Z",
-      "id" : "2026-10-20-545c35c13c1d",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "not much happened today",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-not-much-happened-today-f09"
-        },
-        {
-          "source_name" : "TLDR AI",
-          "title" : "DeepSeek’s new Flash ⚡, Replit drops Anthropic 🔄, Anthropic’s workforce 💼",
-          "url" : "https:\/\/tldr.tech\/ai\/2026-10-19"
-        }
-      ],
-      "summary" : "Congrats to DeepSeek V4.1 Flash 1017, MiniMax M3.1 Flash, and Mercury 3 (details below) but they’re not going to be in super wide use just yet.",
-      "summary_method" : "source-extract",
-      "title" : "DeepSeek’s new Flash ⚡, Replit drops Anthropic 🔄, Anthropic’s workforce 💼",
-      "topics" : [
-        "Anthropic",
-        "DeepSeek",
-        "Agents"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "created_at" : "2026-10-19T13:00:02Z",
-      "id" : "2026-10-20-c846634ab496",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Microsoft AI Blog",
-          "title" : "Securing the agentic insider",
-          "url" : "https:\/\/blogs.microsoft.com\/blog\/2026\/10\/19\/securing-the-agentic-insider\/"
-        }
-      ],
-      "summary" : "The post Securing the agentic insider appeared first on The Official Microsoft Blog .",
-      "summary_method" : "source-extract",
-      "title" : "Securing the agentic insider",
-      "topics" : [
-        "AI"
       ]
     },
     {
@@ -279,19 +240,63 @@
       "topics" : [
         "AI"
       ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-19T16:59:22Z",
+      "id" : "2026-10-20-4608813bea94",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Ars Technica AI",
+          "title" : "AI game clones are making indie developers afraid to show their work",
+          "url" : "https:\/\/arstechnica.com\/gaming\/2026\/10\/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work\/"
+        }
+      ],
+      "summary" : "Since its earliest days, the video game industry has been built on developers creating clones of competing games , with varying levels of originality and varying levels of enforcement from game platforms . Now, though, AI coding tools are making that cloning process so efficient that many developers are getting extremely cautious about sharing their early work too widely.",
+      "summary_method" : "source-extract",
+      "title" : "AI game clones are making indie developers afraid to show their work",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-20T13:00:00Z",
+      "id" : "2026-10-20-7c9f1dc7f4fe",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/20\/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving\/"
+        }
+      ],
+      "summary" : "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+      "summary_method" : "source-extract",
+      "title" : "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "topics" : [
+        "AI"
+      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 5,
-    "summary" : "• A hacker broke into John Deere and SharkNinja with an army of AI agents\n• Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool\n• Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+    "summary" : "• US orders federal agencies to remove China’s DeepSeek AI from their systems\n• Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool\n• Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-20",
-  "generated_at" : "2026-10-20T12:03:43Z",
+  "generated_at" : "2026-10-20T14:00:25Z",
   "processing_report" : {
-    "generated_at" : "2026-10-20T12:03:47Z",
+    "generated_at" : "2026-10-20T14:00:29Z",
     "high_card_count" : 0,
     "source_reports" : [
       {
@@ -299,14 +304,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-10-16T12:39:45Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-20T12:03:47Z",
+        "processed_at" : "2026-10-20T14:00:29Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-20T12:03:46Z",
+        "processed_at" : "2026-10-20T14:00:28Z",
         "state" : "processed"
       },
       {
@@ -314,7 +319,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-20T12:03:44Z",
+        "processed_at" : "2026-10-20T14:00:26Z",
         "state" : "processed"
       },
       {
@@ -322,7 +327,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-10-20T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-20T12:03:45Z",
+        "processed_at" : "2026-10-20T14:00:27Z",
         "state" : "processed"
       },
       {
@@ -330,7 +335,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-19T16:59:22Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-20T12:03:44Z",
+        "processed_at" : "2026-10-20T14:00:26Z",
         "state" : "processed"
       },
       {
@@ -338,7 +343,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-13T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-20T12:03:44Z",
+        "processed_at" : "2026-10-20T14:00:25Z",
         "state" : "processed"
       },
       {
@@ -346,7 +351,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-10-15T16:08:03Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-20T12:03:44Z",
+        "processed_at" : "2026-10-20T14:00:26Z",
         "state" : "processed"
       },
       {
@@ -354,7 +359,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-10-20T00:00:00Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-20T12:03:44Z",
+        "processed_at" : "2026-10-20T14:00:26Z",
         "state" : "processed"
       },
       {
@@ -362,7 +367,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-20T05:21:52Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-20T12:03:45Z",
+        "processed_at" : "2026-10-20T14:00:26Z",
         "state" : "processed"
       },
       {
@@ -370,7 +375,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-10-19T13:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-20T12:03:44Z",
+        "processed_at" : "2026-10-20T14:00:26Z",
         "state" : "processed"
       },
       {
@@ -378,7 +383,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-15T12:00:00Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-20T12:03:44Z",
+        "processed_at" : "2026-10-20T14:00:26Z",
         "state" : "processed"
       },
       {
@@ -386,7 +391,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-01T10:54:12Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-20T12:03:44Z",
+        "processed_at" : "2026-10-20T14:00:26Z",
         "state" : "processed"
       },
       {
@@ -394,7 +399,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-10-19T12:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-20T12:03:44Z",
+        "processed_at" : "2026-10-20T14:00:25Z",
         "state" : "processed"
       },
       {
@@ -402,23 +407,23 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-10-20T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-20T12:03:46Z",
+        "processed_at" : "2026-10-20T14:00:28Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "tldr-ai",
-        "latest_article_at" : "2026-10-19T00:00:00Z",
+        "latest_article_at" : "2026-10-20T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-20T12:03:44Z",
+        "processed_at" : "2026-10-20T14:00:25Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-10-20T11:00:00Z",
+        "latest_article_at" : "2026-10-20T13:07:24Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-20T12:03:43Z",
+        "processed_at" : "2026-10-20T14:00:25Z",
         "state" : "processed"
       },
       {
@@ -426,7 +431,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-20T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-20T12:03:47Z",
+        "processed_at" : "2026-10-20T14:00:29Z",
         "state" : "processed"
       },
       {
@@ -434,22 +439,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-15T20:26:31Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-20T12:03:44Z",
+        "processed_at" : "2026-10-20T14:00:26Z",
         "state" : "processed"
       },
       {
         "article_count" : 5,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-20T12:03:45Z",
+        "processed_at" : "2026-10-20T14:00:27Z",
         "state" : "processed"
       },
       {
-        "article_count" : 8,
+        "article_count" : 7,
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-10-19T21:28:20Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-20T12:03:44Z",
+        "processed_at" : "2026-10-20T14:00:25Z",
         "state" : "processed"
       }
     ],

@@ -1,21 +1,33 @@
 {
   "cards" : [
     {
-      "confidence" : "medium",
+      "confidence" : "high",
       "date" : "2026-10-20",
-      "id" : "2026-10-20-e78b0471cf5b",
+      "id" : "2026-10-20-3dbae648fb3a",
       "importance" : "medium",
       "sources" : [
         {
-          "source_name" : "The Verge AI",
-          "title" : "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1013643\/ai-agents-hack-john-deere-shark-ninja-cummins"
+          "source_name" : "TechCrunch AI",
+          "title" : "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/20\/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems\/"
+        },
+        {
+          "source_name" : "Latent Space",
+          "title" : "not much happened today",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-not-much-happened-today-f09"
+        },
+        {
+          "source_name" : "TLDR AI",
+          "title" : "DeepSeek’s new Flash ⚡, Replit drops Anthropic 🔄, Anthropic’s workforce 💼",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-10-19"
         }
       ],
-      "summary" : "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge . Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins.",
-      "title" : "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "summary" : "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+      "title" : "US orders federal agencies to remove China’s DeepSeek AI from their systems",
       "topics" : [
-        "Agents"
+        "DeepSeek",
+        "Agents",
+        "APIs"
       ]
     },
     {
@@ -96,6 +108,24 @@
     {
       "confidence" : "medium",
       "date" : "2026-10-20",
+      "id" : "2026-10-20-e78b0471cf5b",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1013643\/ai-agents-hack-john-deere-shark-ninja-cummins"
+        }
+      ],
+      "summary" : "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge . Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins.",
+      "title" : "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "topics" : [
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-10-20",
       "id" : "2026-10-20-d82e2745b42a",
       "importance" : "medium",
       "sources" : [
@@ -132,67 +162,6 @@
     {
       "confidence" : "medium",
       "date" : "2026-10-20",
-      "id" : "2026-10-20-9785cf3c1128",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Replit makes OpenAI its default over Anthropic, CEO says",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/17\/replit-is-no-longer-working-with-anthropic-ceo-says\/"
-        }
-      ],
-      "summary" : "Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer partnering with Anthropic.",
-      "title" : "Replit makes OpenAI its default over Anthropic, CEO says",
-      "topics" : [
-        "Anthropic"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "date" : "2026-10-20",
-      "id" : "2026-10-20-545c35c13c1d",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "not much happened today",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-not-much-happened-today-f09"
-        },
-        {
-          "source_name" : "TLDR AI",
-          "title" : "DeepSeek’s new Flash ⚡, Replit drops Anthropic 🔄, Anthropic’s workforce 💼",
-          "url" : "https:\/\/tldr.tech\/ai\/2026-10-19"
-        }
-      ],
-      "summary" : "Congrats to DeepSeek V4.1 Flash 1017, MiniMax M3.1 Flash, and Mercury 3 (details below) but they’re not going to be in super wide use just yet.",
-      "title" : "DeepSeek’s new Flash ⚡, Replit drops Anthropic 🔄, Anthropic’s workforce 💼",
-      "topics" : [
-        "Anthropic",
-        "DeepSeek",
-        "Agents"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "date" : "2026-10-20",
-      "id" : "2026-10-20-c846634ab496",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "Microsoft AI Blog",
-          "title" : "Securing the agentic insider",
-          "url" : "https:\/\/blogs.microsoft.com\/blog\/2026\/10\/19\/securing-the-agentic-insider\/"
-        }
-      ],
-      "summary" : "The post Securing the agentic insider appeared first on The Official Microsoft Blog .",
-      "title" : "Securing the agentic insider",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-10-20",
       "id" : "2026-10-20-f8e95db74268",
       "importance" : "low",
       "sources" : [
@@ -222,6 +191,42 @@
       ],
       "summary" : "For me, I am not one of those people who thinks that I’m right 100 percent of the time.",
       "title" : "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-10-20",
+      "id" : "2026-10-20-4608813bea94",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "Ars Technica AI",
+          "title" : "AI game clones are making indie developers afraid to show their work",
+          "url" : "https:\/\/arstechnica.com\/gaming\/2026\/10\/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work\/"
+        }
+      ],
+      "summary" : "Since its earliest days, the video game industry has been built on developers creating clones of competing games , with varying levels of originality and varying levels of enforcement from game platforms . Now, though, AI coding tools are making that cloning process so efficient that many developers are getting extremely cautious about sharing their early work too widely.",
+      "title" : "AI game clones are making indie developers afraid to show their work",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-10-20",
+      "id" : "2026-10-20-7c9f1dc7f4fe",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/20\/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving\/"
+        }
+      ],
+      "summary" : "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+      "title" : "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
       "topics" : [
         "AI"
       ]
