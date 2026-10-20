@@ -24,6 +24,28 @@
     },
     {
       "confidence" : "medium",
+      "created_at" : "2026-10-20T11:00:00Z",
+      "id" : "2026-10-20-64387096d9f4",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/20\/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool\/"
+        }
+      ],
+      "summary" : "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation.",
+      "summary_method" : "source-extract",
+      "title" : "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+      "topics" : [
+        "Tooling"
+      ]
+    },
+    {
+      "confidence" : "medium",
       "created_at" : "2026-10-19T22:49:27Z",
       "id" : "2026-10-20-d1a466b3a3e2",
       "importance" : "medium",
@@ -194,29 +216,6 @@
     },
     {
       "confidence" : "high",
-      "created_at" : "2026-10-19T12:00:00Z",
-      "id" : "2026-10-20-37e5dd81f4d5",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Advancing coding in low‑resource programming languages",
-          "url" : "https:\/\/openai.com\/index\/low-resource-programming-languages"
-        }
-      ],
-      "summary" : "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-      "summary_method" : "source-extract",
-      "title" : "Advancing coding in low‑resource programming languages",
-      "topics" : [
-        "ChatGPT",
-        "Benchmarks"
-      ]
-    },
-    {
-      "confidence" : "high",
       "created_at" : "2026-10-19T13:00:02Z",
       "id" : "2026-10-20-c846634ab496",
       "importance" : "low",
@@ -252,7 +251,7 @@
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1014045\/coreweave-stock-debt-sector-ai"
         }
       ],
-      "summary" : "Last Tuesady Chamath \"SPAC King\" Palihapitiya noticed the distressed debt , and also asked whether the AI buildout was a private credit bubble . Its shares are down more than 20 percent since Tuesday's close, which is kind of a lot!.",
+      "summary" : "Last Tuesday Chamath \"SPAC King\" Palihapitiya noticed the distressed debt , and also asked whether the AI buildout was a private credit bubble . Its shares are down more than 20 percent since Tuesday's close, which is kind of a lot!.",
       "summary_method" : "source-extract",
       "title" : "CoreWeave’s debt is becoming the whole AI industry’s problem",
       "topics" : [
@@ -285,14 +284,14 @@
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 6,
-    "summary" : "• A hacker broke into John Deere and SharkNinja with an army of AI agents\n• Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says\n• Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+    "source_count" : 5,
+    "summary" : "• A hacker broke into John Deere and SharkNinja with an army of AI agents\n• Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool\n• Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-20",
-  "generated_at" : "2026-10-20T10:02:08Z",
+  "generated_at" : "2026-10-20T12:03:43Z",
   "processing_report" : {
-    "generated_at" : "2026-10-20T10:02:12Z",
+    "generated_at" : "2026-10-20T12:03:47Z",
     "high_card_count" : 0,
     "source_reports" : [
       {
@@ -300,14 +299,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-10-16T12:39:45Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-20T10:02:12Z",
+        "processed_at" : "2026-10-20T12:03:47Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-20T10:02:11Z",
+        "processed_at" : "2026-10-20T12:03:46Z",
         "state" : "processed"
       },
       {
@@ -315,7 +314,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-20T10:02:09Z",
+        "processed_at" : "2026-10-20T12:03:44Z",
         "state" : "processed"
       },
       {
@@ -323,7 +322,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-10-20T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-20T10:02:10Z",
+        "processed_at" : "2026-10-20T12:03:45Z",
         "state" : "processed"
       },
       {
@@ -331,7 +330,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-19T16:59:22Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-20T10:02:09Z",
+        "processed_at" : "2026-10-20T12:03:44Z",
         "state" : "processed"
       },
       {
@@ -339,7 +338,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-13T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-20T10:02:08Z",
+        "processed_at" : "2026-10-20T12:03:44Z",
         "state" : "processed"
       },
       {
@@ -347,15 +346,15 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-10-15T16:08:03Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-20T10:02:09Z",
+        "processed_at" : "2026-10-20T12:03:44Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "huggingface-blog",
-        "latest_article_at" : "2026-10-19T00:00:00Z",
+        "latest_article_at" : "2026-10-20T00:00:00Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-20T10:02:09Z",
+        "processed_at" : "2026-10-20T12:03:44Z",
         "state" : "processed"
       },
       {
@@ -363,7 +362,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-20T05:21:52Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-20T10:02:10Z",
+        "processed_at" : "2026-10-20T12:03:45Z",
         "state" : "processed"
       },
       {
@@ -371,7 +370,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-10-19T13:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-20T10:02:09Z",
+        "processed_at" : "2026-10-20T12:03:44Z",
         "state" : "processed"
       },
       {
@@ -379,7 +378,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-15T12:00:00Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-20T10:02:09Z",
+        "processed_at" : "2026-10-20T12:03:44Z",
         "state" : "processed"
       },
       {
@@ -387,7 +386,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-01T10:54:12Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-20T10:02:08Z",
+        "processed_at" : "2026-10-20T12:03:44Z",
         "state" : "processed"
       },
       {
@@ -395,15 +394,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-10-19T12:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-20T10:02:09Z",
+        "processed_at" : "2026-10-20T12:03:44Z",
         "state" : "processed"
       },
       {
         "article_count" : 7,
         "id" : "superhuman-ai",
-        "latest_article_at" : "2026-10-19T11:02:57Z",
+        "latest_article_at" : "2026-10-20T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-20T10:02:11Z",
+        "processed_at" : "2026-10-20T12:03:46Z",
         "state" : "processed"
       },
       {
@@ -411,23 +410,23 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-19T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-20T10:02:08Z",
+        "processed_at" : "2026-10-20T12:03:44Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-10-20T01:27:03Z",
+        "latest_article_at" : "2026-10-20T11:00:00Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-20T10:02:08Z",
+        "processed_at" : "2026-10-20T12:03:43Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "the-ai-report",
-        "latest_article_at" : "2026-10-19T11:01:00Z",
+        "latest_article_at" : "2026-10-20T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-20T10:02:11Z",
+        "processed_at" : "2026-10-20T12:03:47Z",
         "state" : "processed"
       },
       {
@@ -435,14 +434,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-15T20:26:31Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-20T10:02:09Z",
+        "processed_at" : "2026-10-20T12:03:44Z",
         "state" : "processed"
       },
       {
         "article_count" : 5,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-20T10:02:11Z",
+        "processed_at" : "2026-10-20T12:03:45Z",
         "state" : "processed"
       },
       {
@@ -450,7 +449,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-10-19T21:28:20Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-20T10:02:08Z",
+        "processed_at" : "2026-10-20T12:03:44Z",
         "state" : "processed"
       }
     ],
