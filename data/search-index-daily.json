@@ -38,31 +38,6 @@
       ]
     },
     {
-      "confidence" : "high",
-      "date" : "2026-10-21",
-      "id" : "2026-10-21-2f489acf8a85",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks\/day\/cluster making $22m\/day at ~80% margin for a 81 day payback",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-deepseek-deepinfer-open-source"
-        },
-        {
-          "source_name" : "TLDR AI",
-          "title" : "DeepSeek’s new Flash ⚡, Replit drops Anthropic 🔄, Anthropic’s workforce 💼",
-          "url" : "https:\/\/tldr.tech\/ai\/2026-10-19"
-        }
-      ],
-      "summary" : "Doing some cluster math, that is roughly $166B per GW, with 81 day payback period on inference margin (DeepSeek famously plans for 10 month payback).",
-      "title" : "DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks\/day\/cluster making $22m\/day at ~80% margin for a 81 day payback",
-      "topics" : [
-        "DeepSeek",
-        "Inference",
-        "Agents"
-      ]
-    },
-    {
       "confidence" : "medium",
       "date" : "2026-10-21",
       "id" : "2026-10-21-e2f1ecf24d78",
@@ -78,6 +53,26 @@
       "title" : "US orders federal agencies to remove China’s DeepSeek AI from their systems",
       "topics" : [
         "DeepSeek"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-10-21",
+      "id" : "2026-10-21-2f489acf8a85",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks\/day\/cluster making $22m\/day at ~80% margin for a 81 day payback",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-deepseek-deepinfer-open-source"
+        }
+      ],
+      "summary" : "Doing some cluster math, that is roughly $166B per GW, with 81 day payback period on inference margin (DeepSeek famously plans for 10 month payback).",
+      "title" : "DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks\/day\/cluster making $22m\/day at ~80% margin for a 81 day payback",
+      "topics" : [
+        "DeepSeek",
+        "Inference",
+        "Agents"
       ]
     },
     {
@@ -119,20 +114,19 @@
     {
       "confidence" : "high",
       "date" : "2026-10-21",
-      "id" : "2026-10-21-dc29870cf148",
+      "id" : "2026-10-21-72e8022091a1",
       "importance" : "low",
       "sources" : [
         {
           "source_name" : "Mistral AI",
-          "title" : "Voxtral 3",
-          "url" : "https:\/\/mistral.ai\/news\/voxtral-3\/"
+          "title" : "Mistral Advances AI for Engineering with NVIDIA",
+          "url" : "https:\/\/mistral.ai\/news\/mistral-nvidia-ai-for-industrial-engineering\/"
         }
       ],
-      "summary" : "Voxtral 3: Mistral's voice agent SDK for real-time speech in 50+ languages — accurate transcription, emotional TTS, deep tool use.",
-      "title" : "Voxtral 3",
+      "summary" : "Mistral is collaborating with NVIDIA to develop a new generation of AI-native engineering workflows powered by NVIDIA accelerated computing.",
+      "title" : "Mistral Advances AI for Engineering with NVIDIA",
       "topics" : [
-        "Agents",
-        "Tooling"
+        "Workflows"
       ]
     },
     {
