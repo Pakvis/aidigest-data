@@ -71,7 +71,7 @@
       "confidence" : "high",
       "consolidation" : {
         "latest_source_at" : "2026-10-21T06:54:09Z",
-        "message_count" : 4,
+        "message_count" : 3,
         "reason" : "Multiple sources reported the same story.",
         "source_count" : 2
       },
@@ -178,6 +178,30 @@
     },
     {
       "confidence" : "medium",
+      "created_at" : "2026-10-21T19:53:20Z",
+      "id" : "2026-10-21-d5a1dd74eede",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Anthropic takes on Muse with Claude Duet, its new AI agent",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1015843\/anthropic-claude-duet-ai-agent"
+        }
+      ],
+      "summary" : "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic , and it's available as a standalone app on iOS and Android and through Claude on the web.",
+      "summary_method" : "source-extract",
+      "title" : "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "topics" : [
+        "Agents",
+        "Anthropic",
+        "Claude"
+      ]
+    },
+    {
+      "confidence" : "medium",
       "created_at" : "2026-10-21T13:57:43Z",
       "id" : "2026-10-21-217504af511c",
       "importance" : "medium",
@@ -198,6 +222,28 @@
         "Agents",
         "Safety",
         "Coding"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-21T19:30:00Z",
+      "id" : "2026-10-21-7a512cca8021",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/21\/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat\/"
+        }
+      ],
+      "summary" : "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+      "summary_method" : "source-extract",
+      "title" : "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "topics" : [
+        "Agents"
       ]
     },
     {
@@ -223,31 +269,9 @@
       ]
     },
     {
-      "confidence" : "medium",
-      "created_at" : "2026-10-19T22:49:27Z",
-      "id" : "2026-10-21-75b4b47d3c85",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/19\/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says\/"
-        }
-      ],
-      "summary" : "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology.",
-      "summary_method" : "source-extract",
-      "title" : "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-      "topics" : [
-        "Safety"
-      ]
-    },
-    {
       "confidence" : "high",
-      "created_at" : "2026-10-21T12:00:00Z",
-      "id" : "2026-10-21-cdb51839f7a9",
+      "created_at" : "2026-10-21T17:00:00Z",
+      "id" : "2026-10-21-d8aead348372",
       "importance" : "low",
       "key_insights" : [
 
@@ -255,67 +279,44 @@
       "sources" : [
         {
           "source_name" : "OpenAI News",
-          "title" : "OpenAI models are coming to Google Cloud",
-          "url" : "https:\/\/openai.com\/index\/openai-models-google-cloud"
+          "title" : "How AT&T is rethinking in-house legal work with OpenAI",
+          "url" : "https:\/\/openai.com\/index\/att-legal"
         }
       ],
-      "summary" : "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "summary" : "Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
       "summary_method" : "source-extract",
-      "title" : "OpenAI models are coming to Google Cloud",
+      "title" : "How AT&T is rethinking in-house legal work with OpenAI",
       "topics" : [
-        "Gemini",
-        "Workflows"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "created_at" : "2026-10-21T12:00:20Z",
-      "id" : "2026-10-21-72e8022091a1",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Mistral AI",
-          "title" : "Mistral Advances AI for Engineering with NVIDIA",
-          "url" : "https:\/\/mistral.ai\/news\/mistral-nvidia-ai-for-industrial-engineering\/"
-        }
-      ],
-      "summary" : "Mistral is collaborating with NVIDIA to develop a new generation of AI-native engineering workflows powered by NVIDIA accelerated computing.",
-      "summary_method" : "source-extract",
-      "title" : "Mistral Advances AI for Engineering with NVIDIA",
-      "topics" : [
-        "Workflows"
+        "AI"
       ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 6,
+    "source_count" : 5,
     "summary" : "• Conversational Gemini navigation comes to Apple CarPlay\n• OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business\n• OpenAI acquires Orchestra Bio",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-21",
-  "generated_at" : "2026-10-21T18:04:07Z",
+  "generated_at" : "2026-10-21T20:01:14Z",
   "processing_report" : {
-    "generated_at" : "2026-10-21T18:04:12Z",
+    "generated_at" : "2026-10-21T20:01:18Z",
     "high_card_count" : 3,
     "source_reports" : [
       {
-        "article_count" : 8,
+        "article_count" : 9,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-10-21T12:35:03Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-21T18:04:12Z",
+        "processed_at" : "2026-10-21T20:01:18Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-21T18:04:11Z",
+        "processed_at" : "2026-10-21T20:01:17Z",
         "state" : "processed"
       },
       {
@@ -323,7 +324,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-21T18:04:09Z",
+        "processed_at" : "2026-10-21T20:01:15Z",
         "state" : "processed"
       },
       {
@@ -331,15 +332,15 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-10-20T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-21T18:04:10Z",
+        "processed_at" : "2026-10-21T20:01:16Z",
         "state" : "processed"
       },
       {
         "article_count" : 18,
         "id" : "ars-technica-ai",
-        "latest_article_at" : "2026-10-19T16:59:22Z",
+        "latest_article_at" : "2026-10-21T19:44:40Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-21T18:04:09Z",
+        "processed_at" : "2026-10-21T20:01:15Z",
         "state" : "processed"
       },
       {
@@ -347,7 +348,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-21T04:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-21T18:04:08Z",
+        "processed_at" : "2026-10-21T20:01:14Z",
         "state" : "processed"
       },
       {
@@ -355,15 +356,15 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-10-15T16:08:03Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-21T18:04:08Z",
+        "processed_at" : "2026-10-21T20:01:15Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "huggingface-blog",
-        "latest_article_at" : "2026-10-21T17:58:42Z",
+        "latest_article_at" : "2026-10-21T18:26:30Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-21T18:04:08Z",
+        "processed_at" : "2026-10-21T20:01:15Z",
         "state" : "processed"
       },
       {
@@ -371,7 +372,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-21T13:04:19Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-21T18:04:10Z",
+        "processed_at" : "2026-10-21T20:01:16Z",
         "state" : "processed"
       },
       {
@@ -379,7 +380,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-10-19T13:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-21T18:04:08Z",
+        "processed_at" : "2026-10-21T20:01:15Z",
         "state" : "processed"
       },
       {
@@ -387,7 +388,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-21T12:00:20Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-21T18:04:09Z",
+        "processed_at" : "2026-10-21T20:01:15Z",
         "state" : "processed"
       },
       {
@@ -395,23 +396,23 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-20T15:57:59Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-21T18:04:08Z",
+        "processed_at" : "2026-10-21T20:01:14Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "openai-news",
-        "latest_article_at" : "2026-10-21T13:00:00Z",
+        "latest_article_at" : "2026-10-21T17:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-21T18:04:09Z",
+        "processed_at" : "2026-10-21T20:01:15Z",
         "state" : "processed"
       },
       {
-        "article_count" : 4,
+        "article_count" : 7,
         "id" : "superhuman-ai",
-        "latest_article_at" : "2026-10-15T11:02:57Z",
+        "latest_article_at" : "2026-10-20T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-21T18:04:11Z",
+        "processed_at" : "2026-10-21T20:01:16Z",
         "state" : "processed"
       },
       {
@@ -419,23 +420,23 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-21T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-21T18:04:08Z",
+        "processed_at" : "2026-10-21T20:01:14Z",
         "state" : "processed"
       },
       {
         "article_count" : 18,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-10-21T14:00:00Z",
+        "latest_article_at" : "2026-10-21T19:30:00Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-21T18:04:08Z",
+        "processed_at" : "2026-10-21T20:01:14Z",
         "state" : "processed"
       },
       {
-        "article_count" : 9,
+        "article_count" : 12,
         "id" : "the-ai-report",
-        "latest_article_at" : "2026-10-18T12:01:00Z",
+        "latest_article_at" : "2026-10-21T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-21T18:04:12Z",
+        "processed_at" : "2026-10-21T20:01:17Z",
         "state" : "processed"
       },
       {
@@ -443,22 +444,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-15T20:26:31Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-21T18:04:09Z",
+        "processed_at" : "2026-10-21T20:01:15Z",
         "state" : "processed"
       },
       {
         "article_count" : 4,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-21T18:04:10Z",
+        "processed_at" : "2026-10-21T20:01:16Z",
         "state" : "processed"
       },
       {
         "article_count" : 7,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-10-21T15:00:00Z",
+        "latest_article_at" : "2026-10-21T19:53:20Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-21T18:04:08Z",
+        "processed_at" : "2026-10-21T20:01:14Z",
         "state" : "processed"
       }
     ],
