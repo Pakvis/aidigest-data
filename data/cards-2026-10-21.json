@@ -2,6 +2,28 @@
   "cards" : [
     {
       "confidence" : "medium",
+      "created_at" : "2026-10-21T15:00:00Z",
+      "id" : "2026-10-21-356c7fc1d36a",
+      "importance" : "high",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Conversational Gemini navigation comes to Apple CarPlay",
+          "url" : "https:\/\/www.theverge.com\/transportation\/1015281\/gemini-ai-apple-carplay-voice-google-maps"
+        }
+      ],
+      "summary" : "After introducing its Gemini AI assistant to Android Auto last year , Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional availability details).",
+      "summary_method" : "source-extract",
+      "title" : "Conversational Gemini navigation comes to Apple CarPlay",
+      "topics" : [
+        "Gemini"
+      ]
+    },
+    {
+      "confidence" : "medium",
       "created_at" : "2026-10-20T20:35:10Z",
       "id" : "2026-10-21-981b872465d0",
       "importance" : "high",
@@ -111,6 +133,28 @@
     },
     {
       "confidence" : "high",
+      "created_at" : "2026-10-21T07:00:00Z",
+      "id" : "2026-10-21-efe84711ff67",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+          "url" : "https:\/\/openai.com\/index\/coordinated-disclosure-of-critical-vulnerabilities"
+        }
+      ],
+      "summary" : "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "summary_method" : "source-extract",
+      "title" : "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "topics" : [
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "high",
       "created_at" : "2026-10-21T04:50:00Z",
       "id" : "2026-10-21-4fa60e902c97",
       "importance" : "medium",
@@ -201,28 +245,6 @@
       ]
     },
     {
-      "confidence" : "medium",
-      "created_at" : "2026-10-19T13:58:41Z",
-      "id" : "2026-10-21-bd53a5e50a0b",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1013643\/ai-agents-hack-john-deere-shark-ninja-cummins"
-        }
-      ],
-      "summary" : "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge . Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins.",
-      "summary_method" : "source-extract",
-      "title" : "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-      "topics" : [
-        "Agents"
-      ]
-    },
-    {
       "confidence" : "high",
       "created_at" : "2026-10-21T12:00:00Z",
       "id" : "2026-10-21-cdb51839f7a9",
@@ -266,56 +288,34 @@
       "topics" : [
         "Workflows"
       ]
-    },
-    {
-      "confidence" : "high",
-      "created_at" : "2026-10-21T04:00:00Z",
-      "id" : "2026-10-21-0665203d60f4",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Google AI Blog",
-          "title" : "Southeast Asia’s digital economy to hit $368 billion",
-          "url" : "https:\/\/blog.google\/company-news\/inside-google\/around-the-globe\/google-asia\/e-conomy-sea-report-2026\/"
-        }
-      ],
-      "summary" : "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
-      "summary_method" : "source-extract",
-      "title" : "Southeast Asia’s digital economy to hit $368 billion",
-      "topics" : [
-        "AI"
-      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 7,
-    "summary" : "• OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business\n• OpenAI acquires Orchestra Bio\n• DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks\/day\/cluster making $22m\/day at ~80% margin for a 81 day payback",
+    "source_count" : 6,
+    "summary" : "• Conversational Gemini navigation comes to Apple CarPlay\n• OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business\n• OpenAI acquires Orchestra Bio",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-21",
-  "generated_at" : "2026-10-21T14:04:20Z",
+  "generated_at" : "2026-10-21T16:02:03Z",
   "processing_report" : {
-    "generated_at" : "2026-10-21T14:04:24Z",
-    "high_card_count" : 2,
+    "generated_at" : "2026-10-21T16:02:07Z",
+    "high_card_count" : 3,
     "source_reports" : [
       {
         "article_count" : 9,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-10-21T12:35:03Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-21T14:04:24Z",
+        "processed_at" : "2026-10-21T16:02:07Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-21T14:04:23Z",
+        "processed_at" : "2026-10-21T16:02:06Z",
         "state" : "processed"
       },
       {
@@ -323,7 +323,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-21T14:04:22Z",
+        "processed_at" : "2026-10-21T16:02:04Z",
         "state" : "processed"
       },
       {
@@ -331,7 +331,15 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-10-20T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-21T14:04:22Z",
+        "processed_at" : "2026-10-21T16:02:05Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 18,
+        "id" : "ars-technica-ai",
+        "latest_article_at" : "2026-10-19T16:59:22Z",
+        "name" : "Ars Technica AI",
+        "processed_at" : "2026-10-21T16:02:04Z",
         "state" : "processed"
       },
       {
@@ -339,7 +347,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-21T04:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-21T14:04:21Z",
+        "processed_at" : "2026-10-21T16:02:03Z",
         "state" : "processed"
       },
       {
@@ -347,15 +355,15 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-10-15T16:08:03Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-21T14:04:21Z",
+        "processed_at" : "2026-10-21T16:02:03Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "huggingface-blog",
-        "latest_article_at" : "2026-10-21T12:51:24Z",
+        "latest_article_at" : "2026-10-21T14:58:18Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-21T14:04:21Z",
+        "processed_at" : "2026-10-21T16:02:03Z",
         "state" : "processed"
       },
       {
@@ -363,7 +371,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-21T13:04:19Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-21T14:04:22Z",
+        "processed_at" : "2026-10-21T16:02:04Z",
         "state" : "processed"
       },
       {
@@ -371,7 +379,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-10-19T13:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-21T14:04:21Z",
+        "processed_at" : "2026-10-21T16:02:03Z",
         "state" : "processed"
       },
       {
@@ -379,7 +387,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-21T12:00:20Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-21T14:04:21Z",
+        "processed_at" : "2026-10-21T16:02:03Z",
         "state" : "processed"
       },
       {
@@ -387,7 +395,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-20T15:57:59Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-21T14:04:21Z",
+        "processed_at" : "2026-10-21T16:02:03Z",
         "state" : "processed"
       },
       {
@@ -395,7 +403,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-10-21T13:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-21T14:04:21Z",
+        "processed_at" : "2026-10-21T16:02:03Z",
         "state" : "processed"
       },
       {
@@ -403,7 +411,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-10-20T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-21T14:04:23Z",
+        "processed_at" : "2026-10-21T16:02:05Z",
         "state" : "processed"
       },
       {
@@ -411,7 +419,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-21T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-21T14:04:21Z",
+        "processed_at" : "2026-10-21T16:02:03Z",
         "state" : "processed"
       },
       {
@@ -419,7 +427,7 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-10-21T14:00:00Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-21T14:04:21Z",
+        "processed_at" : "2026-10-21T16:02:03Z",
         "state" : "processed"
       },
       {
@@ -427,7 +435,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-21T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-21T14:04:24Z",
+        "processed_at" : "2026-10-21T16:02:06Z",
         "state" : "processed"
       },
       {
@@ -435,33 +443,25 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-15T20:26:31Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-21T14:04:21Z",
+        "processed_at" : "2026-10-21T16:02:04Z",
         "state" : "processed"
       },
       {
         "article_count" : 4,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-21T14:04:22Z",
+        "processed_at" : "2026-10-21T16:02:06Z",
         "state" : "processed"
       },
       {
         "article_count" : 7,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-10-21T13:57:43Z",
+        "latest_article_at" : "2026-10-21T15:00:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-21T14:04:21Z",
+        "processed_at" : "2026-10-21T16:02:03Z",
         "state" : "processed"
-      },
-      {
-        "article_count" : 0,
-        "id" : "ars-technica-ai",
-        "message" : "HTTP 503 from arstechnica.com",
-        "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-21T14:04:21Z",
-        "state" : "failed"
       }
     ],
-    "state" : "partial"
+    "state" : "complete"
   }
 }
