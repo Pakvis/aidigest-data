@@ -1,0 +1,468 @@
+{
+  "cards" : [
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-21T15:00:00Z",
+      "id" : "2026-10-22-8f71e669206d",
+      "importance" : "high",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Conversational Gemini navigation comes to Apple CarPlay",
+          "url" : "https:\/\/www.theverge.com\/transportation\/1015281\/gemini-ai-apple-carplay-voice-google-maps"
+        }
+      ],
+      "summary" : "After introducing its Gemini AI assistant to Android Auto last year , Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional availability details).",
+      "summary_method" : "source-extract",
+      "title" : "Conversational Gemini navigation comes to Apple CarPlay",
+      "topics" : [
+        "Gemini"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-20T20:35:10Z",
+      "id" : "2026-10-22-5486e6cabf89",
+      "importance" : "high",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/20\/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business\/"
+        }
+      ],
+      "summary" : "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+      "summary_method" : "source-extract",
+      "title" : "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "topics" : [
+        "Research",
+        "Tooling"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-10-21T06:54:09Z",
+        "message_count" : 3,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
+      "created_at" : "2026-10-21T06:54:09Z",
+      "id" : "2026-10-22-b585a6f74960",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks\/day\/cluster making $22m\/day at ~80% margin for a 81 day payback",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-deepseek-deepinfer-open-source"
+        },
+        {
+          "source_name" : "TLDR AI",
+          "title" : "DeepSeek DeepInfer 🐋, PyTorch on TPUs ⚡, Ramp’s agent framework 👨‍💻",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-10-21"
+        }
+      ],
+      "summary" : "Doing some cluster math, that is roughly $166B per GW, with 81 day payback period on inference margin (DeepSeek famously plans for 10 month payback).",
+      "summary_method" : "source-extract",
+      "title" : "DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks\/day\/cluster making $22m\/day at ~80% margin for a 81 day payback",
+      "topics" : [
+        "DeepSeek",
+        "Inference",
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-10-21T13:00:00Z",
+        "message_count" : 2,
+        "reason" : "Multiple messages matched the same story.",
+        "source_count" : 1
+      },
+      "created_at" : "2026-10-21T13:00:00Z",
+      "id" : "2026-10-22-3baf096794f3",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+          "url" : "https:\/\/openai.com\/index\/chatgpt-ads-expands-26-new-countries"
+        }
+      ],
+      "summary" : "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "summary_method" : "source-extract",
+      "title" : "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "topics" : [
+        "ChatGPT",
+        "LLMs"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-10-21T07:00:00Z",
+      "id" : "2026-10-22-3ae664ce5014",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+          "url" : "https:\/\/openai.com\/index\/coordinated-disclosure-of-critical-vulnerabilities"
+        }
+      ],
+      "summary" : "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "summary_method" : "source-extract",
+      "title" : "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "topics" : [
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-10-21T04:50:00Z",
+      "id" : "2026-10-22-67ab44aa1350",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Using thousands of AI agents to uncover new leads in biological data",
+          "url" : "https:\/\/openai.com\/index\/scaling-ai-research-for-complex-biological-data"
+        }
+      ],
+      "summary" : "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "summary_method" : "source-extract",
+      "title" : "Using thousands of AI agents to uncover new leads in biological data",
+      "topics" : [
+        "Agents",
+        "Research"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-10-20T00:00:00Z",
+      "id" : "2026-10-22-f885bf6bf083",
+      "importance" : "high",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "OpenAI acquires Orchestra Bio",
+          "url" : "https:\/\/openai.com\/index\/openai-to-acquire-orchestra-bio"
+        }
+      ],
+      "summary" : "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+      "summary_method" : "source-extract",
+      "title" : "OpenAI acquires Orchestra Bio",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-21T19:53:20Z",
+      "id" : "2026-10-22-447ced4ac65e",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Anthropic takes on Muse with Claude Duet, its new AI agent",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1015843\/anthropic-claude-duet-ai-agent"
+        }
+      ],
+      "summary" : "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic , and it's available as a standalone app on iOS and Android and through Claude on the web.",
+      "summary_method" : "source-extract",
+      "title" : "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "topics" : [
+        "Agents",
+        "Anthropic",
+        "Claude"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-21T13:57:43Z",
+      "id" : "2026-10-22-bc854e99db15",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "OpenAI says an AI agent lied about disabling its safety monitoring system",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1015316\/openai-ai-agent-disabling-monitoring-systems"
+        }
+      ],
+      "summary" : "In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. \"The reference didn't configure a monitor, and Astra decided that was reason to remove the monitoring integration from the user's code,\" Marcus Williams, an AI safety researcher at OpenAI, writes on X .",
+      "summary_method" : "source-extract",
+      "title" : "OpenAI says an AI agent lied about disabling its safety monitoring system",
+      "topics" : [
+        "Agents",
+        "Safety",
+        "Coding"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-21T20:27:41Z",
+      "id" : "2026-10-22-7ad9e99e40ee",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/21\/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai\/"
+        }
+      ],
+      "summary" : "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+      "summary_method" : "source-extract",
+      "title" : "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "topics" : [
+        "Research"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-21T19:30:00Z",
+      "id" : "2026-10-22-57de3e6f8338",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/21\/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat\/"
+        }
+      ],
+      "summary" : "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+      "summary_method" : "source-extract",
+      "title" : "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "topics" : [
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-21T17:59:12Z",
+      "id" : "2026-10-22-a29f63a5b3b8",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/21\/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet\/"
+        }
+      ],
+      "summary" : "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet. This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+      "summary_method" : "source-extract",
+      "title" : "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "topics" : [
+        "AI"
+      ]
+    }
+  ],
+  "count" : 12,
+  "daily_summary" : {
+    "headline" : "At a glance",
+    "source_count" : 5,
+    "summary" : "• Conversational Gemini navigation comes to Apple CarPlay\n• OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business\n• DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks\/day\/cluster making $22m\/day at ~80% margin for a 81 day payback",
+    "watch" : "Read the original articles for full context."
+  },
+  "date" : "2026-10-22",
+  "generated_at" : "2026-10-22T04:03:45Z",
+  "processing_report" : {
+    "generated_at" : "2026-10-22T04:03:49Z",
+    "high_card_count" : 3,
+    "source_reports" : [
+      {
+        "article_count" : 9,
+        "id" : "ai-breakfast",
+        "latest_article_at" : "2026-10-21T12:35:03Z",
+        "name" : "AI Breakfast",
+        "processed_at" : "2026-10-22T04:03:49Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 12,
+        "id" : "ai-daily-brief",
+        "name" : "AI Daily Brief",
+        "processed_at" : "2026-10-22T04:03:48Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 80,
+        "id" : "ai-news",
+        "latest_article_at" : "2026-09-09T05:44:39Z",
+        "name" : "AI News (Swyx)",
+        "processed_at" : "2026-10-22T04:03:47Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 3,
+        "id" : "aireport-nl",
+        "latest_article_at" : "2026-10-20T10:00:00Z",
+        "name" : "AI Report (NL)",
+        "processed_at" : "2026-10-22T04:03:47Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 18,
+        "id" : "ars-technica-ai",
+        "latest_article_at" : "2026-10-21T19:44:40Z",
+        "name" : "Ars Technica AI",
+        "processed_at" : "2026-10-22T04:03:47Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 20,
+        "id" : "google-ai-blog",
+        "latest_article_at" : "2026-10-21T04:00:00Z",
+        "name" : "Google AI Blog",
+        "processed_at" : "2026-10-22T04:03:46Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 80,
+        "id" : "deepmind-blog",
+        "latest_article_at" : "2026-10-15T16:08:03Z",
+        "name" : "Google DeepMind",
+        "processed_at" : "2026-10-22T04:03:46Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 80,
+        "id" : "huggingface-blog",
+        "latest_article_at" : "2026-10-21T18:26:30Z",
+        "name" : "Hugging Face Blog",
+        "processed_at" : "2026-10-22T04:03:46Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 20,
+        "id" : "latent-space",
+        "latest_article_at" : "2026-10-21T13:04:19Z",
+        "name" : "Latent Space",
+        "processed_at" : "2026-10-22T04:03:48Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 10,
+        "id" : "microsoft-ai-blog",
+        "latest_article_at" : "2026-10-19T13:00:02Z",
+        "name" : "Microsoft AI Blog",
+        "processed_at" : "2026-10-22T04:03:47Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 80,
+        "id" : "mistral-news",
+        "latest_article_at" : "2026-10-21T12:00:20Z",
+        "name" : "Mistral AI",
+        "processed_at" : "2026-10-22T04:03:47Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 20,
+        "id" : "one-useful-thing",
+        "latest_article_at" : "2026-10-20T15:57:59Z",
+        "name" : "One Useful Thing",
+        "processed_at" : "2026-10-22T04:03:46Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 80,
+        "id" : "openai-news",
+        "latest_article_at" : "2026-10-21T21:00:00Z",
+        "name" : "OpenAI News",
+        "processed_at" : "2026-10-22T04:03:46Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 6,
+        "id" : "superhuman-ai",
+        "latest_article_at" : "2026-10-20T11:02:57Z",
+        "name" : "Superhuman AI",
+        "processed_at" : "2026-10-22T04:03:48Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 20,
+        "id" : "tldr-ai",
+        "latest_article_at" : "2026-10-21T00:00:00Z",
+        "name" : "TLDR AI",
+        "processed_at" : "2026-10-22T04:03:46Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 15,
+        "id" : "techcrunch-ai",
+        "latest_article_at" : "2026-10-21T22:51:22Z",
+        "name" : "TechCrunch AI",
+        "processed_at" : "2026-10-22T04:03:46Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 12,
+        "id" : "the-ai-report",
+        "latest_article_at" : "2026-10-21T11:01:00Z",
+        "name" : "The AI Report",
+        "processed_at" : "2026-10-22T04:03:49Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 20,
+        "id" : "algorithmic-bridge",
+        "latest_article_at" : "2026-10-21T20:40:57Z",
+        "name" : "The Algorithmic Bridge",
+        "processed_at" : "2026-10-22T04:03:47Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 4,
+        "id" : "the-neuron-daily",
+        "name" : "The Neuron Daily",
+        "processed_at" : "2026-10-22T04:03:48Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 9,
+        "id" : "the-verge-ai",
+        "latest_article_at" : "2026-10-21T22:33:44Z",
+        "name" : "The Verge AI",
+        "processed_at" : "2026-10-22T04:03:46Z",
+        "state" : "processed"
+      }
+    ],
+    "state" : "complete"
+  }
+}
