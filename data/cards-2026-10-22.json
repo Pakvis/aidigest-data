@@ -133,29 +133,6 @@
     },
     {
       "confidence" : "high",
-      "created_at" : "2026-10-21T04:50:00Z",
-      "id" : "2026-10-22-67ab44aa1350",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Using thousands of AI agents to uncover new leads in biological data",
-          "url" : "https:\/\/openai.com\/index\/scaling-ai-research-for-complex-biological-data"
-        }
-      ],
-      "summary" : "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-      "summary_method" : "source-extract",
-      "title" : "Using thousands of AI agents to uncover new leads in biological data",
-      "topics" : [
-        "Agents",
-        "Research"
-      ]
-    },
-    {
-      "confidence" : "high",
       "created_at" : "2026-10-20T00:00:00Z",
       "id" : "2026-10-22-f885bf6bf083",
       "importance" : "high",
@@ -289,6 +266,29 @@
       "topics" : [
         "AI"
       ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-10-21T04:50:00Z",
+      "id" : "2026-10-22-67ab44aa1350",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Using thousands of AI agents to uncover new leads in biological data",
+          "url" : "https:\/\/openai.com\/index\/scaling-ai-research-for-complex-biological-data"
+        }
+      ],
+      "summary" : "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "summary_method" : "source-extract",
+      "title" : "Using thousands of AI agents to uncover new leads in biological data",
+      "topics" : [
+        "Agents",
+        "Research"
+      ]
     }
   ],
   "count" : 12,
@@ -299,9 +299,9 @@
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-22",
-  "generated_at" : "2026-10-22T04:03:45Z",
+  "generated_at" : "2026-10-22T06:01:34Z",
   "processing_report" : {
-    "generated_at" : "2026-10-22T04:03:49Z",
+    "generated_at" : "2026-10-22T06:01:39Z",
     "high_card_count" : 3,
     "source_reports" : [
       {
@@ -309,14 +309,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-10-21T12:35:03Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-22T04:03:49Z",
+        "processed_at" : "2026-10-22T06:01:38Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-22T04:03:48Z",
+        "processed_at" : "2026-10-22T06:01:38Z",
         "state" : "processed"
       },
       {
@@ -324,7 +324,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-22T04:03:47Z",
+        "processed_at" : "2026-10-22T06:01:36Z",
         "state" : "processed"
       },
       {
@@ -332,7 +332,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-10-20T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-22T04:03:47Z",
+        "processed_at" : "2026-10-22T06:01:37Z",
         "state" : "processed"
       },
       {
@@ -340,7 +340,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-21T19:44:40Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-22T04:03:47Z",
+        "processed_at" : "2026-10-22T06:01:36Z",
         "state" : "processed"
       },
       {
@@ -348,7 +348,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-21T04:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-22T04:03:46Z",
+        "processed_at" : "2026-10-22T06:01:35Z",
         "state" : "processed"
       },
       {
@@ -356,7 +356,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-10-15T16:08:03Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-22T04:03:46Z",
+        "processed_at" : "2026-10-22T06:01:36Z",
         "state" : "processed"
       },
       {
@@ -364,7 +364,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-10-21T18:26:30Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-22T04:03:46Z",
+        "processed_at" : "2026-10-22T06:01:36Z",
         "state" : "processed"
       },
       {
@@ -372,7 +372,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-21T13:04:19Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-22T04:03:48Z",
+        "processed_at" : "2026-10-22T06:01:37Z",
         "state" : "processed"
       },
       {
@@ -380,7 +380,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-10-19T13:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-22T04:03:47Z",
+        "processed_at" : "2026-10-22T06:01:36Z",
         "state" : "processed"
       },
       {
@@ -388,7 +388,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-21T12:00:20Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-22T04:03:47Z",
+        "processed_at" : "2026-10-22T06:01:35Z",
         "state" : "processed"
       },
       {
@@ -396,7 +396,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-20T15:57:59Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-22T04:03:46Z",
+        "processed_at" : "2026-10-22T06:01:35Z",
         "state" : "processed"
       },
       {
@@ -404,15 +404,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-10-21T21:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-22T04:03:46Z",
+        "processed_at" : "2026-10-22T06:01:35Z",
         "state" : "processed"
       },
       {
-        "article_count" : 6,
+        "article_count" : 5,
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-10-20T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-22T04:03:48Z",
+        "processed_at" : "2026-10-22T06:01:38Z",
         "state" : "processed"
       },
       {
@@ -420,7 +420,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-21T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-22T04:03:46Z",
+        "processed_at" : "2026-10-22T06:01:35Z",
         "state" : "processed"
       },
       {
@@ -428,15 +428,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-10-21T22:51:22Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-22T04:03:46Z",
+        "processed_at" : "2026-10-22T06:01:35Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 11,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-21T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-22T04:03:49Z",
+        "processed_at" : "2026-10-22T06:01:39Z",
         "state" : "processed"
       },
       {
@@ -444,14 +444,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-21T20:40:57Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-22T04:03:47Z",
+        "processed_at" : "2026-10-22T06:01:36Z",
         "state" : "processed"
       },
       {
         "article_count" : 4,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-22T04:03:48Z",
+        "processed_at" : "2026-10-22T06:01:37Z",
         "state" : "processed"
       },
       {
@@ -459,7 +459,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-10-21T22:33:44Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-22T04:03:46Z",
+        "processed_at" : "2026-10-22T06:01:35Z",
         "state" : "processed"
       }
     ],
