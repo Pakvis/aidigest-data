@@ -26,41 +26,36 @@
     {
       "confidence" : "high",
       "consolidation" : {
-        "latest_source_at" : "2026-10-22T13:53:26Z",
+        "latest_source_at" : "2026-10-22T16:00:00Z",
         "message_count" : 3,
         "reason" : "Multiple sources reported the same story.",
-        "source_count" : 3
+        "source_count" : 2
       },
-      "created_at" : "2026-10-22T13:53:26Z",
-      "id" : "2026-10-22-447ced4ac65e",
+      "created_at" : "2026-10-22T16:00:00Z",
+      "id" : "2026-10-22-3baf096794f3",
       "importance" : "medium",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "The Neuron Daily",
-          "title" : "New Claude Duet works while your phone's off",
-          "url" : "https:\/\/www.theneurondaily.com\/p\/new-claude-duet-works-while-your-phone-s-off"
-        },
-        {
           "source_name" : "TechCrunch AI",
-          "title" : "Claude Duet app is Anthropic’s bet on agents",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/22\/claude-duet-app-is-anthropics-bet-on-agents\/"
+          "title" : "Uber puts all 30,000 employees on ChatGPT Work",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/22\/uber-puts-all-30000-employees-on-chatgpt-work\/"
         },
         {
-          "source_name" : "The Verge AI",
-          "title" : "Anthropic takes on Muse with Claude Duet, its new AI agent",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1015843\/anthropic-claude-duet-ai-agent"
+          "source_name" : "OpenAI News",
+          "title" : "Uber brings ChatGPT Work to all employees with OpenAI",
+          "url" : "https:\/\/openai.com\/index\/uber-chatgpt-work-rollout"
         }
       ],
-      "summary" : "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic , and it's available as a standalone app on iOS and Android and through Claude on the web.",
+      "summary" : "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
       "summary_method" : "source-extract",
-      "title" : "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "title" : "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
       "topics" : [
-        "Claude",
-        "Anthropic",
-        "Agents"
+        "ChatGPT",
+        "Agents",
+        "Enterprise"
       ]
     },
     {
@@ -144,7 +139,7 @@
           "url" : "https:\/\/techcrunch.com\/2026\/10\/22\/deepseek-reportedly-raises-15b-days-after-us-restrictions\/"
         }
       ],
-      "summary" : "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
+      "summary" : "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S.",
       "summary_method" : "source-extract",
       "title" : "DeepSeek reportedly raises $15B days after US restrictions",
       "topics" : [
@@ -194,28 +189,6 @@
       "title" : "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
       "topics" : [
         "Agents"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-10-21T17:59:12Z",
-      "id" : "2026-10-22-a29f63a5b3b8",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/21\/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet\/"
-        }
-      ],
-      "summary" : "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet. This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
-      "summary_method" : "source-extract",
-      "title" : "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
-      "topics" : [
-        "AI"
       ]
     },
     {
@@ -300,19 +273,41 @@
         "Inference",
         "Agents"
       ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-10-21T07:00:00Z",
+      "id" : "2026-10-22-3ae664ce5014",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+          "url" : "https:\/\/openai.com\/index\/coordinated-disclosure-of-critical-vulnerabilities"
+        }
+      ],
+      "summary" : "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "summary_method" : "source-extract",
+      "title" : "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "topics" : [
+        "Agents"
+      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 6,
-    "summary" : "• OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business\n• Anthropic takes on Muse with Claude Duet, its new AI agent\n• OpenAI acquires Orchestra Bio",
+    "source_count" : 5,
+    "summary" : "• OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business\n• ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform\n• OpenAI acquires Orchestra Bio",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-22",
-  "generated_at" : "2026-10-22T16:01:12Z",
+  "generated_at" : "2026-10-22T18:04:50Z",
   "processing_report" : {
-    "generated_at" : "2026-10-22T16:01:16Z",
+    "generated_at" : "2026-10-22T18:04:54Z",
     "high_card_count" : 2,
     "source_reports" : [
       {
@@ -320,14 +315,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-10-21T12:35:03Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-22T16:01:16Z",
+        "processed_at" : "2026-10-22T18:04:54Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-22T16:01:15Z",
+        "processed_at" : "2026-10-22T18:04:53Z",
         "state" : "processed"
       },
       {
@@ -335,7 +330,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-22T16:01:14Z",
+        "processed_at" : "2026-10-22T18:04:51Z",
         "state" : "processed"
       },
       {
@@ -343,7 +338,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-10-20T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-22T16:01:15Z",
+        "processed_at" : "2026-10-22T18:04:52Z",
         "state" : "processed"
       },
       {
@@ -351,7 +346,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-21T19:44:40Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-22T16:01:14Z",
+        "processed_at" : "2026-10-22T18:04:51Z",
         "state" : "processed"
       },
       {
@@ -359,7 +354,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-21T04:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-22T16:01:13Z",
+        "processed_at" : "2026-10-22T18:04:51Z",
         "state" : "processed"
       },
       {
@@ -367,23 +362,23 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-10-22T14:30:24Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-22T16:01:14Z",
+        "processed_at" : "2026-10-22T18:04:51Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "huggingface-blog",
-        "latest_article_at" : "2026-10-22T07:51:31Z",
+        "latest_article_at" : "2026-10-22T16:11:31Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-22T16:01:14Z",
+        "processed_at" : "2026-10-22T18:04:51Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "latent-space",
-        "latest_article_at" : "2026-10-22T14:03:40Z",
+        "latest_article_at" : "2026-10-22T17:40:57Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-22T16:01:14Z",
+        "processed_at" : "2026-10-22T18:04:52Z",
         "state" : "processed"
       },
       {
@@ -391,7 +386,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-10-19T13:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-22T16:01:13Z",
+        "processed_at" : "2026-10-22T18:04:51Z",
         "state" : "processed"
       },
       {
@@ -399,7 +394,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-21T12:00:20Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-22T16:01:14Z",
+        "processed_at" : "2026-10-22T18:04:51Z",
         "state" : "processed"
       },
       {
@@ -407,7 +402,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-20T15:57:59Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-22T16:01:13Z",
+        "processed_at" : "2026-10-22T18:04:51Z",
         "state" : "processed"
       },
       {
@@ -415,7 +410,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-10-22T06:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-22T16:01:13Z",
+        "processed_at" : "2026-10-22T18:04:51Z",
         "state" : "processed"
       },
       {
@@ -423,7 +418,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-10-22T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-22T16:01:15Z",
+        "processed_at" : "2026-10-22T18:04:54Z",
         "state" : "processed"
       },
       {
@@ -431,15 +426,15 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-22T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-22T16:01:13Z",
+        "processed_at" : "2026-10-22T18:04:51Z",
         "state" : "processed"
       },
       {
-        "article_count" : 17,
+        "article_count" : 16,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-10-22T15:03:58Z",
+        "latest_article_at" : "2026-10-22T16:00:00Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-22T16:01:13Z",
+        "processed_at" : "2026-10-22T18:04:50Z",
         "state" : "processed"
       },
       {
@@ -447,7 +442,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-22T11:00:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-22T16:01:16Z",
+        "processed_at" : "2026-10-22T18:04:54Z",
         "state" : "processed"
       },
       {
@@ -455,22 +450,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-21T20:40:57Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-22T16:01:14Z",
+        "processed_at" : "2026-10-22T18:04:51Z",
         "state" : "processed"
       },
       {
         "article_count" : 4,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-22T16:01:14Z",
+        "processed_at" : "2026-10-22T18:04:52Z",
         "state" : "processed"
       },
       {
         "article_count" : 9,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-10-22T15:50:30Z",
+        "latest_article_at" : "2026-10-22T18:00:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-22T16:01:13Z",
+        "processed_at" : "2026-10-22T18:04:51Z",
         "state" : "processed"
       }
     ],
