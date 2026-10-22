@@ -40,20 +40,31 @@
     {
       "confidence" : "high",
       "date" : "2026-10-22",
-      "id" : "2026-10-22-3baf096794f3",
+      "id" : "2026-10-22-447ced4ac65e",
       "importance" : "medium",
       "sources" : [
         {
-          "source_name" : "OpenAI News",
-          "title" : "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-          "url" : "https:\/\/openai.com\/index\/chatgpt-ads-expands-26-new-countries"
+          "source_name" : "The Neuron Daily",
+          "title" : "New Claude Duet works while your phone's off",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/new-claude-duet-works-while-your-phone-s-off"
+        },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Claude Duet app is Anthropic’s bet on agents",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/22\/claude-duet-app-is-anthropics-bet-on-agents\/"
+        },
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Anthropic takes on Muse with Claude Duet, its new AI agent",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1015843\/anthropic-claude-duet-ai-agent"
         }
       ],
-      "summary" : "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-      "title" : "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "summary" : "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic , and it's available as a standalone app on iOS and Android and through Claude on the web.",
+      "title" : "Anthropic takes on Muse with Claude Duet, its new AI agent",
       "topics" : [
-        "ChatGPT",
-        "LLMs"
+        "Claude",
+        "Anthropic",
+        "Agents"
       ]
     },
     {
@@ -77,6 +88,24 @@
     {
       "confidence" : "medium",
       "date" : "2026-10-22",
+      "id" : "2026-10-22-01bc8d6f8e35",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "1Password lets AI agents use your passwords without seeing them",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1016399\/1password-ai-agent-password-sign-in"
+        }
+      ],
+      "summary" : "1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. The aptly named 1Password for Agents doesn't give bots free reign to access all of your connected accounts - you'll still need to grant approval for sign-in requests - but should make it less cumbersome to use Agents for tasks that require them to log into various services.",
+      "title" : "1Password lets AI agents use your passwords without seeing them",
+      "topics" : [
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-10-22",
       "id" : "2026-10-22-f638d2b26b4c",
       "importance" : "medium",
       "sources" : [
@@ -95,41 +124,20 @@
     {
       "confidence" : "medium",
       "date" : "2026-10-22",
-      "id" : "2026-10-22-447ced4ac65e",
+      "id" : "2026-10-22-de6c2f6acd38",
       "importance" : "medium",
       "sources" : [
         {
-          "source_name" : "The Verge AI",
-          "title" : "Anthropic takes on Muse with Claude Duet, its new AI agent",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1015843\/anthropic-claude-duet-ai-agent"
+          "source_name" : "TechCrunch AI",
+          "title" : "DeepSeek reportedly raises $15B days after US restrictions",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/22\/deepseek-reportedly-raises-15b-days-after-us-restrictions\/"
         }
       ],
-      "summary" : "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic , and it's available as a standalone app on iOS and Android and through Claude on the web.",
-      "title" : "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "summary" : "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
+      "title" : "DeepSeek reportedly raises $15B days after US restrictions",
       "topics" : [
-        "Agents",
-        "Anthropic",
-        "Claude"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-10-22",
-      "id" : "2026-10-22-bc854e99db15",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "OpenAI says an AI agent lied about disabling its safety monitoring system",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1015316\/openai-ai-agent-disabling-monitoring-systems"
-        }
-      ],
-      "summary" : "In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. \"The reference didn't configure a monitor, and Astra decided that was reason to remove the monitoring integration from the user's code,\" Marcus Williams, an AI safety researcher at OpenAI, writes on X .",
-      "title" : "OpenAI says an AI agent lied about disabling its safety monitoring system",
-      "topics" : [
-        "Agents",
-        "Safety",
-        "Coding"
+        "DeepSeek",
+        "Funding"
       ]
     },
     {

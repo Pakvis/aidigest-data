@@ -48,30 +48,41 @@
     {
       "confidence" : "high",
       "consolidation" : {
-        "latest_source_at" : "2026-10-21T13:00:00Z",
-        "message_count" : 2,
-        "reason" : "Multiple messages matched the same story.",
-        "source_count" : 1
+        "latest_source_at" : "2026-10-22T13:53:26Z",
+        "message_count" : 3,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 3
       },
-      "created_at" : "2026-10-21T13:00:00Z",
-      "id" : "2026-10-22-3baf096794f3",
+      "created_at" : "2026-10-22T13:53:26Z",
+      "id" : "2026-10-22-447ced4ac65e",
       "importance" : "medium",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "OpenAI News",
-          "title" : "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-          "url" : "https:\/\/openai.com\/index\/chatgpt-ads-expands-26-new-countries"
+          "source_name" : "The Neuron Daily",
+          "title" : "New Claude Duet works while your phone's off",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/new-claude-duet-works-while-your-phone-s-off"
+        },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Claude Duet app is Anthropic’s bet on agents",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/22\/claude-duet-app-is-anthropics-bet-on-agents\/"
+        },
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Anthropic takes on Muse with Claude Duet, its new AI agent",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1015843\/anthropic-claude-duet-ai-agent"
         }
       ],
-      "summary" : "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "summary" : "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic , and it's available as a standalone app on iOS and Android and through Claude on the web.",
       "summary_method" : "source-extract",
-      "title" : "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "title" : "Anthropic takes on Muse with Claude Duet, its new AI agent",
       "topics" : [
-        "ChatGPT",
-        "LLMs"
+        "Claude",
+        "Anthropic",
+        "Agents"
       ]
     },
     {
@@ -98,6 +109,28 @@
     },
     {
       "confidence" : "medium",
+      "created_at" : "2026-10-22T13:00:00Z",
+      "id" : "2026-10-22-01bc8d6f8e35",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "1Password lets AI agents use your passwords without seeing them",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1016399\/1password-ai-agent-password-sign-in"
+        }
+      ],
+      "summary" : "1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. The aptly named 1Password for Agents doesn't give bots free reign to access all of your connected accounts - you'll still need to grant approval for sign-in requests - but should make it less cumbersome to use Agents for tasks that require them to log into various services.",
+      "summary_method" : "source-extract",
+      "title" : "1Password lets AI agents use your passwords without seeing them",
+      "topics" : [
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "medium",
       "created_at" : "2026-10-22T11:00:00Z",
       "id" : "2026-10-22-f638d2b26b4c",
       "importance" : "medium",
@@ -120,50 +153,25 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-10-21T19:53:20Z",
-      "id" : "2026-10-22-447ced4ac65e",
+      "created_at" : "2026-10-22T13:11:13Z",
+      "id" : "2026-10-22-de6c2f6acd38",
       "importance" : "medium",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "The Verge AI",
-          "title" : "Anthropic takes on Muse with Claude Duet, its new AI agent",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1015843\/anthropic-claude-duet-ai-agent"
+          "source_name" : "TechCrunch AI",
+          "title" : "DeepSeek reportedly raises $15B days after US restrictions",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/22\/deepseek-reportedly-raises-15b-days-after-us-restrictions\/"
         }
       ],
-      "summary" : "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic , and it's available as a standalone app on iOS and Android and through Claude on the web.",
+      "summary" : "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
       "summary_method" : "source-extract",
-      "title" : "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "title" : "DeepSeek reportedly raises $15B days after US restrictions",
       "topics" : [
-        "Agents",
-        "Anthropic",
-        "Claude"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-10-21T13:57:43Z",
-      "id" : "2026-10-22-bc854e99db15",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "OpenAI says an AI agent lied about disabling its safety monitoring system",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1015316\/openai-ai-agent-disabling-monitoring-systems"
-        }
-      ],
-      "summary" : "In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. \"The reference didn't configure a monitor, and Astra decided that was reason to remove the monitoring integration from the user's code,\" Marcus Williams, an AI safety researcher at OpenAI, writes on X .",
-      "summary_method" : "source-extract",
-      "title" : "OpenAI says an AI agent lied about disabling its safety monitoring system",
-      "topics" : [
-        "Agents",
-        "Safety",
-        "Coding"
+        "DeepSeek",
+        "Funding"
       ]
     },
     {
@@ -295,29 +303,29 @@
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 5,
-    "summary" : "• Conversational Gemini navigation comes to Apple CarPlay\n• OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business\n• ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+    "source_count" : 6,
+    "summary" : "• Conversational Gemini navigation comes to Apple CarPlay\n• OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business\n• Anthropic takes on Muse with Claude Duet, its new AI agent",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-22",
-  "generated_at" : "2026-10-22T12:00:42Z",
+  "generated_at" : "2026-10-22T14:03:08Z",
   "processing_report" : {
-    "generated_at" : "2026-10-22T12:00:46Z",
+    "generated_at" : "2026-10-22T14:03:13Z",
     "high_card_count" : 3,
     "source_reports" : [
       {
-        "article_count" : 8,
+        "article_count" : 9,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-10-21T12:35:03Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-22T12:00:46Z",
+        "processed_at" : "2026-10-22T14:03:13Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 12,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-22T12:00:45Z",
+        "processed_at" : "2026-10-22T14:03:11Z",
         "state" : "processed"
       },
       {
@@ -325,7 +333,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-22T12:00:43Z",
+        "processed_at" : "2026-10-22T14:03:09Z",
         "state" : "processed"
       },
       {
@@ -333,7 +341,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-10-20T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-22T12:00:44Z",
+        "processed_at" : "2026-10-22T14:03:10Z",
         "state" : "processed"
       },
       {
@@ -341,7 +349,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-21T19:44:40Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-22T12:00:43Z",
+        "processed_at" : "2026-10-22T14:03:09Z",
         "state" : "processed"
       },
       {
@@ -349,7 +357,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-21T04:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-22T12:00:42Z",
+        "processed_at" : "2026-10-22T14:03:08Z",
         "state" : "processed"
       },
       {
@@ -357,7 +365,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-10-15T16:08:03Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-22T12:00:43Z",
+        "processed_at" : "2026-10-22T14:03:09Z",
         "state" : "processed"
       },
       {
@@ -365,7 +373,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-10-22T07:51:31Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-22T12:00:43Z",
+        "processed_at" : "2026-10-22T14:03:09Z",
         "state" : "processed"
       },
       {
@@ -373,7 +381,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-22T07:42:44Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-22T12:00:43Z",
+        "processed_at" : "2026-10-22T14:03:09Z",
         "state" : "processed"
       },
       {
@@ -381,7 +389,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-10-19T13:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-22T12:00:43Z",
+        "processed_at" : "2026-10-22T14:03:08Z",
         "state" : "processed"
       },
       {
@@ -389,7 +397,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-21T12:00:20Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-22T12:00:43Z",
+        "processed_at" : "2026-10-22T14:03:09Z",
         "state" : "processed"
       },
       {
@@ -397,15 +405,15 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-20T15:57:59Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-22T12:00:42Z",
+        "processed_at" : "2026-10-22T14:03:08Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "openai-news",
-        "latest_article_at" : "2026-10-21T21:00:00Z",
+        "latest_article_at" : "2026-10-22T06:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-22T12:00:43Z",
+        "processed_at" : "2026-10-22T14:03:09Z",
         "state" : "processed"
       },
       {
@@ -413,31 +421,31 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-10-22T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-22T12:00:45Z",
+        "processed_at" : "2026-10-22T14:03:11Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "tldr-ai",
-        "latest_article_at" : "2026-10-21T00:00:00Z",
+        "latest_article_at" : "2026-10-22T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-22T12:00:42Z",
+        "processed_at" : "2026-10-22T14:03:08Z",
         "state" : "processed"
       },
       {
-        "article_count" : 15,
+        "article_count" : 16,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-10-21T22:51:22Z",
+        "latest_article_at" : "2026-10-22T13:53:26Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-22T12:00:42Z",
+        "processed_at" : "2026-10-22T14:03:08Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 10,
         "id" : "the-ai-report",
-        "latest_article_at" : "2026-10-22T11:00:00Z",
+        "latest_article_at" : "2026-10-20T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-22T12:00:45Z",
+        "processed_at" : "2026-10-22T14:03:12Z",
         "state" : "processed"
       },
       {
@@ -445,22 +453,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-21T20:40:57Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-22T12:00:43Z",
+        "processed_at" : "2026-10-22T14:03:09Z",
         "state" : "processed"
       },
       {
         "article_count" : 4,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-22T12:00:44Z",
+        "processed_at" : "2026-10-22T14:03:10Z",
         "state" : "processed"
       },
       {
-        "article_count" : 9,
+        "article_count" : 10,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-10-22T11:00:00Z",
+        "latest_article_at" : "2026-10-22T13:00:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-22T12:00:42Z",
+        "processed_at" : "2026-10-22T14:03:08Z",
         "state" : "processed"
       }
     ],
