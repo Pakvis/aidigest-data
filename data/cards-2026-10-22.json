@@ -98,6 +98,28 @@
     },
     {
       "confidence" : "medium",
+      "created_at" : "2026-10-22T11:00:00Z",
+      "id" : "2026-10-22-f638d2b26b4c",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Eiliko maker says it’s hiring an ‘independent security firm’ after Verge report on its insecure robots",
+          "url" : "https:\/\/www.theverge.com\/news\/1015824\/eiliko-energize-lab-statement-on-robot-hack-breach"
+        }
+      ],
+      "summary" : "| Photo by Sean Hollister \/ The Verge Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare . It told owners that \"your secrets are safe with me,\" but hackers could easily read complete transcripts of everything we told the toy, and that was just the beginning .",
+      "summary_method" : "source-extract",
+      "title" : "Eiliko maker says it’s hiring an ‘independent security firm’ after Verge report on its insecure robots",
+      "topics" : [
+        "Robotics"
+      ]
+    },
+    {
+      "confidence" : "medium",
       "created_at" : "2026-10-21T19:53:20Z",
       "id" : "2026-10-22-447ced4ac65e",
       "importance" : "medium",
@@ -268,28 +290,6 @@
         "Inference",
         "Agents"
       ]
-    },
-    {
-      "confidence" : "high",
-      "created_at" : "2026-10-21T07:00:00Z",
-      "id" : "2026-10-22-3ae664ce5014",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-          "url" : "https:\/\/openai.com\/index\/coordinated-disclosure-of-critical-vulnerabilities"
-        }
-      ],
-      "summary" : "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-      "summary_method" : "source-extract",
-      "title" : "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "topics" : [
-        "Agents"
-      ]
     }
   ],
   "count" : 12,
@@ -300,24 +300,24 @@
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-22",
-  "generated_at" : "2026-10-22T10:02:38Z",
+  "generated_at" : "2026-10-22T12:00:42Z",
   "processing_report" : {
-    "generated_at" : "2026-10-22T10:02:42Z",
+    "generated_at" : "2026-10-22T12:00:46Z",
     "high_card_count" : 3,
     "source_reports" : [
       {
-        "article_count" : 9,
+        "article_count" : 8,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-10-21T12:35:03Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-22T10:02:42Z",
+        "processed_at" : "2026-10-22T12:00:46Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 10,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-22T10:02:41Z",
+        "processed_at" : "2026-10-22T12:00:45Z",
         "state" : "processed"
       },
       {
@@ -325,15 +325,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-22T10:02:39Z",
+        "processed_at" : "2026-10-22T12:00:43Z",
         "state" : "processed"
       },
       {
-        "article_count" : 3,
+        "article_count" : 2,
         "id" : "aireport-nl",
         "latest_article_at" : "2026-10-20T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-22T10:02:40Z",
+        "processed_at" : "2026-10-22T12:00:44Z",
         "state" : "processed"
       },
       {
@@ -341,7 +341,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-21T19:44:40Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-22T10:02:39Z",
+        "processed_at" : "2026-10-22T12:00:43Z",
         "state" : "processed"
       },
       {
@@ -349,7 +349,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-21T04:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-22T10:02:38Z",
+        "processed_at" : "2026-10-22T12:00:42Z",
         "state" : "processed"
       },
       {
@@ -357,7 +357,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-10-15T16:08:03Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-22T10:02:39Z",
+        "processed_at" : "2026-10-22T12:00:43Z",
         "state" : "processed"
       },
       {
@@ -365,7 +365,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-10-22T07:51:31Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-22T10:02:39Z",
+        "processed_at" : "2026-10-22T12:00:43Z",
         "state" : "processed"
       },
       {
@@ -373,7 +373,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-22T07:42:44Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-22T10:02:39Z",
+        "processed_at" : "2026-10-22T12:00:43Z",
         "state" : "processed"
       },
       {
@@ -381,7 +381,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-10-19T13:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-22T10:02:39Z",
+        "processed_at" : "2026-10-22T12:00:43Z",
         "state" : "processed"
       },
       {
@@ -389,7 +389,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-21T12:00:20Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-22T10:02:39Z",
+        "processed_at" : "2026-10-22T12:00:43Z",
         "state" : "processed"
       },
       {
@@ -397,7 +397,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-20T15:57:59Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-22T10:02:39Z",
+        "processed_at" : "2026-10-22T12:00:42Z",
         "state" : "processed"
       },
       {
@@ -405,15 +405,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-10-21T21:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-22T10:02:39Z",
+        "processed_at" : "2026-10-22T12:00:43Z",
         "state" : "processed"
       },
       {
         "article_count" : 7,
         "id" : "superhuman-ai",
-        "latest_article_at" : "2026-10-20T11:02:57Z",
+        "latest_article_at" : "2026-10-22T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-22T10:02:40Z",
+        "processed_at" : "2026-10-22T12:00:45Z",
         "state" : "processed"
       },
       {
@@ -421,7 +421,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-21T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-22T10:02:39Z",
+        "processed_at" : "2026-10-22T12:00:42Z",
         "state" : "processed"
       },
       {
@@ -429,15 +429,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-10-21T22:51:22Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-22T10:02:38Z",
+        "processed_at" : "2026-10-22T12:00:42Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "the-ai-report",
-        "latest_article_at" : "2026-10-21T11:01:00Z",
+        "latest_article_at" : "2026-10-22T11:00:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-22T10:02:41Z",
+        "processed_at" : "2026-10-22T12:00:45Z",
         "state" : "processed"
       },
       {
@@ -445,22 +445,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-21T20:40:57Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-22T10:02:39Z",
+        "processed_at" : "2026-10-22T12:00:43Z",
         "state" : "processed"
       },
       {
         "article_count" : 4,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-22T10:02:40Z",
+        "processed_at" : "2026-10-22T12:00:44Z",
         "state" : "processed"
       },
       {
         "article_count" : 9,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-10-21T22:33:44Z",
+        "latest_article_at" : "2026-10-22T11:00:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-22T10:02:38Z",
+        "processed_at" : "2026-10-22T12:00:42Z",
         "state" : "processed"
       }
     ],
