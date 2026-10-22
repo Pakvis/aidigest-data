@@ -48,41 +48,6 @@
     {
       "confidence" : "high",
       "consolidation" : {
-        "latest_source_at" : "2026-10-21T06:54:09Z",
-        "message_count" : 3,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
-      },
-      "created_at" : "2026-10-21T06:54:09Z",
-      "id" : "2026-10-22-b585a6f74960",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks\/day\/cluster making $22m\/day at ~80% margin for a 81 day payback",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-deepseek-deepinfer-open-source"
-        },
-        {
-          "source_name" : "TLDR AI",
-          "title" : "DeepSeek DeepInfer 🐋, PyTorch on TPUs ⚡, Ramp’s agent framework 👨‍💻",
-          "url" : "https:\/\/tldr.tech\/ai\/2026-10-21"
-        }
-      ],
-      "summary" : "Doing some cluster math, that is roughly $166B per GW, with 81 day payback period on inference margin (DeepSeek famously plans for 10 month payback).",
-      "summary_method" : "source-extract",
-      "title" : "DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks\/day\/cluster making $22m\/day at ~80% margin for a 81 day payback",
-      "topics" : [
-        "DeepSeek",
-        "Inference",
-        "Agents"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "consolidation" : {
         "latest_source_at" : "2026-10-21T13:00:00Z",
         "message_count" : 2,
         "reason" : "Multiple messages matched the same story.",
@@ -107,28 +72,6 @@
       "topics" : [
         "ChatGPT",
         "LLMs"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "created_at" : "2026-10-21T07:00:00Z",
-      "id" : "2026-10-22-3ae664ce5014",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-          "url" : "https:\/\/openai.com\/index\/coordinated-disclosure-of-critical-vulnerabilities"
-        }
-      ],
-      "summary" : "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-      "summary_method" : "source-extract",
-      "title" : "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "topics" : [
-        "Agents"
       ]
     },
     {
@@ -268,9 +211,68 @@
       ]
     },
     {
+      "confidence" : "medium",
+      "created_at" : "2026-10-22T07:42:44Z",
+      "id" : "2026-10-22-1d73207dc3f3",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-openais-patch-the-planet-program"
+        }
+      ],
+      "summary" : "The researchers named the vulnerabilities PHP2Shell and identified them as CVE-2026-109618 and CVE-2026-109619. Their technical description places the defects in PHP’s internal handling of out-of-memory conditions and fatal errors—not in a WordPress plugin or an application’s authentication logic.",
+      "summary_method" : "source-extract",
+      "title" : "OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
+      "topics" : [
+        "GPT",
+        "Funding",
+        "Gemini"
+      ]
+    },
+    {
       "confidence" : "high",
-      "created_at" : "2026-10-21T04:50:00Z",
-      "id" : "2026-10-22-67ab44aa1350",
+      "consolidation" : {
+        "latest_source_at" : "2026-10-21T06:54:09Z",
+        "message_count" : 3,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
+      "created_at" : "2026-10-21T06:54:09Z",
+      "id" : "2026-10-22-b585a6f74960",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks\/day\/cluster making $22m\/day at ~80% margin for a 81 day payback",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-deepseek-deepinfer-open-source"
+        },
+        {
+          "source_name" : "TLDR AI",
+          "title" : "DeepSeek DeepInfer 🐋, PyTorch on TPUs ⚡, Ramp’s agent framework 👨‍💻",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-10-21"
+        }
+      ],
+      "summary" : "Doing some cluster math, that is roughly $166B per GW, with 81 day payback period on inference margin (DeepSeek famously plans for 10 month payback).",
+      "summary_method" : "source-extract",
+      "title" : "DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks\/day\/cluster making $22m\/day at ~80% margin for a 81 day payback",
+      "topics" : [
+        "DeepSeek",
+        "Inference",
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-10-21T07:00:00Z",
+      "id" : "2026-10-22-3ae664ce5014",
       "importance" : "medium",
       "key_insights" : [
 
@@ -278,16 +280,15 @@
       "sources" : [
         {
           "source_name" : "OpenAI News",
-          "title" : "Using thousands of AI agents to uncover new leads in biological data",
-          "url" : "https:\/\/openai.com\/index\/scaling-ai-research-for-complex-biological-data"
+          "title" : "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+          "url" : "https:\/\/openai.com\/index\/coordinated-disclosure-of-critical-vulnerabilities"
         }
       ],
-      "summary" : "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "summary" : "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
       "summary_method" : "source-extract",
-      "title" : "Using thousands of AI agents to uncover new leads in biological data",
+      "title" : "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
       "topics" : [
-        "Agents",
-        "Research"
+        "Agents"
       ]
     }
   ],
@@ -295,13 +296,13 @@
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 5,
-    "summary" : "• Conversational Gemini navigation comes to Apple CarPlay\n• OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business\n• DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks\/day\/cluster making $22m\/day at ~80% margin for a 81 day payback",
+    "summary" : "• Conversational Gemini navigation comes to Apple CarPlay\n• OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business\n• ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-22",
-  "generated_at" : "2026-10-22T06:01:34Z",
+  "generated_at" : "2026-10-22T08:04:22Z",
   "processing_report" : {
-    "generated_at" : "2026-10-22T06:01:39Z",
+    "generated_at" : "2026-10-22T08:04:26Z",
     "high_card_count" : 3,
     "source_reports" : [
       {
@@ -309,14 +310,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-10-21T12:35:03Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-22T06:01:38Z",
+        "processed_at" : "2026-10-22T08:04:26Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-22T06:01:38Z",
+        "processed_at" : "2026-10-22T08:04:25Z",
         "state" : "processed"
       },
       {
@@ -324,7 +325,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-22T06:01:36Z",
+        "processed_at" : "2026-10-22T08:04:23Z",
         "state" : "processed"
       },
       {
@@ -332,7 +333,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-10-20T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-22T06:01:37Z",
+        "processed_at" : "2026-10-22T08:04:24Z",
         "state" : "processed"
       },
       {
@@ -340,7 +341,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-21T19:44:40Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-22T06:01:36Z",
+        "processed_at" : "2026-10-22T08:04:23Z",
         "state" : "processed"
       },
       {
@@ -348,7 +349,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-21T04:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-22T06:01:35Z",
+        "processed_at" : "2026-10-22T08:04:22Z",
         "state" : "processed"
       },
       {
@@ -356,23 +357,23 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-10-15T16:08:03Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-22T06:01:36Z",
+        "processed_at" : "2026-10-22T08:04:23Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "huggingface-blog",
-        "latest_article_at" : "2026-10-21T18:26:30Z",
+        "latest_article_at" : "2026-10-22T07:51:31Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-22T06:01:36Z",
+        "processed_at" : "2026-10-22T08:04:23Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "latent-space",
-        "latest_article_at" : "2026-10-21T13:04:19Z",
+        "latest_article_at" : "2026-10-22T07:42:44Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-22T06:01:37Z",
+        "processed_at" : "2026-10-22T08:04:23Z",
         "state" : "processed"
       },
       {
@@ -380,7 +381,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-10-19T13:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-22T06:01:36Z",
+        "processed_at" : "2026-10-22T08:04:22Z",
         "state" : "processed"
       },
       {
@@ -388,7 +389,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-21T12:00:20Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-22T06:01:35Z",
+        "processed_at" : "2026-10-22T08:04:23Z",
         "state" : "processed"
       },
       {
@@ -396,7 +397,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-20T15:57:59Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-22T06:01:35Z",
+        "processed_at" : "2026-10-22T08:04:22Z",
         "state" : "processed"
       },
       {
@@ -404,15 +405,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-10-21T21:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-22T06:01:35Z",
+        "processed_at" : "2026-10-22T08:04:23Z",
         "state" : "processed"
       },
       {
-        "article_count" : 5,
+        "article_count" : 7,
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-10-20T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-22T06:01:38Z",
+        "processed_at" : "2026-10-22T08:04:25Z",
         "state" : "processed"
       },
       {
@@ -420,7 +421,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-21T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-22T06:01:35Z",
+        "processed_at" : "2026-10-22T08:04:22Z",
         "state" : "processed"
       },
       {
@@ -428,15 +429,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-10-21T22:51:22Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-22T06:01:35Z",
+        "processed_at" : "2026-10-22T08:04:22Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 12,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-21T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-22T06:01:39Z",
+        "processed_at" : "2026-10-22T08:04:26Z",
         "state" : "processed"
       },
       {
@@ -444,14 +445,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-21T20:40:57Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-22T06:01:36Z",
+        "processed_at" : "2026-10-22T08:04:23Z",
         "state" : "processed"
       },
       {
         "article_count" : 4,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-22T06:01:37Z",
+        "processed_at" : "2026-10-22T08:04:24Z",
         "state" : "processed"
       },
       {
@@ -459,7 +460,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-10-21T22:33:44Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-22T06:01:35Z",
+        "processed_at" : "2026-10-22T08:04:22Z",
         "state" : "processed"
       }
     ],

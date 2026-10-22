@@ -40,31 +40,6 @@
     {
       "confidence" : "high",
       "date" : "2026-10-22",
-      "id" : "2026-10-22-b585a6f74960",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks\/day\/cluster making $22m\/day at ~80% margin for a 81 day payback",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-deepseek-deepinfer-open-source"
-        },
-        {
-          "source_name" : "TLDR AI",
-          "title" : "DeepSeek DeepInfer 🐋, PyTorch on TPUs ⚡, Ramp’s agent framework 👨‍💻",
-          "url" : "https:\/\/tldr.tech\/ai\/2026-10-21"
-        }
-      ],
-      "summary" : "Doing some cluster math, that is roughly $166B per GW, with 81 day payback period on inference margin (DeepSeek famously plans for 10 month payback).",
-      "title" : "DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks\/day\/cluster making $22m\/day at ~80% margin for a 81 day payback",
-      "topics" : [
-        "DeepSeek",
-        "Inference",
-        "Agents"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "date" : "2026-10-22",
       "id" : "2026-10-22-3baf096794f3",
       "importance" : "medium",
       "sources" : [
@@ -79,24 +54,6 @@
       "topics" : [
         "ChatGPT",
         "LLMs"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "date" : "2026-10-22",
-      "id" : "2026-10-22-3ae664ce5014",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-          "url" : "https:\/\/openai.com\/index\/coordinated-disclosure-of-critical-vulnerabilities"
-        }
-      ],
-      "summary" : "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-      "title" : "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "topics" : [
-        "Agents"
       ]
     },
     {
@@ -212,22 +169,66 @@
       ]
     },
     {
+      "confidence" : "medium",
+      "date" : "2026-10-22",
+      "id" : "2026-10-22-1d73207dc3f3",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-openais-patch-the-planet-program"
+        }
+      ],
+      "summary" : "The researchers named the vulnerabilities PHP2Shell and identified them as CVE-2026-109618 and CVE-2026-109619. Their technical description places the defects in PHP’s internal handling of out-of-memory conditions and fatal errors—not in a WordPress plugin or an application’s authentication logic.",
+      "title" : "OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
+      "topics" : [
+        "GPT",
+        "Funding",
+        "Gemini"
+      ]
+    },
+    {
       "confidence" : "high",
       "date" : "2026-10-22",
-      "id" : "2026-10-22-67ab44aa1350",
+      "id" : "2026-10-22-b585a6f74960",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks\/day\/cluster making $22m\/day at ~80% margin for a 81 day payback",
+          "url" : "https:\/\/www.latent.space\/p\/ainews-deepseek-deepinfer-open-source"
+        },
+        {
+          "source_name" : "TLDR AI",
+          "title" : "DeepSeek DeepInfer 🐋, PyTorch on TPUs ⚡, Ramp’s agent framework 👨‍💻",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-10-21"
+        }
+      ],
+      "summary" : "Doing some cluster math, that is roughly $166B per GW, with 81 day payback period on inference margin (DeepSeek famously plans for 10 month payback).",
+      "title" : "DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks\/day\/cluster making $22m\/day at ~80% margin for a 81 day payback",
+      "topics" : [
+        "DeepSeek",
+        "Inference",
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-10-22",
+      "id" : "2026-10-22-3ae664ce5014",
       "importance" : "medium",
       "sources" : [
         {
           "source_name" : "OpenAI News",
-          "title" : "Using thousands of AI agents to uncover new leads in biological data",
-          "url" : "https:\/\/openai.com\/index\/scaling-ai-research-for-complex-biological-data"
+          "title" : "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+          "url" : "https:\/\/openai.com\/index\/coordinated-disclosure-of-critical-vulnerabilities"
         }
       ],
-      "summary" : "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-      "title" : "Using thousands of AI agents to uncover new leads in biological data",
+      "summary" : "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "title" : "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
       "topics" : [
-        "Agents",
-        "Research"
+        "Agents"
       ]
     },
     {
