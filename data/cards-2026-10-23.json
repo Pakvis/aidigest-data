@@ -195,6 +195,72 @@
     },
     {
       "confidence" : "medium",
+      "created_at" : "2026-10-21T20:27:41Z",
+      "id" : "2026-10-23-bf8807b3aa4c",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/21\/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai\/"
+        }
+      ],
+      "summary" : "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+      "summary_method" : "source-extract",
+      "title" : "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "topics" : [
+        "Research"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-21T19:30:00Z",
+      "id" : "2026-10-23-6cf984adca94",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/21\/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat\/"
+        }
+      ],
+      "summary" : "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+      "summary_method" : "source-extract",
+      "title" : "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "topics" : [
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-21T17:59:12Z",
+      "id" : "2026-10-23-2cf4794e86c4",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/21\/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet\/"
+        }
+      ],
+      "summary" : "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet. This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+      "summary_method" : "source-extract",
+      "title" : "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
       "created_at" : "2026-10-22T07:42:44Z",
       "id" : "2026-10-23-8b79a8905b4a",
       "importance" : "medium",
@@ -216,113 +282,34 @@
         "Funding",
         "Gemini"
       ]
-    },
-    {
-      "confidence" : "high",
-      "consolidation" : {
-        "latest_source_at" : "2026-10-21T06:54:09Z",
-        "message_count" : 2,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
-      },
-      "created_at" : "2026-10-21T06:54:09Z",
-      "id" : "2026-10-23-0ea516c48579",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks\/day\/cluster making $22m\/day at ~80% margin for a 81 day payback",
-          "url" : "https:\/\/www.latent.space\/p\/ainews-deepseek-deepinfer-open-source"
-        },
-        {
-          "source_name" : "TLDR AI",
-          "title" : "DeepSeek DeepInfer 🐋, PyTorch on TPUs ⚡, Ramp’s agent framework 👨‍💻",
-          "url" : "https:\/\/tldr.tech\/ai\/2026-10-21"
-        }
-      ],
-      "summary" : "Doing some cluster math, that is roughly $166B per GW, with 81 day payback period on inference margin (DeepSeek famously plans for 10 month payback).",
-      "summary_method" : "source-extract",
-      "title" : "DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks\/day\/cluster making $22m\/day at ~80% margin for a 81 day payback",
-      "topics" : [
-        "DeepSeek",
-        "Inference",
-        "Agents"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "created_at" : "2026-10-21T07:00:00Z",
-      "id" : "2026-10-23-4c38318ac423",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-          "url" : "https:\/\/openai.com\/index\/coordinated-disclosure-of-critical-vulnerabilities"
-        }
-      ],
-      "summary" : "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-      "summary_method" : "source-extract",
-      "title" : "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "topics" : [
-        "Agents"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-10-21T20:27:41Z",
-      "id" : "2026-10-23-bf8807b3aa4c",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/21\/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai\/"
-        }
-      ],
-      "summary" : "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
-      "summary_method" : "source-extract",
-      "title" : "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-      "topics" : [
-        "Research"
-      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 5,
+    "source_count" : 4,
     "summary" : "• ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform\n• OpenAI and Poland’s NASK partner to advance AI safety and security\n• Meta’s AI could still scrape news sites, legal experts say",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-23",
-  "generated_at" : "2026-10-23T06:05:00Z",
+  "generated_at" : "2026-10-23T08:03:13Z",
   "processing_report" : {
-    "generated_at" : "2026-10-23T06:05:04Z",
+    "generated_at" : "2026-10-23T08:03:17Z",
     "high_card_count" : 0,
     "source_reports" : [
       {
-        "article_count" : 6,
+        "article_count" : 9,
         "id" : "ai-breakfast",
-        "latest_article_at" : "2026-10-12T18:22:24Z",
+        "latest_article_at" : "2026-10-21T12:35:03Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-23T06:05:04Z",
+        "processed_at" : "2026-10-23T08:03:17Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 12,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-23T06:05:03Z",
+        "processed_at" : "2026-10-23T08:03:16Z",
         "state" : "processed"
       },
       {
@@ -330,7 +317,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-23T06:05:01Z",
+        "processed_at" : "2026-10-23T08:03:15Z",
         "state" : "processed"
       },
       {
@@ -338,7 +325,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-10-20T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-23T06:05:02Z",
+        "processed_at" : "2026-10-23T08:03:16Z",
         "state" : "processed"
       },
       {
@@ -346,7 +333,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-21T19:44:40Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-23T06:05:01Z",
+        "processed_at" : "2026-10-23T08:03:15Z",
         "state" : "processed"
       },
       {
@@ -354,7 +341,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-21T04:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-23T06:05:00Z",
+        "processed_at" : "2026-10-23T08:03:14Z",
         "state" : "processed"
       },
       {
@@ -362,7 +349,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-10-22T14:30:24Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-23T06:05:01Z",
+        "processed_at" : "2026-10-23T08:03:15Z",
         "state" : "processed"
       },
       {
@@ -370,7 +357,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-10-22T22:24:34Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-23T06:05:01Z",
+        "processed_at" : "2026-10-23T08:03:14Z",
         "state" : "processed"
       },
       {
@@ -378,7 +365,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-22T17:40:57Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-23T06:05:01Z",
+        "processed_at" : "2026-10-23T08:03:15Z",
         "state" : "processed"
       },
       {
@@ -386,7 +373,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-10-19T13:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-23T06:05:00Z",
+        "processed_at" : "2026-10-23T08:03:14Z",
         "state" : "processed"
       },
       {
@@ -394,7 +381,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-21T12:00:20Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-23T06:05:01Z",
+        "processed_at" : "2026-10-23T08:03:14Z",
         "state" : "processed"
       },
       {
@@ -402,7 +389,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-20T15:57:59Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-23T06:05:00Z",
+        "processed_at" : "2026-10-23T08:03:14Z",
         "state" : "processed"
       },
       {
@@ -410,15 +397,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-10-23T00:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-23T06:05:01Z",
+        "processed_at" : "2026-10-23T08:03:14Z",
         "state" : "processed"
       },
       {
-        "article_count" : 4,
+        "article_count" : 7,
         "id" : "superhuman-ai",
-        "latest_article_at" : "2026-10-17T14:00:00Z",
+        "latest_article_at" : "2026-10-22T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-23T06:05:04Z",
+        "processed_at" : "2026-10-23T08:03:16Z",
         "state" : "processed"
       },
       {
@@ -426,7 +413,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-22T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-23T06:05:00Z",
+        "processed_at" : "2026-10-23T08:03:14Z",
         "state" : "processed"
       },
       {
@@ -434,15 +421,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-10-23T04:00:00Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-23T06:05:00Z",
+        "processed_at" : "2026-10-23T08:03:14Z",
         "state" : "processed"
       },
       {
-        "article_count" : 8,
+        "article_count" : 12,
         "id" : "the-ai-report",
-        "latest_article_at" : "2026-10-19T11:01:00Z",
+        "latest_article_at" : "2026-10-22T20:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-23T06:05:04Z",
+        "processed_at" : "2026-10-23T08:03:17Z",
         "state" : "processed"
       },
       {
@@ -450,14 +437,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-21T20:40:57Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-23T06:05:01Z",
+        "processed_at" : "2026-10-23T08:03:15Z",
         "state" : "processed"
       },
       {
-        "article_count" : 3,
+        "article_count" : 4,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-23T06:05:03Z",
+        "processed_at" : "2026-10-23T08:03:15Z",
         "state" : "processed"
       },
       {
@@ -465,7 +452,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-10-22T21:51:25Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-23T06:05:00Z",
+        "processed_at" : "2026-10-23T08:03:14Z",
         "state" : "processed"
       }
     ],
