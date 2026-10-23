@@ -22,6 +22,24 @@
     {
       "confidence" : "medium",
       "date" : "2026-10-23",
+      "id" : "2026-10-23-a502ffb5ed17",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Now Google says it might use your Gmail and Google Photos data to target ads",
+          "url" : "https:\/\/www.theverge.com\/tech\/1017600\/google-personal-intelligence-privacy-policy-ads-update"
+        }
+      ],
+      "summary" : "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority , adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads.",
+      "title" : "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "topics" : [
+        "Tooling"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-10-23",
       "id" : "2026-10-23-f1a5c956fda0",
       "importance" : "medium",
       "sources" : [
@@ -94,7 +112,7 @@
     {
       "confidence" : "high",
       "date" : "2026-10-23",
-      "id" : "2026-10-23-f229643a9bbb",
+      "id" : "2026-10-23-cc5a86d33e02",
       "importance" : "medium",
       "sources" : [
         {
@@ -108,16 +126,16 @@
           "url" : "https:\/\/openai.com\/index\/uber-chatgpt-work-rollout"
         }
       ],
-      "summary" : "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-      "title" : "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "summary" : "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+      "title" : "Uber brings ChatGPT Work to all employees with OpenAI",
       "topics" : [
         "ChatGPT",
-        "Agents",
-        "Enterprise"
+        "Research",
+        "Workflows"
       ]
     },
     {
-      "confidence" : "high",
+      "confidence" : "medium",
       "date" : "2026-10-23",
       "id" : "2026-10-23-ab0a6d0c1e43",
       "importance" : "medium",
@@ -126,18 +144,12 @@
           "source_name" : "TechCrunch AI",
           "title" : "DeepSeek reportedly raises $15B days after US restrictions",
           "url" : "https:\/\/techcrunch.com\/2026\/10\/22\/deepseek-reportedly-raises-15b-days-after-us-restrictions\/"
-        },
-        {
-          "source_name" : "TLDR AI",
-          "title" : "DeepSeek DeepInfer 🐋, PyTorch on TPUs ⚡, Ramp’s agent framework 👨‍💻",
-          "url" : "https:\/\/tldr.tech\/ai\/2026-10-21"
         }
       ],
       "summary" : "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S.",
       "title" : "DeepSeek reportedly raises $15B days after US restrictions",
       "topics" : [
         "DeepSeek",
-        "Agents",
         "Funding"
       ]
     },
@@ -180,56 +192,41 @@
     {
       "confidence" : "medium",
       "date" : "2026-10-23",
-      "id" : "2026-10-23-2cf4794e86c4",
+      "id" : "2026-10-23-9e05de8c25ec",
       "importance" : "medium",
       "sources" : [
         {
-          "source_name" : "TechCrunch AI",
-          "title" : "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/21\/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet\/"
+          "source_name" : "Latent Space",
+          "title" : "You are the Team — Anekha Sokhal, Moshi",
+          "url" : "https:\/\/latent.space\/p\/moshi\/"
         }
       ],
-      "summary" : "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet. This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
-      "title" : "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "summary" : "When Anekha Sokhal traded energy derivatives, staying on top of the market meant tracking more information than any person could read. Now, as CEO of Moshi, she is building the tool she wished she had: a recommendation engine that connects market information to what matters for a trader’s book.",
+      "title" : "You are the Team — Anekha Sokhal, Moshi",
       "topics" : [
-        "AI"
+        "Claude",
+        "Research",
+        "Workflows"
       ]
     },
     {
-      "confidence" : "high",
+      "confidence" : "medium",
       "date" : "2026-10-23",
-      "id" : "2026-10-23-4c38318ac423",
+      "id" : "2026-10-23-8b79a8905b4a",
       "importance" : "medium",
       "sources" : [
         {
-          "source_name" : "OpenAI News",
-          "title" : "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-          "url" : "https:\/\/openai.com\/index\/coordinated-disclosure-of-critical-vulnerabilities"
+          "source_name" : "Latent Space",
+          "title" : "OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
+          "url" : "https:\/\/latent.space\/p\/ainews-openais-patch-the-planet-program\/"
         }
       ],
-      "summary" : "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-      "title" : "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "summary" : "The researchers named the vulnerabilities PHP2Shell and identified them as CVE-2026-109618 and CVE-2026-109619. Their technical description places the defects in PHP’s internal handling of out-of-memory conditions and fatal errors—not in a WordPress plugin or an application’s authentication logic.",
+      "title" : "OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
       "topics" : [
-        "Agents"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "date" : "2026-10-23",
-      "id" : "2026-10-23-e9c93e08e686",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Using thousands of AI agents to uncover new leads in biological data",
-          "url" : "https:\/\/openai.com\/index\/scaling-ai-research-for-complex-biological-data"
-        }
-      ],
-      "summary" : "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-      "title" : "Using thousands of AI agents to uncover new leads in biological data",
-      "topics" : [
-        "Agents",
-        "Research"
+        "GPT",
+        "Funding",
+        "Gemini"
       ]
     },
     {
