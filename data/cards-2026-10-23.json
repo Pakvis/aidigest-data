@@ -36,6 +36,29 @@
       ]
     },
     {
+      "confidence" : "high",
+      "created_at" : "2026-10-23T00:00:00Z",
+      "id" : "2026-10-23-a3d2519eae34",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "OpenAI and Poland’s NASK partner to advance AI safety and security",
+          "url" : "https:\/\/openai.com\/index\/openai-nask-ai-safety-security-partnership"
+        }
+      ],
+      "summary" : "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "summary_method" : "source-extract",
+      "title" : "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "topics" : [
+        "Safety",
+        "Research"
+      ]
+    },
+    {
       "confidence" : "medium",
       "created_at" : "2026-10-22T20:32:05Z",
       "id" : "2026-10-23-f1a5c956fda0",
@@ -198,7 +221,7 @@
       "confidence" : "high",
       "consolidation" : {
         "latest_source_at" : "2026-10-21T06:54:09Z",
-        "message_count" : 3,
+        "message_count" : 2,
         "reason" : "Multiple sources reported the same story.",
         "source_count" : 2
       },
@@ -252,29 +275,6 @@
       ]
     },
     {
-      "confidence" : "high",
-      "created_at" : "2026-10-21T04:50:00Z",
-      "id" : "2026-10-23-e9c93e08e686",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Using thousands of AI agents to uncover new leads in biological data",
-          "url" : "https:\/\/openai.com\/index\/scaling-ai-research-for-complex-biological-data"
-        }
-      ],
-      "summary" : "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-      "summary_method" : "source-extract",
-      "title" : "Using thousands of AI agents to uncover new leads in biological data",
-      "topics" : [
-        "Agents",
-        "Research"
-      ]
-    },
-    {
       "confidence" : "medium",
       "created_at" : "2026-10-21T20:27:41Z",
       "id" : "2026-10-23-bf8807b3aa4c",
@@ -301,28 +301,28 @@
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 5,
-    "summary" : "• ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform\n• Meta’s AI could still scrape news sites, legal experts say\n• 1Password launches a way for AI agents to log in on your behalf without seeing your password",
+    "summary" : "• ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform\n• OpenAI and Poland’s NASK partner to advance AI safety and security\n• Meta’s AI could still scrape news sites, legal experts say",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-23",
-  "generated_at" : "2026-10-23T04:01:25Z",
+  "generated_at" : "2026-10-23T06:05:00Z",
   "processing_report" : {
-    "generated_at" : "2026-10-23T04:01:29Z",
+    "generated_at" : "2026-10-23T06:05:04Z",
     "high_card_count" : 0,
     "source_reports" : [
       {
-        "article_count" : 9,
+        "article_count" : 6,
         "id" : "ai-breakfast",
-        "latest_article_at" : "2026-10-21T12:35:03Z",
+        "latest_article_at" : "2026-10-12T18:22:24Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-23T04:01:29Z",
+        "processed_at" : "2026-10-23T06:05:04Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-23T04:01:28Z",
+        "processed_at" : "2026-10-23T06:05:03Z",
         "state" : "processed"
       },
       {
@@ -330,7 +330,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-23T04:01:26Z",
+        "processed_at" : "2026-10-23T06:05:01Z",
         "state" : "processed"
       },
       {
@@ -338,7 +338,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-10-20T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-23T04:01:27Z",
+        "processed_at" : "2026-10-23T06:05:02Z",
         "state" : "processed"
       },
       {
@@ -346,7 +346,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-21T19:44:40Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-23T04:01:26Z",
+        "processed_at" : "2026-10-23T06:05:01Z",
         "state" : "processed"
       },
       {
@@ -354,7 +354,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-21T04:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-23T04:01:26Z",
+        "processed_at" : "2026-10-23T06:05:00Z",
         "state" : "processed"
       },
       {
@@ -362,7 +362,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-10-22T14:30:24Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-23T04:01:26Z",
+        "processed_at" : "2026-10-23T06:05:01Z",
         "state" : "processed"
       },
       {
@@ -370,7 +370,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-10-22T22:24:34Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-23T04:01:26Z",
+        "processed_at" : "2026-10-23T06:05:01Z",
         "state" : "processed"
       },
       {
@@ -378,7 +378,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-22T17:40:57Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-23T04:01:27Z",
+        "processed_at" : "2026-10-23T06:05:01Z",
         "state" : "processed"
       },
       {
@@ -386,7 +386,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-10-19T13:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-23T04:01:26Z",
+        "processed_at" : "2026-10-23T06:05:00Z",
         "state" : "processed"
       },
       {
@@ -394,7 +394,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-21T12:00:20Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-23T04:01:26Z",
+        "processed_at" : "2026-10-23T06:05:01Z",
         "state" : "processed"
       },
       {
@@ -402,23 +402,23 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-20T15:57:59Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-23T04:01:26Z",
+        "processed_at" : "2026-10-23T06:05:00Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "openai-news",
-        "latest_article_at" : "2026-10-22T19:00:00Z",
+        "latest_article_at" : "2026-10-23T00:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-23T04:01:26Z",
+        "processed_at" : "2026-10-23T06:05:01Z",
         "state" : "processed"
       },
       {
-        "article_count" : 7,
+        "article_count" : 4,
         "id" : "superhuman-ai",
-        "latest_article_at" : "2026-10-22T11:02:57Z",
+        "latest_article_at" : "2026-10-17T14:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-23T04:01:28Z",
+        "processed_at" : "2026-10-23T06:05:04Z",
         "state" : "processed"
       },
       {
@@ -426,23 +426,23 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-22T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-23T04:01:26Z",
+        "processed_at" : "2026-10-23T06:05:00Z",
         "state" : "processed"
       },
       {
-        "article_count" : 16,
+        "article_count" : 17,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-10-23T00:45:37Z",
+        "latest_article_at" : "2026-10-23T04:00:00Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-23T04:01:25Z",
+        "processed_at" : "2026-10-23T06:05:00Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 8,
         "id" : "the-ai-report",
-        "latest_article_at" : "2026-10-22T20:01:00Z",
+        "latest_article_at" : "2026-10-19T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-23T04:01:28Z",
+        "processed_at" : "2026-10-23T06:05:04Z",
         "state" : "processed"
       },
       {
@@ -450,14 +450,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-21T20:40:57Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-23T04:01:26Z",
+        "processed_at" : "2026-10-23T06:05:01Z",
         "state" : "processed"
       },
       {
-        "article_count" : 4,
+        "article_count" : 3,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-23T04:01:27Z",
+        "processed_at" : "2026-10-23T06:05:03Z",
         "state" : "processed"
       },
       {
@@ -465,7 +465,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-10-22T21:51:25Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-23T04:01:25Z",
+        "processed_at" : "2026-10-23T06:05:00Z",
         "state" : "processed"
       }
     ],
