@@ -24,29 +24,6 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-10-24T07:18:29Z",
-      "id" : "2026-10-25-dac2360b27c6",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
-          "url" : "https:\/\/latent.space\/p\/ainews-kimi-31\/"
-        }
-      ],
-      "summary" : "Moonshot launched Kimi K3.1 Pro with near-frontier independent benchmark results, a substantial increase in model size, and an open-weight release promised for November 4, 2026.",
-      "summary_method" : "source-extract",
-      "title" : "Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
-      "topics" : [
-        "APIs",
-        "Research"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-10-23T19:32:39Z",
       "id" : "2026-10-25-5ffae3225abf",
       "importance" : "medium",
@@ -87,6 +64,29 @@
       "title" : "Now Google says it might use your Gmail and Google Photos data to target ads",
       "topics" : [
         "Tooling"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-24T07:18:29Z",
+      "id" : "2026-10-25-dac2360b27c6",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
+          "url" : "https:\/\/latent.space\/p\/ainews-kimi-31\/"
+        }
+      ],
+      "summary" : "Moonshot launched Kimi K3.1 Pro with near-frontier independent benchmark results, a substantial increase in model size, and an open-weight release promised for November 4, 2026.",
+      "summary_method" : "source-extract",
+      "title" : "Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
+      "topics" : [
+        "APIs",
+        "Research"
       ]
     },
     {
@@ -249,26 +249,24 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-10-22T07:42:44Z",
-      "id" : "2026-10-25-1580321f1efc",
-      "importance" : "medium",
+      "created_at" : "2026-10-24T21:29:12Z",
+      "id" : "2026-10-25-a9c63cc4c428",
+      "importance" : "low",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "Latent Space",
-          "title" : "OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
-          "url" : "https:\/\/latent.space\/p\/ainews-openais-patch-the-planet-program\/"
+          "source_name" : "The Verge AI",
+          "title" : "Blue Planet III is keeping the rough edges in the age of AI",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1018205\/blue-planet-iii-authentic-organic-ai"
         }
       ],
-      "summary" : "The researchers named the vulnerabilities PHP2Shell and identified them as CVE-2026-109618 and CVE-2026-109619. Their technical description places the defects in PHP’s internal handling of out-of-memory conditions and fatal errors—not in a WordPress plugin or an application’s authentication logic.",
+      "summary" : "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots.",
       "summary_method" : "source-extract",
-      "title" : "OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
+      "title" : "Blue Planet III is keeping the rough edges in the age of AI",
       "topics" : [
-        "GPT",
-        "Funding",
-        "Gemini"
+        "AI"
       ]
     }
   ],
@@ -276,28 +274,28 @@
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 4,
-    "summary" : "• The AI graveyard: a running list of projects and startups that didn’t make it\n• Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed\n• Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+    "summary" : "• The AI graveyard: a running list of projects and startups that didn’t make it\n• Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend\n• Now Google says it might use your Gmail and Google Photos data to target ads",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-25",
-  "generated_at" : "2026-10-25T07:00:49Z",
+  "generated_at" : "2026-10-25T09:03:21Z",
   "processing_report" : {
-    "generated_at" : "2026-10-25T07:00:56Z",
+    "generated_at" : "2026-10-25T09:03:25Z",
     "high_card_count" : 0,
     "source_reports" : [
       {
-        "article_count" : 3,
+        "article_count" : 10,
         "id" : "ai-breakfast",
-        "latest_article_at" : "2026-10-16T12:39:45Z",
+        "latest_article_at" : "2026-10-23T13:40:01Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-25T07:00:56Z",
+        "processed_at" : "2026-10-25T09:03:25Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 12,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-25T07:00:54Z",
+        "processed_at" : "2026-10-25T09:03:24Z",
         "state" : "processed"
       },
       {
@@ -305,15 +303,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-25T07:00:51Z",
+        "processed_at" : "2026-10-25T09:03:22Z",
         "state" : "processed"
       },
       {
-        "article_count" : 1,
+        "article_count" : 2,
         "id" : "aireport-nl",
         "latest_article_at" : "2026-10-20T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-25T07:00:52Z",
+        "processed_at" : "2026-10-25T09:03:23Z",
         "state" : "processed"
       },
       {
@@ -321,7 +319,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-21T19:44:40Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-25T07:00:50Z",
+        "processed_at" : "2026-10-25T09:03:22Z",
         "state" : "processed"
       },
       {
@@ -329,7 +327,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-21T04:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-25T07:00:50Z",
+        "processed_at" : "2026-10-25T09:03:22Z",
         "state" : "processed"
       },
       {
@@ -337,7 +335,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-10-22T14:30:24Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-25T07:00:50Z",
+        "processed_at" : "2026-10-25T09:03:22Z",
         "state" : "processed"
       },
       {
@@ -345,7 +343,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-10-23T16:15:50Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-25T07:00:50Z",
+        "processed_at" : "2026-10-25T09:03:22Z",
         "state" : "processed"
       },
       {
@@ -353,7 +351,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-24T07:18:29Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-25T07:00:51Z",
+        "processed_at" : "2026-10-25T09:03:23Z",
         "state" : "processed"
       },
       {
@@ -361,7 +359,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-10-19T13:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-25T07:00:50Z",
+        "processed_at" : "2026-10-25T09:03:22Z",
         "state" : "processed"
       },
       {
@@ -369,7 +367,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-21T12:00:20Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-25T07:00:50Z",
+        "processed_at" : "2026-10-25T09:03:22Z",
         "state" : "processed"
       },
       {
@@ -377,7 +375,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-20T15:57:59Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-25T07:00:50Z",
+        "processed_at" : "2026-10-25T09:03:22Z",
         "state" : "processed"
       },
       {
@@ -385,15 +383,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-10-23T17:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-25T07:00:50Z",
+        "processed_at" : "2026-10-25T09:03:22Z",
         "state" : "processed"
       },
       {
-        "article_count" : 5,
+        "article_count" : 6,
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-10-24T14:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-25T07:00:53Z",
+        "processed_at" : "2026-10-25T09:03:24Z",
         "state" : "processed"
       },
       {
@@ -401,7 +399,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-23T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-25T07:00:50Z",
+        "processed_at" : "2026-10-25T09:03:22Z",
         "state" : "processed"
       },
       {
@@ -409,15 +407,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-10-24T19:00:00Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-25T07:00:50Z",
+        "processed_at" : "2026-10-25T09:03:21Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 12,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-23T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-25T07:00:55Z",
+        "processed_at" : "2026-10-25T09:03:24Z",
         "state" : "processed"
       },
       {
@@ -425,14 +423,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-21T20:40:57Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-25T07:00:50Z",
+        "processed_at" : "2026-10-25T09:03:22Z",
         "state" : "processed"
       },
       {
-        "article_count" : 4,
+        "article_count" : 5,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-25T07:00:54Z",
+        "processed_at" : "2026-10-25T09:03:23Z",
         "state" : "processed"
       },
       {
@@ -440,7 +438,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-10-24T21:29:12Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-25T07:00:50Z",
+        "processed_at" : "2026-10-25T09:03:21Z",
         "state" : "processed"
       }
     ],
