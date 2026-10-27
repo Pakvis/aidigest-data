@@ -92,6 +92,28 @@
     },
     {
       "confidence" : "medium",
+      "created_at" : "2026-10-27T13:00:00Z",
+      "id" : "2026-10-27-8fed4bf8dedb",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Opera introduces a new web standard to let users deploy AI locally in their browser",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/27\/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser\/"
+        }
+      ],
+      "summary" : "The new standard, WebAI, is designed to work with a variety of AI models.",
+      "summary_method" : "source-extract",
+      "title" : "Opera introduces a new web standard to let users deploy AI locally in their browser",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
       "created_at" : "2026-10-26T14:35:22Z",
       "id" : "2026-10-27-9658bc64d389",
       "importance" : "medium",
@@ -263,28 +285,6 @@
         "Anthropic",
         "Claude"
       ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-10-26T13:15:00Z",
-      "id" : "2026-10-27-a55ea2afa49c",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Can AI help solve the COBOL code crisis?",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1018434\/cobol-migration-legacy-code-openai-anthropic"
-        }
-      ],
-      "summary" : "On October 19th, the company touted \"substantial improvements\" in its latest AI models' ability to migrate aging software written in older programming languages into modern code, which it claims could help organizations with \"maintaining and modernizing older systems.\" That's a potentially massive deal.",
-      "summary_method" : "source-extract",
-      "title" : "Can AI help solve the COBOL code crisis?",
-      "topics" : [
-        "Coding"
-      ]
     }
   ],
   "count" : 12,
@@ -295,9 +295,9 @@
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-27",
-  "generated_at" : "2026-10-27T11:00:38Z",
+  "generated_at" : "2026-10-27T13:02:16Z",
   "processing_report" : {
-    "generated_at" : "2026-10-27T11:00:42Z",
+    "generated_at" : "2026-10-27T13:02:20Z",
     "high_card_count" : 0,
     "source_reports" : [
       {
@@ -305,14 +305,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-10-26T16:19:01Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-27T11:00:42Z",
+        "processed_at" : "2026-10-27T13:02:20Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-27T11:00:41Z",
+        "processed_at" : "2026-10-27T13:02:19Z",
         "state" : "processed"
       },
       {
@@ -320,7 +320,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-27T11:00:40Z",
+        "processed_at" : "2026-10-27T13:02:18Z",
         "state" : "processed"
       },
       {
@@ -328,7 +328,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-10-27T11:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-27T11:00:39Z",
+        "processed_at" : "2026-10-27T13:02:18Z",
         "state" : "processed"
       },
       {
@@ -336,7 +336,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-21T19:44:40Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-27T11:00:39Z",
+        "processed_at" : "2026-10-27T13:02:18Z",
         "state" : "processed"
       },
       {
@@ -344,7 +344,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-26T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-27T11:00:39Z",
+        "processed_at" : "2026-10-27T13:02:17Z",
         "state" : "processed"
       },
       {
@@ -352,7 +352,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-10-22T14:30:24Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-27T11:00:39Z",
+        "processed_at" : "2026-10-27T13:02:17Z",
         "state" : "processed"
       },
       {
@@ -360,7 +360,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-10-23T16:15:50Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-27T11:00:39Z",
+        "processed_at" : "2026-10-27T13:02:17Z",
         "state" : "processed"
       },
       {
@@ -368,7 +368,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-27T07:24:59Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-27T11:00:40Z",
+        "processed_at" : "2026-10-27T13:02:18Z",
         "state" : "processed"
       },
       {
@@ -376,7 +376,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-10-19T13:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-27T11:00:39Z",
+        "processed_at" : "2026-10-27T13:02:17Z",
         "state" : "processed"
       },
       {
@@ -384,7 +384,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-21T12:00:20Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-27T11:00:39Z",
+        "processed_at" : "2026-10-27T13:02:18Z",
         "state" : "processed"
       },
       {
@@ -392,7 +392,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-20T15:57:59Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-27T11:00:39Z",
+        "processed_at" : "2026-10-27T13:02:17Z",
         "state" : "processed"
       },
       {
@@ -400,15 +400,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-10-26T22:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-27T11:00:39Z",
+        "processed_at" : "2026-10-27T13:02:18Z",
         "state" : "processed"
       },
       {
         "article_count" : 7,
         "id" : "superhuman-ai",
-        "latest_article_at" : "2026-10-26T11:02:57Z",
+        "latest_article_at" : "2026-10-27T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-27T11:00:40Z",
+        "processed_at" : "2026-10-27T13:02:19Z",
         "state" : "processed"
       },
       {
@@ -416,23 +416,23 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-26T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-27T11:00:39Z",
+        "processed_at" : "2026-10-27T13:02:17Z",
         "state" : "processed"
       },
       {
         "article_count" : 18,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-10-27T11:00:00Z",
+        "latest_article_at" : "2026-10-27T13:00:00Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-27T11:00:38Z",
+        "processed_at" : "2026-10-27T13:02:17Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "the-ai-report",
-        "latest_article_at" : "2026-10-26T11:01:00Z",
+        "latest_article_at" : "2026-10-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-27T11:00:41Z",
+        "processed_at" : "2026-10-27T13:02:20Z",
         "state" : "processed"
       },
       {
@@ -440,14 +440,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-21T20:40:57Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-27T11:00:39Z",
+        "processed_at" : "2026-10-27T13:02:18Z",
         "state" : "processed"
       },
       {
         "article_count" : 7,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-27T11:00:40Z",
+        "processed_at" : "2026-10-27T13:02:19Z",
         "state" : "processed"
       },
       {
@@ -455,7 +455,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-10-26T23:34:58Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-27T11:00:38Z",
+        "processed_at" : "2026-10-27T13:02:17Z",
         "state" : "processed"
       }
     ],
