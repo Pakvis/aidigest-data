@@ -25,25 +25,25 @@
       ]
     },
     {
-      "confidence" : "high",
-      "created_at" : "2026-10-26T13:45:00Z",
-      "id" : "2026-10-27-4698b4357893",
+      "confidence" : "medium",
+      "created_at" : "2026-10-27T13:50:51Z",
+      "id" : "2026-10-27-0a35c013908d",
       "importance" : "medium",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "OpenAI News",
-          "title" : "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-          "url" : "https:\/\/openai.com\/index\/gpt-6-1-sol-coderabbit-code-security"
+          "source_name" : "The Verge AI",
+          "title" : "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+          "url" : "https:\/\/www.theverge.com\/tech\/1019373\/apple-pages-keynote-numbers-ai-chatbot-update"
         }
       ],
-      "summary" : "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+      "summary" : "Apple is bringing an AI assistant to its suite of productivity apps , including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote.",
       "summary_method" : "source-extract",
-      "title" : "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "title" : "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
       "topics" : [
-        "GPT"
+        "AI"
       ]
     },
     {
@@ -113,27 +113,25 @@
       ]
     },
     {
-      "confidence" : "medium",
-      "created_at" : "2026-10-26T14:35:22Z",
-      "id" : "2026-10-27-9658bc64d389",
+      "confidence" : "high",
+      "created_at" : "2026-10-26T13:45:00Z",
+      "id" : "2026-10-27-4698b4357893",
       "importance" : "medium",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "TechCrunch AI",
-          "title" : "Anthropic officially files for its public debut",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/26\/anthropic-officially-files-for-its-public-debut\/"
+          "source_name" : "OpenAI News",
+          "title" : "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+          "url" : "https:\/\/openai.com\/index\/gpt-6-1-sol-coderabbit-code-security"
         }
       ],
-      "summary" : "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+      "summary" : "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
       "summary_method" : "source-extract",
-      "title" : "Anthropic officially files for its public debut",
+      "title" : "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
       "topics" : [
-        "Anthropic",
-        "Enterprise",
-        "Safety"
+        "GPT"
       ]
     },
     {
@@ -156,6 +154,30 @@
       "title" : "ChatGPT’s expanding world of work",
       "topics" : [
         "ChatGPT"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-26T14:35:22Z",
+      "id" : "2026-10-27-9658bc64d389",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Anthropic officially files for its public debut",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/26\/anthropic-officially-files-for-its-public-debut\/"
+        }
+      ],
+      "summary" : "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+      "summary_method" : "source-extract",
+      "title" : "Anthropic officially files for its public debut",
+      "topics" : [
+        "Anthropic",
+        "Enterprise",
+        "Safety"
       ]
     },
     {
@@ -214,28 +236,6 @@
       ]
     },
     {
-      "confidence" : "high",
-      "created_at" : "2026-10-26T14:30:00Z",
-      "id" : "2026-10-27-aa175205256e",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Working with academic communities to build scientific understanding",
-          "url" : "https:\/\/openai.com\/index\/building-scientific-understanding-with-academic-communities"
-        }
-      ],
-      "summary" : "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-      "summary_method" : "source-extract",
-      "title" : "Working with academic communities to build scientific understanding",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
       "confidence" : "medium",
       "created_at" : "2026-10-26T17:30:55Z",
       "id" : "2026-10-27-9ad57c770fb1",
@@ -291,13 +291,13 @@
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 5,
-    "summary" : "• Greptile takes bug detection beyond code review with GPT-6 Astra\n• GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases\n• OpenAI announces three big science discoveries and a new way to work with academics",
+    "summary" : "• Greptile takes bug detection beyond code review with GPT-6 Astra\n• Apple is adding an AI chatbot to Pages, Keynote, and Numbers\n• OpenAI announces three big science discoveries and a new way to work with academics",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-27",
-  "generated_at" : "2026-10-27T13:02:16Z",
+  "generated_at" : "2026-10-27T15:03:59Z",
   "processing_report" : {
-    "generated_at" : "2026-10-27T13:02:20Z",
+    "generated_at" : "2026-10-27T15:04:03Z",
     "high_card_count" : 0,
     "source_reports" : [
       {
@@ -305,14 +305,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-10-26T16:19:01Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-27T13:02:20Z",
+        "processed_at" : "2026-10-27T15:04:03Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-27T13:02:19Z",
+        "processed_at" : "2026-10-27T15:04:02Z",
         "state" : "processed"
       },
       {
@@ -320,7 +320,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-27T13:02:18Z",
+        "processed_at" : "2026-10-27T15:04:00Z",
         "state" : "processed"
       },
       {
@@ -328,7 +328,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-10-27T11:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-27T13:02:18Z",
+        "processed_at" : "2026-10-27T15:04:01Z",
         "state" : "processed"
       },
       {
@@ -336,7 +336,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-21T19:44:40Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-27T13:02:18Z",
+        "processed_at" : "2026-10-27T15:04:00Z",
         "state" : "processed"
       },
       {
@@ -344,7 +344,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-26T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-27T13:02:17Z",
+        "processed_at" : "2026-10-27T15:04:00Z",
         "state" : "processed"
       },
       {
@@ -352,7 +352,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-10-22T14:30:24Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-27T13:02:17Z",
+        "processed_at" : "2026-10-27T15:04:00Z",
         "state" : "processed"
       },
       {
@@ -360,15 +360,15 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-10-23T16:15:50Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-27T13:02:17Z",
+        "processed_at" : "2026-10-27T15:04:00Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "latent-space",
-        "latest_article_at" : "2026-10-27T07:24:59Z",
+        "latest_article_at" : "2026-10-27T14:41:25Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-27T13:02:18Z",
+        "processed_at" : "2026-10-27T15:04:01Z",
         "state" : "processed"
       },
       {
@@ -376,7 +376,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-10-19T13:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-27T13:02:17Z",
+        "processed_at" : "2026-10-27T15:04:00Z",
         "state" : "processed"
       },
       {
@@ -384,7 +384,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-21T12:00:20Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-27T13:02:18Z",
+        "processed_at" : "2026-10-27T15:04:00Z",
         "state" : "processed"
       },
       {
@@ -392,7 +392,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-20T15:57:59Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-27T13:02:17Z",
+        "processed_at" : "2026-10-27T15:04:00Z",
         "state" : "processed"
       },
       {
@@ -400,7 +400,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-10-26T22:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-27T13:02:18Z",
+        "processed_at" : "2026-10-27T15:04:00Z",
         "state" : "processed"
       },
       {
@@ -408,23 +408,23 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-10-27T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-27T13:02:19Z",
+        "processed_at" : "2026-10-27T15:04:02Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "tldr-ai",
-        "latest_article_at" : "2026-10-26T00:00:00Z",
+        "latest_article_at" : "2026-10-27T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-27T13:02:17Z",
+        "processed_at" : "2026-10-27T15:04:00Z",
         "state" : "processed"
       },
       {
         "article_count" : 18,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-10-27T13:00:00Z",
+        "latest_article_at" : "2026-10-27T14:59:09Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-27T13:02:17Z",
+        "processed_at" : "2026-10-27T15:04:00Z",
         "state" : "processed"
       },
       {
@@ -432,7 +432,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-27T13:02:20Z",
+        "processed_at" : "2026-10-27T15:04:02Z",
         "state" : "processed"
       },
       {
@@ -440,22 +440,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-21T20:40:57Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-27T13:02:18Z",
+        "processed_at" : "2026-10-27T15:04:01Z",
         "state" : "processed"
       },
       {
-        "article_count" : 7,
+        "article_count" : 5,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-27T13:02:19Z",
+        "processed_at" : "2026-10-27T15:04:03Z",
         "state" : "processed"
       },
       {
         "article_count" : 7,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-10-26T23:34:58Z",
+        "latest_article_at" : "2026-10-27T13:50:51Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-27T13:02:17Z",
+        "processed_at" : "2026-10-27T15:04:00Z",
         "state" : "processed"
       }
     ],
