@@ -2,6 +2,45 @@
   "cards" : [
     {
       "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-10-26T11:02:57Z",
+        "message_count" : 3,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 3
+      },
+      "created_at" : "2026-10-26T11:02:57Z",
+      "id" : "2026-10-27-70a15ca30262",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Superhuman AI",
+          "title" : "Kimi K3.1 Pro is here, plus Dessa: an eerily realistic voice model",
+          "url" : "https:\/\/www.superhuman.ai\/p\/kimi-k3-1-pro-is-here-plus-dessa-an-eerily-realistic-voice-model"
+        },
+        {
+          "source_name" : "TLDR AI",
+          "title" : "Apple’s 20B model 📱, Kimi K3.1 Pro 🧠, Block Dessa 🗣️, frontier training security 🔐",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-10-26"
+        },
+        {
+          "source_name" : "Latent Space",
+          "title" : "Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
+          "url" : "https:\/\/latent.space\/p\/ainews-kimi-31\/"
+        }
+      ],
+      "summary" : "Moonshot launched Kimi K3.1 Pro with near-frontier independent benchmark results, a substantial increase in model size, and an open-weight release promised for November 4, 2026.",
+      "summary_method" : "source-extract",
+      "title" : "Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
+      "topics" : [
+        "APIs",
+        "Research"
+      ]
+    },
+    {
+      "confidence" : "high",
       "created_at" : "2026-10-26T22:00:00Z",
       "id" : "2026-10-27-9791650b05c9",
       "importance" : "medium",
@@ -137,40 +176,6 @@
       ]
     },
     {
-      "confidence" : "high",
-      "consolidation" : {
-        "latest_source_at" : "2026-10-26T00:00:00Z",
-        "message_count" : 2,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
-      },
-      "created_at" : "2026-10-26T00:00:00Z",
-      "id" : "2026-10-27-70a15ca30262",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TLDR AI",
-          "title" : "Apple’s 20B model 📱, Kimi K3.1 Pro 🧠, Block Dessa 🗣️, frontier training security 🔐",
-          "url" : "https:\/\/tldr.tech\/ai\/2026-10-26"
-        },
-        {
-          "source_name" : "Latent Space",
-          "title" : "Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
-          "url" : "https:\/\/latent.space\/p\/ainews-kimi-31\/"
-        }
-      ],
-      "summary" : "Moonshot launched Kimi K3.1 Pro with near-frontier independent benchmark results, a substantial increase in model size, and an open-weight release promised for November 4, 2026.",
-      "summary_method" : "source-extract",
-      "title" : "Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
-      "topics" : [
-        "APIs",
-        "Research"
-      ]
-    },
-    {
       "confidence" : "medium",
       "created_at" : "2026-10-25T12:00:00Z",
       "id" : "2026-10-27-80a14623bec7",
@@ -237,69 +242,99 @@
       ]
     },
     {
-      "confidence" : "high",
-      "created_at" : "2026-10-26T07:00:00Z",
-      "id" : "2026-10-27-edc314510d46",
+      "confidence" : "medium",
+      "created_at" : "2026-10-26T17:30:55Z",
+      "id" : "2026-10-27-9ad57c770fb1",
       "importance" : "low",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "OpenAI News",
-          "title" : "How Fanatics and OpenAI streamline the fan experience",
-          "url" : "https:\/\/openai.com\/index\/fanatics-streamline-fan-experience"
+          "source_name" : "The Verge AI",
+          "title" : "The RealReal won’t let AI agents hog designer clothing",
+          "url" : "https:\/\/www.theverge.com\/news\/1018713\/meta-muse-agentic-shopping-ai-the-realreal"
         }
       ],
-      "summary" : "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look.",
+      "summary" : "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve system.",
       "summary_method" : "source-extract",
-      "title" : "How Fanatics and OpenAI streamline the fan experience",
+      "title" : "The RealReal won’t let AI agents hog designer clothing",
       "topics" : [
-        "AI"
+        "Agents"
       ]
     },
     {
-      "confidence" : "high",
-      "created_at" : "2026-10-26T07:00:00Z",
-      "id" : "2026-10-27-f23772473c9c",
+      "confidence" : "medium",
+      "consolidation" : {
+        "latest_source_at" : "2026-10-26T17:10:23Z",
+        "message_count" : 2,
+        "reason" : "Multiple messages matched the same story.",
+        "source_count" : 1
+      },
+      "created_at" : "2026-10-26T17:10:23Z",
+      "id" : "2026-10-27-246930c011c2",
       "importance" : "low",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "OpenAI News",
-          "title" : "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-          "url" : "https:\/\/openai.com\/index\/openai-cut-incident-investigation"
+          "source_name" : "The Verge AI",
+          "title" : "Five weird details from Anthropic’s IPO filing",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1018738\/anthropic-ipo-s1-filing-weird-details"
         }
       ],
-      "summary" : "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes.",
+      "summary" : "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO.",
       "summary_method" : "source-extract",
-      "title" : "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "title" : "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI",
       "topics" : [
-        "AI"
+        "Anthropic",
+        "Claude"
       ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 5,
-    "summary" : "• Greptile takes bug detection beyond code review with GPT-6 Astra\n• GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases\n• ChatGPT’s expanding world of work",
+    "source_count" : 6,
+    "summary" : "• Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed\n• Greptile takes bug detection beyond code review with GPT-6 Astra\n• GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-27",
-  "generated_at" : "2026-10-27T05:00:59Z",
+  "generated_at" : "2026-10-27T07:02:12Z",
   "processing_report" : {
-    "generated_at" : "2026-10-27T05:01:00Z",
+    "generated_at" : "2026-10-27T07:02:16Z",
     "high_card_count" : 0,
     "source_reports" : [
+      {
+        "article_count" : 10,
+        "id" : "ai-breakfast",
+        "latest_article_at" : "2026-10-26T16:19:01Z",
+        "name" : "AI Breakfast",
+        "processed_at" : "2026-10-27T07:02:16Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 12,
+        "id" : "ai-daily-brief",
+        "name" : "AI Daily Brief",
+        "processed_at" : "2026-10-27T07:02:15Z",
+        "state" : "processed"
+      },
       {
         "article_count" : 80,
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-27T05:01:00Z",
+        "processed_at" : "2026-10-27T07:02:13Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 2,
+        "id" : "aireport-nl",
+        "latest_article_at" : "2026-10-20T10:00:00Z",
+        "name" : "AI Report (NL)",
+        "processed_at" : "2026-10-27T07:02:14Z",
         "state" : "processed"
       },
       {
@@ -307,7 +342,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-21T19:44:40Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-27T05:01:00Z",
+        "processed_at" : "2026-10-27T07:02:13Z",
         "state" : "processed"
       },
       {
@@ -315,7 +350,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-26T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-27T05:00:59Z",
+        "processed_at" : "2026-10-27T07:02:13Z",
         "state" : "processed"
       },
       {
@@ -323,7 +358,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-10-22T14:30:24Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-27T05:01:00Z",
+        "processed_at" : "2026-10-27T07:02:13Z",
         "state" : "processed"
       },
       {
@@ -331,7 +366,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-10-23T16:15:50Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-27T05:01:00Z",
+        "processed_at" : "2026-10-27T07:02:13Z",
         "state" : "processed"
       },
       {
@@ -339,7 +374,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-24T07:18:29Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-27T05:01:00Z",
+        "processed_at" : "2026-10-27T07:02:14Z",
         "state" : "processed"
       },
       {
@@ -347,7 +382,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-10-19T13:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-27T05:00:59Z",
+        "processed_at" : "2026-10-27T07:02:13Z",
         "state" : "processed"
       },
       {
@@ -355,7 +390,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-21T12:00:20Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-27T05:01:00Z",
+        "processed_at" : "2026-10-27T07:02:13Z",
         "state" : "processed"
       },
       {
@@ -363,7 +398,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-20T15:57:59Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-27T05:00:59Z",
+        "processed_at" : "2026-10-27T07:02:13Z",
         "state" : "processed"
       },
       {
@@ -371,7 +406,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-10-26T22:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-27T05:01:00Z",
+        "processed_at" : "2026-10-27T07:02:13Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 7,
+        "id" : "superhuman-ai",
+        "latest_article_at" : "2026-10-26T11:02:57Z",
+        "name" : "Superhuman AI",
+        "processed_at" : "2026-10-27T07:02:14Z",
         "state" : "processed"
       },
       {
@@ -379,7 +422,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-26T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-27T05:00:59Z",
+        "processed_at" : "2026-10-27T07:02:13Z",
         "state" : "processed"
       },
       {
@@ -387,7 +430,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-10-27T02:00:00Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-27T05:00:59Z",
+        "processed_at" : "2026-10-27T07:02:12Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 12,
+        "id" : "the-ai-report",
+        "latest_article_at" : "2026-10-26T11:01:00Z",
+        "name" : "The AI Report",
+        "processed_at" : "2026-10-27T07:02:15Z",
         "state" : "processed"
       },
       {
@@ -395,7 +446,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-21T20:40:57Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-27T05:01:00Z",
+        "processed_at" : "2026-10-27T07:02:13Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 7,
+        "id" : "the-neuron-daily",
+        "name" : "The Neuron Daily",
+        "processed_at" : "2026-10-27T07:02:14Z",
         "state" : "processed"
       },
       {
@@ -403,58 +461,10 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-10-26T23:34:58Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-27T05:00:59Z",
+        "processed_at" : "2026-10-27T07:02:12Z",
         "state" : "processed"
-      },
-      {
-        "article_count" : 0,
-        "id" : "ai-breakfast",
-        "message" : "HTTP 503 from aibreakfast.beehiiv.com",
-        "name" : "AI Breakfast",
-        "processed_at" : "2026-10-27T05:01:00Z",
-        "state" : "failed"
-      },
-      {
-        "article_count" : 0,
-        "id" : "ai-daily-brief",
-        "message" : "HTTP 503 from aidailybrief.beehiiv.com",
-        "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-27T05:00:59Z",
-        "state" : "failed"
-      },
-      {
-        "article_count" : 0,
-        "id" : "aireport-nl",
-        "message" : "HTTP 503 from www.aireport.nl",
-        "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-27T05:01:00Z",
-        "state" : "failed"
-      },
-      {
-        "article_count" : 0,
-        "id" : "superhuman-ai",
-        "message" : "HTTP 503 from www.superhuman.ai",
-        "name" : "Superhuman AI",
-        "processed_at" : "2026-10-27T05:01:00Z",
-        "state" : "failed"
-      },
-      {
-        "article_count" : 0,
-        "id" : "the-ai-report",
-        "message" : "HTTP 503 from newsletter.theaireport.ai",
-        "name" : "The AI Report",
-        "processed_at" : "2026-10-27T05:01:00Z",
-        "state" : "failed"
-      },
-      {
-        "article_count" : 0,
-        "id" : "the-neuron-daily",
-        "message" : "HTTP 503 from www.theneurondaily.com",
-        "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-27T05:00:59Z",
-        "state" : "failed"
       }
     ],
-    "state" : "partial"
+    "state" : "complete"
   }
 }
