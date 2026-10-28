@@ -57,30 +57,6 @@
       ]
     },
     {
-      "confidence" : "high",
-      "created_at" : "2026-10-27T15:00:00Z",
-      "id" : "2026-10-28-b1c98a468e71",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Retell uses OpenAI models to help power 100M monthly calls",
-          "url" : "https:\/\/openai.com\/index\/retell-ai"
-        }
-      ],
-      "summary" : "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
-      "summary_method" : "source-extract",
-      "title" : "Retell uses OpenAI models to help power 100M monthly calls",
-      "topics" : [
-        "Agents",
-        "Benchmarks",
-        "GPT"
-      ]
-    },
-    {
       "confidence" : "medium",
       "created_at" : "2026-10-28T11:27:30Z",
       "id" : "2026-10-28-6f3e0ed20203",
@@ -126,28 +102,6 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-10-27T13:50:51Z",
-      "id" : "2026-10-28-87a45376cfca",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
-          "url" : "https:\/\/www.theverge.com\/tech\/1019373\/apple-pages-keynote-numbers-ai-chatbot-update"
-        }
-      ],
-      "summary" : "Apple is bringing an AI assistant to its suite of productivity apps , including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote.",
-      "summary_method" : "source-extract",
-      "title" : "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "consolidation" : {
         "latest_source_at" : "2026-10-27T18:53:10Z",
         "message_count" : 2,
@@ -174,6 +128,30 @@
         "Anthropic",
         "LLMs",
         "Claude"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-10-27T15:00:00Z",
+      "id" : "2026-10-28-b1c98a468e71",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Retell uses OpenAI models to help power 100M monthly calls",
+          "url" : "https:\/\/openai.com\/index\/retell-ai"
+        }
+      ],
+      "summary" : "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "summary_method" : "source-extract",
+      "title" : "Retell uses OpenAI models to help power 100M monthly calls",
+      "topics" : [
+        "Agents",
+        "Benchmarks",
+        "GPT"
       ]
     },
     {
@@ -246,6 +224,50 @@
       ]
     },
     {
+      "confidence" : "medium",
+      "created_at" : "2026-10-27T13:50:51Z",
+      "id" : "2026-10-28-87a45376cfca",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+          "url" : "https:\/\/www.theverge.com\/tech\/1019373\/apple-pages-keynote-numbers-ai-chatbot-update"
+        }
+      ],
+      "summary" : "Apple is bringing an AI assistant to its suite of productivity apps , including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote.",
+      "summary_method" : "source-extract",
+      "title" : "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-27T13:00:00Z",
+      "id" : "2026-10-28-000f1711e25c",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Opera introduces a new web standard to let users deploy AI locally in their browser",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/27\/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser\/"
+        }
+      ],
+      "summary" : "The new standard, WebAI, is designed to work with a variety of AI models.",
+      "summary_method" : "source-extract",
+      "title" : "Opera introduces a new web standard to let users deploy AI locally in their browser",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
       "confidence" : "high",
       "created_at" : "2026-10-26T13:45:00Z",
       "id" : "2026-10-28-653a410a2348",
@@ -266,41 +288,19 @@
       "topics" : [
         "GPT"
       ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-10-26T23:34:58Z",
-      "id" : "2026-10-28-2d5c3c6e2c5a",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "OpenAI announces three big science discoveries and a new way to work with academics",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1019143\/openai-eth-kaseya-science-math-physics"
-        }
-      ],
-      "summary" : "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics .",
-      "summary_method" : "source-extract",
-      "title" : "OpenAI announces three big science discoveries and a new way to work with academics",
-      "topics" : [
-        "AI"
-      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 4,
-    "summary" : "• Google’s next Genie AI model generates more realistic experiences\n• Legora is building the agentic operating system for legal work\n• Retell uses OpenAI models to help power 100M monthly calls",
+    "summary" : "• Google’s next Genie AI model generates more realistic experiences\n• Legora is building the agentic operating system for legal work\n• Meta quietly launched an ‘AI pet journal’ app",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-28",
-  "generated_at" : "2026-10-28T13:01:08Z",
+  "generated_at" : "2026-10-28T15:03:30Z",
   "processing_report" : {
-    "generated_at" : "2026-10-28T13:01:12Z",
+    "generated_at" : "2026-10-28T15:03:34Z",
     "high_card_count" : 0,
     "source_reports" : [
       {
@@ -308,14 +308,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-10-26T16:19:01Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-28T13:01:12Z",
+        "processed_at" : "2026-10-28T15:03:34Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-28T13:01:11Z",
+        "processed_at" : "2026-10-28T15:03:34Z",
         "state" : "processed"
       },
       {
@@ -323,7 +323,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-28T13:01:10Z",
+        "processed_at" : "2026-10-28T15:03:32Z",
         "state" : "processed"
       },
       {
@@ -331,7 +331,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-10-27T11:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-28T13:01:10Z",
+        "processed_at" : "2026-10-28T15:03:33Z",
         "state" : "processed"
       },
       {
@@ -339,7 +339,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-21T19:44:40Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-28T13:01:10Z",
+        "processed_at" : "2026-10-28T15:03:32Z",
         "state" : "processed"
       },
       {
@@ -347,7 +347,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-26T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-28T13:01:09Z",
+        "processed_at" : "2026-10-28T15:03:31Z",
         "state" : "processed"
       },
       {
@@ -355,15 +355,15 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-10-27T16:01:38Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-28T13:01:10Z",
+        "processed_at" : "2026-10-28T15:03:32Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "huggingface-blog",
-        "latest_article_at" : "2026-10-27T17:16:52Z",
+        "latest_article_at" : "2026-10-28T14:58:17Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-28T13:01:10Z",
+        "processed_at" : "2026-10-28T15:03:32Z",
         "state" : "processed"
       },
       {
@@ -371,7 +371,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-28T08:50:30Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-28T13:01:10Z",
+        "processed_at" : "2026-10-28T15:03:33Z",
         "state" : "processed"
       },
       {
@@ -379,7 +379,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-10-19T13:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-28T13:01:09Z",
+        "processed_at" : "2026-10-28T15:03:31Z",
         "state" : "processed"
       },
       {
@@ -387,7 +387,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-21T12:00:20Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-28T13:01:10Z",
+        "processed_at" : "2026-10-28T15:03:31Z",
         "state" : "processed"
       },
       {
@@ -395,7 +395,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-20T15:57:59Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-28T13:01:09Z",
+        "processed_at" : "2026-10-28T15:03:31Z",
         "state" : "processed"
       },
       {
@@ -403,7 +403,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-10-28T09:30:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-28T13:01:10Z",
+        "processed_at" : "2026-10-28T15:03:31Z",
         "state" : "processed"
       },
       {
@@ -411,15 +411,15 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-10-28T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-28T13:01:11Z",
+        "processed_at" : "2026-10-28T15:03:33Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "tldr-ai",
-        "latest_article_at" : "2026-10-27T00:00:00Z",
+        "latest_article_at" : "2026-10-28T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-28T13:01:09Z",
+        "processed_at" : "2026-10-28T15:03:31Z",
         "state" : "processed"
       },
       {
@@ -427,7 +427,7 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-10-28T01:15:28Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-28T13:01:09Z",
+        "processed_at" : "2026-10-28T15:03:31Z",
         "state" : "processed"
       },
       {
@@ -435,7 +435,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-28T13:01:11Z",
+        "processed_at" : "2026-10-28T15:03:34Z",
         "state" : "processed"
       },
       {
@@ -443,22 +443,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-21T20:40:57Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-28T13:01:10Z",
+        "processed_at" : "2026-10-28T15:03:32Z",
         "state" : "processed"
       },
       {
         "article_count" : 7,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-28T13:01:11Z",
+        "processed_at" : "2026-10-28T15:03:33Z",
         "state" : "processed"
       },
       {
         "article_count" : 8,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-10-28T11:27:30Z",
+        "latest_article_at" : "2026-10-28T14:44:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-28T13:01:09Z",
+        "processed_at" : "2026-10-28T15:03:31Z",
         "state" : "processed"
       }
     ],
