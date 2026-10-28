@@ -3,11 +3,39 @@
     {
       "confidence" : "high",
       "consolidation" : {
-        "latest_source_at" : "2026-10-28T09:30:00Z",
+        "latest_source_at" : "2026-10-28T11:02:57Z",
         "message_count" : 2,
-        "reason" : "Multiple messages matched the same story.",
-        "source_count" : 1
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
       },
+      "created_at" : "2026-10-28T11:02:57Z",
+      "id" : "2026-10-28-f9263f8ba14f",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Superhuman AI",
+          "title" : "Google reveals its most realistic world model yet",
+          "url" : "https:\/\/www.superhuman.ai\/p\/google-reveals-its-most-realistic-world-model-yet"
+        },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/27\/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering\/"
+        }
+      ],
+      "summary" : "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
+      "summary_method" : "source-extract",
+      "title" : "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "topics" : [
+        "ChatGPT",
+        "Image Models"
+      ]
+    },
+    {
+      "confidence" : "high",
       "created_at" : "2026-10-28T09:30:00Z",
       "id" : "2026-10-28-dd844a3a8752",
       "importance" : "medium",
@@ -18,7 +46,7 @@
         {
           "source_name" : "OpenAI News",
           "title" : "Legora is building the agentic operating system for legal work",
-          "url" : "https:\/\/openai.com\/index\/legora-agentic-operating-system-for-legal-work"
+          "url" : "https:\/\/openai.com\/index\/legora"
         }
       ],
       "summary" : "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
@@ -115,69 +143,6 @@
       "title" : "Voice AI in vogue: Nvidia releases new open transcription model",
       "topics" : [
         "Tooling"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "consolidation" : {
-        "latest_source_at" : "2026-10-27T18:53:10Z",
-        "message_count" : 2,
-        "reason" : "Multiple messages matched the same story.",
-        "source_count" : 1
-      },
-      "created_at" : "2026-10-27T18:53:10Z",
-      "id" : "2026-10-28-8ac59d3bd549",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "How Anthropic ships Claude with Claude: Separating the Brain from the Hands",
-          "url" : "https:\/\/latent.space\/p\/opus55\/"
-        }
-      ],
-      "summary" : "Katelyn Lesse and Angela Jiang join Latent Space to explain the engineering behind the Claude Platform: launching Opus 5.5, separating the model’s “brain” from the agent’s “hands,” scaling APIs, and building reliable managed agents. A new introduction covers Anthropic’s S-1, the improvement and investment loops, and why the platform matters.",
-      "summary_method" : "source-extract",
-      "title" : "How Anthropic ships the 1 LLM in the World safely: Separating the Brain from the Hands",
-      "topics" : [
-        "Anthropic",
-        "LLMs",
-        "Claude"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "consolidation" : {
-        "latest_source_at" : "2026-10-27T16:30:57Z",
-        "message_count" : 2,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
-      },
-      "created_at" : "2026-10-27T16:30:57Z",
-      "id" : "2026-10-28-727702062045",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-          "url" : "https:\/\/techcrunch.com\/2026\/10\/27\/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering\/"
-        },
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Google’s next Genie AI model generates more realistic experiences",
-          "url" : "https:\/\/www.theverge.com\/tech\/1019076\/google-genie-4-ai-model"
-        }
-      ],
-      "summary" : "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help with its simulations.",
-      "summary_method" : "source-extract",
-      "title" : "Google’s next Genie AI model generates more realistic experiences",
-      "topics" : [
-        "AI"
       ]
     },
     {
@@ -294,19 +259,41 @@
       "topics" : [
         "AI"
       ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-27T13:00:00Z",
+      "id" : "2026-10-28-000f1711e25c",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Opera introduces a new web standard to let users deploy AI locally in their browser",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/27\/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser\/"
+        }
+      ],
+      "summary" : "The new standard, WebAI, is designed to work with a variety of AI models.",
+      "summary_method" : "source-extract",
+      "title" : "Opera introduces a new web standard to let users deploy AI locally in their browser",
+      "topics" : [
+        "AI"
+      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 4,
-    "summary" : "• Legora is building the agentic operating system for legal work\n• Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms\n• Meta quietly launched an ‘AI pet journal’ app",
+    "summary" : "• Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering\n• Legora is building the agentic operating system for legal work\n• Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-28",
-  "generated_at" : "2026-10-28T17:00:51Z",
+  "generated_at" : "2026-10-28T19:03:16Z",
   "processing_report" : {
-    "generated_at" : "2026-10-28T17:00:54Z",
+    "generated_at" : "2026-10-28T19:03:19Z",
     "high_card_count" : 0,
     "source_reports" : [
       {
@@ -314,14 +301,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-10-28T15:38:07Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-28T17:00:54Z",
+        "processed_at" : "2026-10-28T19:03:19Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-28T17:00:54Z",
+        "processed_at" : "2026-10-28T19:03:19Z",
         "state" : "processed"
       },
       {
@@ -329,7 +316,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-28T17:00:52Z",
+        "processed_at" : "2026-10-28T19:03:17Z",
         "state" : "processed"
       },
       {
@@ -337,15 +324,15 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-10-27T11:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-28T17:00:53Z",
+        "processed_at" : "2026-10-28T19:03:18Z",
         "state" : "processed"
       },
       {
         "article_count" : 17,
         "id" : "ars-technica-ai",
-        "latest_article_at" : "2026-10-21T19:44:40Z",
+        "latest_article_at" : "2026-10-28T17:46:32Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-28T17:00:52Z",
+        "processed_at" : "2026-10-28T19:03:17Z",
         "state" : "processed"
       },
       {
@@ -353,15 +340,15 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-26T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-28T17:00:51Z",
+        "processed_at" : "2026-10-28T19:03:17Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "deepmind-blog",
-        "latest_article_at" : "2026-10-27T16:01:38Z",
+        "latest_article_at" : "2026-10-28T17:00:58Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-28T17:00:53Z",
+        "processed_at" : "2026-10-28T19:03:17Z",
         "state" : "processed"
       },
       {
@@ -369,7 +356,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-10-28T14:58:17Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-28T17:00:52Z",
+        "processed_at" : "2026-10-28T19:03:17Z",
         "state" : "processed"
       },
       {
@@ -377,7 +364,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-28T08:50:30Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-28T17:00:52Z",
+        "processed_at" : "2026-10-28T19:03:18Z",
         "state" : "processed"
       },
       {
@@ -385,7 +372,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-10-19T13:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-28T17:00:52Z",
+        "processed_at" : "2026-10-28T19:03:17Z",
         "state" : "processed"
       },
       {
@@ -393,7 +380,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-21T12:00:20Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-28T17:00:52Z",
+        "processed_at" : "2026-10-28T19:03:17Z",
         "state" : "processed"
       },
       {
@@ -401,15 +388,15 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-20T15:57:59Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-28T17:00:51Z",
+        "processed_at" : "2026-10-28T19:03:17Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "openai-news",
-        "latest_article_at" : "2026-10-28T09:30:00Z",
+        "latest_article_at" : "2026-10-28T10:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-28T17:00:52Z",
+        "processed_at" : "2026-10-28T19:03:17Z",
         "state" : "processed"
       },
       {
@@ -417,7 +404,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-10-28T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-28T17:00:54Z",
+        "processed_at" : "2026-10-28T19:03:18Z",
         "state" : "processed"
       },
       {
@@ -425,15 +412,15 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-28T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-28T17:00:51Z",
+        "processed_at" : "2026-10-28T19:03:17Z",
         "state" : "processed"
       },
       {
-        "article_count" : 16,
+        "article_count" : 15,
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-10-28T17:00:00Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-28T17:00:51Z",
+        "processed_at" : "2026-10-28T19:03:16Z",
         "state" : "processed"
       },
       {
@@ -441,7 +428,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-28T17:00:54Z",
+        "processed_at" : "2026-10-28T19:03:19Z",
         "state" : "processed"
       },
       {
@@ -449,22 +436,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-21T20:40:57Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-28T17:00:52Z",
+        "processed_at" : "2026-10-28T19:03:17Z",
         "state" : "processed"
       },
       {
         "article_count" : 7,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-28T17:00:53Z",
+        "processed_at" : "2026-10-28T19:03:18Z",
         "state" : "processed"
       },
       {
-        "article_count" : 9,
+        "article_count" : 8,
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-10-28T17:00:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-28T17:00:51Z",
+        "processed_at" : "2026-10-28T19:03:16Z",
         "state" : "processed"
       }
     ],
