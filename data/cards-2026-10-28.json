@@ -58,29 +58,6 @@
       ]
     },
     {
-      "confidence" : "high",
-      "created_at" : "2026-10-27T07:00:00Z",
-      "id" : "2026-10-28-bfd52dde2928",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-          "url" : "https:\/\/openai.com\/index\/oracle-apps-in-chatgpt"
-        }
-      ],
-      "summary" : "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
-      "summary_method" : "source-extract",
-      "title" : "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "topics" : [
-        "ChatGPT",
-        "Agents"
-      ]
-    },
-    {
       "confidence" : "medium",
       "created_at" : "2026-10-27T16:14:18Z",
       "id" : "2026-10-28-d6b60e41fc3e",
@@ -174,6 +151,29 @@
         "Anthropic",
         "LLMs",
         "Claude"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-10-27T07:00:00Z",
+      "id" : "2026-10-28-bfd52dde2928",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+          "url" : "https:\/\/openai.com\/index\/oracle-apps-in-chatgpt"
+        }
+      ],
+      "summary" : "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "summary_method" : "source-extract",
+      "title" : "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "topics" : [
+        "ChatGPT",
+        "Agents"
       ]
     },
     {
@@ -293,13 +293,13 @@
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 4,
-    "summary" : "• Google’s next Genie AI model generates more realistic experiences\n• Retell uses OpenAI models to help power 100M monthly calls\n• OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+    "summary" : "• Google’s next Genie AI model generates more realistic experiences\n• Retell uses OpenAI models to help power 100M monthly calls\n• Firefox’s Smart Window adds AI form filling and webpage monitoring",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-28",
-  "generated_at" : "2026-10-28T05:01:58Z",
+  "generated_at" : "2026-10-28T07:04:23Z",
   "processing_report" : {
-    "generated_at" : "2026-10-28T05:02:02Z",
+    "generated_at" : "2026-10-28T07:04:26Z",
     "high_card_count" : 0,
     "source_reports" : [
       {
@@ -307,14 +307,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-10-26T16:19:01Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-28T05:02:02Z",
+        "processed_at" : "2026-10-28T07:04:26Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-28T05:02:01Z",
+        "processed_at" : "2026-10-28T07:04:25Z",
         "state" : "processed"
       },
       {
@@ -322,7 +322,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-28T05:01:59Z",
+        "processed_at" : "2026-10-28T07:04:24Z",
         "state" : "processed"
       },
       {
@@ -330,7 +330,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-10-27T11:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-28T05:02:00Z",
+        "processed_at" : "2026-10-28T07:04:24Z",
         "state" : "processed"
       },
       {
@@ -338,7 +338,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-21T19:44:40Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-28T05:01:59Z",
+        "processed_at" : "2026-10-28T07:04:24Z",
         "state" : "processed"
       },
       {
@@ -346,7 +346,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-26T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-28T05:01:59Z",
+        "processed_at" : "2026-10-28T07:04:23Z",
         "state" : "processed"
       },
       {
@@ -354,7 +354,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-10-27T16:01:38Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-28T05:01:59Z",
+        "processed_at" : "2026-10-28T07:04:24Z",
         "state" : "processed"
       },
       {
@@ -362,7 +362,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-10-27T17:16:52Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-28T05:01:59Z",
+        "processed_at" : "2026-10-28T07:04:24Z",
         "state" : "processed"
       },
       {
@@ -370,7 +370,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-27T18:53:10Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-28T05:02:00Z",
+        "processed_at" : "2026-10-28T07:04:24Z",
         "state" : "processed"
       },
       {
@@ -378,7 +378,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-10-19T13:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-28T05:01:59Z",
+        "processed_at" : "2026-10-28T07:04:24Z",
         "state" : "processed"
       },
       {
@@ -386,7 +386,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-21T12:00:20Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-28T05:01:59Z",
+        "processed_at" : "2026-10-28T07:04:24Z",
         "state" : "processed"
       },
       {
@@ -394,7 +394,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-20T15:57:59Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-28T05:01:59Z",
+        "processed_at" : "2026-10-28T07:04:23Z",
         "state" : "processed"
       },
       {
@@ -402,7 +402,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-10-27T15:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-28T05:01:59Z",
+        "processed_at" : "2026-10-28T07:04:24Z",
         "state" : "processed"
       },
       {
@@ -410,7 +410,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-10-27T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-28T05:02:00Z",
+        "processed_at" : "2026-10-28T07:04:25Z",
         "state" : "processed"
       },
       {
@@ -418,7 +418,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-27T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-28T05:01:59Z",
+        "processed_at" : "2026-10-28T07:04:23Z",
         "state" : "processed"
       },
       {
@@ -426,7 +426,7 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-10-28T01:15:28Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-28T05:01:59Z",
+        "processed_at" : "2026-10-28T07:04:23Z",
         "state" : "processed"
       },
       {
@@ -434,7 +434,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-28T05:02:02Z",
+        "processed_at" : "2026-10-28T07:04:26Z",
         "state" : "processed"
       },
       {
@@ -442,14 +442,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-21T20:40:57Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-28T05:01:59Z",
+        "processed_at" : "2026-10-28T07:04:24Z",
         "state" : "processed"
       },
       {
         "article_count" : 7,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-28T05:02:00Z",
+        "processed_at" : "2026-10-28T07:04:25Z",
         "state" : "processed"
       },
       {
@@ -457,7 +457,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-10-27T20:48:58Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-28T05:01:59Z",
+        "processed_at" : "2026-10-28T07:04:23Z",
         "state" : "processed"
       }
     ],
