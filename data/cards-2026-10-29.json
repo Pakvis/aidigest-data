@@ -70,29 +70,6 @@
       ]
     },
     {
-      "confidence" : "high",
-      "created_at" : "2026-10-28T09:30:00Z",
-      "id" : "2026-10-29-5fd5d2aaa5d5",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Legora is building the agentic operating system for legal work",
-          "url" : "https:\/\/openai.com\/index\/legora"
-        }
-      ],
-      "summary" : "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-      "summary_method" : "source-extract",
-      "title" : "Legora is building the agentic operating system for legal work",
-      "topics" : [
-        "ChatGPT",
-        "Workflows"
-      ]
-    },
-    {
       "confidence" : "medium",
       "created_at" : "2026-10-28T23:05:39Z",
       "id" : "2026-10-29-fe68b63415a9",
@@ -226,6 +203,29 @@
     },
     {
       "confidence" : "high",
+      "created_at" : "2026-10-28T09:30:00Z",
+      "id" : "2026-10-29-5fd5d2aaa5d5",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Legora is building the agentic operating system for legal work",
+          "url" : "https:\/\/openai.com\/index\/legora"
+        }
+      ],
+      "summary" : "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "summary_method" : "source-extract",
+      "title" : "Legora is building the agentic operating system for legal work",
+      "topics" : [
+        "ChatGPT",
+        "Workflows"
+      ]
+    },
+    {
+      "confidence" : "high",
       "created_at" : "2026-10-27T15:00:00Z",
       "id" : "2026-10-29-b707d6fe863f",
       "importance" : "medium",
@@ -305,28 +305,28 @@
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 4,
-    "summary" : "• Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity\n• OpenAI and ServiceNow expand partnership across enterprise workflows\n• Legora is building the agentic operating system for legal work",
+    "summary" : "• Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity\n• OpenAI and ServiceNow expand partnership across enterprise workflows\n• Adam Mosseri says negativity around AI is ‘going to get worse’",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-29",
-  "generated_at" : "2026-10-29T09:03:15Z",
+  "generated_at" : "2026-10-29T11:00:49Z",
   "processing_report" : {
-    "generated_at" : "2026-10-29T09:03:19Z",
+    "generated_at" : "2026-10-29T11:00:54Z",
     "high_card_count" : 1,
     "source_reports" : [
       {
-        "article_count" : 10,
+        "article_count" : 7,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-10-28T15:38:07Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-29T09:03:19Z",
+        "processed_at" : "2026-10-29T11:00:54Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-29T09:03:18Z",
+        "processed_at" : "2026-10-29T11:00:53Z",
         "state" : "processed"
       },
       {
@@ -334,15 +334,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-29T09:03:16Z",
+        "processed_at" : "2026-10-29T11:00:51Z",
         "state" : "processed"
       },
       {
-        "article_count" : 3,
+        "article_count" : 2,
         "id" : "aireport-nl",
         "latest_article_at" : "2026-10-27T11:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-29T09:03:17Z",
+        "processed_at" : "2026-10-29T11:00:54Z",
         "state" : "processed"
       },
       {
@@ -350,7 +350,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-28T17:46:32Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-29T09:03:16Z",
+        "processed_at" : "2026-10-29T11:00:50Z",
         "state" : "processed"
       },
       {
@@ -358,7 +358,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-26T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-29T09:03:16Z",
+        "processed_at" : "2026-10-29T11:00:50Z",
         "state" : "processed"
       },
       {
@@ -366,7 +366,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-10-28T17:00:58Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-29T09:03:16Z",
+        "processed_at" : "2026-10-29T11:00:50Z",
         "state" : "processed"
       },
       {
@@ -374,7 +374,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-10-28T14:58:17Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-29T09:03:16Z",
+        "processed_at" : "2026-10-29T11:00:50Z",
         "state" : "processed"
       },
       {
@@ -382,7 +382,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-29T05:55:19Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-29T09:03:17Z",
+        "processed_at" : "2026-10-29T11:00:51Z",
         "state" : "processed"
       },
       {
@@ -390,7 +390,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-10-19T13:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-29T09:03:16Z",
+        "processed_at" : "2026-10-29T11:00:50Z",
         "state" : "processed"
       },
       {
@@ -398,7 +398,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-21T12:00:20Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-29T09:03:16Z",
+        "processed_at" : "2026-10-29T11:00:50Z",
         "state" : "processed"
       },
       {
@@ -406,7 +406,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-20T15:57:59Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-29T09:03:16Z",
+        "processed_at" : "2026-10-29T11:00:50Z",
         "state" : "processed"
       },
       {
@@ -414,15 +414,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-10-28T13:15:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-29T09:03:16Z",
+        "processed_at" : "2026-10-29T11:00:50Z",
         "state" : "processed"
       },
       {
-        "article_count" : 7,
+        "article_count" : 8,
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-10-28T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-29T09:03:18Z",
+        "processed_at" : "2026-10-29T11:00:52Z",
         "state" : "processed"
       },
       {
@@ -430,7 +430,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-28T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-29T09:03:16Z",
+        "processed_at" : "2026-10-29T11:00:50Z",
         "state" : "processed"
       },
       {
@@ -438,15 +438,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-10-28T21:48:37Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-29T09:03:15Z",
+        "processed_at" : "2026-10-29T11:00:50Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 11,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-29T09:03:19Z",
+        "processed_at" : "2026-10-29T11:00:53Z",
         "state" : "processed"
       },
       {
@@ -454,22 +454,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-21T20:40:57Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-29T09:03:16Z",
+        "processed_at" : "2026-10-29T11:00:51Z",
         "state" : "processed"
       },
       {
-        "article_count" : 8,
+        "article_count" : 9,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-29T09:03:17Z",
+        "processed_at" : "2026-10-29T11:00:52Z",
         "state" : "processed"
       },
       {
         "article_count" : 8,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-10-28T23:05:39Z",
+        "latest_article_at" : "2026-10-29T10:00:04Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-29T09:03:15Z",
+        "processed_at" : "2026-10-29T11:00:50Z",
         "state" : "processed"
       }
     ],
