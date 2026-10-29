@@ -3,23 +3,18 @@
     {
       "confidence" : "high",
       "consolidation" : {
-        "latest_source_at" : "2026-10-29T05:55:19Z",
-        "message_count" : 3,
+        "latest_source_at" : "2026-10-28T20:03:00Z",
+        "message_count" : 2,
         "reason" : "Multiple sources reported the same story.",
-        "source_count" : 3
+        "source_count" : 2
       },
-      "created_at" : "2026-10-29T05:55:19Z",
+      "created_at" : "2026-10-28T20:03:00Z",
       "id" : "2026-10-29-306862739188",
       "importance" : "high",
       "key_insights" : [
 
       ],
       "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
-          "url" : "https:\/\/latent.space\/p\/ainews-gemini-4-carbon\/"
-        },
         {
           "source_name" : "The Verge AI",
           "title" : "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
@@ -37,6 +32,39 @@
       "topics" : [
         "Gemini",
         "Agents"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-10-29T11:02:57Z",
+        "message_count" : 2,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
+      "created_at" : "2026-10-29T11:02:57Z",
+      "id" : "2026-10-29-6e4d17efe286",
+      "importance" : "high",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Superhuman AI",
+          "title" : "Apple's touchscreen MacBook & Gemini 4 Carbon land same day",
+          "url" : "https:\/\/www.superhuman.ai\/p\/apple-s-touchscreen-macbook-gemini-4-carbon-land-same-day"
+        },
+        {
+          "source_name" : "Latent Space",
+          "title" : "Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
+          "url" : "https:\/\/latent.space\/p\/ainews-gemini-4-carbon\/"
+        }
+      ],
+      "summary" : "Commenters note that despite apparent model improvements, Gemini 4 Carbon is reportedly not publicly available and may be limited to select “cyber crews,” with no release date mentioned. This limits independent benchmarking or validation of any claimed performance gains.",
+      "summary_method" : "source-extract",
+      "title" : "Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
+      "topics" : [
+        "Gemini"
       ]
     },
     {
@@ -137,28 +165,6 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-10-28T11:27:30Z",
-      "id" : "2026-10-29-cf81cc2c7c3f",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Meta quietly launched an ‘AI pet journal’ app",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1020410\/meta-launched-ai-pet-journal-app-waddle-world"
-        }
-      ],
-      "summary" : "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal disguised as a pet.\" Users should talk, not type, with their pets, the description says, as well as play \"cozy games\" like stacking groceries or word games.",
-      "summary_method" : "source-extract",
-      "title" : "Meta quietly launched an ‘AI pet journal’ app",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-10-28T17:00:00Z",
       "id" : "2026-10-29-fbd45c5e4eb4",
       "importance" : "medium",
@@ -250,6 +256,28 @@
     },
     {
       "confidence" : "medium",
+      "created_at" : "2026-10-28T11:27:30Z",
+      "id" : "2026-10-29-cf81cc2c7c3f",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Meta quietly launched an ‘AI pet journal’ app",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1020410\/meta-launched-ai-pet-journal-app-waddle-world"
+        }
+      ],
+      "summary" : "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal disguised as a pet.\" Users should talk, not type, with their pets, the description says, as well as play \"cozy games\" like stacking groceries or word games.",
+      "summary_method" : "source-extract",
+      "title" : "Meta quietly launched an ‘AI pet journal’ app",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
       "consolidation" : {
         "latest_source_at" : "2026-10-27T18:53:10Z",
         "message_count" : 2,
@@ -277,56 +305,34 @@
         "LLMs",
         "Claude"
       ]
-    },
-    {
-      "confidence" : "high",
-      "created_at" : "2026-10-27T00:00:00Z",
-      "id" : "2026-10-29-454b884197a7",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "How Check Point accelerates vulnerability research with Daybreak",
-          "url" : "https:\/\/openai.com\/index\/check-point-daybreak"
-        }
-      ],
-      "summary" : "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-      "summary_method" : "source-extract",
-      "title" : "How Check Point accelerates vulnerability research with Daybreak",
-      "topics" : [
-        "Research"
-      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 4,
-    "summary" : "• Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity\n• OpenAI and ServiceNow expand partnership across enterprise workflows\n• Adam Mosseri says negativity around AI is ‘going to get worse’",
+    "source_count" : 5,
+    "summary" : "• Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity\n• Gemini 4 Carbon tops leaderboards, launches for cyber defenders\n• OpenAI and ServiceNow expand partnership across enterprise workflows",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-29",
-  "generated_at" : "2026-10-29T11:00:49Z",
+  "generated_at" : "2026-10-29T13:03:36Z",
   "processing_report" : {
-    "generated_at" : "2026-10-29T11:00:54Z",
-    "high_card_count" : 1,
+    "generated_at" : "2026-10-29T13:03:41Z",
+    "high_card_count" : 2,
     "source_reports" : [
       {
-        "article_count" : 7,
+        "article_count" : 9,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-10-28T15:38:07Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-29T11:00:54Z",
+        "processed_at" : "2026-10-29T13:03:40Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 9,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-29T11:00:53Z",
+        "processed_at" : "2026-10-29T13:03:40Z",
         "state" : "processed"
       },
       {
@@ -334,7 +340,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-29T11:00:51Z",
+        "processed_at" : "2026-10-29T13:03:38Z",
         "state" : "processed"
       },
       {
@@ -342,7 +348,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-10-27T11:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-29T11:00:54Z",
+        "processed_at" : "2026-10-29T13:03:39Z",
         "state" : "processed"
       },
       {
@@ -350,7 +356,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-28T17:46:32Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-29T11:00:50Z",
+        "processed_at" : "2026-10-29T13:03:38Z",
         "state" : "processed"
       },
       {
@@ -358,7 +364,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-26T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-29T11:00:50Z",
+        "processed_at" : "2026-10-29T13:03:37Z",
         "state" : "processed"
       },
       {
@@ -366,15 +372,15 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-10-28T17:00:58Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-29T11:00:50Z",
+        "processed_at" : "2026-10-29T13:03:37Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "huggingface-blog",
-        "latest_article_at" : "2026-10-28T14:58:17Z",
+        "latest_article_at" : "2026-10-29T00:00:00Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-29T11:00:50Z",
+        "processed_at" : "2026-10-29T13:03:37Z",
         "state" : "processed"
       },
       {
@@ -382,7 +388,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-29T05:55:19Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-29T11:00:51Z",
+        "processed_at" : "2026-10-29T13:03:38Z",
         "state" : "processed"
       },
       {
@@ -390,7 +396,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-10-19T13:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-29T11:00:50Z",
+        "processed_at" : "2026-10-29T13:03:37Z",
         "state" : "processed"
       },
       {
@@ -398,7 +404,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-21T12:00:20Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-29T11:00:50Z",
+        "processed_at" : "2026-10-29T13:03:37Z",
         "state" : "processed"
       },
       {
@@ -406,7 +412,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-20T15:57:59Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-29T11:00:50Z",
+        "processed_at" : "2026-10-29T13:03:37Z",
         "state" : "processed"
       },
       {
@@ -414,15 +420,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-10-28T13:15:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-29T11:00:50Z",
+        "processed_at" : "2026-10-29T13:03:37Z",
         "state" : "processed"
       },
       {
         "article_count" : 8,
         "id" : "superhuman-ai",
-        "latest_article_at" : "2026-10-28T11:02:57Z",
+        "latest_article_at" : "2026-10-29T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-29T11:00:52Z",
+        "processed_at" : "2026-10-29T13:03:39Z",
         "state" : "processed"
       },
       {
@@ -430,7 +436,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-28T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-29T11:00:50Z",
+        "processed_at" : "2026-10-29T13:03:37Z",
         "state" : "processed"
       },
       {
@@ -438,15 +444,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-10-28T21:48:37Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-29T11:00:50Z",
+        "processed_at" : "2026-10-29T13:03:37Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 10,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-29T11:00:53Z",
+        "processed_at" : "2026-10-29T13:03:41Z",
         "state" : "processed"
       },
       {
@@ -454,14 +460,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-21T20:40:57Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-29T11:00:51Z",
+        "processed_at" : "2026-10-29T13:03:37Z",
         "state" : "processed"
       },
       {
-        "article_count" : 9,
+        "article_count" : 7,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-29T11:00:52Z",
+        "processed_at" : "2026-10-29T13:03:40Z",
         "state" : "processed"
       },
       {
@@ -469,7 +475,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-10-29T10:00:04Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-29T11:00:50Z",
+        "processed_at" : "2026-10-29T13:03:37Z",
         "state" : "processed"
       }
     ],
