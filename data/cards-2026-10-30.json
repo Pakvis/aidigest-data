@@ -83,28 +83,6 @@
       ]
     },
     {
-      "confidence" : "medium",
-      "created_at" : "2026-10-28T20:03:00Z",
-      "id" : "2026-10-30-d58d17441089",
-      "importance" : "high",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-          "url" : "https:\/\/www.theverge.com\/tech\/1021339\/google-gemini-4-carbon-cybersecurity-frontier"
-        }
-      ],
-      "summary" : "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity.",
-      "summary_method" : "source-extract",
-      "title" : "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-      "topics" : [
-        "Gemini"
-      ]
-    },
-    {
       "confidence" : "high",
       "consolidation" : {
         "latest_source_at" : "2026-10-29T17:00:00Z",
@@ -290,34 +268,56 @@
       "topics" : [
         "AI"
       ]
+    },
+    {
+      "confidence" : "low",
+      "created_at" : "2026-10-29T13:20:35Z",
+      "id" : "2026-10-30-a745f6997563",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Algorithmic Bridge",
+          "title" : "New Study: Anthropic Just Gave You a Reason to Stop Working With AI",
+          "url" : "https:\/\/www.thealgorithmicbridge.com\/p\/new-study-anthropic-just-gave-you"
+        }
+      ],
+      "summary" : "A new Anthropic study suggests most people would indeed change answers. It doesn’t matter much if you have stated a preference, you’d likely switch toward the AI’s choice anyway.",
+      "summary_method" : "source-extract",
+      "title" : "New Study: Anthropic Just Gave You a Reason to Stop Working With AI",
+      "topics" : [
+        "Anthropic"
+      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 7,
+    "source_count" : 8,
     "summary" : "• Gemini 4 Carbon tops leaderboards, launches for cyber defenders\n• OpenAI-backed Thrive Holdings acquires ADT\n• Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-10-30",
-  "generated_at" : "2026-10-30T09:03:47Z",
+  "generated_at" : "2026-10-30T11:02:10Z",
   "processing_report" : {
-    "generated_at" : "2026-10-30T09:03:51Z",
-    "high_card_count" : 4,
+    "generated_at" : "2026-10-30T11:02:13Z",
+    "high_card_count" : 3,
     "source_reports" : [
       {
-        "article_count" : 10,
+        "article_count" : 9,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-10-28T15:38:07Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-10-30T09:03:51Z",
+        "processed_at" : "2026-10-30T11:02:13Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-10-30T09:03:49Z",
+        "processed_at" : "2026-10-30T11:02:12Z",
         "state" : "processed"
       },
       {
@@ -325,7 +325,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-10-30T09:03:48Z",
+        "processed_at" : "2026-10-30T11:02:11Z",
         "state" : "processed"
       },
       {
@@ -333,7 +333,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-10-27T11:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-10-30T09:03:49Z",
+        "processed_at" : "2026-10-30T11:02:11Z",
         "state" : "processed"
       },
       {
@@ -341,7 +341,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-28T17:46:32Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-10-30T09:03:48Z",
+        "processed_at" : "2026-10-30T11:02:11Z",
         "state" : "processed"
       },
       {
@@ -349,7 +349,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-26T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-10-30T09:03:48Z",
+        "processed_at" : "2026-10-30T11:02:10Z",
         "state" : "processed"
       },
       {
@@ -357,7 +357,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-10-28T17:00:58Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-10-30T09:03:48Z",
+        "processed_at" : "2026-10-30T11:02:11Z",
         "state" : "processed"
       },
       {
@@ -365,7 +365,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-10-29T13:37:07Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-10-30T09:03:48Z",
+        "processed_at" : "2026-10-30T11:02:11Z",
         "state" : "processed"
       },
       {
@@ -373,7 +373,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-30T08:24:29Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-10-30T09:03:48Z",
+        "processed_at" : "2026-10-30T11:02:11Z",
         "state" : "processed"
       },
       {
@@ -381,7 +381,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-10-19T13:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-10-30T09:03:48Z",
+        "processed_at" : "2026-10-30T11:02:10Z",
         "state" : "processed"
       },
       {
@@ -389,7 +389,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-29T12:00:07Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-10-30T09:03:48Z",
+        "processed_at" : "2026-10-30T11:02:11Z",
         "state" : "processed"
       },
       {
@@ -397,7 +397,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-20T15:57:59Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-10-30T09:03:48Z",
+        "processed_at" : "2026-10-30T11:02:10Z",
         "state" : "processed"
       },
       {
@@ -405,7 +405,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-10-29T17:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-10-30T09:03:48Z",
+        "processed_at" : "2026-10-30T11:02:11Z",
         "state" : "processed"
       },
       {
@@ -413,7 +413,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-10-29T11:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-10-30T09:03:49Z",
+        "processed_at" : "2026-10-30T11:02:12Z",
         "state" : "processed"
       },
       {
@@ -421,7 +421,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-29T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-10-30T09:03:48Z",
+        "processed_at" : "2026-10-30T11:02:10Z",
         "state" : "processed"
       },
       {
@@ -429,15 +429,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-10-30T01:20:48Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-10-30T09:03:47Z",
+        "processed_at" : "2026-10-30T11:02:10Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 11,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-10-30T09:03:50Z",
+        "processed_at" : "2026-10-30T11:02:13Z",
         "state" : "processed"
       },
       {
@@ -445,22 +445,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-29T13:20:35Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-10-30T09:03:48Z",
+        "processed_at" : "2026-10-30T11:02:11Z",
         "state" : "processed"
       },
       {
-        "article_count" : 9,
+        "article_count" : 10,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-10-30T09:03:49Z",
+        "processed_at" : "2026-10-30T11:02:13Z",
         "state" : "processed"
       },
       {
         "article_count" : 10,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-10-30T09:00:00Z",
+        "latest_article_at" : "2026-10-30T11:00:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-10-30T09:03:48Z",
+        "processed_at" : "2026-10-30T11:02:10Z",
         "state" : "processed"
       }
     ],
