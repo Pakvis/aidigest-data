@@ -138,6 +138,28 @@
     },
     {
       "confidence" : "medium",
+      "created_at" : "2026-11-01T20:57:58Z",
+      "id" : "2026-11-01-c93d3ef106a3",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "AI can make tech CEOs’ lives easier. What about everyone else?",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/01\/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else\/"
+        }
+      ],
+      "summary" : "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "summary_method" : "source-extract",
+      "title" : "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
       "created_at" : "2026-10-31T21:41:00Z",
       "id" : "2026-11-01-7f88759f9d44",
       "importance" : "low",
@@ -204,50 +226,6 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-10-30T20:40:13Z",
-      "id" : "2026-11-01-6f257668c91e",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Ars Technica AI",
-          "title" : "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
-          "url" : "https:\/\/arstechnica.com\/tech-policy\/2026\/10\/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job\/"
-        }
-      ],
-      "summary" : "Schnell didn't make it especially easy for the committee to investigate his AI use; the report uses the term \"insufficient cooperation.\" He did turn over his Dartmouth laptop, but he did not turn over logs from his personal LLM accounts related to the writings in question.",
-      "summary_method" : "source-extract",
-      "title" : "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
-      "topics" : [
-        "LLMs"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-10-30T19:30:52Z",
-      "id" : "2026-11-01-7e34c3cb707c",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Ars Technica AI",
-          "title" : "Basically no one is using AI agents for their DoorDash orders",
-          "url" : "https:\/\/arstechnica.com\/ai\/2026\/10\/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far\/"
-        }
-      ],
-      "summary" : "As AI tools and agents have continued their march across all aspects of digital life, many companies are trying to use LLMs to improve the experience of purchasing goods and services on the Internet. Thus far, though, a vanishingly small number of people seem to be taking advantage of those capabilities, at least when it comes to using the popular food delivery app DoorDash with an outside AI agent.",
-      "summary_method" : "source-extract",
-      "title" : "Basically no one is using AI agents for their DoorDash orders",
-      "topics" : [
-        "Agents"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-10-30T22:56:13Z",
       "id" : "2026-11-01-1db606efd2a6",
       "importance" : "low",
@@ -267,19 +245,41 @@
       "topics" : [
         "AI"
       ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-10-30T21:17:40Z",
+      "id" : "2026-11-01-98c568bda4fc",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Cracks are emerging in the AI spending boom",
+          "url" : "https:\/\/techcrunch.com\/2026\/10\/30\/cracks-are-emerging-in-the-ai-spending-boom\/"
+        }
+      ],
+      "summary" : "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+      "summary_method" : "source-extract",
+      "title" : "Cracks are emerging in the AI spending boom",
+      "topics" : [
+        "AI"
+      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 5,
+    "source_count" : 4,
     "summary" : "• The biggest names in AI are backing a new way to opt out of scraping\n• OpenAI reportedly lowers funding target for new round\n• Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-11-01",
-  "generated_at" : "2026-11-01T19:03:08Z",
+  "generated_at" : "2026-11-01T21:04:54Z",
   "processing_report" : {
-    "generated_at" : "2026-11-01T19:03:12Z",
+    "generated_at" : "2026-11-01T21:04:57Z",
     "high_card_count" : 1,
     "source_reports" : [
       {
@@ -287,14 +287,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-10-30T14:00:53Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-11-01T19:03:12Z",
+        "processed_at" : "2026-11-01T21:04:57Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-11-01T19:03:11Z",
+        "processed_at" : "2026-11-01T21:04:56Z",
         "state" : "processed"
       },
       {
@@ -302,7 +302,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-11-01T19:03:10Z",
+        "processed_at" : "2026-11-01T21:04:55Z",
         "state" : "processed"
       },
       {
@@ -310,7 +310,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-10-27T11:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-11-01T19:03:10Z",
+        "processed_at" : "2026-11-01T21:04:55Z",
         "state" : "processed"
       },
       {
@@ -318,7 +318,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-10-30T20:40:13Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-11-01T19:03:10Z",
+        "processed_at" : "2026-11-01T21:04:55Z",
         "state" : "processed"
       },
       {
@@ -326,7 +326,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-10-26T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-11-01T19:03:09Z",
+        "processed_at" : "2026-11-01T21:04:54Z",
         "state" : "processed"
       },
       {
@@ -334,7 +334,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-10-28T17:00:58Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-11-01T19:03:09Z",
+        "processed_at" : "2026-11-01T21:04:55Z",
         "state" : "processed"
       },
       {
@@ -342,7 +342,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-10-30T17:57:24Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-11-01T19:03:10Z",
+        "processed_at" : "2026-11-01T21:04:55Z",
         "state" : "processed"
       },
       {
@@ -350,7 +350,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-10-31T16:05:00Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-11-01T19:03:10Z",
+        "processed_at" : "2026-11-01T21:04:57Z",
         "state" : "processed"
       },
       {
@@ -358,7 +358,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-10-19T13:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-11-01T19:03:10Z",
+        "processed_at" : "2026-11-01T21:04:54Z",
         "state" : "processed"
       },
       {
@@ -366,7 +366,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-10-29T12:00:07Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-11-01T19:03:10Z",
+        "processed_at" : "2026-11-01T21:04:55Z",
         "state" : "processed"
       },
       {
@@ -374,7 +374,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-20T15:57:59Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-11-01T19:03:09Z",
+        "processed_at" : "2026-11-01T21:04:54Z",
         "state" : "processed"
       },
       {
@@ -382,7 +382,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-10-30T09:30:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-11-01T19:03:09Z",
+        "processed_at" : "2026-11-01T21:04:55Z",
         "state" : "processed"
       },
       {
@@ -390,7 +390,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-10-31T14:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-11-01T19:03:11Z",
+        "processed_at" : "2026-11-01T21:04:56Z",
         "state" : "processed"
       },
       {
@@ -398,15 +398,15 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-10-30T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-11-01T19:03:09Z",
+        "processed_at" : "2026-11-01T21:04:54Z",
         "state" : "processed"
       },
       {
-        "article_count" : 13,
+        "article_count" : 14,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-10-31T21:41:00Z",
+        "latest_article_at" : "2026-11-01T20:57:58Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-11-01T19:03:09Z",
+        "processed_at" : "2026-11-01T21:04:54Z",
         "state" : "processed"
       },
       {
@@ -414,7 +414,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-11-01T19:03:11Z",
+        "processed_at" : "2026-11-01T21:04:56Z",
         "state" : "processed"
       },
       {
@@ -422,14 +422,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-10-29T13:20:35Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-11-01T19:03:10Z",
+        "processed_at" : "2026-11-01T21:04:55Z",
         "state" : "processed"
       },
       {
-        "article_count" : 9,
+        "article_count" : 10,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-11-01T19:03:11Z",
+        "processed_at" : "2026-11-01T21:04:56Z",
         "state" : "processed"
       },
       {
@@ -437,7 +437,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-10-31T16:05:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-11-01T19:03:09Z",
+        "processed_at" : "2026-11-01T21:04:54Z",
         "state" : "processed"
       }
     ],
