@@ -95,24 +95,6 @@
     {
       "confidence" : "medium",
       "date" : "2026-11-02",
-      "id" : "2026-11-02-4cd403470062",
-      "importance" : "high",
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "The biggest names in AI are backing a new way to opt out of scraping",
-          "url" : "https:\/\/www.theverge.com\/tech\/1023763\/openai-google-microsoft-ai-scraping-standard-opt-out"
-        }
-      ],
-      "summary" : "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable .",
-      "title" : "The biggest names in AI are backing a new way to opt out of scraping",
-      "topics" : [
-        "Anthropic"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-11-02",
       "id" : "2026-11-02-1de11a72b015",
       "importance" : "medium",
       "sources" : [
@@ -201,6 +183,24 @@
         "Agents",
         "Benchmarks",
         "Safety"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-11-02",
+      "id" : "2026-11-02-a62c7ef034fc",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Qodo builds context into AI code review with Codex",
+          "url" : "https:\/\/openai.com\/index\/qodo-codex-plugin"
+        }
+      ],
+      "summary" : "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+      "title" : "Qodo builds context into AI code review with Codex",
+      "topics" : [
+        "Coding"
       ]
     },
     {
