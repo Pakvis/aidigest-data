@@ -160,14 +160,8 @@
     },
     {
       "confidence" : "medium",
-      "consolidation" : {
-        "latest_source_at" : "2026-11-04T19:30:04Z",
-        "message_count" : 2,
-        "reason" : "Multiple messages matched the same story.",
-        "source_count" : 1
-      },
-      "created_at" : "2026-11-04T19:30:04Z",
-      "id" : "2026-11-05-8b3ae90d0dd3",
+      "created_at" : "2026-11-05T19:48:28Z",
+      "id" : "2026-11-05-4da6a0521082",
       "importance" : "medium",
       "key_insights" : [
 
@@ -175,15 +169,37 @@
       "sources" : [
         {
           "source_name" : "TechCrunch AI",
-          "title" : "Open source AI is booming. Hugging Face explains who profits.",
-          "url" : "https:\/\/techcrunch.com\/video\/open-source-ai-is-booming-hugging-face-explains-who-profits\/"
+          "title" : "Meta says US users can now video chat with their Muse AI avatar",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/05\/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar\/"
         }
       ],
-      "summary" : "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility.",
+      "summary" : "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
       "summary_method" : "source-extract",
-      "title" : "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+      "title" : "Meta says US users can now video chat with their Muse AI avatar",
       "topics" : [
-        "Enterprise"
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-05T19:06:12Z",
+      "id" : "2026-11-05-89765a5ac2d4",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "OpenAI released a new cybersecurity model. Is that enough?",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/05\/openai-released-a-new-cybersecurity-model-is-that-enough\/"
+        }
+      ],
+      "summary" : "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+      "summary_method" : "source-extract",
+      "title" : "OpenAI released a new cybersecurity model. Is that enough?",
+      "topics" : [
+        "AI"
       ]
     },
     {
@@ -210,6 +226,28 @@
       ]
     },
     {
+      "confidence" : "medium",
+      "created_at" : "2026-11-04T19:30:04Z",
+      "id" : "2026-11-05-98dc5dd019d1",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Open source AI is booming. Hugging Face explains who profits.",
+          "url" : "https:\/\/techcrunch.com\/video\/open-source-ai-is-booming-hugging-face-explains-who-profits\/"
+        }
+      ],
+      "summary" : "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility.",
+      "summary_method" : "source-extract",
+      "title" : "Open source AI is booming. Hugging Face explains who profits.",
+      "topics" : [
+        "Enterprise"
+      ]
+    },
+    {
       "confidence" : "high",
       "created_at" : "2026-11-03T08:00:00Z",
       "id" : "2026-11-05-4fc524f73aa4",
@@ -230,52 +268,6 @@
       "topics" : [
         "Enterprise"
       ]
-    },
-    {
-      "confidence" : "high",
-      "created_at" : "2026-11-03T08:00:00Z",
-      "id" : "2026-11-05-85031e98f20b",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Heimstaden is changing residential real estate management with AI",
-          "url" : "https:\/\/openai.com\/index\/heimstaden"
-        }
-      ],
-      "summary" : "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-      "summary_method" : "source-extract",
-      "title" : "Heimstaden is changing residential real estate management with AI",
-      "topics" : [
-        "ChatGPT",
-        "Enterprise"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-11-02T23:01:02Z",
-      "id" : "2026-11-05-23dec96a7065",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
-          "url" : "https:\/\/latent.space\/p\/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora\/"
-        }
-      ],
-      "summary" : "In this episode, we chat with Jacob Lauritzen, CTO of Legora, following the announcement of their $550M Series E at an $8.8B valuation a couple weeks ago. We talk about what it takes to build AI agents for lawyers and what other people building agents can learn from that work.",
-      "summary_method" : "source-extract",
-      "title" : "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
-      "topics" : [
-        "Agents",
-        "ChatGPT"
-      ]
     }
   ],
   "count" : 12,
@@ -286,24 +278,24 @@
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-11-05",
-  "generated_at" : "2026-11-05T19:04:30Z",
+  "generated_at" : "2026-11-05T21:02:53Z",
   "processing_report" : {
-    "generated_at" : "2026-11-05T19:04:35Z",
+    "generated_at" : "2026-11-05T21:02:56Z",
     "high_card_count" : 4,
     "source_reports" : [
       {
-        "article_count" : 7,
+        "article_count" : 11,
         "id" : "ai-breakfast",
-        "latest_article_at" : "2026-10-28T15:38:07Z",
+        "latest_article_at" : "2026-11-04T16:28:13Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-11-05T19:04:35Z",
+        "processed_at" : "2026-11-05T21:02:56Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-11-05T19:04:33Z",
+        "processed_at" : "2026-11-05T21:02:55Z",
         "state" : "processed"
       },
       {
@@ -311,7 +303,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-11-05T19:04:32Z",
+        "processed_at" : "2026-11-05T21:02:54Z",
         "state" : "processed"
       },
       {
@@ -319,7 +311,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-11-05T11:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-11-05T19:04:33Z",
+        "processed_at" : "2026-11-05T21:02:55Z",
         "state" : "processed"
       },
       {
@@ -327,7 +319,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-11-04T22:47:51Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-11-05T19:04:31Z",
+        "processed_at" : "2026-11-05T21:02:54Z",
         "state" : "processed"
       },
       {
@@ -335,7 +327,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-11-05T17:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-11-05T19:04:30Z",
+        "processed_at" : "2026-11-05T21:02:53Z",
         "state" : "processed"
       },
       {
@@ -343,15 +335,15 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-11-05T17:05:16Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-11-05T19:04:31Z",
+        "processed_at" : "2026-11-05T21:02:53Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "huggingface-blog",
-        "latest_article_at" : "2026-11-05T00:00:00Z",
+        "latest_article_at" : "2026-11-05T19:35:16Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-11-05T19:04:31Z",
+        "processed_at" : "2026-11-05T21:02:54Z",
         "state" : "processed"
       },
       {
@@ -359,7 +351,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-11-05T06:24:09Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-11-05T19:04:32Z",
+        "processed_at" : "2026-11-05T21:02:54Z",
         "state" : "processed"
       },
       {
@@ -367,7 +359,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-10-19T13:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-11-05T19:04:31Z",
+        "processed_at" : "2026-11-05T21:02:53Z",
         "state" : "processed"
       },
       {
@@ -375,7 +367,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-11-05T12:00:14Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-11-05T19:04:31Z",
+        "processed_at" : "2026-11-05T21:02:54Z",
         "state" : "processed"
       },
       {
@@ -383,7 +375,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-20T15:57:59Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-11-05T19:04:31Z",
+        "processed_at" : "2026-11-05T21:02:53Z",
         "state" : "processed"
       },
       {
@@ -391,7 +383,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-11-05T09:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-11-05T19:04:31Z",
+        "processed_at" : "2026-11-05T21:02:54Z",
         "state" : "processed"
       },
       {
@@ -399,7 +391,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-11-05T12:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-11-05T19:04:34Z",
+        "processed_at" : "2026-11-05T21:02:55Z",
         "state" : "processed"
       },
       {
@@ -407,15 +399,15 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-11-05T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-11-05T19:04:31Z",
+        "processed_at" : "2026-11-05T21:02:53Z",
         "state" : "processed"
       },
       {
-        "article_count" : 18,
+        "article_count" : 19,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-11-05T18:02:27Z",
+        "latest_article_at" : "2026-11-05T19:48:28Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-11-05T19:04:30Z",
+        "processed_at" : "2026-11-05T21:02:53Z",
         "state" : "processed"
       },
       {
@@ -423,7 +415,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-11-05T19:04:35Z",
+        "processed_at" : "2026-11-05T21:02:56Z",
         "state" : "processed"
       },
       {
@@ -431,14 +423,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-11-05T11:55:56Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-11-05T19:04:31Z",
+        "processed_at" : "2026-11-05T21:02:54Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-11-05T19:04:33Z",
+        "processed_at" : "2026-11-05T21:02:55Z",
         "state" : "processed"
       },
       {
@@ -446,7 +438,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-11-05T18:00:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-11-05T19:04:30Z",
+        "processed_at" : "2026-11-05T21:02:53Z",
         "state" : "processed"
       }
     ],
