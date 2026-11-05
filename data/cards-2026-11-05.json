@@ -1,6 +1,28 @@
 {
   "cards" : [
     {
+      "confidence" : "medium",
+      "created_at" : "2026-11-05T15:19:05Z",
+      "id" : "2026-11-05-706e721114bb",
+      "importance" : "high",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/05\/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure\/"
+        }
+      ],
+      "summary" : "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure. The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
+      "summary_method" : "source-extract",
+      "title" : "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "topics" : [
+        "Agents"
+      ]
+    },
+    {
       "confidence" : "high",
       "created_at" : "2026-11-04T14:30:00Z",
       "id" : "2026-11-05-8849d50ee7d1",
@@ -106,6 +128,50 @@
     },
     {
       "confidence" : "medium",
+      "created_at" : "2026-11-05T17:00:00Z",
+      "id" : "2026-11-05-28e461107662",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Grimes is going to star in an AI movie that’s coming to theaters",
+          "url" : "https:\/\/www.theverge.com\/entertainment\/1026282\/grimes-ai-movie"
+        }
+      ],
+      "summary" : "The AI-generated sci-fi film Gods Don't Give Gifts has added a bit of star power: Pop star Grimes is going to appear in the movie.",
+      "summary_method" : "source-extract",
+      "title" : "Grimes is going to star in an AI movie that’s coming to theaters",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-05T17:00:00Z",
+      "id" : "2026-11-05-5f8b24989b08",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "OpenAI says its new cybersecurity model is better at not hacking other companies",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1027599\/openai-gpt-6-cyber-launch"
+        }
+      ],
+      "summary" : "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the process. OpenAI says that during testing, GPT-6 Cyber went out of bounds less than 1 percent of the time, down from around 5 percent with GPT-5.6 Cyber.",
+      "summary_method" : "source-extract",
+      "title" : "OpenAI says its new cybersecurity model is better at not hacking other companies",
+      "topics" : [
+        "GPT"
+      ]
+    },
+    {
+      "confidence" : "medium",
       "created_at" : "2026-11-04T18:26:07Z",
       "id" : "2026-11-05-c964b8ea91b6",
       "importance" : "medium",
@@ -124,28 +190,6 @@
       "title" : "Nothing teases a screen-free AI device ahead of launch next month",
       "topics" : [
         "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-11-04T18:00:00Z",
-      "id" : "2026-11-05-922f1fa0ae48",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "ChatGPT will now make you animated GIFs",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1026474\/openai-chatgpt-animated-gifs-images-2-6"
-        }
-      ],
-      "summary" : "An example shared by the company shows how ChatGPT can generate a GIF in response to the prompt, \"can you make a gif of a cat dancing?\" while also providing you with the option to change the playback speed and view it frame by frame.",
-      "summary_method" : "source-extract",
-      "title" : "ChatGPT will now make you animated GIFs",
-      "topics" : [
-        "ChatGPT"
       ]
     },
     {
@@ -243,78 +287,34 @@
         "ChatGPT",
         "Enterprise"
       ]
-    },
-    {
-      "confidence" : "high",
-      "created_at" : "2026-11-02T18:00:00Z",
-      "id" : "2026-11-05-54f23076ac5a",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Preparing our next security sprint to harden OpenAI",
-          "url" : "https:\/\/openai.com\/index\/preparing-our-next-security-sprint-to-harden-openai"
-        }
-      ],
-      "summary" : "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "summary_method" : "source-extract",
-      "title" : "Preparing our next security sprint to harden OpenAI",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "created_at" : "2026-11-02T18:00:00Z",
-      "id" : "2026-11-05-55c1720a04ba",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Rewarding defenders with bigger bug bounties",
-          "url" : "https:\/\/openai.com\/index\/rewarding-defenders-with-bigger-bug-bounties"
-        }
-      ],
-      "summary" : "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "summary_method" : "source-extract",
-      "title" : "Rewarding defenders with bigger bug bounties",
-      "topics" : [
-        "AI"
-      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 5,
-    "summary" : "• OpenAI to acquire Pierre Computer Company, Inc.\n• Introducing Images 2.6\n• Gemini for Home now plugs into AT&T’s smart security system",
+    "summary" : "• Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure\n• OpenAI to acquire Pierre Computer Company, Inc.\n• Introducing Images 2.6",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-11-05",
-  "generated_at" : "2026-11-05T15:02:43Z",
+  "generated_at" : "2026-11-05T17:01:05Z",
   "processing_report" : {
-    "generated_at" : "2026-11-05T15:02:49Z",
-    "high_card_count" : 3,
+    "generated_at" : "2026-11-05T17:01:10Z",
+    "high_card_count" : 4,
     "source_reports" : [
       {
-        "article_count" : 5,
+        "article_count" : 6,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-11-02T17:20:47Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-11-05T15:02:49Z",
+        "processed_at" : "2026-11-05T17:01:10Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-11-05T15:02:46Z",
+        "processed_at" : "2026-11-05T17:01:09Z",
         "state" : "processed"
       },
       {
@@ -322,15 +322,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-11-05T15:02:45Z",
+        "processed_at" : "2026-11-05T17:01:07Z",
         "state" : "processed"
       },
       {
-        "article_count" : 4,
+        "article_count" : 2,
         "id" : "aireport-nl",
-        "latest_article_at" : "2026-11-05T11:00:00Z",
+        "latest_article_at" : "2026-11-02T13:22:11Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-11-05T15:02:46Z",
+        "processed_at" : "2026-11-05T17:01:08Z",
         "state" : "processed"
       },
       {
@@ -338,7 +338,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-11-04T22:47:51Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-11-05T15:02:44Z",
+        "processed_at" : "2026-11-05T17:01:07Z",
         "state" : "processed"
       },
       {
@@ -346,7 +346,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-11-02T17:45:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-11-05T15:02:44Z",
+        "processed_at" : "2026-11-05T17:01:06Z",
         "state" : "processed"
       },
       {
@@ -354,7 +354,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-11-03T17:01:49Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-11-05T15:02:44Z",
+        "processed_at" : "2026-11-05T17:01:06Z",
         "state" : "processed"
       },
       {
@@ -362,7 +362,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-11-05T00:00:00Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-11-05T15:02:44Z",
+        "processed_at" : "2026-11-05T17:01:06Z",
         "state" : "processed"
       },
       {
@@ -370,7 +370,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-11-05T06:24:09Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-11-05T15:02:48Z",
+        "processed_at" : "2026-11-05T17:01:08Z",
         "state" : "processed"
       },
       {
@@ -378,15 +378,15 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-10-19T13:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-11-05T15:02:44Z",
+        "processed_at" : "2026-11-05T17:01:06Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "mistral-news",
-        "latest_article_at" : "2026-10-29T12:00:07Z",
+        "latest_article_at" : "2026-11-05T12:00:14Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-11-05T15:02:44Z",
+        "processed_at" : "2026-11-05T17:01:06Z",
         "state" : "processed"
       },
       {
@@ -394,7 +394,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-20T15:57:59Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-11-05T15:02:43Z",
+        "processed_at" : "2026-11-05T17:01:06Z",
         "state" : "processed"
       },
       {
@@ -402,15 +402,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-11-05T02:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-11-05T15:02:44Z",
+        "processed_at" : "2026-11-05T17:01:06Z",
         "state" : "processed"
       },
       {
-        "article_count" : 6,
+        "article_count" : 4,
         "id" : "superhuman-ai",
-        "latest_article_at" : "2026-11-03T12:02:57Z",
+        "latest_article_at" : "2026-11-05T12:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-11-05T15:02:47Z",
+        "processed_at" : "2026-11-05T17:01:10Z",
         "state" : "processed"
       },
       {
@@ -418,23 +418,23 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-11-05T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-11-05T15:02:44Z",
+        "processed_at" : "2026-11-05T17:01:06Z",
         "state" : "processed"
       },
       {
         "article_count" : 17,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-11-05T14:42:00Z",
+        "latest_article_at" : "2026-11-05T16:16:45Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-11-05T15:02:43Z",
+        "processed_at" : "2026-11-05T17:01:05Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 9,
         "id" : "the-ai-report",
-        "latest_article_at" : "2026-10-27T11:01:00Z",
+        "latest_article_at" : "2026-10-25T12:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-11-05T15:02:47Z",
+        "processed_at" : "2026-11-05T17:01:10Z",
         "state" : "processed"
       },
       {
@@ -442,22 +442,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-11-05T11:55:56Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-11-05T15:02:44Z",
+        "processed_at" : "2026-11-05T17:01:06Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-11-05T15:02:46Z",
+        "processed_at" : "2026-11-05T17:01:09Z",
         "state" : "processed"
       },
       {
-        "article_count" : 6,
+        "article_count" : 7,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-11-05T15:00:00Z",
+        "latest_article_at" : "2026-11-05T17:00:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-11-05T15:02:43Z",
+        "processed_at" : "2026-11-05T17:01:06Z",
         "state" : "processed"
       }
     ],
