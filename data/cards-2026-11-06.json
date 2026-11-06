@@ -48,8 +48,8 @@
     },
     {
       "confidence" : "high",
-      "created_at" : "2026-11-05T20:00:00Z",
-      "id" : "2026-11-06-76d64b7797f3",
+      "created_at" : "2026-11-06T00:00:00Z",
+      "id" : "2026-11-06-ac7613f335b8",
       "importance" : "medium",
       "key_insights" : [
 
@@ -57,15 +57,16 @@
       "sources" : [
         {
           "source_name" : "OpenAI News",
-          "title" : "Cult.fit builds operational muscle with Codex",
-          "url" : "https:\/\/openai.com\/index\/cultfit-builds-with-codex"
+          "title" : "Measuring how AI agents handle everyday wet-lab science",
+          "url" : "https:\/\/openai.com\/index\/measuring-how-ai-agents-handle-wet-lab-science"
         }
       ],
-      "summary" : "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+      "summary" : "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
       "summary_method" : "source-extract",
-      "title" : "Cult.fit builds operational muscle with Codex",
+      "title" : "Measuring how AI agents handle everyday wet-lab science",
       "topics" : [
-        "Tooling"
+        "Agents",
+        "Benchmarks"
       ]
     },
     {
@@ -113,6 +114,28 @@
         "Image Models",
         "APIs",
         "ChatGPT"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-06T20:02:22Z",
+      "id" : "2026-11-06-62e5ebbb0283",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "All the latest updates on AI data centers",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/902546\/data-centers-ai-energy-power-grids-controversy"
+        }
+      ],
+      "summary" : "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI.",
+      "summary_method" : "source-extract",
+      "title" : "All the latest updates on AI data centers",
+      "topics" : [
+        "AI"
       ]
     },
     {
@@ -247,56 +270,34 @@
       "topics" : [
         "Agents"
       ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-11-05T22:40:55Z",
-      "id" : "2026-11-06-45b3d2b07432",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-          "url" : "https:\/\/techcrunch.com\/2026\/11\/05\/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027\/"
-        }
-      ],
-      "summary" : "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-      "summary_method" : "source-extract",
-      "title" : "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "topics" : [
-        "Agents"
-      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 3,
-    "summary" : "• Merge builds product and business tools with OpenAI technology\n• Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure\n• Cult.fit builds operational muscle with Codex",
+    "summary" : "• Merge builds product and business tools with OpenAI technology\n• Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure\n• Measuring how AI agents handle everyday wet-lab science",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-11-06",
-  "generated_at" : "2026-11-06T19:03:26Z",
+  "generated_at" : "2026-11-06T21:01:01Z",
   "processing_report" : {
-    "generated_at" : "2026-11-06T19:03:30Z",
+    "generated_at" : "2026-11-06T21:01:06Z",
     "high_card_count" : 4,
     "source_reports" : [
       {
-        "article_count" : 11,
+        "article_count" : 10,
         "id" : "ai-breakfast",
-        "latest_article_at" : "2026-11-06T13:18:57Z",
+        "latest_article_at" : "2026-11-04T16:28:13Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-11-06T19:03:30Z",
+        "processed_at" : "2026-11-06T21:01:06Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 10,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-11-06T19:03:29Z",
+        "processed_at" : "2026-11-06T21:01:04Z",
         "state" : "processed"
       },
       {
@@ -304,15 +305,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-11-06T19:03:28Z",
+        "processed_at" : "2026-11-06T21:01:02Z",
         "state" : "processed"
       },
       {
-        "article_count" : 5,
+        "article_count" : 2,
         "id" : "aireport-nl",
-        "latest_article_at" : "2026-11-05T11:00:00Z",
+        "latest_article_at" : "2026-11-02T13:22:46Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-11-06T19:03:29Z",
+        "processed_at" : "2026-11-06T21:01:05Z",
         "state" : "processed"
       },
       {
@@ -320,7 +321,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-11-06T16:19:12Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-11-06T19:03:28Z",
+        "processed_at" : "2026-11-06T21:01:02Z",
         "state" : "processed"
       },
       {
@@ -328,7 +329,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-11-05T17:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-11-06T19:03:27Z",
+        "processed_at" : "2026-11-06T21:01:02Z",
         "state" : "processed"
       },
       {
@@ -336,7 +337,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-11-05T17:05:16Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-11-06T19:03:27Z",
+        "processed_at" : "2026-11-06T21:01:02Z",
         "state" : "processed"
       },
       {
@@ -344,7 +345,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-11-06T14:00:48Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-11-06T19:03:28Z",
+        "processed_at" : "2026-11-06T21:01:02Z",
         "state" : "processed"
       },
       {
@@ -352,7 +353,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-11-06T15:10:53Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-11-06T19:03:28Z",
+        "processed_at" : "2026-11-06T21:01:02Z",
         "state" : "processed"
       },
       {
@@ -360,7 +361,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-10-19T13:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-11-06T19:03:27Z",
+        "processed_at" : "2026-11-06T21:01:02Z",
         "state" : "processed"
       },
       {
@@ -368,7 +369,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-11-05T12:00:14Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-11-06T19:03:27Z",
+        "processed_at" : "2026-11-06T21:01:02Z",
         "state" : "processed"
       },
       {
@@ -376,7 +377,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-20T15:57:59Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-11-06T19:03:27Z",
+        "processed_at" : "2026-11-06T21:01:02Z",
         "state" : "processed"
       },
       {
@@ -384,7 +385,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-11-06T08:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-11-06T19:03:27Z",
+        "processed_at" : "2026-11-06T21:01:02Z",
         "state" : "processed"
       },
       {
@@ -392,7 +393,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-11-06T12:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-11-06T19:03:29Z",
+        "processed_at" : "2026-11-06T21:01:04Z",
         "state" : "processed"
       },
       {
@@ -400,7 +401,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-11-06T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-11-06T19:03:27Z",
+        "processed_at" : "2026-11-06T21:01:02Z",
         "state" : "processed"
       },
       {
@@ -408,15 +409,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-11-06T18:44:38Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-11-06T19:03:27Z",
+        "processed_at" : "2026-11-06T21:01:01Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 10,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-11-06T19:03:29Z",
+        "processed_at" : "2026-11-06T21:01:06Z",
         "state" : "processed"
       },
       {
@@ -424,22 +425,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-11-05T11:55:56Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-11-06T19:03:27Z",
+        "processed_at" : "2026-11-06T21:01:02Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 10,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-11-06T19:03:29Z",
+        "processed_at" : "2026-11-06T21:01:05Z",
         "state" : "processed"
       },
       {
-        "article_count" : 6,
+        "article_count" : 7,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-11-06T18:10:10Z",
+        "latest_article_at" : "2026-11-06T20:02:22Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-11-06T19:03:27Z",
+        "processed_at" : "2026-11-06T21:01:01Z",
         "state" : "processed"
       }
     ],
