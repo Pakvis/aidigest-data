@@ -181,28 +181,6 @@
       ]
     },
     {
-      "confidence" : "medium",
-      "created_at" : "2026-11-06T06:28:32Z",
-      "id" : "2026-11-07-d6a57b8f7bb2",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-          "url" : "https:\/\/techcrunch.com\/2026\/11\/05\/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m\/"
-        }
-      ],
-      "summary" : "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-      "summary_method" : "source-extract",
-      "title" : "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "topics" : [
-        "Agents"
-      ]
-    },
-    {
       "confidence" : "high",
       "created_at" : "2026-11-06T00:00:00Z",
       "id" : "2026-11-07-bbe4b5f04c6c",
@@ -268,6 +246,29 @@
       "topics" : [
         "ChatGPT"
       ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-11-05T09:00:00Z",
+      "id" : "2026-11-07-2a2a7f5b3ca5",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+          "url" : "https:\/\/openai.com\/index\/introducing-gpt-6-cyber"
+        }
+      ],
+      "summary" : "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+      "summary_method" : "source-extract",
+      "title" : "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "topics" : [
+        "GPT",
+        "Agents"
+      ]
     }
   ],
   "count" : 12,
@@ -278,9 +279,9 @@
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-11-07",
-  "generated_at" : "2026-11-07T05:03:49Z",
+  "generated_at" : "2026-11-07T07:01:32Z",
   "processing_report" : {
-    "generated_at" : "2026-11-07T05:03:52Z",
+    "generated_at" : "2026-11-07T07:01:36Z",
     "high_card_count" : 3,
     "source_reports" : [
       {
@@ -288,14 +289,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-11-06T13:18:57Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-11-07T05:03:52Z",
+        "processed_at" : "2026-11-07T07:01:36Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-11-07T05:03:51Z",
+        "processed_at" : "2026-11-07T07:01:35Z",
         "state" : "processed"
       },
       {
@@ -303,7 +304,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-11-07T05:03:50Z",
+        "processed_at" : "2026-11-07T07:01:34Z",
         "state" : "processed"
       },
       {
@@ -311,7 +312,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-11-05T11:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-11-07T05:03:51Z",
+        "processed_at" : "2026-11-07T07:01:35Z",
         "state" : "processed"
       },
       {
@@ -319,7 +320,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-11-06T16:19:12Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-11-07T05:03:50Z",
+        "processed_at" : "2026-11-07T07:01:34Z",
         "state" : "processed"
       },
       {
@@ -327,7 +328,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-11-05T17:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-11-07T05:03:49Z",
+        "processed_at" : "2026-11-07T07:01:33Z",
         "state" : "processed"
       },
       {
@@ -335,7 +336,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-11-05T17:05:16Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-11-07T05:03:50Z",
+        "processed_at" : "2026-11-07T07:01:33Z",
         "state" : "processed"
       },
       {
@@ -343,7 +344,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-11-06T14:00:48Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-11-07T05:03:50Z",
+        "processed_at" : "2026-11-07T07:01:34Z",
         "state" : "processed"
       },
       {
@@ -351,7 +352,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-11-07T03:04:53Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-11-07T05:03:50Z",
+        "processed_at" : "2026-11-07T07:01:34Z",
         "state" : "processed"
       },
       {
@@ -359,7 +360,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-10-19T13:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-11-07T05:03:49Z",
+        "processed_at" : "2026-11-07T07:01:33Z",
         "state" : "processed"
       },
       {
@@ -367,7 +368,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-11-05T12:00:14Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-11-07T05:03:50Z",
+        "processed_at" : "2026-11-07T07:01:34Z",
         "state" : "processed"
       },
       {
@@ -375,7 +376,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-20T15:57:59Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-11-07T05:03:49Z",
+        "processed_at" : "2026-11-07T07:01:33Z",
         "state" : "processed"
       },
       {
@@ -383,7 +384,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-11-06T08:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-11-07T05:03:50Z",
+        "processed_at" : "2026-11-07T07:01:34Z",
         "state" : "processed"
       },
       {
@@ -391,7 +392,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-11-06T12:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-11-07T05:03:51Z",
+        "processed_at" : "2026-11-07T07:01:35Z",
         "state" : "processed"
       },
       {
@@ -399,7 +400,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-11-06T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-11-07T05:03:49Z",
+        "processed_at" : "2026-11-07T07:01:33Z",
         "state" : "processed"
       },
       {
@@ -407,7 +408,7 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-11-06T22:53:46Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-11-07T05:03:49Z",
+        "processed_at" : "2026-11-07T07:01:33Z",
         "state" : "processed"
       },
       {
@@ -415,7 +416,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-11-07T05:03:51Z",
+        "processed_at" : "2026-11-07T07:01:36Z",
         "state" : "processed"
       },
       {
@@ -423,14 +424,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-11-05T11:55:56Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-11-07T05:03:50Z",
+        "processed_at" : "2026-11-07T07:01:34Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-11-07T05:03:51Z",
+        "processed_at" : "2026-11-07T07:01:35Z",
         "state" : "processed"
       },
       {
@@ -438,7 +439,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-11-06T23:46:18Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-11-07T05:03:49Z",
+        "processed_at" : "2026-11-07T07:01:33Z",
         "state" : "processed"
       }
     ],
