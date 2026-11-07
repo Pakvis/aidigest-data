@@ -47,29 +47,6 @@
       ]
     },
     {
-      "confidence" : "high",
-      "created_at" : "2026-11-04T14:30:00Z",
-      "id" : "2026-11-07-21507f4cfdb5",
-      "importance" : "high",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "OpenAI to acquire Pierre Computer Company, Inc.",
-          "url" : "https:\/\/openai.com\/index\/openai-to-acquire-pierre"
-        }
-      ],
-      "summary" : "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
-      "summary_method" : "source-extract",
-      "title" : "OpenAI to acquire Pierre Computer Company, Inc.",
-      "topics" : [
-        "Coding",
-        "Tooling"
-      ]
-    },
-    {
       "confidence" : "medium",
       "created_at" : "2026-11-06T23:46:18Z",
       "id" : "2026-11-07-8d75fdefe5fc",
@@ -268,34 +245,56 @@
       "topics" : [
         "Agents"
       ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-05T22:40:55Z",
+      "id" : "2026-11-07-bf2ad157bab6",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/05\/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027\/"
+        }
+      ],
+      "summary" : "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+      "summary_method" : "source-extract",
+      "title" : "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "topics" : [
+        "Agents"
+      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 3,
-    "summary" : "• Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure\n• Merge builds product and business tools with OpenAI technology\n• OpenAI to acquire Pierre Computer Company, Inc.",
+    "summary" : "• Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure\n• Merge builds product and business tools with OpenAI technology\n• OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-11-07",
-  "generated_at" : "2026-11-07T13:04:31Z",
+  "generated_at" : "2026-11-07T15:02:11Z",
   "processing_report" : {
-    "generated_at" : "2026-11-07T13:04:35Z",
-    "high_card_count" : 3,
+    "generated_at" : "2026-11-07T15:02:20Z",
+    "high_card_count" : 2,
     "source_reports" : [
       {
-        "article_count" : 11,
+        "article_count" : 8,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-11-06T13:18:57Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-11-07T13:04:35Z",
+        "processed_at" : "2026-11-07T15:02:16Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 6,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-11-07T13:04:34Z",
+        "processed_at" : "2026-11-07T15:02:16Z",
         "state" : "processed"
       },
       {
@@ -303,15 +302,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-11-07T13:04:32Z",
+        "processed_at" : "2026-11-07T15:02:13Z",
         "state" : "processed"
       },
       {
-        "article_count" : 6,
+        "article_count" : 3,
         "id" : "aireport-nl",
-        "latest_article_at" : "2026-11-07T10:00:00Z",
+        "latest_article_at" : "2026-11-05T11:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-11-07T13:04:33Z",
+        "processed_at" : "2026-11-07T15:02:15Z",
         "state" : "processed"
       },
       {
@@ -319,7 +318,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-11-06T16:19:12Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-11-07T13:04:32Z",
+        "processed_at" : "2026-11-07T15:02:13Z",
         "state" : "processed"
       },
       {
@@ -327,7 +326,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-11-05T17:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-11-07T13:04:31Z",
+        "processed_at" : "2026-11-07T15:02:12Z",
         "state" : "processed"
       },
       {
@@ -335,7 +334,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-11-05T17:05:16Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-11-07T13:04:32Z",
+        "processed_at" : "2026-11-07T15:02:13Z",
         "state" : "processed"
       },
       {
@@ -343,7 +342,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-11-06T14:00:48Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-11-07T13:04:32Z",
+        "processed_at" : "2026-11-07T15:02:13Z",
         "state" : "processed"
       },
       {
@@ -351,7 +350,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-11-07T03:04:53Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-11-07T13:04:32Z",
+        "processed_at" : "2026-11-07T15:02:14Z",
         "state" : "processed"
       },
       {
@@ -359,7 +358,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-10-19T13:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-11-07T13:04:32Z",
+        "processed_at" : "2026-11-07T15:02:13Z",
         "state" : "processed"
       },
       {
@@ -367,7 +366,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-11-05T12:00:14Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-11-07T13:04:32Z",
+        "processed_at" : "2026-11-07T15:02:12Z",
         "state" : "processed"
       },
       {
@@ -375,7 +374,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-20T15:57:59Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-11-07T13:04:32Z",
+        "processed_at" : "2026-11-07T15:02:12Z",
         "state" : "processed"
       },
       {
@@ -383,15 +382,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-11-06T08:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-11-07T13:04:32Z",
+        "processed_at" : "2026-11-07T15:02:13Z",
         "state" : "processed"
       },
       {
-        "article_count" : 8,
+        "article_count" : 7,
         "id" : "superhuman-ai",
-        "latest_article_at" : "2026-11-06T12:02:57Z",
+        "latest_article_at" : "2026-11-07T15:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-11-07T13:04:34Z",
+        "processed_at" : "2026-11-07T15:02:18Z",
         "state" : "processed"
       },
       {
@@ -399,7 +398,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-11-06T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-11-07T13:04:32Z",
+        "processed_at" : "2026-11-07T15:02:12Z",
         "state" : "processed"
       },
       {
@@ -407,15 +406,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-11-06T22:53:46Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-11-07T13:04:31Z",
+        "processed_at" : "2026-11-07T15:02:12Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 11,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-11-07T13:04:34Z",
+        "processed_at" : "2026-11-07T15:02:15Z",
         "state" : "processed"
       },
       {
@@ -423,22 +422,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-11-05T11:55:56Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-11-07T13:04:32Z",
+        "processed_at" : "2026-11-07T15:02:12Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 9,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-11-07T13:04:34Z",
+        "processed_at" : "2026-11-07T15:02:20Z",
         "state" : "processed"
       },
       {
-        "article_count" : 7,
+        "article_count" : 8,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-11-07T12:30:00Z",
+        "latest_article_at" : "2026-11-07T15:00:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-11-07T13:04:31Z",
+        "processed_at" : "2026-11-07T15:02:12Z",
         "state" : "processed"
       }
     ],
