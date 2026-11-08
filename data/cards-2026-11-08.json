@@ -68,50 +68,6 @@
       ]
     },
     {
-      "confidence" : "medium",
-      "created_at" : "2026-11-06T18:44:38Z",
-      "id" : "2026-11-08-6a09b7fa63df",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-          "url" : "https:\/\/techcrunch.com\/2026\/11\/06\/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web\/"
-        }
-      ],
-      "summary" : "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-      "summary_method" : "source-extract",
-      "title" : "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "topics" : [
-        "Tooling"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-11-06T18:44:20Z",
-      "id" : "2026-11-08-4c5a226649d6",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-          "url" : "https:\/\/techcrunch.com\/2026\/11\/06\/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent\/"
-        }
-      ],
-      "summary" : "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-      "summary_method" : "source-extract",
-      "title" : "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "topics" : [
-        "Agents"
-      ]
-    },
-    {
       "confidence" : "high",
       "created_at" : "2026-11-06T00:00:00Z",
       "id" : "2026-11-08-8bad16cdc415",
@@ -154,6 +110,50 @@
       "title" : "Cult.fit builds operational muscle with Codex",
       "topics" : [
         "Tooling"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-06T18:44:38Z",
+      "id" : "2026-11-08-6a09b7fa63df",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/06\/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web\/"
+        }
+      ],
+      "summary" : "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "summary_method" : "source-extract",
+      "title" : "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "topics" : [
+        "Tooling"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-06T18:44:20Z",
+      "id" : "2026-11-08-4c5a226649d6",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/06\/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent\/"
+        }
+      ],
+      "summary" : "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "summary_method" : "source-extract",
+      "title" : "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "topics" : [
+        "Agents"
       ]
     },
     {
@@ -286,24 +286,24 @@
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-11-08",
-  "generated_at" : "2026-11-08T17:02:05Z",
+  "generated_at" : "2026-11-08T19:04:03Z",
   "processing_report" : {
-    "generated_at" : "2026-11-08T17:02:10Z",
+    "generated_at" : "2026-11-08T19:04:07Z",
     "high_card_count" : 0,
     "source_reports" : [
       {
-        "article_count" : 7,
+        "article_count" : 11,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-11-06T13:18:57Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-11-08T17:02:10Z",
+        "processed_at" : "2026-11-08T19:04:07Z",
         "state" : "processed"
       },
       {
-        "article_count" : 9,
+        "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-11-08T17:02:09Z",
+        "processed_at" : "2026-11-08T19:04:06Z",
         "state" : "processed"
       },
       {
@@ -311,7 +311,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-11-08T17:02:07Z",
+        "processed_at" : "2026-11-08T19:04:05Z",
         "state" : "processed"
       },
       {
@@ -319,7 +319,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-11-07T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-11-08T17:02:09Z",
+        "processed_at" : "2026-11-08T19:04:06Z",
         "state" : "processed"
       },
       {
@@ -327,7 +327,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-11-06T16:19:12Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-11-08T17:02:07Z",
+        "processed_at" : "2026-11-08T19:04:04Z",
         "state" : "processed"
       },
       {
@@ -335,7 +335,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-11-05T17:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-11-08T17:02:06Z",
+        "processed_at" : "2026-11-08T19:04:04Z",
         "state" : "processed"
       },
       {
@@ -343,7 +343,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-11-05T17:05:16Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-11-08T17:02:07Z",
+        "processed_at" : "2026-11-08T19:04:04Z",
         "state" : "processed"
       },
       {
@@ -351,7 +351,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-11-06T14:00:48Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-11-08T17:02:06Z",
+        "processed_at" : "2026-11-08T19:04:04Z",
         "state" : "processed"
       },
       {
@@ -359,7 +359,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-11-07T03:04:53Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-11-08T17:02:07Z",
+        "processed_at" : "2026-11-08T19:04:05Z",
         "state" : "processed"
       },
       {
@@ -367,7 +367,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-10-19T13:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-11-08T17:02:06Z",
+        "processed_at" : "2026-11-08T19:04:04Z",
         "state" : "processed"
       },
       {
@@ -375,7 +375,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-11-05T12:00:14Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-11-08T17:02:06Z",
+        "processed_at" : "2026-11-08T19:04:04Z",
         "state" : "processed"
       },
       {
@@ -383,7 +383,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-20T15:57:59Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-11-08T17:02:06Z",
+        "processed_at" : "2026-11-08T19:04:04Z",
         "state" : "processed"
       },
       {
@@ -391,15 +391,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-11-06T08:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-11-08T17:02:06Z",
+        "processed_at" : "2026-11-08T19:04:04Z",
         "state" : "processed"
       },
       {
-        "article_count" : 6,
+        "article_count" : 7,
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-11-07T15:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-11-08T17:02:09Z",
+        "processed_at" : "2026-11-08T19:04:06Z",
         "state" : "processed"
       },
       {
@@ -407,7 +407,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-11-06T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-11-08T17:02:06Z",
+        "processed_at" : "2026-11-08T19:04:04Z",
         "state" : "processed"
       },
       {
@@ -415,15 +415,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-11-07T21:17:08Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-11-08T17:02:06Z",
+        "processed_at" : "2026-11-08T19:04:04Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 12,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-11-08T17:02:10Z",
+        "processed_at" : "2026-11-08T19:04:06Z",
         "state" : "processed"
       },
       {
@@ -431,14 +431,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-11-05T11:55:56Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-11-08T17:02:07Z",
+        "processed_at" : "2026-11-08T19:04:04Z",
         "state" : "processed"
       },
       {
-        "article_count" : 8,
+        "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-11-08T17:02:09Z",
+        "processed_at" : "2026-11-08T19:04:06Z",
         "state" : "processed"
       },
       {
@@ -446,7 +446,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-11-07T15:50:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-11-08T17:02:06Z",
+        "processed_at" : "2026-11-08T19:04:04Z",
         "state" : "processed"
       }
     ],
