@@ -2,6 +2,73 @@
   "cards" : [
     {
       "confidence" : "medium",
+      "created_at" : "2026-11-09T19:00:00Z",
+      "id" : "2026-11-09-8035c40b2654",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Anthropic launches new Claude Fable and Mythos 5.2 models",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1030005\/anthropic-claude-fable-mythos-5-2"
+        }
+      ],
+      "summary" : "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models.",
+      "summary_method" : "source-extract",
+      "title" : "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "topics" : [
+        "Anthropic",
+        "Claude"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-09T18:07:23Z",
+      "id" : "2026-11-09-cc5cbdfe51d8",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Instagram’s Effect Builder makes new filters from AI prompts",
+          "url" : "https:\/\/www.theverge.com\/tech\/1030061\/instagram-ai-effect-builder-filters"
+        }
+      ],
+      "summary" : "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI.",
+      "summary_method" : "source-extract",
+      "title" : "Instagram’s Effect Builder makes new filters from AI prompts",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-09T17:36:08Z",
+      "id" : "2026-11-09-2446b157a069",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "The future of AI hinges on… Jensen Huang’s sex life?",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1029990\/jensen-huang-the-spy-who-loved-me"
+        }
+      ],
+      "summary" : "| Image: The Verge I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident.",
+      "summary_method" : "source-extract",
+      "title" : "The future of AI hinges on… Jensen Huang’s sex life?",
+      "topics" : [
+        "Image Models"
+      ]
+    },
+    {
+      "confidence" : "medium",
       "created_at" : "2026-11-08T20:22:39Z",
       "id" : "2026-11-09-ff2c25b249cf",
       "importance" : "medium",
@@ -24,7 +91,29 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-11-09T16:41:48Z",
+      "created_at" : "2026-11-09T18:00:00Z",
+      "id" : "2026-11-09-1a00044ecd6b",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Meta releases Muse Ember, a new lightweight model for agent execution",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/09\/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution\/"
+        }
+      ],
+      "summary" : "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+      "summary_method" : "source-extract",
+      "title" : "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "topics" : [
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-09T17:15:53Z",
       "id" : "2026-11-09-7eb8dbec0ae0",
       "importance" : "medium",
       "key_insights" : [
@@ -34,10 +123,10 @@
         {
           "source_name" : "Latent Space",
           "title" : "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
-          "url" : "https:\/\/latent.space\/p\/what_frontier_labs_buy_a_data_deep_dive_with_handshake_ai_garrett_lord_team\/"
+          "url" : "https:\/\/latent.space\/p\/handshake\/"
         }
       ],
-      "summary" : "Our first deep dive with an AI data company. In roughly a year, Handshake built an AI training business doing nearly $1 billion in gross annualized revenue.",
+      "summary" : "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team. This is our first Latent Space deep dive with an AI data company . In roughly a year, Handshake’s AI training business went from launch to $1 billion in gross annualized revenue .",
       "summary_method" : "source-extract",
       "title" : "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
       "topics" : [
@@ -122,50 +211,6 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-11-06T18:44:38Z",
-      "id" : "2026-11-09-dee6a5b0746c",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-          "url" : "https:\/\/techcrunch.com\/2026\/11\/06\/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web\/"
-        }
-      ],
-      "summary" : "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-      "summary_method" : "source-extract",
-      "title" : "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "topics" : [
-        "Tooling"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-11-06T18:44:20Z",
-      "id" : "2026-11-09-ef66faa9752e",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-          "url" : "https:\/\/techcrunch.com\/2026\/11\/06\/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent\/"
-        }
-      ],
-      "summary" : "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-      "summary_method" : "source-extract",
-      "title" : "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "topics" : [
-        "Agents"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-11-09T15:38:56Z",
       "id" : "2026-11-09-56fc8f30fef2",
       "importance" : "low",
@@ -230,78 +275,34 @@
       "topics" : [
         "AI"
       ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-11-08T19:18:19Z",
-      "id" : "2026-11-09-f8ec6cc8a5d1",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Apple is racing to make Siri more agentic",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1029552\/apple-siri-ai-agentic"
-        }
-      ],
-      "summary" : "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's keeping pace with its rivals.",
-      "summary_method" : "source-extract",
-      "title" : "Apple is racing to make Siri more agentic",
-      "topics" : [
-        "Agents"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-11-09T16:56:54Z",
-      "id" : "2026-11-09-ef46a13a59e1",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-          "url" : "https:\/\/techcrunch.com\/2026\/11\/09\/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines\/"
-        }
-      ],
-      "summary" : "Anthropic bought billions of dollars worth of natural gas turbines in a deal that could give it buyer's remorse.",
-      "summary_method" : "source-extract",
-      "title" : "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-      "topics" : [
-        "Anthropic"
-      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 3,
-    "summary" : "• Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy\n• What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team\n• How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+    "summary" : "• Anthropic launches new Claude Fable and Mythos 5.2 models\n• Instagram’s Effect Builder makes new filters from AI prompts\n• The future of AI hinges on… Jensen Huang’s sex life?",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-11-09",
-  "generated_at" : "2026-11-09T17:01:15Z",
+  "generated_at" : "2026-11-09T19:03:13Z",
   "processing_report" : {
-    "generated_at" : "2026-11-09T17:01:19Z",
+    "generated_at" : "2026-11-09T19:03:18Z",
     "high_card_count" : 0,
     "source_reports" : [
       {
-        "article_count" : 11,
+        "article_count" : 9,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-11-09T14:11:06Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-11-09T17:01:19Z",
+        "processed_at" : "2026-11-09T19:03:18Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-11-09T17:01:18Z",
+        "processed_at" : "2026-11-09T19:03:16Z",
         "state" : "processed"
       },
       {
@@ -309,15 +310,15 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-11-09T17:01:17Z",
+        "processed_at" : "2026-11-09T19:03:15Z",
         "state" : "processed"
       },
       {
-        "article_count" : 6,
+        "article_count" : 4,
         "id" : "aireport-nl",
-        "latest_article_at" : "2026-11-07T10:00:00Z",
+        "latest_article_at" : "2026-11-05T11:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-11-09T17:01:18Z",
+        "processed_at" : "2026-11-09T19:03:17Z",
         "state" : "processed"
       },
       {
@@ -325,7 +326,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-11-06T16:19:12Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-11-09T17:01:16Z",
+        "processed_at" : "2026-11-09T19:03:14Z",
         "state" : "processed"
       },
       {
@@ -333,7 +334,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-11-05T17:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-11-09T17:01:16Z",
+        "processed_at" : "2026-11-09T19:03:14Z",
         "state" : "processed"
       },
       {
@@ -341,7 +342,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-11-05T17:05:16Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-11-09T17:01:16Z",
+        "processed_at" : "2026-11-09T19:03:14Z",
         "state" : "processed"
       },
       {
@@ -349,15 +350,15 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-11-09T15:05:57Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-11-09T17:01:16Z",
+        "processed_at" : "2026-11-09T19:03:14Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "latent-space",
-        "latest_article_at" : "2026-11-09T16:41:48Z",
+        "latest_article_at" : "2026-11-09T17:15:53Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-11-09T17:01:17Z",
+        "processed_at" : "2026-11-09T19:03:15Z",
         "state" : "processed"
       },
       {
@@ -365,7 +366,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-10-19T13:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-11-09T17:01:16Z",
+        "processed_at" : "2026-11-09T19:03:14Z",
         "state" : "processed"
       },
       {
@@ -373,7 +374,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-11-05T12:00:14Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-11-09T17:01:16Z",
+        "processed_at" : "2026-11-09T19:03:14Z",
         "state" : "processed"
       },
       {
@@ -381,7 +382,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-10-20T15:57:59Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-11-09T17:01:16Z",
+        "processed_at" : "2026-11-09T19:03:14Z",
         "state" : "processed"
       },
       {
@@ -389,15 +390,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-11-06T08:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-11-09T17:01:16Z",
+        "processed_at" : "2026-11-09T19:03:14Z",
         "state" : "processed"
       },
       {
-        "article_count" : 7,
+        "article_count" : 5,
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-11-09T13:24:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-11-09T17:01:18Z",
+        "processed_at" : "2026-11-09T19:03:17Z",
         "state" : "processed"
       },
       {
@@ -405,23 +406,23 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-11-09T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-11-09T17:01:16Z",
+        "processed_at" : "2026-11-09T19:03:14Z",
         "state" : "processed"
       },
       {
-        "article_count" : 15,
+        "article_count" : 14,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-11-09T16:56:54Z",
+        "latest_article_at" : "2026-11-09T18:09:52Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-11-09T17:01:16Z",
+        "processed_at" : "2026-11-09T19:03:14Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 9,
         "id" : "the-ai-report",
-        "latest_article_at" : "2026-10-27T11:01:00Z",
+        "latest_article_at" : "2026-10-26T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-11-09T17:01:19Z",
+        "processed_at" : "2026-11-09T19:03:17Z",
         "state" : "processed"
       },
       {
@@ -429,22 +430,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-11-05T11:55:56Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-11-09T17:01:16Z",
+        "processed_at" : "2026-11-09T19:03:14Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-11-09T17:01:18Z",
+        "processed_at" : "2026-11-09T19:03:17Z",
         "state" : "processed"
       },
       {
-        "article_count" : 8,
+        "article_count" : 9,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-11-09T15:50:38Z",
+        "latest_article_at" : "2026-11-09T19:00:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-11-09T17:01:16Z",
+        "processed_at" : "2026-11-09T19:03:14Z",
         "state" : "processed"
       }
     ],
