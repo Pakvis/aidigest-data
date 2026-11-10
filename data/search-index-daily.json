@@ -3,6 +3,49 @@
     {
       "confidence" : "high",
       "date" : "2026-11-10",
+      "id" : "2026-11-10-9bb74623c388",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "The Neuron Daily",
+          "title" : "Claude Fable 5.2 and Mythos 5.2: What Anthropic Released",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/anthropic-released-claude-fable-5-2"
+        },
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Anthropic launches new Claude Fable and Mythos 5.2 models",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1030005\/anthropic-claude-fable-mythos-5-2"
+        }
+      ],
+      "summary" : "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models.",
+      "title" : "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "topics" : [
+        "Anthropic",
+        "Claude"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-11-10",
+      "id" : "2026-11-10-3fd175573712",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "Google DeepMind",
+          "title" : "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+          "url" : "https:\/\/deepmind.google\/blog\/introducing-alphaproof-code\/"
+        }
+      ],
+      "summary" : "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+      "title" : "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "topics" : [
+        "Coding",
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-11-10",
       "id" : "2026-11-10-e0c740d2c881",
       "importance" : "medium",
       "sources" : [
@@ -12,29 +55,10 @@
           "url" : "https:\/\/openai.com\/index\/closing-ai-guidance-gap-education"
         }
       ],
-      "summary" : "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research.",
+      "summary" : "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
       "title" : "Closing the AI guidance gap in education",
       "topics" : [
         "Research"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "date" : "2026-11-10",
-      "id" : "2026-11-10-d819638d4e3f",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Control Room: A central system to track and stop model workloads across our research infrastructure",
-          "url" : "https:\/\/openai.com\/index\/control-room"
-        }
-      ],
-      "summary" : "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-      "title" : "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "topics" : [
-        "Research",
-        "Safety"
       ]
     },
     {
@@ -53,25 +77,6 @@
       "title" : "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
       "topics" : [
         "Pricing"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-11-10",
-      "id" : "2026-11-10-9bb74623c388",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Anthropic launches new Claude Fable and Mythos 5.2 models",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1030005\/anthropic-claude-fable-mythos-5-2"
-        }
-      ],
-      "summary" : "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models.",
-      "title" : "Anthropic launches new Claude Fable and Mythos 5.2 models",
-      "topics" : [
-        "Anthropic",
-        "Claude"
       ]
     },
     {
@@ -108,6 +113,24 @@
       "title" : "The future of AI hinges on… Jensen Huang’s sex life?",
       "topics" : [
         "Image Models"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-11-10",
+      "id" : "2026-11-10-fa6d91342e54",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/10\/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns\/"
+        }
+      ],
+      "summary" : "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide.",
+      "title" : "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+      "topics" : [
+        "AI"
       ]
     },
     {
@@ -200,26 +223,6 @@
         "Agents",
         "Benchmarks",
         "Data"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-11-10",
-      "id" : "2026-11-10-a5789ce292d2",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-          "url" : "https:\/\/latent.space\/p\/cs146s\/"
-        }
-      ],
-      "summary" : "The guest is Mihail Eric, who is not only teaching The Modern Software Developer at Stanford, which is going viral right now, for basically covering all the AI-native development best practices, but also he is head of AI in Monaco.",
-      "title" : "How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-      "topics" : [
-        "Agents",
-        "Coding",
-        "Tooling"
       ]
     },
     {
