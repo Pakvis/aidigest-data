@@ -1,6 +1,29 @@
 {
   "cards" : [
     {
+      "confidence" : "medium",
+      "created_at" : "2026-11-10T16:00:00Z",
+      "id" : "2026-11-10-96cf9cb2abe5",
+      "importance" : "high",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1030787\/google-gemini-4-carbon-public-rollout"
+        }
+      ],
+      "summary" : "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic and OpenAI.",
+      "summary_method" : "source-extract",
+      "title" : "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+      "topics" : [
+        "Agents",
+        "Gemini"
+      ]
+    },
+    {
       "confidence" : "high",
       "created_at" : "2026-11-10T12:02:28Z",
       "id" : "2026-11-10-3fd175573712",
@@ -41,6 +64,28 @@
       "summary" : "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
       "summary_method" : "source-extract",
       "title" : "Closing the AI guidance gap in education",
+      "topics" : [
+        "Research"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-11-10T07:00:00Z",
+      "id" : "2026-11-10-b831a3b31054",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Work at the Frontier: AI’s effect on freelance work",
+          "url" : "https:\/\/openai.com\/index\/ai-effect-on-freelance-work"
+        }
+      ],
+      "summary" : "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+      "summary_method" : "source-extract",
+      "title" : "Work at the Frontier: AI’s effect on freelance work",
       "topics" : [
         "Research"
       ]
@@ -88,28 +133,6 @@
       "title" : "Hands-on with Ring’s new AI drone camera for your home",
       "topics" : [
         "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-11-09T19:09:58Z",
-      "id" : "2026-11-10-30fe0bf56c38",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-          "url" : "https:\/\/www.theverge.com\/tech\/1030084\/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro"
-        }
-      ],
-      "summary" : "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac .",
-      "summary_method" : "source-extract",
-      "title" : "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-      "topics" : [
-        "Pricing"
       ]
     },
     {
@@ -243,58 +266,34 @@
       "topics" : [
         "Agents"
       ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-11-09T17:15:53Z",
-      "id" : "2026-11-10-b668e6324c9f",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
-          "url" : "https:\/\/latent.space\/p\/handshake\/"
-        }
-      ],
-      "summary" : "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team. This is our first Latent Space deep dive with an AI data company . In roughly a year, Handshake’s AI training business went from launch to $1 billion in gross annualized revenue .",
-      "summary_method" : "source-extract",
-      "title" : "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
-      "topics" : [
-        "Agents",
-        "Benchmarks",
-        "Data"
-      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 6,
-    "summary" : "• Introducing AlphaProof Code: a breakthrough in verifying complex software at depth\n• Closing the AI guidance gap in education\n• Google Cloud launches Gemini for healthcare.",
+    "source_count" : 5,
+    "summary" : "• Google releases Gemini 4 Carbon with agent ‘swarm’ feature\n• Introducing AlphaProof Code: a breakthrough in verifying complex software at depth\n• Closing the AI guidance gap in education",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-11-10",
-  "generated_at" : "2026-11-10T15:03:26Z",
+  "generated_at" : "2026-11-10T17:01:00Z",
   "processing_report" : {
-    "generated_at" : "2026-11-10T15:03:30Z",
-    "high_card_count" : 0,
+    "generated_at" : "2026-11-10T17:01:04Z",
+    "high_card_count" : 1,
     "source_reports" : [
       {
         "article_count" : 11,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-11-09T14:11:06Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-11-10T15:03:30Z",
+        "processed_at" : "2026-11-10T17:01:04Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-11-10T15:03:29Z",
+        "processed_at" : "2026-11-10T17:01:03Z",
         "state" : "processed"
       },
       {
@@ -302,7 +301,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-11-10T15:03:27Z",
+        "processed_at" : "2026-11-10T17:01:02Z",
         "state" : "processed"
       },
       {
@@ -310,7 +309,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-11-10T11:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-11-10T15:03:28Z",
+        "processed_at" : "2026-11-10T17:01:03Z",
         "state" : "processed"
       },
       {
@@ -318,7 +317,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-11-06T16:19:12Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-11-10T15:03:27Z",
+        "processed_at" : "2026-11-10T17:01:01Z",
         "state" : "processed"
       },
       {
@@ -326,15 +325,15 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-11-10T14:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-11-10T15:03:26Z",
+        "processed_at" : "2026-11-10T17:01:01Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "deepmind-blog",
-        "latest_article_at" : "2026-11-10T12:02:28Z",
+        "latest_article_at" : "2026-11-10T16:03:47Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-11-10T15:03:27Z",
+        "processed_at" : "2026-11-10T17:01:02Z",
         "state" : "processed"
       },
       {
@@ -342,7 +341,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-11-10T00:00:00Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-11-10T15:03:27Z",
+        "processed_at" : "2026-11-10T17:01:01Z",
         "state" : "processed"
       },
       {
@@ -350,7 +349,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-11-10T06:34:44Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-11-10T15:03:28Z",
+        "processed_at" : "2026-11-10T17:01:02Z",
         "state" : "processed"
       },
       {
@@ -358,7 +357,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-10-19T13:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-11-10T15:03:27Z",
+        "processed_at" : "2026-11-10T17:01:01Z",
         "state" : "processed"
       },
       {
@@ -366,7 +365,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-11-05T12:00:14Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-11-10T15:03:27Z",
+        "processed_at" : "2026-11-10T17:01:01Z",
         "state" : "processed"
       },
       {
@@ -374,7 +373,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-11-09T19:04:26Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-11-10T15:03:27Z",
+        "processed_at" : "2026-11-10T17:01:01Z",
         "state" : "processed"
       },
       {
@@ -382,7 +381,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-11-10T12:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-11-10T15:03:27Z",
+        "processed_at" : "2026-11-10T17:01:01Z",
         "state" : "processed"
       },
       {
@@ -390,7 +389,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-11-09T13:24:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-11-10T15:03:28Z",
+        "processed_at" : "2026-11-10T17:01:03Z",
         "state" : "processed"
       },
       {
@@ -398,15 +397,15 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-11-10T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-11-10T15:03:27Z",
+        "processed_at" : "2026-11-10T17:01:01Z",
         "state" : "processed"
       },
       {
-        "article_count" : 16,
+        "article_count" : 17,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-11-10T14:05:10Z",
+        "latest_article_at" : "2026-11-10T15:54:08Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-11-10T15:03:26Z",
+        "processed_at" : "2026-11-10T17:01:01Z",
         "state" : "processed"
       },
       {
@@ -414,7 +413,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-11-10T15:03:29Z",
+        "processed_at" : "2026-11-10T17:01:04Z",
         "state" : "processed"
       },
       {
@@ -422,22 +421,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-11-05T11:55:56Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-11-10T15:03:27Z",
+        "processed_at" : "2026-11-10T17:01:01Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-11-10T15:03:29Z",
+        "processed_at" : "2026-11-10T17:01:03Z",
         "state" : "processed"
       },
       {
         "article_count" : 8,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-11-10T14:06:54Z",
+        "latest_article_at" : "2026-11-10T16:20:30Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-11-10T15:03:26Z",
+        "processed_at" : "2026-11-10T17:01:01Z",
         "state" : "processed"
       }
     ],
