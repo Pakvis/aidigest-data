@@ -138,28 +138,6 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-11-10T17:04:19Z",
-      "id" : "2026-11-11-75e44b648d9c",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
-          "url" : "https:\/\/techcrunch.com\/2026\/11\/10\/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline\/"
-        }
-      ],
-      "summary" : "The affair could have ramifications for national security as the U.S.",
-      "summary_method" : "source-extract",
-      "title" : "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-11-10T20:05:17Z",
       "id" : "2026-11-11-e9b97899c4f5",
       "importance" : "medium",
@@ -270,34 +248,57 @@
       "topics" : [
         "Research"
       ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-11-10T13:00:00Z",
+      "id" : "2026-11-11-22b4c745eec8",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Google AI Blog",
+          "title" : "Google Cloud launches Gemini for healthcare.",
+          "url" : "https:\/\/blog.google\/innovation-and-ai\/infrastructure-and-cloud\/google-cloud\/gemini-for-healthcare\/"
+        }
+      ],
+      "summary" : "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows.",
+      "summary_method" : "source-extract",
+      "title" : "Google Cloud launches Gemini for healthcare.",
+      "topics" : [
+        "Gemini",
+        "Workflows"
+      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 6,
+    "source_count" : 7,
     "summary" : "• OpenAI acquires Odessia, travel startup created by Sonder founder\n• OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect\n• Oura to acquire AI-native primary care startup Counsel Health for $625M",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-11-11",
-  "generated_at" : "2026-11-11T15:01:05Z",
+  "generated_at" : "2026-11-11T17:04:44Z",
   "processing_report" : {
-    "generated_at" : "2026-11-11T15:01:08Z",
+    "generated_at" : "2026-11-11T17:04:51Z",
     "high_card_count" : 3,
     "source_reports" : [
       {
-        "article_count" : 11,
+        "article_count" : 10,
         "id" : "ai-breakfast",
-        "latest_article_at" : "2026-11-09T14:11:06Z",
+        "latest_article_at" : "2026-11-11T16:03:09Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-11-11T15:01:08Z",
+        "processed_at" : "2026-11-11T17:04:51Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 8,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-11-11T15:01:07Z",
+        "processed_at" : "2026-11-11T17:04:50Z",
         "state" : "processed"
       },
       {
@@ -305,7 +306,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-11-11T15:01:07Z",
+        "processed_at" : "2026-11-11T17:04:46Z",
         "state" : "processed"
       },
       {
@@ -313,7 +314,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-11-10T11:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-11-11T15:01:08Z",
+        "processed_at" : "2026-11-11T17:04:47Z",
         "state" : "processed"
       },
       {
@@ -321,15 +322,15 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-11-10T21:12:59Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-11-11T15:01:06Z",
+        "processed_at" : "2026-11-11T17:04:46Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "google-ai-blog",
-        "latest_article_at" : "2026-11-11T09:00:00Z",
+        "latest_article_at" : "2026-11-11T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-11-11T15:01:06Z",
+        "processed_at" : "2026-11-11T17:04:45Z",
         "state" : "processed"
       },
       {
@@ -337,7 +338,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-11-11T15:00:15Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-11-11T15:01:06Z",
+        "processed_at" : "2026-11-11T17:04:45Z",
         "state" : "processed"
       },
       {
@@ -345,7 +346,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-11-11T05:01:16Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-11-11T15:01:06Z",
+        "processed_at" : "2026-11-11T17:04:45Z",
         "state" : "processed"
       },
       {
@@ -353,7 +354,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-11-11T09:34:28Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-11-11T15:01:07Z",
+        "processed_at" : "2026-11-11T17:04:46Z",
         "state" : "processed"
       },
       {
@@ -361,7 +362,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-10-19T13:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-11-11T15:01:06Z",
+        "processed_at" : "2026-11-11T17:04:45Z",
         "state" : "processed"
       },
       {
@@ -369,7 +370,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-11-05T12:00:14Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-11-11T15:01:06Z",
+        "processed_at" : "2026-11-11T17:04:45Z",
         "state" : "processed"
       },
       {
@@ -377,7 +378,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-11-09T19:04:26Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-11-11T15:01:06Z",
+        "processed_at" : "2026-11-11T17:04:45Z",
         "state" : "processed"
       },
       {
@@ -385,15 +386,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-11-12T00:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-11-11T15:01:06Z",
+        "processed_at" : "2026-11-11T17:04:45Z",
         "state" : "processed"
       },
       {
-        "article_count" : 7,
+        "article_count" : 6,
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-11-11T12:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-11-11T15:01:07Z",
+        "processed_at" : "2026-11-11T17:04:48Z",
         "state" : "processed"
       },
       {
@@ -401,23 +402,23 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-11-11T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-11-11T15:01:06Z",
+        "processed_at" : "2026-11-11T17:04:45Z",
         "state" : "processed"
       },
       {
-        "article_count" : 20,
+        "article_count" : 19,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-11-11T15:00:00Z",
+        "latest_article_at" : "2026-11-11T16:14:44Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-11-11T15:01:06Z",
+        "processed_at" : "2026-11-11T17:04:45Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 11,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-11-11T15:01:08Z",
+        "processed_at" : "2026-11-11T17:04:48Z",
         "state" : "processed"
       },
       {
@@ -425,22 +426,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-11-11T00:05:45Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-11-11T15:01:06Z",
+        "processed_at" : "2026-11-11T17:04:45Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-11-11T15:01:07Z",
+        "processed_at" : "2026-11-11T17:04:48Z",
         "state" : "processed"
       },
       {
         "article_count" : 9,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-11-11T14:00:00Z",
+        "latest_article_at" : "2026-11-11T16:00:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-11-11T15:01:05Z",
+        "processed_at" : "2026-11-11T17:04:45Z",
         "state" : "processed"
       }
     ],
