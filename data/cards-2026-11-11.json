@@ -102,52 +102,6 @@
       ]
     },
     {
-      "confidence" : "high",
-      "created_at" : "2026-11-10T12:02:28Z",
-      "id" : "2026-11-11-1bec8d0e21ec",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Google DeepMind",
-          "title" : "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-          "url" : "https:\/\/deepmind.google\/blog\/introducing-alphaproof-code\/"
-        }
-      ],
-      "summary" : "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
-      "summary_method" : "source-extract",
-      "title" : "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "topics" : [
-        "Coding",
-        "Agents"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "created_at" : "2026-11-10T13:00:00Z",
-      "id" : "2026-11-11-22b4c745eec8",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Google AI Blog",
-          "title" : "Google Cloud launches Gemini for healthcare.",
-          "url" : "https:\/\/blog.google\/innovation-and-ai\/infrastructure-and-cloud\/google-cloud\/gemini-for-healthcare\/"
-        }
-      ],
-      "summary" : "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows.",
-      "summary_method" : "source-extract",
-      "title" : "Google Cloud launches Gemini for healthcare.",
-      "topics" : [
-        "Gemini",
-        "Workflows"
-      ]
-    },
-    {
       "confidence" : "medium",
       "created_at" : "2026-11-10T17:30:00Z",
       "id" : "2026-11-11-24afe5ae5abe",
@@ -262,53 +216,100 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-11-10T13:00:00Z",
-      "id" : "2026-11-11-7dca1c1c7503",
+      "created_at" : "2026-11-10T20:05:17Z",
+      "id" : "2026-11-11-e9b97899c4f5",
       "importance" : "medium",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "TechCrunch AI",
-          "title" : "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
-          "url" : "https:\/\/techcrunch.com\/2026\/11\/10\/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns\/"
+          "source_name" : "Latent Space",
+          "title" : "Designing for Agents — Zeno Rocha, Resend",
+          "url" : "https:\/\/latent.space\/p\/resend\/"
         }
       ],
-      "summary" : "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open source communities valuable to developers worldwide.",
+      "summary" : "Well, we got the guy who “does AEO for resend” - the CEO of AEO, Zeno Rocha, who has been writing about AEO since 2024 and Agent Experience since Feb 2025 , on the pod today: In a recent AEO study, Claude Code picked Resend first in 64 of the 102 email recommendations the researchers could extract.",
       "summary_method" : "source-extract",
-      "title" : "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
+      "title" : "Designing for Agents — Zeno Rocha, Resend",
       "topics" : [
-        "AI"
+        "Agents",
+        "APIs",
+        "Enterprise"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-11-10T12:02:28Z",
+      "id" : "2026-11-11-1bec8d0e21ec",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Google DeepMind",
+          "title" : "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+          "url" : "https:\/\/deepmind.google\/blog\/introducing-alphaproof-code\/"
+        }
+      ],
+      "summary" : "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+      "summary_method" : "source-extract",
+      "title" : "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "topics" : [
+        "Coding",
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-11-10T10:00:00Z",
+      "id" : "2026-11-11-213531311e92",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Introducing Businesses in ChatGPT",
+          "url" : "https:\/\/openai.com\/index\/introducing-businesses-chatgpt"
+        }
+      ],
+      "summary" : "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "summary_method" : "source-extract",
+      "title" : "Introducing Businesses in ChatGPT",
+      "topics" : [
+        "ChatGPT"
       ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 5,
+    "source_count" : 6,
     "summary" : "• OpenAI acquires Odessia, travel startup created by Sonder founder\n• OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect\n• Oura to acquire AI-native primary care startup Counsel Health for $625M",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-11-11",
-  "generated_at" : "2026-11-11T11:04:02Z",
+  "generated_at" : "2026-11-11T13:02:33Z",
   "processing_report" : {
-    "generated_at" : "2026-11-11T11:04:07Z",
+    "generated_at" : "2026-11-11T13:02:37Z",
     "high_card_count" : 3,
     "source_reports" : [
       {
-        "article_count" : 8,
+        "article_count" : 11,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-11-09T14:11:06Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-11-11T11:04:07Z",
+        "processed_at" : "2026-11-11T13:02:37Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-11-11T11:04:05Z",
+        "processed_at" : "2026-11-11T13:02:36Z",
         "state" : "processed"
       },
       {
@@ -316,7 +317,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-11-11T11:04:04Z",
+        "processed_at" : "2026-11-11T13:02:35Z",
         "state" : "processed"
       },
       {
@@ -324,7 +325,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-11-10T11:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-11-11T11:04:05Z",
+        "processed_at" : "2026-11-11T13:02:35Z",
         "state" : "processed"
       },
       {
@@ -332,7 +333,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-11-10T21:12:59Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-11-11T11:04:04Z",
+        "processed_at" : "2026-11-11T13:02:34Z",
         "state" : "processed"
       },
       {
@@ -340,7 +341,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-11-11T09:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-11-11T11:04:03Z",
+        "processed_at" : "2026-11-11T13:02:34Z",
         "state" : "processed"
       },
       {
@@ -348,7 +349,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-11-10T16:03:47Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-11-11T11:04:04Z",
+        "processed_at" : "2026-11-11T13:02:34Z",
         "state" : "processed"
       },
       {
@@ -356,7 +357,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-11-11T05:01:16Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-11-11T11:04:04Z",
+        "processed_at" : "2026-11-11T13:02:34Z",
         "state" : "processed"
       },
       {
@@ -364,7 +365,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-11-11T09:34:28Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-11-11T11:04:04Z",
+        "processed_at" : "2026-11-11T13:02:35Z",
         "state" : "processed"
       },
       {
@@ -372,7 +373,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-10-19T13:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-11-11T11:04:03Z",
+        "processed_at" : "2026-11-11T13:02:34Z",
         "state" : "processed"
       },
       {
@@ -380,7 +381,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-11-05T12:00:14Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-11-11T11:04:03Z",
+        "processed_at" : "2026-11-11T13:02:34Z",
         "state" : "processed"
       },
       {
@@ -388,7 +389,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-11-09T19:04:26Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-11-11T11:04:03Z",
+        "processed_at" : "2026-11-11T13:02:34Z",
         "state" : "processed"
       },
       {
@@ -396,15 +397,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-11-12T00:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-11-11T11:04:04Z",
+        "processed_at" : "2026-11-11T13:02:34Z",
         "state" : "processed"
       },
       {
-        "article_count" : 6,
+        "article_count" : 7,
         "id" : "superhuman-ai",
-        "latest_article_at" : "2026-11-09T13:24:00Z",
+        "latest_article_at" : "2026-11-11T12:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-11-11T11:04:05Z",
+        "processed_at" : "2026-11-11T13:02:35Z",
         "state" : "processed"
       },
       {
@@ -412,7 +413,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-11-10T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-11-11T11:04:03Z",
+        "processed_at" : "2026-11-11T13:02:34Z",
         "state" : "processed"
       },
       {
@@ -420,7 +421,7 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-11-11T07:30:51Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-11-11T11:04:03Z",
+        "processed_at" : "2026-11-11T13:02:34Z",
         "state" : "processed"
       },
       {
@@ -428,7 +429,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-11-11T11:04:05Z",
+        "processed_at" : "2026-11-11T13:02:36Z",
         "state" : "processed"
       },
       {
@@ -436,14 +437,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-11-11T00:05:45Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-11-11T11:04:04Z",
+        "processed_at" : "2026-11-11T13:02:34Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-11-11T11:04:05Z",
+        "processed_at" : "2026-11-11T13:02:36Z",
         "state" : "processed"
       },
       {
@@ -451,7 +452,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-11-10T19:04:05Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-11-11T11:04:03Z",
+        "processed_at" : "2026-11-11T13:02:34Z",
         "state" : "processed"
       }
     ],
