@@ -69,29 +69,6 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-11-10T17:30:00Z",
-      "id" : "2026-11-11-24afe5ae5abe",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Anthropic has its own AI-powered office suite now",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1030709\/anthropic-has-its-own-ai-powered-office-suite-now"
-        }
-      ],
-      "summary" : "And now, Anthropic is trying to expand its footprint to other knowledge workers with an AI-powered suite of office tools.",
-      "summary_method" : "source-extract",
-      "title" : "Anthropic has its own AI-powered office suite now",
-      "topics" : [
-        "Anthropic",
-        "Tooling"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-11-10T21:12:59Z",
       "id" : "2026-11-11-a7579dd24491",
       "importance" : "medium",
@@ -111,29 +88,6 @@
       "topics" : [
         "Agents",
         "Research"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-11-10T17:30:00Z",
-      "id" : "2026-11-11-51f862cdb3e8",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-          "url" : "https:\/\/techcrunch.com\/2026\/11\/10\/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks\/"
-        }
-      ],
-      "summary" : "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
-      "summary_method" : "source-extract",
-      "title" : "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-      "topics" : [
-        "Anthropic",
-        "Claude"
       ]
     },
     {
@@ -271,6 +225,52 @@
         "Gemini",
         "Workflows"
       ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-10T17:30:00Z",
+      "id" : "2026-11-11-24afe5ae5abe",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Anthropic has its own AI-powered office suite now",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1030709\/anthropic-has-its-own-ai-powered-office-suite-now"
+        }
+      ],
+      "summary" : "And now, Anthropic is trying to expand its footprint to other knowledge workers with an AI-powered suite of office tools.",
+      "summary_method" : "source-extract",
+      "title" : "Anthropic has its own AI-powered office suite now",
+      "topics" : [
+        "Anthropic",
+        "Tooling"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-10T17:30:00Z",
+      "id" : "2026-11-11-51f862cdb3e8",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/10\/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks\/"
+        }
+      ],
+      "summary" : "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+      "summary_method" : "source-extract",
+      "title" : "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "topics" : [
+        "Anthropic",
+        "Claude"
+      ]
     }
   ],
   "count" : 12,
@@ -281,24 +281,24 @@
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-11-11",
-  "generated_at" : "2026-11-11T17:04:44Z",
+  "generated_at" : "2026-11-11T19:03:23Z",
   "processing_report" : {
-    "generated_at" : "2026-11-11T17:04:51Z",
+    "generated_at" : "2026-11-11T19:03:26Z",
     "high_card_count" : 3,
     "source_reports" : [
       {
-        "article_count" : 10,
+        "article_count" : 11,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-11-11T16:03:09Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-11-11T17:04:51Z",
+        "processed_at" : "2026-11-11T19:03:26Z",
         "state" : "processed"
       },
       {
-        "article_count" : 8,
+        "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-11-11T17:04:50Z",
+        "processed_at" : "2026-11-11T19:03:25Z",
         "state" : "processed"
       },
       {
@@ -306,7 +306,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-11-11T17:04:46Z",
+        "processed_at" : "2026-11-11T19:03:24Z",
         "state" : "processed"
       },
       {
@@ -314,7 +314,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-11-10T11:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-11-11T17:04:47Z",
+        "processed_at" : "2026-11-11T19:03:25Z",
         "state" : "processed"
       },
       {
@@ -322,15 +322,15 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-11-10T21:12:59Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-11-11T17:04:46Z",
+        "processed_at" : "2026-11-11T19:03:24Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "google-ai-blog",
-        "latest_article_at" : "2026-11-11T16:00:00Z",
+        "latest_article_at" : "2026-11-11T18:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-11-11T17:04:45Z",
+        "processed_at" : "2026-11-11T19:03:23Z",
         "state" : "processed"
       },
       {
@@ -338,7 +338,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-11-11T15:00:15Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-11-11T17:04:45Z",
+        "processed_at" : "2026-11-11T19:03:23Z",
         "state" : "processed"
       },
       {
@@ -346,7 +346,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-11-11T05:01:16Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-11-11T17:04:45Z",
+        "processed_at" : "2026-11-11T19:03:23Z",
         "state" : "processed"
       },
       {
@@ -354,7 +354,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-11-11T09:34:28Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-11-11T17:04:46Z",
+        "processed_at" : "2026-11-11T19:03:25Z",
         "state" : "processed"
       },
       {
@@ -362,7 +362,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-10-19T13:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-11-11T17:04:45Z",
+        "processed_at" : "2026-11-11T19:03:23Z",
         "state" : "processed"
       },
       {
@@ -370,7 +370,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-11-05T12:00:14Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-11-11T17:04:45Z",
+        "processed_at" : "2026-11-11T19:03:24Z",
         "state" : "processed"
       },
       {
@@ -378,7 +378,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-11-09T19:04:26Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-11-11T17:04:45Z",
+        "processed_at" : "2026-11-11T19:03:23Z",
         "state" : "processed"
       },
       {
@@ -386,15 +386,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-11-12T00:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-11-11T17:04:45Z",
+        "processed_at" : "2026-11-11T19:03:24Z",
         "state" : "processed"
       },
       {
-        "article_count" : 6,
+        "article_count" : 7,
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-11-11T12:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-11-11T17:04:48Z",
+        "processed_at" : "2026-11-11T19:03:24Z",
         "state" : "processed"
       },
       {
@@ -402,7 +402,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-11-11T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-11-11T17:04:45Z",
+        "processed_at" : "2026-11-11T19:03:23Z",
         "state" : "processed"
       },
       {
@@ -410,15 +410,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-11-11T16:14:44Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-11-11T17:04:45Z",
+        "processed_at" : "2026-11-11T19:03:23Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 12,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-11-11T17:04:48Z",
+        "processed_at" : "2026-11-11T19:03:25Z",
         "state" : "processed"
       },
       {
@@ -426,14 +426,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-11-11T00:05:45Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-11-11T17:04:45Z",
+        "processed_at" : "2026-11-11T19:03:23Z",
         "state" : "processed"
       },
       {
-        "article_count" : 11,
+        "article_count" : 12,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-11-11T17:04:48Z",
+        "processed_at" : "2026-11-11T19:03:25Z",
         "state" : "processed"
       },
       {
@@ -441,7 +441,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-11-11T16:00:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-11-11T17:04:45Z",
+        "processed_at" : "2026-11-11T19:03:23Z",
         "state" : "processed"
       }
     ],
