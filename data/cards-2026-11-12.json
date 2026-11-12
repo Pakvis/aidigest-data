@@ -52,35 +52,23 @@
     },
     {
       "confidence" : "high",
-      "consolidation" : {
-        "latest_source_at" : "2026-11-12T13:53:16Z",
-        "message_count" : 3,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
-      },
-      "created_at" : "2026-11-12T13:53:16Z",
-      "id" : "2026-11-12-bf1f275cd211",
+      "created_at" : "2026-11-12T20:00:00Z",
+      "id" : "2026-11-12-ea882011c443",
       "importance" : "medium",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "The Verge AI",
-          "title" : "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1031689\/jensen-huang-nvidia-ceo-resigns"
-        },
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Jensen Huang accused of having another affair — with an Nvidia exec",
-          "url" : "https:\/\/techcrunch.com\/2026\/11\/11\/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec\/"
+          "source_name" : "OpenAI News",
+          "title" : "How Amplitude ships product improvements in 1–2 days with OpenAI",
+          "url" : "https:\/\/openai.com\/index\/amplitude"
         }
       ],
-      "summary" : "| Photo: Soeren Stache \/ picture alliance via Getty Images Nvidia's board announced that Jensen Huang - its longtime co-founder, president, and CEO - has resigned after reports of two extramarital affairs, one with an alleged Chinese spy and one with an Nvidia executive who reported to Huang. Following a late Wednesday night meeting, the board accepted Huang's letter of resignation as CEO, president, and board member, effective immediately, with current CFO Colette Kress appointed interim CEO.",
+      "summary" : "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
       "summary_method" : "source-extract",
-      "title" : "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
+      "title" : "How Amplitude ships product improvements in 1–2 days with OpenAI",
       "topics" : [
-        "Image Models",
         "Agents"
       ]
     },
@@ -104,6 +92,50 @@
       "title" : "AI chatbots are recommending fake retail websites, study finds",
       "topics" : [
         "Research"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-12T13:53:16Z",
+      "id" : "2026-11-12-bf1f275cd211",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1031689\/jensen-huang-nvidia-ceo-resigns"
+        }
+      ],
+      "summary" : "| Photo: Soeren Stache \/ picture alliance via Getty Images Nvidia's board announced that Jensen Huang - its longtime co-founder, president, and CEO - has resigned after reports of two extramarital affairs, one with an alleged Chinese spy and one with an Nvidia executive who reported to Huang. Following a late Wednesday night meeting, the board accepted Huang's letter of resignation as CEO, president, and board member, effective immediately, with current CFO Colette Kress appointed interim CEO.",
+      "summary_method" : "source-extract",
+      "title" : "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
+      "topics" : [
+        "Image Models"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-12T19:11:00Z",
+      "id" : "2026-11-12-a6ee368b321c",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/12\/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands\/"
+        }
+      ],
+      "summary" : "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+      "summary_method" : "source-extract",
+      "title" : "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "topics" : [
+        "Agents"
       ]
     },
     {
@@ -151,30 +183,6 @@
       "topics" : [
         "Agents",
         "Research"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-11-10T20:05:17Z",
-      "id" : "2026-11-12-4a00f42f1bbc",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "Designing for Agents — Zeno Rocha, Resend",
-          "url" : "https:\/\/latent.space\/p\/resend\/"
-        }
-      ],
-      "summary" : "Well, we got the guy who “does AEO for resend” - the CEO of AEO, Zeno Rocha, who has been writing about AEO since 2024 and Agent Experience since Feb 2025 , on the pod today: In a recent AEO study, Claude Code picked Resend first in 64 of the 102 email recommendations the researchers could extract.",
-      "summary_method" : "source-extract",
-      "title" : "Designing for Agents — Zeno Rocha, Resend",
-      "topics" : [
-        "Agents",
-        "APIs",
-        "Enterprise"
       ]
     },
     {
@@ -265,57 +273,34 @@
       "topics" : [
         "Research"
       ]
-    },
-    {
-      "confidence" : "high",
-      "created_at" : "2026-11-10T13:00:00Z",
-      "id" : "2026-11-12-a8227c3c7734",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Google AI Blog",
-          "title" : "Google Cloud launches Gemini for healthcare.",
-          "url" : "https:\/\/blog.google\/innovation-and-ai\/infrastructure-and-cloud\/google-cloud\/gemini-for-healthcare\/"
-        }
-      ],
-      "summary" : "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows.",
-      "summary_method" : "source-extract",
-      "title" : "Google Cloud launches Gemini for healthcare.",
-      "topics" : [
-        "Gemini",
-        "Workflows"
-      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 7,
-    "summary" : "• Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit\n• Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts\n• Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
+    "source_count" : 6,
+    "summary" : "• Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit\n• Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts\n• How Amplitude ships product improvements in 1–2 days with OpenAI",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-11-12",
-  "generated_at" : "2026-11-12T19:01:52Z",
+  "generated_at" : "2026-11-12T21:04:47Z",
   "processing_report" : {
-    "generated_at" : "2026-11-12T19:01:56Z",
+    "generated_at" : "2026-11-12T21:04:50Z",
     "high_card_count" : 2,
     "source_reports" : [
       {
-        "article_count" : 9,
+        "article_count" : 11,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-11-11T16:03:09Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-11-12T19:01:56Z",
+        "processed_at" : "2026-11-12T21:04:50Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-11-12T19:01:54Z",
+        "processed_at" : "2026-11-12T21:04:49Z",
         "state" : "processed"
       },
       {
@@ -323,7 +308,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-11-12T19:01:53Z",
+        "processed_at" : "2026-11-12T21:04:49Z",
         "state" : "processed"
       },
       {
@@ -331,7 +316,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-11-12T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-11-12T19:01:54Z",
+        "processed_at" : "2026-11-12T21:04:50Z",
         "state" : "processed"
       },
       {
@@ -339,7 +324,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-11-10T21:12:59Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-11-12T19:01:53Z",
+        "processed_at" : "2026-11-12T21:04:48Z",
         "state" : "processed"
       },
       {
@@ -347,7 +332,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-11-12T18:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-11-12T19:01:52Z",
+        "processed_at" : "2026-11-12T21:04:48Z",
         "state" : "processed"
       },
       {
@@ -355,15 +340,15 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-11-12T18:00:50Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-11-12T19:01:53Z",
+        "processed_at" : "2026-11-12T21:04:48Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "huggingface-blog",
-        "latest_article_at" : "2026-11-12T00:00:00Z",
+        "latest_article_at" : "2026-11-12T19:07:35Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-11-12T19:01:53Z",
+        "processed_at" : "2026-11-12T21:04:48Z",
         "state" : "processed"
       },
       {
@@ -371,7 +356,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-11-12T05:26:54Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-11-12T19:01:53Z",
+        "processed_at" : "2026-11-12T21:04:49Z",
         "state" : "processed"
       },
       {
@@ -379,7 +364,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-11-12T17:00:03Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-11-12T19:01:53Z",
+        "processed_at" : "2026-11-12T21:04:48Z",
         "state" : "processed"
       },
       {
@@ -387,7 +372,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-11-05T12:00:14Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-11-12T19:01:53Z",
+        "processed_at" : "2026-11-12T21:04:48Z",
         "state" : "processed"
       },
       {
@@ -395,15 +380,15 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-11-09T19:04:26Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-11-12T19:01:52Z",
+        "processed_at" : "2026-11-12T21:04:48Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "openai-news",
-        "latest_article_at" : "2026-11-12T09:30:00Z",
+        "latest_article_at" : "2026-11-12T20:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-11-12T19:01:53Z",
+        "processed_at" : "2026-11-12T21:04:48Z",
         "state" : "processed"
       },
       {
@@ -411,7 +396,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-11-12T12:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-11-12T19:01:54Z",
+        "processed_at" : "2026-11-12T21:04:50Z",
         "state" : "processed"
       },
       {
@@ -419,15 +404,15 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-11-12T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-11-12T19:01:52Z",
+        "processed_at" : "2026-11-12T21:04:48Z",
         "state" : "processed"
       },
       {
-        "article_count" : 13,
+        "article_count" : 14,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-11-12T18:39:23Z",
+        "latest_article_at" : "2026-11-12T20:26:47Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-11-12T19:01:52Z",
+        "processed_at" : "2026-11-12T21:04:48Z",
         "state" : "processed"
       },
       {
@@ -435,7 +420,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-11-12T19:01:55Z",
+        "processed_at" : "2026-11-12T21:04:50Z",
         "state" : "processed"
       },
       {
@@ -443,22 +428,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-11-12T17:18:33Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-11-12T19:01:53Z",
+        "processed_at" : "2026-11-12T21:04:48Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-11-12T19:01:54Z",
+        "processed_at" : "2026-11-12T21:04:49Z",
         "state" : "processed"
       },
       {
         "article_count" : 6,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-11-12T17:00:00Z",
+        "latest_article_at" : "2026-11-12T19:42:40Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-11-12T19:01:52Z",
+        "processed_at" : "2026-11-12T21:04:48Z",
         "state" : "processed"
       }
     ],
