@@ -68,6 +68,30 @@
       ]
     },
     {
+      "confidence" : "medium",
+      "created_at" : "2026-11-12T05:26:54Z",
+      "id" : "2026-11-12-7e49d77fac91",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "D-Day (Decision Models Day)",
+          "url" : "https:\/\/latent.space\/p\/ainews-d-day-decision-models-day\/"
+        }
+      ],
+      "summary" : "Google's comparison with TypeSafe's Jev : Google's own tests show Decision 1 beating Jev 1.14 on 5 of 7 shared benchmarks, including 92.2% vs 90.0% on JevBench.",
+      "summary_method" : "source-extract",
+      "title" : "D-Day (Decision Models Day)",
+      "topics" : [
+        "Anthropic",
+        "Coding",
+        "Gemini"
+      ]
+    },
+    {
       "confidence" : "high",
       "created_at" : "2026-11-10T12:02:28Z",
       "id" : "2026-11-12-2c960d5a07c5",
@@ -130,28 +154,6 @@
       "summary" : "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
       "summary_method" : "source-extract",
       "title" : "Closing the AI guidance gap in education",
-      "topics" : [
-        "Research"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "created_at" : "2026-11-10T07:00:00Z",
-      "id" : "2026-11-12-53a360fee1a7",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Work at the Frontier: AI’s effect on freelance work",
-          "url" : "https:\/\/openai.com\/index\/ai-effect-on-freelance-work"
-        }
-      ],
-      "summary" : "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-      "summary_method" : "source-extract",
-      "title" : "Work at the Frontier: AI’s effect on freelance work",
       "topics" : [
         "Research"
       ]
@@ -251,8 +253,8 @@
     },
     {
       "confidence" : "high",
-      "created_at" : "2026-11-09T13:00:00Z",
-      "id" : "2026-11-12-323ca24fcd6e",
+      "created_at" : "2026-11-10T07:00:00Z",
+      "id" : "2026-11-12-53a360fee1a7",
       "importance" : "medium",
       "key_insights" : [
 
@@ -260,16 +262,15 @@
       "sources" : [
         {
           "source_name" : "OpenAI News",
-          "title" : "Control Room: A central system to track and stop model workloads across our research infrastructure",
-          "url" : "https:\/\/openai.com\/index\/control-room"
+          "title" : "Work at the Frontier: AI’s effect on freelance work",
+          "url" : "https:\/\/openai.com\/index\/ai-effect-on-freelance-work"
         }
       ],
-      "summary" : "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "summary" : "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
       "summary_method" : "source-extract",
-      "title" : "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "title" : "Work at the Frontier: AI’s effect on freelance work",
       "topics" : [
-        "Research",
-        "Safety"
+        "Research"
       ]
     }
   ],
@@ -281,9 +282,9 @@
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-11-12",
-  "generated_at" : "2026-11-12T05:01:07Z",
+  "generated_at" : "2026-11-12T07:03:57Z",
   "processing_report" : {
-    "generated_at" : "2026-11-12T05:01:10Z",
+    "generated_at" : "2026-11-12T07:04:00Z",
     "high_card_count" : 3,
     "source_reports" : [
       {
@@ -291,14 +292,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-11-11T16:03:09Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-11-12T05:01:10Z",
+        "processed_at" : "2026-11-12T07:04:00Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-11-12T05:01:09Z",
+        "processed_at" : "2026-11-12T07:03:59Z",
         "state" : "processed"
       },
       {
@@ -306,7 +307,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-11-12T05:01:08Z",
+        "processed_at" : "2026-11-12T07:03:58Z",
         "state" : "processed"
       },
       {
@@ -314,7 +315,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-11-10T11:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-11-12T05:01:09Z",
+        "processed_at" : "2026-11-12T07:03:59Z",
         "state" : "processed"
       },
       {
@@ -322,7 +323,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-11-10T21:12:59Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-11-12T05:01:08Z",
+        "processed_at" : "2026-11-12T07:03:58Z",
         "state" : "processed"
       },
       {
@@ -330,7 +331,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-11-11T18:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-11-12T05:01:08Z",
+        "processed_at" : "2026-11-12T07:03:58Z",
         "state" : "processed"
       },
       {
@@ -338,7 +339,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-11-11T15:00:15Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-11-12T05:01:08Z",
+        "processed_at" : "2026-11-12T07:03:58Z",
         "state" : "processed"
       },
       {
@@ -346,15 +347,15 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-11-11T05:01:16Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-11-12T05:01:08Z",
+        "processed_at" : "2026-11-12T07:03:58Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "latent-space",
-        "latest_article_at" : "2026-11-11T09:34:28Z",
+        "latest_article_at" : "2026-11-12T05:26:54Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-11-12T05:01:08Z",
+        "processed_at" : "2026-11-12T07:03:58Z",
         "state" : "processed"
       },
       {
@@ -362,7 +363,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-10-19T13:00:02Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-11-12T05:01:08Z",
+        "processed_at" : "2026-11-12T07:03:58Z",
         "state" : "processed"
       },
       {
@@ -370,7 +371,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-11-05T12:00:14Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-11-12T05:01:08Z",
+        "processed_at" : "2026-11-12T07:03:58Z",
         "state" : "processed"
       },
       {
@@ -378,7 +379,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-11-09T19:04:26Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-11-12T05:01:08Z",
+        "processed_at" : "2026-11-12T07:03:58Z",
         "state" : "processed"
       },
       {
@@ -386,7 +387,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-11-12T00:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-11-12T05:01:08Z",
+        "processed_at" : "2026-11-12T07:03:58Z",
         "state" : "processed"
       },
       {
@@ -394,7 +395,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-11-11T12:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-11-12T05:01:09Z",
+        "processed_at" : "2026-11-12T07:03:59Z",
         "state" : "processed"
       },
       {
@@ -402,7 +403,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-11-11T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-11-12T05:01:07Z",
+        "processed_at" : "2026-11-12T07:03:58Z",
         "state" : "processed"
       },
       {
@@ -410,7 +411,7 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-11-11T23:28:45Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-11-12T05:01:07Z",
+        "processed_at" : "2026-11-12T07:03:57Z",
         "state" : "processed"
       },
       {
@@ -418,7 +419,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-11-12T05:01:10Z",
+        "processed_at" : "2026-11-12T07:03:59Z",
         "state" : "processed"
       },
       {
@@ -426,14 +427,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-11-11T00:05:45Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-11-12T05:01:08Z",
+        "processed_at" : "2026-11-12T07:03:58Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-11-12T05:01:09Z",
+        "processed_at" : "2026-11-12T07:03:59Z",
         "state" : "processed"
       },
       {
@@ -441,7 +442,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-11-11T22:44:36Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-11-12T05:01:07Z",
+        "processed_at" : "2026-11-12T07:03:57Z",
         "state" : "processed"
       }
     ],

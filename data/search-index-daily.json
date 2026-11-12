@@ -56,6 +56,26 @@
       ]
     },
     {
+      "confidence" : "medium",
+      "date" : "2026-11-12",
+      "id" : "2026-11-12-7e49d77fac91",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "D-Day (Decision Models Day)",
+          "url" : "https:\/\/latent.space\/p\/ainews-d-day-decision-models-day\/"
+        }
+      ],
+      "summary" : "Google's comparison with TypeSafe's Jev : Google's own tests show Decision 1 beating Jev 1.14 on 5 of 7 shared benchmarks, including 92.2% vs 90.0% on JevBench.",
+      "title" : "D-Day (Decision Models Day)",
+      "topics" : [
+        "Anthropic",
+        "Coding",
+        "Gemini"
+      ]
+    },
+    {
       "confidence" : "high",
       "date" : "2026-11-12",
       "id" : "2026-11-12-2c960d5a07c5",
@@ -106,24 +126,6 @@
       ],
       "summary" : "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
       "title" : "Closing the AI guidance gap in education",
-      "topics" : [
-        "Research"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "date" : "2026-11-12",
-      "id" : "2026-11-12-53a360fee1a7",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Work at the Frontier: AI’s effect on freelance work",
-          "url" : "https:\/\/openai.com\/index\/ai-effect-on-freelance-work"
-        }
-      ],
-      "summary" : "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-      "title" : "Work at the Frontier: AI’s effect on freelance work",
       "topics" : [
         "Research"
       ]
@@ -208,20 +210,19 @@
     {
       "confidence" : "high",
       "date" : "2026-11-12",
-      "id" : "2026-11-12-323ca24fcd6e",
+      "id" : "2026-11-12-53a360fee1a7",
       "importance" : "medium",
       "sources" : [
         {
           "source_name" : "OpenAI News",
-          "title" : "Control Room: A central system to track and stop model workloads across our research infrastructure",
-          "url" : "https:\/\/openai.com\/index\/control-room"
+          "title" : "Work at the Frontier: AI’s effect on freelance work",
+          "url" : "https:\/\/openai.com\/index\/ai-effect-on-freelance-work"
         }
       ],
-      "summary" : "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-      "title" : "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "summary" : "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+      "title" : "Work at the Frontier: AI’s effect on freelance work",
       "topics" : [
-        "Research",
-        "Safety"
+        "Research"
       ]
     },
     {
