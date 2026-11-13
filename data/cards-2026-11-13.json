@@ -52,31 +52,9 @@
       ]
     },
     {
-      "confidence" : "high",
-      "created_at" : "2026-11-12T20:00:00Z",
-      "id" : "2026-11-13-50ff5210e312",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "How Amplitude ships product improvements in 1–2 days with OpenAI",
-          "url" : "https:\/\/openai.com\/business\/customer-stories\/amplitude"
-        }
-      ],
-      "summary" : "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-      "summary_method" : "source-extract",
-      "title" : "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "topics" : [
-        "Agents"
-      ]
-    },
-    {
       "confidence" : "medium",
       "created_at" : "2026-11-13T18:40:30Z",
-      "id" : "2026-11-13-d98c043d4258",
+      "id" : "2026-11-13-927e29af39a1",
       "importance" : "medium",
       "key_insights" : [
 
@@ -84,13 +62,13 @@
       "sources" : [
         {
           "source_name" : "TechCrunch AI",
-          "title" : "Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
+          "title" : "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
           "url" : "https:\/\/techcrunch.com\/2026\/11\/13\/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen\/"
         }
       ],
       "summary" : "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
       "summary_method" : "source-extract",
-      "title" : "Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
+      "title" : "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
       "topics" : [
         "Compute",
         "Research"
@@ -142,23 +120,23 @@
       ]
     },
     {
-      "confidence" : "medium",
-      "created_at" : "2026-11-12T19:11:00Z",
-      "id" : "2026-11-13-20a7475f5ed6",
+      "confidence" : "high",
+      "created_at" : "2026-11-12T20:00:00Z",
+      "id" : "2026-11-13-50ff5210e312",
       "importance" : "medium",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "TechCrunch AI",
-          "title" : "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-          "url" : "https:\/\/techcrunch.com\/2026\/11\/12\/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands\/"
+          "source_name" : "OpenAI News",
+          "title" : "How Amplitude ships product improvements in 1–2 days with OpenAI",
+          "url" : "https:\/\/openai.com\/business\/customer-stories\/amplitude"
         }
       ],
-      "summary" : "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+      "summary" : "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
       "summary_method" : "source-extract",
-      "title" : "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "title" : "How Amplitude ships product improvements in 1–2 days with OpenAI",
       "topics" : [
         "Agents"
       ]
@@ -183,6 +161,28 @@
       "title" : "AI chatbots are recommending fake retail websites, study finds",
       "topics" : [
         "Research"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-12T19:11:00Z",
+      "id" : "2026-11-13-20a7475f5ed6",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/12\/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands\/"
+        }
+      ],
+      "summary" : "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+      "summary_method" : "source-extract",
+      "title" : "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "topics" : [
+        "Agents"
       ]
     },
     {
@@ -233,30 +233,6 @@
       ]
     },
     {
-      "confidence" : "medium",
-      "created_at" : "2026-11-10T20:05:17Z",
-      "id" : "2026-11-13-f6caaa27eff2",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "Designing for Agents — Zeno Rocha, Resend",
-          "url" : "https:\/\/latent.space\/p\/resend\/"
-        }
-      ],
-      "summary" : "Well, we got the guy who “does AEO for resend” - the CEO of AEO, Zeno Rocha, who has been writing about AEO since 2024 and Agent Experience since Feb 2025 , on the pod today: In a recent AEO study, Claude Code picked Resend first in 64 of the 102 email recommendations the researchers could extract.",
-      "summary_method" : "source-extract",
-      "title" : "Designing for Agents — Zeno Rocha, Resend",
-      "topics" : [
-        "Agents",
-        "APIs",
-        "Enterprise"
-      ]
-    },
-    {
       "confidence" : "high",
       "consolidation" : {
         "latest_source_at" : "2026-11-13T00:00:00Z",
@@ -295,34 +271,72 @@
         "Claude",
         "Agents"
       ]
+    },
+    {
+      "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-11-13T09:04:13Z",
+        "message_count" : 3,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 3
+      },
+      "created_at" : "2026-11-13T09:04:13Z",
+      "id" : "2026-11-13-68677824bf4d",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Neuron Daily",
+          "title" : "Jensen Huang resigned as Nvidia CEO",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/jensen-huang-resigned-as-nvidia-ceo"
+        },
+        {
+          "source_name" : "Latent Space",
+          "title" : "Jensen Huang resigns after 33 years leading NVIDIA",
+          "url" : "https:\/\/latent.space\/p\/ainews-jensen-huang-resigns-after-33-years-leading-nvidia\/"
+        },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/12\/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry\/"
+        }
+      ],
+      "summary" : "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
+      "summary_method" : "source-extract",
+      "title" : "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+      "topics" : [
+        "Anthropic"
+      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 7,
-    "summary" : "• Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit\n• Introducing ChatGPT Wallet\n• How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "source_count" : 8,
+    "summary" : "• Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit\n• Introducing ChatGPT Wallet\n• Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-11-13",
-  "generated_at" : "2026-11-13T19:03:43Z",
+  "generated_at" : "2026-11-13T21:01:05Z",
   "processing_report" : {
-    "generated_at" : "2026-11-13T19:03:48Z",
+    "generated_at" : "2026-11-13T21:01:09Z",
     "high_card_count" : 1,
     "source_reports" : [
       {
-        "article_count" : 8,
+        "article_count" : 11,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-11-13T14:57:36Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-11-13T19:03:48Z",
+        "processed_at" : "2026-11-13T21:01:09Z",
         "state" : "processed"
       },
       {
-        "article_count" : 8,
+        "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-11-13T19:03:47Z",
+        "processed_at" : "2026-11-13T21:01:08Z",
         "state" : "processed"
       },
       {
@@ -330,7 +344,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-11-13T19:03:45Z",
+        "processed_at" : "2026-11-13T21:01:07Z",
         "state" : "processed"
       },
       {
@@ -338,7 +352,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-11-12T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-11-13T19:03:45Z",
+        "processed_at" : "2026-11-13T21:01:08Z",
         "state" : "processed"
       },
       {
@@ -346,7 +360,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-11-10T21:12:59Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-11-13T19:03:44Z",
+        "processed_at" : "2026-11-13T21:01:06Z",
         "state" : "processed"
       },
       {
@@ -354,7 +368,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-11-12T18:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-11-13T19:03:44Z",
+        "processed_at" : "2026-11-13T21:01:06Z",
         "state" : "processed"
       },
       {
@@ -362,7 +376,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-11-12T18:00:50Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-11-13T19:03:44Z",
+        "processed_at" : "2026-11-13T21:01:06Z",
         "state" : "processed"
       },
       {
@@ -370,7 +384,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-11-13T18:00:39Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-11-13T19:03:44Z",
+        "processed_at" : "2026-11-13T21:01:06Z",
         "state" : "processed"
       },
       {
@@ -378,7 +392,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-11-13T09:04:13Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-11-13T19:03:45Z",
+        "processed_at" : "2026-11-13T21:01:07Z",
         "state" : "processed"
       },
       {
@@ -386,7 +400,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-11-12T17:00:03Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-11-13T19:03:45Z",
+        "processed_at" : "2026-11-13T21:01:06Z",
         "state" : "processed"
       },
       {
@@ -394,7 +408,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-11-05T12:00:14Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-11-13T19:03:44Z",
+        "processed_at" : "2026-11-13T21:01:06Z",
         "state" : "processed"
       },
       {
@@ -402,7 +416,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-11-09T19:04:26Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-11-13T19:03:44Z",
+        "processed_at" : "2026-11-13T21:01:06Z",
         "state" : "processed"
       },
       {
@@ -410,15 +424,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-11-13T15:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-11-13T19:03:44Z",
+        "processed_at" : "2026-11-13T21:01:06Z",
         "state" : "processed"
       },
       {
-        "article_count" : 6,
+        "article_count" : 8,
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-11-13T12:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-11-13T19:03:47Z",
+        "processed_at" : "2026-11-13T21:01:08Z",
         "state" : "processed"
       },
       {
@@ -426,23 +440,23 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-11-13T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-11-13T19:03:44Z",
+        "processed_at" : "2026-11-13T21:01:06Z",
         "state" : "processed"
       },
       {
         "article_count" : 13,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-11-13T18:40:30Z",
+        "latest_article_at" : "2026-11-13T19:37:57Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-11-13T19:03:44Z",
+        "processed_at" : "2026-11-13T21:01:06Z",
         "state" : "processed"
       },
       {
-        "article_count" : 8,
+        "article_count" : 12,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-11-13T19:03:47Z",
+        "processed_at" : "2026-11-13T21:01:08Z",
         "state" : "processed"
       },
       {
@@ -450,14 +464,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-11-12T17:18:33Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-11-13T19:03:44Z",
+        "processed_at" : "2026-11-13T21:01:06Z",
         "state" : "processed"
       },
       {
-        "article_count" : 10,
+        "article_count" : 12,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-11-13T19:03:47Z",
+        "processed_at" : "2026-11-13T21:01:08Z",
         "state" : "processed"
       },
       {
@@ -465,7 +479,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-11-13T14:00:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-11-13T19:03:44Z",
+        "processed_at" : "2026-11-13T21:01:06Z",
         "state" : "processed"
       }
     ],
