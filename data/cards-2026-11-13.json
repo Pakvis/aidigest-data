@@ -231,28 +231,6 @@
     },
     {
       "confidence" : "high",
-      "created_at" : "2026-11-10T07:00:00Z",
-      "id" : "2026-11-13-66d59a6bfbfd",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Work at the Frontier: AI’s effect on freelance work",
-          "url" : "https:\/\/openai.com\/index\/ai-effect-on-freelance-work"
-        }
-      ],
-      "summary" : "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-      "summary_method" : "source-extract",
-      "title" : "Work at the Frontier: AI’s effect on freelance work",
-      "topics" : [
-        "Research"
-      ]
-    },
-    {
-      "confidence" : "high",
       "created_at" : "2026-11-10T13:00:00Z",
       "id" : "2026-11-13-80e0d6e458c3",
       "importance" : "medium",
@@ -273,19 +251,42 @@
         "Gemini",
         "Workflows"
       ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-10T21:12:59Z",
+      "id" : "2026-11-13-d72c04eb7074",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Ars Technica AI",
+          "title" : "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+          "url" : "https:\/\/arstechnica.com\/security\/2026\/11\/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi\/"
+        }
+      ],
+      "summary" : "Grok Build, the vibe-coding agent from SpaceXSI, is leaking data—some of it proprietary business information and other sensitive secrets—from thousands of its users, including the very same Elon Musk-owned company that offers the platform, new research shows. The information is revealed through links allowing Grok Build users to share their apps with others.",
+      "summary_method" : "source-extract",
+      "title" : "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "topics" : [
+        "Agents",
+        "Research"
+      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 6,
+    "source_count" : 7,
     "summary" : "• Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit\n• Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts\n• How Amplitude ships product improvements in 1–2 days with OpenAI",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-11-13",
-  "generated_at" : "2026-11-13T05:00:32Z",
+  "generated_at" : "2026-11-13T07:03:21Z",
   "processing_report" : {
-    "generated_at" : "2026-11-13T05:00:35Z",
+    "generated_at" : "2026-11-13T07:03:25Z",
     "high_card_count" : 2,
     "source_reports" : [
       {
@@ -293,14 +294,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-11-11T16:03:09Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-11-13T05:00:35Z",
+        "processed_at" : "2026-11-13T07:03:25Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-11-13T05:00:34Z",
+        "processed_at" : "2026-11-13T07:03:24Z",
         "state" : "processed"
       },
       {
@@ -308,7 +309,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-11-13T05:00:33Z",
+        "processed_at" : "2026-11-13T07:03:23Z",
         "state" : "processed"
       },
       {
@@ -316,7 +317,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-11-12T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-11-13T05:00:34Z",
+        "processed_at" : "2026-11-13T07:03:24Z",
         "state" : "processed"
       },
       {
@@ -324,7 +325,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-11-10T21:12:59Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-11-13T05:00:33Z",
+        "processed_at" : "2026-11-13T07:03:23Z",
         "state" : "processed"
       },
       {
@@ -332,7 +333,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-11-12T18:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-11-13T05:00:33Z",
+        "processed_at" : "2026-11-13T07:03:22Z",
         "state" : "processed"
       },
       {
@@ -340,7 +341,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-11-12T18:00:50Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-11-13T05:00:33Z",
+        "processed_at" : "2026-11-13T07:03:22Z",
         "state" : "processed"
       },
       {
@@ -348,7 +349,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-11-12T19:07:35Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-11-13T05:00:33Z",
+        "processed_at" : "2026-11-13T07:03:22Z",
         "state" : "processed"
       },
       {
@@ -356,7 +357,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-11-13T04:17:25Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-11-13T05:00:33Z",
+        "processed_at" : "2026-11-13T07:03:23Z",
         "state" : "processed"
       },
       {
@@ -364,7 +365,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-11-12T17:00:03Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-11-13T05:00:33Z",
+        "processed_at" : "2026-11-13T07:03:22Z",
         "state" : "processed"
       },
       {
@@ -372,7 +373,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-11-05T12:00:14Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-11-13T05:00:33Z",
+        "processed_at" : "2026-11-13T07:03:22Z",
         "state" : "processed"
       },
       {
@@ -380,7 +381,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-11-09T19:04:26Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-11-13T05:00:33Z",
+        "processed_at" : "2026-11-13T07:03:22Z",
         "state" : "processed"
       },
       {
@@ -388,7 +389,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-11-12T20:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-11-13T05:00:33Z",
+        "processed_at" : "2026-11-13T07:03:22Z",
         "state" : "processed"
       },
       {
@@ -396,7 +397,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-11-12T12:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-11-13T05:00:34Z",
+        "processed_at" : "2026-11-13T07:03:24Z",
         "state" : "processed"
       },
       {
@@ -404,7 +405,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-11-12T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-11-13T05:00:33Z",
+        "processed_at" : "2026-11-13T07:03:22Z",
         "state" : "processed"
       },
       {
@@ -412,7 +413,7 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-11-12T22:42:51Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-11-13T05:00:32Z",
+        "processed_at" : "2026-11-13T07:03:22Z",
         "state" : "processed"
       },
       {
@@ -420,7 +421,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-11-13T05:00:35Z",
+        "processed_at" : "2026-11-13T07:03:24Z",
         "state" : "processed"
       },
       {
@@ -428,14 +429,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-11-12T17:18:33Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-11-13T05:00:33Z",
+        "processed_at" : "2026-11-13T07:03:22Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-11-13T05:00:34Z",
+        "processed_at" : "2026-11-13T07:03:24Z",
         "state" : "processed"
       },
       {
@@ -443,7 +444,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-11-12T21:55:32Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-11-13T05:00:33Z",
+        "processed_at" : "2026-11-13T07:03:22Z",
         "state" : "processed"
       }
     ],

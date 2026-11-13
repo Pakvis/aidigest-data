@@ -186,24 +186,6 @@
     {
       "confidence" : "high",
       "date" : "2026-11-13",
-      "id" : "2026-11-13-66d59a6bfbfd",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Work at the Frontier: AI’s effect on freelance work",
-          "url" : "https:\/\/openai.com\/index\/ai-effect-on-freelance-work"
-        }
-      ],
-      "summary" : "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-      "title" : "Work at the Frontier: AI’s effect on freelance work",
-      "topics" : [
-        "Research"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "date" : "2026-11-13",
       "id" : "2026-11-13-80e0d6e458c3",
       "importance" : "medium",
       "sources" : [
@@ -218,6 +200,25 @@
       "topics" : [
         "Gemini",
         "Workflows"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-11-13",
+      "id" : "2026-11-13-d72c04eb7074",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "Ars Technica AI",
+          "title" : "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+          "url" : "https:\/\/arstechnica.com\/security\/2026\/11\/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi\/"
+        }
+      ],
+      "summary" : "Grok Build, the vibe-coding agent from SpaceXSI, is leaking data—some of it proprietary business information and other sensitive secrets—from thousands of its users, including the very same Elon Musk-owned company that offers the platform, new research shows. The information is revealed through links allowing Grok Build users to share their apps with others.",
+      "title" : "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "topics" : [
+        "Agents",
+        "Research"
       ]
     },
     {
