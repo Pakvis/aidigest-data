@@ -129,44 +129,6 @@
       ]
     },
     {
-      "confidence" : "high",
-      "date" : "2026-11-13",
-      "id" : "2026-11-13-fe617583bd19",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "Google DeepMind",
-          "title" : "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-          "url" : "https:\/\/deepmind.google\/blog\/introducing-alphaproof-code\/"
-        }
-      ],
-      "summary" : "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
-      "title" : "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "topics" : [
-        "Coding",
-        "Agents"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "date" : "2026-11-13",
-      "id" : "2026-11-13-80e0d6e458c3",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "Google AI Blog",
-          "title" : "Google Cloud launches Gemini for healthcare.",
-          "url" : "https:\/\/blog.google\/innovation-and-ai\/infrastructure-and-cloud\/google-cloud\/gemini-for-healthcare\/"
-        }
-      ],
-      "summary" : "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows.",
-      "title" : "Google Cloud launches Gemini for healthcare.",
-      "topics" : [
-        "Gemini",
-        "Workflows"
-      ]
-    },
-    {
       "confidence" : "medium",
       "date" : "2026-11-13",
       "id" : "2026-11-13-d72c04eb7074",
@@ -232,6 +194,52 @@
       "topics" : [
         "Gemini",
         "APIs"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-11-13",
+      "id" : "2026-11-13-68677824bf4d",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "The Neuron Daily",
+          "title" : "Jensen Huang resigned as Nvidia CEO",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/jensen-huang-resigned-as-nvidia-ceo"
+        },
+        {
+          "source_name" : "Latent Space",
+          "title" : "Jensen Huang resigns after 33 years leading NVIDIA",
+          "url" : "https:\/\/latent.space\/p\/ainews-jensen-huang-resigns-after-33-years-leading-nvidia\/"
+        },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/12\/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry\/"
+        }
+      ],
+      "summary" : "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
+      "title" : "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+      "topics" : [
+        "Anthropic"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-11-13",
+      "id" : "2026-11-13-9911b5f1f917",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "Microsoft AI Blog",
+          "title" : "From AI ambition to business impact",
+          "url" : "https:\/\/blogs.microsoft.com\/blog\/2026\/11\/12\/from-ai-ambition-to-business-impact\/"
+        }
+      ],
+      "summary" : "NOTE IDC Infographic, sponsored by Microsoft, The Real Business Value of AI, IDC US54985026-IG, November 2026 The post From AI ambition to business impact appeared first on The Official Microsoft Blog .",
+      "title" : "From AI ambition to business impact",
+      "topics" : [
+        "AI"
       ]
     },
     {
