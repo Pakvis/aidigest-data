@@ -30,6 +30,29 @@
     },
     {
       "confidence" : "high",
+      "created_at" : "2026-11-13T15:00:00Z",
+      "id" : "2026-11-13-d719d2109e1e",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Introducing ChatGPT Wallet",
+          "url" : "https:\/\/openai.com\/index\/introducing-chatgpt-wallet"
+        }
+      ],
+      "summary" : "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "summary_method" : "source-extract",
+      "title" : "Introducing ChatGPT Wallet",
+      "topics" : [
+        "ChatGPT",
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "high",
       "created_at" : "2026-11-12T20:00:00Z",
       "id" : "2026-11-13-50ff5210e312",
       "importance" : "medium",
@@ -52,24 +75,25 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-11-12T17:00:00Z",
-      "id" : "2026-11-13-a741775603e4",
+      "created_at" : "2026-11-13T16:00:12Z",
+      "id" : "2026-11-13-2e6ca1b5e662",
       "importance" : "medium",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "The Verge AI",
-          "title" : "AI chatbots are recommending fake retail websites, study finds",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1032020\/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations"
+          "source_name" : "TechCrunch AI",
+          "title" : "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/13\/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you\/"
         }
       ],
-      "summary" : "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of shopping-related questions involving a selection of 151 brands.",
+      "summary" : "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S.",
       "summary_method" : "source-extract",
-      "title" : "AI chatbots are recommending fake retail websites, study finds",
+      "title" : "ChatGPT’s new Wallet lets AI agents shop and check out for you",
       "topics" : [
-        "Research"
+        "ChatGPT",
+        "Agents"
       ]
     },
     {
@@ -114,6 +138,28 @@
       "title" : "Nectar launches an AI agent to automate creator discovery and outreach for brands",
       "topics" : [
         "Agents"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-12T17:00:00Z",
+      "id" : "2026-11-13-a741775603e4",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "AI chatbots are recommending fake retail websites, study finds",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1032020\/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations"
+        }
+      ],
+      "summary" : "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of shopping-related questions involving a selection of 151 brands.",
+      "summary_method" : "source-extract",
+      "title" : "AI chatbots are recommending fake retail websites, study finds",
+      "topics" : [
+        "Research"
       ]
     },
     {
@@ -264,65 +310,19 @@
       "topics" : [
         "Anthropic"
       ]
-    },
-    {
-      "confidence" : "high",
-      "created_at" : "2026-11-12T17:00:03Z",
-      "id" : "2026-11-13-9911b5f1f917",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Microsoft AI Blog",
-          "title" : "From AI ambition to business impact",
-          "url" : "https:\/\/blogs.microsoft.com\/blog\/2026\/11\/12\/from-ai-ambition-to-business-impact\/"
-        }
-      ],
-      "summary" : "NOTE IDC Infographic, sponsored by Microsoft, The Real Business Value of AI, IDC US54985026-IG, November 2026 The post From AI ambition to business impact appeared first on The Official Microsoft Blog .",
-      "summary_method" : "source-extract",
-      "title" : "From AI ambition to business impact",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-11-13T14:00:00Z",
-      "id" : "2026-11-13-a7a8c5420642",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Claude’s Duet agent is a little neurotic and surprisingly helpful",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1032518\/claude-duet-ai-agent-hands-on"
-        }
-      ],
-      "summary" : "Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple of months: Instinct gave us an impressive text-based assistant , Meta offered us its cute little guy, Muse, to help us buy things , and OpenAI gave us the more work-oriented Dots .",
-      "summary_method" : "source-extract",
-      "title" : "Claude’s Duet agent is a little neurotic and surprisingly helpful",
-      "topics" : [
-        "Agents",
-        "Claude",
-        "Anthropic"
-      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 9,
-    "summary" : "• Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit\n• How Amplitude ships product improvements in 1–2 days with OpenAI\n• AI chatbots are recommending fake retail websites, study finds",
+    "source_count" : 8,
+    "summary" : "• Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit\n• Introducing ChatGPT Wallet\n• How Amplitude ships product improvements in 1–2 days with OpenAI",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-11-13",
-  "generated_at" : "2026-11-13T15:03:37Z",
+  "generated_at" : "2026-11-13T17:01:13Z",
   "processing_report" : {
-    "generated_at" : "2026-11-13T15:03:42Z",
+    "generated_at" : "2026-11-13T17:01:17Z",
     "high_card_count" : 1,
     "source_reports" : [
       {
@@ -330,14 +330,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-11-13T14:57:36Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-11-13T15:03:42Z",
+        "processed_at" : "2026-11-13T17:01:17Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-11-13T15:03:40Z",
+        "processed_at" : "2026-11-13T17:01:15Z",
         "state" : "processed"
       },
       {
@@ -345,7 +345,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-11-13T15:03:39Z",
+        "processed_at" : "2026-11-13T17:01:14Z",
         "state" : "processed"
       },
       {
@@ -353,7 +353,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-11-12T10:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-11-13T15:03:40Z",
+        "processed_at" : "2026-11-13T17:01:15Z",
         "state" : "processed"
       },
       {
@@ -361,7 +361,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-11-10T21:12:59Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-11-13T15:03:39Z",
+        "processed_at" : "2026-11-13T17:01:14Z",
         "state" : "processed"
       },
       {
@@ -369,7 +369,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-11-12T18:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-11-13T15:03:38Z",
+        "processed_at" : "2026-11-13T17:01:14Z",
         "state" : "processed"
       },
       {
@@ -377,7 +377,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-11-12T18:00:50Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-11-13T15:03:38Z",
+        "processed_at" : "2026-11-13T17:01:14Z",
         "state" : "processed"
       },
       {
@@ -385,7 +385,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-11-13T14:05:22Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-11-13T15:03:39Z",
+        "processed_at" : "2026-11-13T17:01:14Z",
         "state" : "processed"
       },
       {
@@ -393,7 +393,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-11-13T09:04:13Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-11-13T15:03:39Z",
+        "processed_at" : "2026-11-13T17:01:15Z",
         "state" : "processed"
       },
       {
@@ -401,7 +401,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-11-12T17:00:03Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-11-13T15:03:38Z",
+        "processed_at" : "2026-11-13T17:01:14Z",
         "state" : "processed"
       },
       {
@@ -409,7 +409,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-11-05T12:00:14Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-11-13T15:03:38Z",
+        "processed_at" : "2026-11-13T17:01:14Z",
         "state" : "processed"
       },
       {
@@ -417,23 +417,23 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-11-09T19:04:26Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-11-13T15:03:38Z",
+        "processed_at" : "2026-11-13T17:01:14Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "openai-news",
-        "latest_article_at" : "2026-11-12T20:00:00Z",
+        "latest_article_at" : "2026-11-13T15:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-11-13T15:03:39Z",
+        "processed_at" : "2026-11-13T17:01:14Z",
         "state" : "processed"
       },
       {
-        "article_count" : 7,
+        "article_count" : 8,
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-11-13T12:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-11-13T15:03:41Z",
+        "processed_at" : "2026-11-13T17:01:16Z",
         "state" : "processed"
       },
       {
@@ -441,15 +441,15 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-11-13T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-11-13T15:03:38Z",
+        "processed_at" : "2026-11-13T17:01:14Z",
         "state" : "processed"
       },
       {
         "article_count" : 13,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-11-13T12:52:19Z",
+        "latest_article_at" : "2026-11-13T16:00:12Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-11-13T15:03:38Z",
+        "processed_at" : "2026-11-13T17:01:13Z",
         "state" : "processed"
       },
       {
@@ -457,7 +457,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-11-13T15:03:41Z",
+        "processed_at" : "2026-11-13T17:01:16Z",
         "state" : "processed"
       },
       {
@@ -465,14 +465,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-11-12T17:18:33Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-11-13T15:03:39Z",
+        "processed_at" : "2026-11-13T17:01:14Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-11-13T15:03:40Z",
+        "processed_at" : "2026-11-13T17:01:16Z",
         "state" : "processed"
       },
       {
@@ -480,7 +480,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-11-13T14:00:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-11-13T15:03:38Z",
+        "processed_at" : "2026-11-13T17:01:14Z",
         "state" : "processed"
       }
     ],
