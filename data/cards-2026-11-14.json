@@ -1,0 +1,481 @@
+{
+  "cards" : [
+    {
+      "confidence" : "medium",
+      "consolidation" : {
+        "latest_source_at" : "2026-11-12T18:39:23Z",
+        "message_count" : 2,
+        "reason" : "Multiple messages matched the same story.",
+        "source_count" : 1
+      },
+      "created_at" : "2026-11-12T18:39:23Z",
+      "id" : "2026-11-14-16681bd6aa8f",
+      "importance" : "high",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/12\/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question\/"
+        }
+      ],
+      "summary" : "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
+      "summary_method" : "source-extract",
+      "title" : "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-11-13T20:45:10Z",
+        "message_count" : 3,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 3
+      },
+      "created_at" : "2026-11-13T20:45:10Z",
+      "id" : "2026-11-14-1b2d7b6fdcc3",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1033425\/openai-chatgpt-wallet"
+        },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/13\/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you\/"
+        },
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Introducing ChatGPT Wallet",
+          "url" : "https:\/\/openai.com\/index\/introducing-chatgpt-wallet"
+        }
+      ],
+      "summary" : "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "summary_method" : "source-extract",
+      "title" : "Introducing ChatGPT Wallet",
+      "topics" : [
+        "ChatGPT",
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-13T22:43:00Z",
+      "id" : "2026-11-14-4751658b79de",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/13\/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say\/"
+        }
+      ],
+      "summary" : "Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "summary_method" : "source-extract",
+      "title" : "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "topics" : [
+        "Funding"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-13T18:40:30Z",
+      "id" : "2026-11-14-d0fda096fa52",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/13\/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen\/"
+        }
+      ],
+      "summary" : "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "summary_method" : "source-extract",
+      "title" : "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "topics" : [
+        "Compute",
+        "Research"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-11-12T20:00:00Z",
+      "id" : "2026-11-14-532859ab1c6d",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "How Amplitude ships product improvements in 1–2 days with OpenAI",
+          "url" : "https:\/\/openai.com\/business\/customer-stories\/amplitude"
+        }
+      ],
+      "summary" : "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "summary_method" : "source-extract",
+      "title" : "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "topics" : [
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-12T17:00:00Z",
+      "id" : "2026-11-14-faf7ac4da152",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "AI chatbots are recommending fake retail websites, study finds",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1032020\/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations"
+        }
+      ],
+      "summary" : "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of shopping-related questions involving a selection of 151 brands.",
+      "summary_method" : "source-extract",
+      "title" : "AI chatbots are recommending fake retail websites, study finds",
+      "topics" : [
+        "Research"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-12T22:42:51Z",
+      "id" : "2026-11-14-74012305f5ff",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/12\/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump\/"
+        }
+      ],
+      "summary" : "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump. This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+      "summary_method" : "source-extract",
+      "title" : "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-12T19:11:00Z",
+      "id" : "2026-11-14-09f9c33032f4",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/12\/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands\/"
+        }
+      ],
+      "summary" : "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+      "summary_method" : "source-extract",
+      "title" : "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "topics" : [
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-12T05:26:54Z",
+      "id" : "2026-11-14-4881962fd5e6",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "D-Day (Decision Models Day)",
+          "url" : "https:\/\/latent.space\/p\/ainews-d-day-decision-models-day\/"
+        }
+      ],
+      "summary" : "Google's comparison with TypeSafe's Jev : Google's own tests show Decision 1 beating Jev 1.14 on 5 of 7 shared benchmarks, including 92.2% vs 90.0% on JevBench.",
+      "summary_method" : "source-extract",
+      "title" : "D-Day (Decision Models Day)",
+      "topics" : [
+        "Anthropic",
+        "Coding",
+        "Gemini"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-11-13T09:04:13Z",
+        "message_count" : 2,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
+      "created_at" : "2026-11-13T09:04:13Z",
+      "id" : "2026-11-14-ba9080af0e8a",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Neuron Daily",
+          "title" : "Jensen Huang resigned as Nvidia CEO",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/jensen-huang-resigned-as-nvidia-ceo"
+        },
+        {
+          "source_name" : "Latent Space",
+          "title" : "Jensen Huang resigns after 33 years leading NVIDIA",
+          "url" : "https:\/\/latent.space\/p\/ainews-jensen-huang-resigns-after-33-years-leading-nvidia\/"
+        }
+      ],
+      "summary" : "Industry and Policy: Nvidia CEO Exit and Anthropic IPO Jensen Huang resigns .",
+      "summary_method" : "source-extract",
+      "title" : "Jensen Huang resigns after 33 years leading NVIDIA",
+      "topics" : [
+        "Anthropic"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-11-13T08:00:00Z",
+      "id" : "2026-11-14-69687724f953",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Shield helps technicians hand off legacy portal work with OpenAI",
+          "url" : "https:\/\/openai.com\/business\/customer-stories\/shield"
+        }
+      ],
+      "summary" : "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "summary_method" : "source-extract",
+      "title" : "Shield helps technicians hand off legacy portal work with OpenAI",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-13T14:00:00Z",
+      "id" : "2026-11-14-a0c08ab1e42b",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1032518\/claude-duet-ai-agent-hands-on"
+        }
+      ],
+      "summary" : "Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple of months: Instinct gave us an impressive text-based assistant , Meta offered us its cute little guy, Muse, to help us buy things , and OpenAI gave us the more work-oriented Dots .",
+      "summary_method" : "source-extract",
+      "title" : "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "topics" : [
+        "Agents",
+        "Claude",
+        "Anthropic"
+      ]
+    }
+  ],
+  "count" : 12,
+  "daily_summary" : {
+    "headline" : "At a glance",
+    "source_count" : 5,
+    "summary" : "• Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit\n• Introducing ChatGPT Wallet\n• Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "watch" : "Read the original articles for full context."
+  },
+  "date" : "2026-11-14",
+  "generated_at" : "2026-11-14T05:03:48Z",
+  "processing_report" : {
+    "generated_at" : "2026-11-14T05:03:51Z",
+    "high_card_count" : 1,
+    "source_reports" : [
+      {
+        "article_count" : 11,
+        "id" : "ai-breakfast",
+        "latest_article_at" : "2026-11-13T14:57:36Z",
+        "name" : "AI Breakfast",
+        "processed_at" : "2026-11-14T05:03:51Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 11,
+        "id" : "ai-daily-brief",
+        "name" : "AI Daily Brief",
+        "processed_at" : "2026-11-14T05:03:50Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 80,
+        "id" : "ai-news",
+        "latest_article_at" : "2026-09-09T05:44:39Z",
+        "name" : "AI News (Swyx)",
+        "processed_at" : "2026-11-14T05:03:49Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 6,
+        "id" : "aireport-nl",
+        "latest_article_at" : "2026-11-12T10:00:00Z",
+        "name" : "AI Report (NL)",
+        "processed_at" : "2026-11-14T05:03:50Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 17,
+        "id" : "ars-technica-ai",
+        "latest_article_at" : "2026-11-10T21:12:59Z",
+        "name" : "Ars Technica AI",
+        "processed_at" : "2026-11-14T05:03:49Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 20,
+        "id" : "google-ai-blog",
+        "latest_article_at" : "2026-11-12T18:00:00Z",
+        "name" : "Google AI Blog",
+        "processed_at" : "2026-11-14T05:03:48Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 80,
+        "id" : "deepmind-blog",
+        "latest_article_at" : "2026-11-12T18:00:50Z",
+        "name" : "Google DeepMind",
+        "processed_at" : "2026-11-14T05:03:49Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 80,
+        "id" : "huggingface-blog",
+        "latest_article_at" : "2026-11-13T18:00:39Z",
+        "name" : "Hugging Face Blog",
+        "processed_at" : "2026-11-14T05:03:49Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 20,
+        "id" : "latent-space",
+        "latest_article_at" : "2026-11-13T09:04:13Z",
+        "name" : "Latent Space",
+        "processed_at" : "2026-11-14T05:03:49Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 10,
+        "id" : "microsoft-ai-blog",
+        "latest_article_at" : "2026-11-12T17:00:03Z",
+        "name" : "Microsoft AI Blog",
+        "processed_at" : "2026-11-14T05:03:49Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 80,
+        "id" : "mistral-news",
+        "latest_article_at" : "2026-11-05T12:00:14Z",
+        "name" : "Mistral AI",
+        "processed_at" : "2026-11-14T05:03:49Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 20,
+        "id" : "one-useful-thing",
+        "latest_article_at" : "2026-11-09T19:04:26Z",
+        "name" : "One Useful Thing",
+        "processed_at" : "2026-11-14T05:03:48Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 80,
+        "id" : "openai-news",
+        "latest_article_at" : "2026-11-13T15:00:00Z",
+        "name" : "OpenAI News",
+        "processed_at" : "2026-11-14T05:03:49Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 8,
+        "id" : "superhuman-ai",
+        "latest_article_at" : "2026-11-13T12:02:57Z",
+        "name" : "Superhuman AI",
+        "processed_at" : "2026-11-14T05:03:50Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 20,
+        "id" : "tldr-ai",
+        "latest_article_at" : "2026-11-13T00:00:00Z",
+        "name" : "TLDR AI",
+        "processed_at" : "2026-11-14T05:03:48Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 13,
+        "id" : "techcrunch-ai",
+        "latest_article_at" : "2026-11-13T22:43:00Z",
+        "name" : "TechCrunch AI",
+        "processed_at" : "2026-11-14T05:03:48Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 12,
+        "id" : "the-ai-report",
+        "latest_article_at" : "2026-10-27T11:01:00Z",
+        "name" : "The AI Report",
+        "processed_at" : "2026-11-14T05:03:50Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 20,
+        "id" : "algorithmic-bridge",
+        "latest_article_at" : "2026-11-12T17:18:33Z",
+        "name" : "The Algorithmic Bridge",
+        "processed_at" : "2026-11-14T05:03:49Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 12,
+        "id" : "the-neuron-daily",
+        "name" : "The Neuron Daily",
+        "processed_at" : "2026-11-14T05:03:50Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 6,
+        "id" : "the-verge-ai",
+        "latest_article_at" : "2026-11-13T20:45:10Z",
+        "name" : "The Verge AI",
+        "processed_at" : "2026-11-14T05:03:48Z",
+        "state" : "processed"
+      }
+    ],
+    "state" : "complete"
+  }
+}
