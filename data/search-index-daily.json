@@ -1,35 +1,6 @@
 {
   "cards" : [
     {
-      "confidence" : "high",
-      "date" : "2026-11-15",
-      "id" : "2026-11-15-e011e505c99f",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1033425\/openai-chatgpt-wallet"
-        },
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-          "url" : "https:\/\/techcrunch.com\/2026\/11\/13\/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you\/"
-        },
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Introducing ChatGPT Wallet",
-          "url" : "https:\/\/openai.com\/index\/introducing-chatgpt-wallet"
-        }
-      ],
-      "summary" : "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-      "title" : "Introducing ChatGPT Wallet",
-      "topics" : [
-        "ChatGPT",
-        "Agents"
-      ]
-    },
-    {
       "confidence" : "medium",
       "date" : "2026-11-15",
       "id" : "2026-11-15-4110c95e3554",
@@ -104,18 +75,29 @@
     {
       "confidence" : "high",
       "date" : "2026-11-15",
-      "id" : "2026-11-15-8ed9ecb231d3",
+      "id" : "2026-11-15-e011e505c99f",
       "importance" : "medium",
       "sources" : [
         {
+          "source_name" : "The Verge AI",
+          "title" : "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1033425\/openai-chatgpt-wallet"
+        },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/13\/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you\/"
+        },
+        {
           "source_name" : "OpenAI News",
-          "title" : "How Amplitude ships product improvements in 1–2 days with OpenAI",
-          "url" : "https:\/\/openai.com\/business\/customer-stories\/amplitude"
+          "title" : "Introducing ChatGPT Wallet",
+          "url" : "https:\/\/openai.com\/index\/introducing-chatgpt-wallet"
         }
       ],
-      "summary" : "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-      "title" : "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "summary" : "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "title" : "Introducing ChatGPT Wallet",
       "topics" : [
+        "ChatGPT",
         "Agents"
       ]
     },
@@ -157,21 +139,49 @@
       ]
     },
     {
-      "confidence" : "medium",
+      "confidence" : "high",
       "date" : "2026-11-15",
-      "id" : "2026-11-15-5b614a9473a3",
-      "importance" : "medium",
+      "id" : "2026-11-15-cc09dac9be14",
+      "importance" : "low",
       "sources" : [
         {
-          "source_name" : "TechCrunch AI",
-          "title" : "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-          "url" : "https:\/\/techcrunch.com\/2026\/11\/12\/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands\/"
+          "source_name" : "The Neuron Daily",
+          "title" : "Jensen Huang resigned as Nvidia CEO",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/jensen-huang-resigned-as-nvidia-ceo"
+        },
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+          "url" : "https:\/\/www.theverge.com\/tech\/1033999\/jensen-huang-return-nvidia-megaspeed"
+        },
+        {
+          "source_name" : "Latent Space",
+          "title" : "Jensen Huang resigns after 33 years leading NVIDIA",
+          "url" : "https:\/\/latent.space\/p\/ainews-jensen-huang-resigns-after-33-years-leading-nvidia\/"
         }
       ],
-      "summary" : "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
-      "title" : "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "summary" : "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning.",
+      "title" : "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
       "topics" : [
-        "Agents"
+        "Anthropic"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-11-15",
+      "id" : "2026-11-15-57144febc55c",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1033984\/congress-export-rules-ai-chips-china"
+        }
+      ],
+      "summary" : "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress.",
+      "title" : "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "topics" : [
+        "Compute"
       ]
     },
     {
@@ -213,20 +223,19 @@
     {
       "confidence" : "medium",
       "date" : "2026-11-15",
-      "id" : "2026-11-15-eb81de041265",
+      "id" : "2026-11-15-0840ddd93078",
       "importance" : "low",
       "sources" : [
         {
-          "source_name" : "TechCrunch AI",
-          "title" : "AI agent startup LangChain hits $3B valuation",
-          "url" : "https:\/\/techcrunch.com\/2026\/11\/13\/ai-agent-startup-langchain-hits-3b-valuation\/"
+          "source_name" : "AI Report (NL)",
+          "title" : "De AI-industrie denkt dat ze een PR-probleem heeft. Het werkelijke probleem is veel erger",
+          "url" : "https:\/\/www.aireport.nl\/p\/de-ai-industrie-denkt-dat-ze-een-pr-probleem-heeft-het-werkelijke-probleem-is-veel-erger"
         }
       ],
-      "summary" : "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-      "title" : "AI agent startup LangChain hits $3B valuation",
+      "summary" : "De Democraten hebben de midterms met overmacht gewonnen en danken hun overwinning aan de AI-industrie.",
+      "title" : "De AI-industrie denkt dat ze een PR-probleem heeft. Het werkelijke probleem is veel erger",
       "topics" : [
-        "Agents",
-        "Tooling"
+        "AI"
       ]
     },
     {
