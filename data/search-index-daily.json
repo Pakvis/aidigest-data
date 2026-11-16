@@ -1,6 +1,24 @@
 {
   "cards" : [
     {
+      "confidence" : "high",
+      "date" : "2026-11-16",
+      "id" : "2026-11-16-400125128f58",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "LVMH’s Media Division announces strategic partnership with OpenAI",
+          "url" : "https:\/\/openai.com\/index\/lvmh-media-division-partnership"
+        }
+      ],
+      "summary" : "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "title" : "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "topics" : [
+        "ChatGPT"
+      ]
+    },
+    {
       "confidence" : "medium",
       "date" : "2026-11-16",
       "id" : "2026-11-16-12fb527de6a5",
@@ -171,17 +189,12 @@
           "source_name" : "The Verge AI",
           "title" : "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
           "url" : "https:\/\/www.theverge.com\/tech\/1033999\/jensen-huang-return-nvidia-megaspeed"
-        },
-        {
-          "source_name" : "Latent Space",
-          "title" : "Jensen Huang resigns after 33 years leading NVIDIA",
-          "url" : "https:\/\/latent.space\/p\/ainews-jensen-huang-resigns-after-33-years-leading-nvidia\/"
         }
       ],
       "summary" : "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning.",
       "title" : "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
       "topics" : [
-        "Anthropic"
+        "AI"
       ]
     },
     {
@@ -218,24 +231,6 @@
       "title" : "Our new blog for science",
       "topics" : [
         "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-11-16",
-      "id" : "2026-11-16-54de02ed149e",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1033984\/congress-export-rules-ai-chips-china"
-        }
-      ],
-      "summary" : "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress.",
-      "title" : "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-      "topics" : [
-        "Compute"
       ]
     },
     {
