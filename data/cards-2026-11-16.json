@@ -2,6 +2,40 @@
   "cards" : [
     {
       "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-11-16T00:00:00Z",
+        "message_count" : 2,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
+      "created_at" : "2026-11-16T00:00:00Z",
+      "id" : "2026-11-16-1170245eb595",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TLDR AI",
+          "title" : "ChatGPT Wallet 💳, Devin Apps 🛠️, always-on agents ⚡",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-11-16"
+        },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/13\/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you\/"
+        }
+      ],
+      "summary" : "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S.",
+      "summary_method" : "source-extract",
+      "title" : "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "topics" : [
+        "ChatGPT",
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "high",
       "created_at" : "2026-11-16T09:00:00Z",
       "id" : "2026-11-16-400125128f58",
       "importance" : "medium",
@@ -20,6 +54,29 @@
       "title" : "LVMH’s Media Division announces strategic partnership with OpenAI",
       "topics" : [
         "ChatGPT"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-11-16T06:00:00Z",
+      "id" : "2026-11-16-e86c69401936",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "More ways to move care forward with ChatGPT for Healthcare",
+          "url" : "https:\/\/openai.com\/index\/more-ways-to-move-care-forward-with-chatgpt-for-healthcare"
+        }
+      ],
+      "summary" : "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+      "summary_method" : "source-extract",
+      "title" : "More ways to move care forward with ChatGPT for Healthcare",
+      "topics" : [
+        "ChatGPT",
+        "Agents"
       ]
     },
     {
@@ -90,28 +147,6 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-11-14T15:00:00Z",
-      "id" : "2026-11-16-5e7ec71b67ba",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-          "url" : "https:\/\/www.theverge.com\/podcast\/1032907\/helen-toner-openai-cset-ai-safety-policy-interview"
-        }
-      ],
-      "summary" : "Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on the board of OpenAI, when she was one of four board members who voted to fire Sam Altman . That incident, now sometimes referred to as “the blip,” ended with Sam coming back as CEO, Helen resigning, and a new board of directors.",
-      "summary_method" : "source-extract",
-      "title" : "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-      "topics" : [
-        "Safety"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-11-14T17:30:00Z",
       "id" : "2026-11-16-12f143f54d39",
       "importance" : "medium",
@@ -133,15 +168,9 @@
       ]
     },
     {
-      "confidence" : "high",
-      "consolidation" : {
-        "latest_source_at" : "2026-11-13T20:45:10Z",
-        "message_count" : 3,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 3
-      },
-      "created_at" : "2026-11-13T20:45:10Z",
-      "id" : "2026-11-16-379833ad9e81",
+      "confidence" : "medium",
+      "created_at" : "2026-11-14T15:00:00Z",
+      "id" : "2026-11-16-5e7ec71b67ba",
       "importance" : "medium",
       "key_insights" : [
 
@@ -149,26 +178,15 @@
       "sources" : [
         {
           "source_name" : "The Verge AI",
-          "title" : "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1033425\/openai-chatgpt-wallet"
-        },
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-          "url" : "https:\/\/techcrunch.com\/2026\/11\/13\/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you\/"
-        },
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Introducing ChatGPT Wallet",
-          "url" : "https:\/\/openai.com\/index\/introducing-chatgpt-wallet"
+          "title" : "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+          "url" : "https:\/\/www.theverge.com\/podcast\/1032907\/helen-toner-openai-cset-ai-safety-policy-interview"
         }
       ],
-      "summary" : "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "summary" : "Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on the board of OpenAI, when she was one of four board members who voted to fire Sam Altman . That incident, now sometimes referred to as “the blip,” ended with Sam coming back as CEO, Helen resigning, and a new board of directors.",
       "summary_method" : "source-extract",
-      "title" : "Introducing ChatGPT Wallet",
+      "title" : "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
       "topics" : [
-        "ChatGPT",
-        "Agents"
+        "Safety"
       ]
     },
     {
@@ -270,41 +288,19 @@
       "topics" : [
         "AI"
       ]
-    },
-    {
-      "confidence" : "high",
-      "created_at" : "2026-11-15T22:00:01Z",
-      "id" : "2026-11-16-3c8f4bb16e85",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "A step toward defining the Standard Model on a lattice",
-          "url" : "https:\/\/openai.com\/index\/step-toward-defining-the-standard-model"
-        }
-      ],
-      "summary" : "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-      "summary_method" : "source-extract",
-      "title" : "A step toward defining the Standard Model on a lattice",
-      "topics" : [
-        "GPT"
-      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 5,
-    "summary" : "• LVMH’s Media Division announces strategic partnership with OpenAI\n• The King’s Trust and OpenAI launch £1m partnership\n• Apple’s new study looks to improve the effectiveness of AI health tools",
+    "source_count" : 6,
+    "summary" : "• ChatGPT’s new Wallet lets AI agents shop and check out for you\n• LVMH’s Media Division announces strategic partnership with OpenAI\n• More ways to move care forward with ChatGPT for Healthcare",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-11-16",
-  "generated_at" : "2026-11-16T13:00:25Z",
+  "generated_at" : "2026-11-16T15:02:12Z",
   "processing_report" : {
-    "generated_at" : "2026-11-16T13:00:29Z",
+    "generated_at" : "2026-11-16T15:02:15Z",
     "high_card_count" : 0,
     "source_reports" : [
       {
@@ -312,14 +308,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-11-13T14:57:36Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-11-16T13:00:29Z",
+        "processed_at" : "2026-11-16T15:02:15Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-11-16T13:00:27Z",
+        "processed_at" : "2026-11-16T15:02:14Z",
         "state" : "processed"
       },
       {
@@ -327,7 +323,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-11-16T13:00:27Z",
+        "processed_at" : "2026-11-16T15:02:13Z",
         "state" : "processed"
       },
       {
@@ -335,7 +331,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-11-14T11:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-11-16T13:00:27Z",
+        "processed_at" : "2026-11-16T15:02:14Z",
         "state" : "processed"
       },
       {
@@ -343,15 +339,15 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-11-10T21:12:59Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-11-16T13:00:26Z",
+        "processed_at" : "2026-11-16T15:02:13Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "google-ai-blog",
-        "latest_article_at" : "2026-11-12T18:00:00Z",
+        "latest_article_at" : "2026-11-16T14:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-11-16T13:00:26Z",
+        "processed_at" : "2026-11-16T15:02:12Z",
         "state" : "processed"
       },
       {
@@ -359,7 +355,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-11-12T18:00:50Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-11-16T13:00:26Z",
+        "processed_at" : "2026-11-16T15:02:13Z",
         "state" : "processed"
       },
       {
@@ -367,7 +363,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-11-13T18:00:39Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-11-16T13:00:26Z",
+        "processed_at" : "2026-11-16T15:02:13Z",
         "state" : "processed"
       },
       {
@@ -375,7 +371,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-11-14T08:31:02Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-11-16T13:00:27Z",
+        "processed_at" : "2026-11-16T15:02:13Z",
         "state" : "processed"
       },
       {
@@ -383,7 +379,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-11-12T17:00:03Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-11-16T13:00:26Z",
+        "processed_at" : "2026-11-16T15:02:13Z",
         "state" : "processed"
       },
       {
@@ -391,7 +387,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-11-05T12:00:14Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-11-16T13:00:26Z",
+        "processed_at" : "2026-11-16T15:02:13Z",
         "state" : "processed"
       },
       {
@@ -399,7 +395,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-11-09T19:04:26Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-11-16T13:00:26Z",
+        "processed_at" : "2026-11-16T15:02:12Z",
         "state" : "processed"
       },
       {
@@ -407,7 +403,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-11-16T09:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-11-16T13:00:26Z",
+        "processed_at" : "2026-11-16T15:02:13Z",
         "state" : "processed"
       },
       {
@@ -415,23 +411,23 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-11-14T14:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-11-16T13:00:27Z",
+        "processed_at" : "2026-11-16T15:02:14Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "tldr-ai",
-        "latest_article_at" : "2026-11-13T00:00:00Z",
+        "latest_article_at" : "2026-11-16T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-11-16T13:00:25Z",
+        "processed_at" : "2026-11-16T15:02:13Z",
         "state" : "processed"
       },
       {
-        "article_count" : 14,
+        "article_count" : 15,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-11-16T12:30:00Z",
+        "latest_article_at" : "2026-11-16T14:48:13Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-11-16T13:00:25Z",
+        "processed_at" : "2026-11-16T15:02:12Z",
         "state" : "processed"
       },
       {
@@ -439,7 +435,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-11-16T13:00:28Z",
+        "processed_at" : "2026-11-16T15:02:15Z",
         "state" : "processed"
       },
       {
@@ -447,22 +443,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-11-12T17:18:33Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-11-16T13:00:26Z",
+        "processed_at" : "2026-11-16T15:02:13Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-11-16T13:00:28Z",
+        "processed_at" : "2026-11-16T15:02:14Z",
         "state" : "processed"
       },
       {
-        "article_count" : 6,
+        "article_count" : 5,
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-11-16T13:00:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-11-16T13:00:26Z",
+        "processed_at" : "2026-11-16T15:02:12Z",
         "state" : "processed"
       }
     ],
