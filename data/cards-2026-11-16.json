@@ -23,6 +23,28 @@
       ]
     },
     {
+      "confidence" : "high",
+      "created_at" : "2026-11-16T00:00:00Z",
+      "id" : "2026-11-16-1fbbd707aa5c",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "The King’s Trust and OpenAI launch £1m partnership",
+          "url" : "https:\/\/openai.com\/index\/the-kings-trust-and-openai"
+        }
+      ],
+      "summary" : "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+      "summary_method" : "source-extract",
+      "title" : "The King’s Trust and OpenAI launch £1m partnership",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
       "confidence" : "medium",
       "created_at" : "2026-11-16T01:26:56Z",
       "id" : "2026-11-16-12fb527de6a5",
@@ -270,41 +292,19 @@
       "topics" : [
         "GPT"
       ]
-    },
-    {
-      "confidence" : "high",
-      "created_at" : "2026-11-15T22:00:00Z",
-      "id" : "2026-11-16-67895c1b89ef",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Our new blog for science",
-          "url" : "https:\/\/openai.com\/index\/our-new-blog-for-science"
-        }
-      ],
-      "summary" : "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-      "summary_method" : "source-extract",
-      "title" : "Our new blog for science",
-      "topics" : [
-        "AI"
-      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 5,
-    "summary" : "• LVMH’s Media Division announces strategic partnership with OpenAI\n• Apple’s new study looks to improve the effectiveness of AI health tools\n• Apple launches new app to study how people use AI for health",
+    "summary" : "• LVMH’s Media Division announces strategic partnership with OpenAI\n• The King’s Trust and OpenAI launch £1m partnership\n• Apple’s new study looks to improve the effectiveness of AI health tools",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-11-16",
-  "generated_at" : "2026-11-16T11:03:40Z",
+  "generated_at" : "2026-11-16T13:00:25Z",
   "processing_report" : {
-    "generated_at" : "2026-11-16T11:03:43Z",
+    "generated_at" : "2026-11-16T13:00:29Z",
     "high_card_count" : 0,
     "source_reports" : [
       {
@@ -312,14 +312,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-11-13T14:57:36Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-11-16T11:03:43Z",
+        "processed_at" : "2026-11-16T13:00:29Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-11-16T11:03:42Z",
+        "processed_at" : "2026-11-16T13:00:27Z",
         "state" : "processed"
       },
       {
@@ -327,7 +327,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-11-16T11:03:41Z",
+        "processed_at" : "2026-11-16T13:00:27Z",
         "state" : "processed"
       },
       {
@@ -335,7 +335,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-11-14T11:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-11-16T11:03:42Z",
+        "processed_at" : "2026-11-16T13:00:27Z",
         "state" : "processed"
       },
       {
@@ -343,7 +343,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-11-10T21:12:59Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-11-16T11:03:41Z",
+        "processed_at" : "2026-11-16T13:00:26Z",
         "state" : "processed"
       },
       {
@@ -351,7 +351,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-11-12T18:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-11-16T11:03:40Z",
+        "processed_at" : "2026-11-16T13:00:26Z",
         "state" : "processed"
       },
       {
@@ -359,7 +359,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-11-12T18:00:50Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-11-16T11:03:41Z",
+        "processed_at" : "2026-11-16T13:00:26Z",
         "state" : "processed"
       },
       {
@@ -367,7 +367,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-11-13T18:00:39Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-11-16T11:03:41Z",
+        "processed_at" : "2026-11-16T13:00:26Z",
         "state" : "processed"
       },
       {
@@ -375,7 +375,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-11-14T08:31:02Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-11-16T11:03:41Z",
+        "processed_at" : "2026-11-16T13:00:27Z",
         "state" : "processed"
       },
       {
@@ -383,7 +383,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-11-12T17:00:03Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-11-16T11:03:40Z",
+        "processed_at" : "2026-11-16T13:00:26Z",
         "state" : "processed"
       },
       {
@@ -391,7 +391,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-11-05T12:00:14Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-11-16T11:03:41Z",
+        "processed_at" : "2026-11-16T13:00:26Z",
         "state" : "processed"
       },
       {
@@ -399,7 +399,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-11-09T19:04:26Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-11-16T11:03:40Z",
+        "processed_at" : "2026-11-16T13:00:26Z",
         "state" : "processed"
       },
       {
@@ -407,15 +407,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-11-16T09:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-11-16T11:03:41Z",
+        "processed_at" : "2026-11-16T13:00:26Z",
         "state" : "processed"
       },
       {
-        "article_count" : 7,
+        "article_count" : 6,
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-11-14T14:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-11-16T11:03:42Z",
+        "processed_at" : "2026-11-16T13:00:27Z",
         "state" : "processed"
       },
       {
@@ -423,15 +423,15 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-11-13T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-11-16T11:03:40Z",
+        "processed_at" : "2026-11-16T13:00:25Z",
         "state" : "processed"
       },
       {
         "article_count" : 14,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-11-16T01:30:00Z",
+        "latest_article_at" : "2026-11-16T12:30:00Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-11-16T11:03:40Z",
+        "processed_at" : "2026-11-16T13:00:25Z",
         "state" : "processed"
       },
       {
@@ -439,7 +439,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-11-16T11:03:43Z",
+        "processed_at" : "2026-11-16T13:00:28Z",
         "state" : "processed"
       },
       {
@@ -447,22 +447,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-11-12T17:18:33Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-11-16T11:03:40Z",
+        "processed_at" : "2026-11-16T13:00:26Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-11-16T11:03:42Z",
+        "processed_at" : "2026-11-16T13:00:28Z",
         "state" : "processed"
       },
       {
         "article_count" : 6,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-11-16T01:26:56Z",
+        "latest_article_at" : "2026-11-16T13:00:00Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-11-16T11:03:40Z",
+        "processed_at" : "2026-11-16T13:00:26Z",
         "state" : "processed"
       }
     ],
