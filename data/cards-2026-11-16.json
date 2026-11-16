@@ -36,6 +36,73 @@
       ]
     },
     {
+      "confidence" : "medium",
+      "created_at" : "2026-11-16T17:36:43Z",
+      "id" : "2026-11-16-5d48a64ef2ec",
+      "importance" : "high",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/16\/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours\/"
+        }
+      ],
+      "summary" : "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+      "summary_method" : "source-extract",
+      "title" : "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+      "topics" : [
+        "Tooling"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-11-16T17:00:00Z",
+      "id" : "2026-11-16-ff94a78fe712",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Broadening access to AI for scientists",
+          "url" : "https:\/\/openai.com\/index\/expanding-chatgpt-for-academic-researchers"
+        }
+      ],
+      "summary" : "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "summary_method" : "source-extract",
+      "title" : "Broadening access to AI for scientists",
+      "topics" : [
+        "ChatGPT"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-11-16T12:00:00Z",
+      "id" : "2026-11-16-ee1486a2d5f9",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Science at the Frontier: How scientists use ChatGPT",
+          "url" : "https:\/\/openai.com\/index\/science-at-the-frontier"
+        }
+      ],
+      "summary" : "Explore how more than 1,800 scientists use ChatGPT in research.",
+      "summary_method" : "source-extract",
+      "title" : "Science at the Frontier: How scientists use ChatGPT",
+      "topics" : [
+        "ChatGPT",
+        "Research"
+      ]
+    },
+    {
       "confidence" : "high",
       "created_at" : "2026-11-16T09:00:00Z",
       "id" : "2026-11-16-400125128f58",
@@ -55,6 +122,28 @@
       "title" : "LVMH’s Media Division announces strategic partnership with OpenAI",
       "topics" : [
         "ChatGPT"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-11-16T08:00:00Z",
+      "id" : "2026-11-16-80d0e99f29ea",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Our first phase of embedded assessments",
+          "url" : "https:\/\/openai.com\/index\/our-first-phase-of-embedded-assessments"
+        }
+      ],
+      "summary" : "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+      "summary_method" : "source-extract",
+      "title" : "Our first phase of embedded assessments",
+      "topics" : [
+        "Research"
       ]
     },
     {
@@ -127,7 +216,7 @@
     {
       "confidence" : "medium",
       "created_at" : "2026-11-16T17:02:43Z",
-      "id" : "2026-11-16-b9086d9766bf",
+      "id" : "2026-11-16-790571117478",
       "importance" : "medium",
       "key_insights" : [
 
@@ -135,14 +224,15 @@
       "sources" : [
         {
           "source_name" : "TechCrunch AI",
-          "title" : "OpenAI will embed Apollo researchers to investigate AI subversion",
+          "title" : "OpenAI will embed safety researchers to investigate AI subversion",
           "url" : "https:\/\/techcrunch.com\/2026\/11\/16\/openai-will-embed-apollo-researchers-to-investigate-ai-subversion\/"
         }
       ],
       "summary" : "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
       "summary_method" : "source-extract",
-      "title" : "OpenAI will embed Apollo researchers to investigate AI subversion",
+      "title" : "OpenAI will embed safety researchers to investigate AI subversion",
       "topics" : [
+        "Safety",
         "Research"
       ]
     },
@@ -170,28 +260,6 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-11-14T17:30:00Z",
-      "id" : "2026-11-16-12f143f54d39",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "The AI graveyard: a running list of projects and startups that didn’t make it",
-          "url" : "https:\/\/techcrunch.com\/2026\/11\/14\/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it\/"
-        }
-      ],
-      "summary" : "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "summary_method" : "source-extract",
-      "title" : "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-11-14T15:00:00Z",
       "id" : "2026-11-16-5e7ec71b67ba",
       "importance" : "medium",
@@ -211,101 +279,34 @@
       "topics" : [
         "Safety"
       ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-11-13T22:43:00Z",
-      "id" : "2026-11-16-b4e0998e45de",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-          "url" : "https:\/\/techcrunch.com\/2026\/11\/13\/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say\/"
-        }
-      ],
-      "summary" : "Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-      "summary_method" : "source-extract",
-      "title" : "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "topics" : [
-        "Funding"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-11-13T18:40:30Z",
-      "id" : "2026-11-16-9d34a3e04726",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-          "url" : "https:\/\/techcrunch.com\/2026\/11\/13\/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen\/"
-        }
-      ],
-      "summary" : "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-      "summary_method" : "source-extract",
-      "title" : "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-      "topics" : [
-        "Compute",
-        "Research"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-11-14T08:31:02Z",
-      "id" : "2026-11-16-c1e92445d328",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "The No AI Slop Manifesto",
-          "url" : "https:\/\/latent.space\/p\/ainews-the-no-ai-slop-manifesto\/"
-        }
-      ],
-      "summary" : "However, today’s title story goes to the No AI Slop manifesto , which arose out of the conference discussions at AIE CODE and which Dex introduced in the closing keynote after cosignatures by many of the speakers at the conference. It seems Hacker News also liked it , voting it up to the front page today.",
-      "summary_method" : "source-extract",
-      "title" : "The No AI Slop Manifesto",
-      "topics" : [
-        "Coding"
-      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 5,
-    "summary" : "• OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM\n• LVMH’s Media Division announces strategic partnership with OpenAI\n• More ways to move care forward with ChatGPT for Healthcare",
+    "source_count" : 4,
+    "summary" : "• OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM\n• FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’\n• Broadening access to AI for scientists",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-11-16",
-  "generated_at" : "2026-11-16T17:03:57Z",
+  "generated_at" : "2026-11-16T19:00:48Z",
   "processing_report" : {
-    "generated_at" : "2026-11-16T17:04:00Z",
-    "high_card_count" : 1,
+    "generated_at" : "2026-11-16T19:00:52Z",
+    "high_card_count" : 2,
     "source_reports" : [
       {
         "article_count" : 11,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-11-13T14:57:36Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-11-16T17:04:00Z",
+        "processed_at" : "2026-11-16T19:00:52Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-11-16T17:03:59Z",
+        "processed_at" : "2026-11-16T19:00:51Z",
         "state" : "processed"
       },
       {
@@ -313,7 +314,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-11-16T17:03:58Z",
+        "processed_at" : "2026-11-16T19:00:50Z",
         "state" : "processed"
       },
       {
@@ -321,7 +322,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-11-14T11:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-11-16T17:03:59Z",
+        "processed_at" : "2026-11-16T19:00:51Z",
         "state" : "processed"
       },
       {
@@ -329,7 +330,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-11-10T21:12:59Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-11-16T17:03:58Z",
+        "processed_at" : "2026-11-16T19:00:50Z",
         "state" : "processed"
       },
       {
@@ -337,7 +338,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-11-16T14:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-11-16T17:03:57Z",
+        "processed_at" : "2026-11-16T19:00:49Z",
         "state" : "processed"
       },
       {
@@ -345,7 +346,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-11-12T18:00:50Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-11-16T17:03:58Z",
+        "processed_at" : "2026-11-16T19:00:49Z",
         "state" : "processed"
       },
       {
@@ -353,7 +354,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-11-16T00:00:00Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-11-16T17:03:58Z",
+        "processed_at" : "2026-11-16T19:00:49Z",
         "state" : "processed"
       },
       {
@@ -361,7 +362,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-11-14T08:31:02Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-11-16T17:03:58Z",
+        "processed_at" : "2026-11-16T19:00:50Z",
         "state" : "processed"
       },
       {
@@ -369,7 +370,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-11-12T17:00:03Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-11-16T17:03:58Z",
+        "processed_at" : "2026-11-16T19:00:49Z",
         "state" : "processed"
       },
       {
@@ -377,7 +378,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-11-05T12:00:14Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-11-16T17:03:58Z",
+        "processed_at" : "2026-11-16T19:00:49Z",
         "state" : "processed"
       },
       {
@@ -385,15 +386,15 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-11-09T19:04:26Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-11-16T17:03:57Z",
+        "processed_at" : "2026-11-16T19:00:49Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "openai-news",
-        "latest_article_at" : "2026-11-16T09:00:00Z",
+        "latest_article_at" : "2026-11-16T17:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-11-16T17:03:58Z",
+        "processed_at" : "2026-11-16T19:00:49Z",
         "state" : "processed"
       },
       {
@@ -401,7 +402,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-11-14T14:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-11-16T17:03:59Z",
+        "processed_at" : "2026-11-16T19:00:51Z",
         "state" : "processed"
       },
       {
@@ -409,15 +410,15 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-11-16T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-11-16T17:03:57Z",
+        "processed_at" : "2026-11-16T19:00:49Z",
         "state" : "processed"
       },
       {
-        "article_count" : 17,
+        "article_count" : 19,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-11-16T17:02:43Z",
+        "latest_article_at" : "2026-11-16T18:11:10Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-11-16T17:03:57Z",
+        "processed_at" : "2026-11-16T19:00:49Z",
         "state" : "processed"
       },
       {
@@ -425,30 +426,30 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-11-16T17:04:00Z",
+        "processed_at" : "2026-11-16T19:00:51Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "algorithmic-bridge",
-        "latest_article_at" : "2026-11-12T17:18:33Z",
+        "latest_article_at" : "2026-11-16T18:42:02Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-11-16T17:03:58Z",
+        "processed_at" : "2026-11-16T19:00:49Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-11-16T17:03:59Z",
+        "processed_at" : "2026-11-16T19:00:50Z",
         "state" : "processed"
       },
       {
-        "article_count" : 5,
+        "article_count" : 6,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-11-16T13:00:00Z",
+        "latest_article_at" : "2026-11-16T18:43:35Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-11-16T17:03:57Z",
+        "processed_at" : "2026-11-16T19:00:49Z",
         "state" : "processed"
       }
     ],
