@@ -1,41 +1,6 @@
 {
   "cards" : [
     {
-      "confidence" : "high",
-      "consolidation" : {
-        "latest_source_at" : "2026-11-16T17:00:00Z",
-        "message_count" : 2,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
-      },
-      "created_at" : "2026-11-16T17:00:00Z",
-      "id" : "2026-11-16-e62aa4efd86e",
-      "importance" : "high",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-          "url" : "https:\/\/techcrunch.com\/2026\/11\/16\/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam\/"
-        },
-        {
-          "source_name" : "TLDR AI",
-          "title" : "ChatGPT Wallet 💳, Devin Apps 🛠️, always-on agents ⚡",
-          "url" : "https:\/\/tldr.tech\/ai\/2026-11-16"
-        }
-      ],
-      "summary" : "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
-      "summary_method" : "source-extract",
-      "title" : "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-      "topics" : [
-        "ChatGPT",
-        "Image Models",
-        "Agents"
-      ]
-    },
-    {
       "confidence" : "medium",
       "created_at" : "2026-11-16T17:36:43Z",
       "id" : "2026-11-16-5d48a64ef2ec",
@@ -55,6 +20,29 @@
       "title" : "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
       "topics" : [
         "Tooling"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-16T17:00:00Z",
+      "id" : "2026-11-16-e62aa4efd86e",
+      "importance" : "high",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/16\/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam\/"
+        }
+      ],
+      "summary" : "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
+      "summary_method" : "source-extract",
+      "title" : "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "topics" : [
+        "ChatGPT",
+        "Image Models"
       ]
     },
     {
@@ -193,8 +181,8 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-11-16T01:26:56Z",
-      "id" : "2026-11-16-12fb527de6a5",
+      "created_at" : "2026-11-16T19:24:40Z",
+      "id" : "2026-11-16-b1f30cfe9907",
       "importance" : "medium",
       "key_insights" : [
 
@@ -202,15 +190,59 @@
       "sources" : [
         {
           "source_name" : "The Verge AI",
-          "title" : "Apple’s new study looks to improve the effectiveness of AI health tools",
-          "url" : "https:\/\/www.theverge.com\/tech\/1033355\/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools"
+          "title" : "Apple is testing daily usage limits for more complex Siri AI interactions",
+          "url" : "https:\/\/www.theverge.com\/tech\/1034581\/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription"
         }
       ],
-      "summary" : "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence , a clinical AI platform used by healthcare professionals that generates answers based on medical information from sources like The New England Journal of Medicine .",
+      "summary" : "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors . Basic Siri commands and requests will remain free and unlimited, but more advanced features that rely on cloud-based processing like generating, cleaning up, or extending images in Photos will be subjected to the daily limits.",
       "summary_method" : "source-extract",
-      "title" : "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "title" : "Apple is testing daily usage limits for more complex Siri AI interactions",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-16T19:23:45Z",
+      "id" : "2026-11-16-2c73c24d182c",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+          "url" : "https:\/\/www.theverge.com\/policy\/1034527\/openai-csam-classifier"
+        }
+      ],
+      "summary" : "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly.",
+      "summary_method" : "source-extract",
+      "title" : "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
       "topics" : [
         "Tooling"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-16T19:12:02Z",
+      "id" : "2026-11-16-856a1c05d11c",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/16\/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security\/"
+        }
+      ],
+      "summary" : "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+      "summary_method" : "source-extract",
+      "title" : "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+      "topics" : [
+        "AI"
       ]
     },
     {
@@ -235,78 +267,34 @@
         "Safety",
         "Research"
       ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-11-16T01:30:00Z",
-      "id" : "2026-11-16-09753db99207",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Apple launches new app to study how people use AI for health",
-          "url" : "https:\/\/techcrunch.com\/2026\/11\/15\/apple-launches-new-app-to-study-how-people-use-ai-for-health\/"
-        }
-      ],
-      "summary" : "Apple's new app for a study will answer everyday medical questions.",
-      "summary_method" : "source-extract",
-      "title" : "Apple launches new app to study how people use AI for health",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-11-14T15:00:00Z",
-      "id" : "2026-11-16-5e7ec71b67ba",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-          "url" : "https:\/\/www.theverge.com\/podcast\/1032907\/helen-toner-openai-cset-ai-safety-policy-interview"
-        }
-      ],
-      "summary" : "Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on the board of OpenAI, when she was one of four board members who voted to fire Sam Altman . That incident, now sometimes referred to as “the blip,” ended with Sam coming back as CEO, Helen resigning, and a new board of directors.",
-      "summary_method" : "source-extract",
-      "title" : "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-      "topics" : [
-        "Safety"
-      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 4,
-    "summary" : "• OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM\n• FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’\n• Broadening access to AI for scientists",
+    "source_count" : 3,
+    "summary" : "• FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’\n• OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM\n• Broadening access to AI for scientists",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-11-16",
-  "generated_at" : "2026-11-16T19:00:48Z",
+  "generated_at" : "2026-11-16T21:02:47Z",
   "processing_report" : {
-    "generated_at" : "2026-11-16T19:00:52Z",
+    "generated_at" : "2026-11-16T21:02:50Z",
     "high_card_count" : 2,
     "source_reports" : [
       {
-        "article_count" : 11,
+        "article_count" : 12,
         "id" : "ai-breakfast",
-        "latest_article_at" : "2026-11-13T14:57:36Z",
+        "latest_article_at" : "2026-11-16T20:11:05Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-11-16T19:00:52Z",
+        "processed_at" : "2026-11-16T21:02:50Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-11-16T19:00:51Z",
+        "processed_at" : "2026-11-16T21:02:49Z",
         "state" : "processed"
       },
       {
@@ -314,7 +302,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-11-16T19:00:50Z",
+        "processed_at" : "2026-11-16T21:02:48Z",
         "state" : "processed"
       },
       {
@@ -322,7 +310,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-11-14T11:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-11-16T19:00:51Z",
+        "processed_at" : "2026-11-16T21:02:49Z",
         "state" : "processed"
       },
       {
@@ -330,7 +318,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-11-10T21:12:59Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-11-16T19:00:50Z",
+        "processed_at" : "2026-11-16T21:02:48Z",
         "state" : "processed"
       },
       {
@@ -338,7 +326,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-11-16T14:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-11-16T19:00:49Z",
+        "processed_at" : "2026-11-16T21:02:47Z",
         "state" : "processed"
       },
       {
@@ -346,7 +334,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-11-12T18:00:50Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-11-16T19:00:49Z",
+        "processed_at" : "2026-11-16T21:02:47Z",
         "state" : "processed"
       },
       {
@@ -354,7 +342,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-11-16T00:00:00Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-11-16T19:00:49Z",
+        "processed_at" : "2026-11-16T21:02:48Z",
         "state" : "processed"
       },
       {
@@ -362,7 +350,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-11-14T08:31:02Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-11-16T19:00:50Z",
+        "processed_at" : "2026-11-16T21:02:48Z",
         "state" : "processed"
       },
       {
@@ -370,7 +358,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-11-12T17:00:03Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-11-16T19:00:49Z",
+        "processed_at" : "2026-11-16T21:02:47Z",
         "state" : "processed"
       },
       {
@@ -378,7 +366,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-11-05T12:00:14Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-11-16T19:00:49Z",
+        "processed_at" : "2026-11-16T21:02:47Z",
         "state" : "processed"
       },
       {
@@ -386,7 +374,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-11-09T19:04:26Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-11-16T19:00:49Z",
+        "processed_at" : "2026-11-16T21:02:47Z",
         "state" : "processed"
       },
       {
@@ -394,7 +382,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-11-16T17:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-11-16T19:00:49Z",
+        "processed_at" : "2026-11-16T21:02:47Z",
         "state" : "processed"
       },
       {
@@ -402,7 +390,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-11-14T14:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-11-16T19:00:51Z",
+        "processed_at" : "2026-11-16T21:02:48Z",
         "state" : "processed"
       },
       {
@@ -410,15 +398,15 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-11-16T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-11-16T19:00:49Z",
+        "processed_at" : "2026-11-16T21:02:47Z",
         "state" : "processed"
       },
       {
         "article_count" : 19,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-11-16T18:11:10Z",
+        "latest_article_at" : "2026-11-16T20:07:13Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-11-16T19:00:49Z",
+        "processed_at" : "2026-11-16T21:02:48Z",
         "state" : "processed"
       },
       {
@@ -426,7 +414,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-11-16T19:00:51Z",
+        "processed_at" : "2026-11-16T21:02:50Z",
         "state" : "processed"
       },
       {
@@ -434,22 +422,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-11-16T18:42:02Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-11-16T19:00:49Z",
+        "processed_at" : "2026-11-16T21:02:47Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-11-16T19:00:50Z",
+        "processed_at" : "2026-11-16T21:02:49Z",
         "state" : "processed"
       },
       {
-        "article_count" : 6,
+        "article_count" : 5,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-11-16T18:43:35Z",
+        "latest_article_at" : "2026-11-16T20:46:01Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-11-16T19:00:49Z",
+        "processed_at" : "2026-11-16T21:02:47Z",
         "state" : "processed"
       }
     ],

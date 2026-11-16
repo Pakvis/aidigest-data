@@ -1,31 +1,6 @@
 {
   "cards" : [
     {
-      "confidence" : "high",
-      "date" : "2026-11-16",
-      "id" : "2026-11-16-e62aa4efd86e",
-      "importance" : "high",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-          "url" : "https:\/\/techcrunch.com\/2026\/11\/16\/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam\/"
-        },
-        {
-          "source_name" : "TLDR AI",
-          "title" : "ChatGPT Wallet 💳, Devin Apps 🛠️, always-on agents ⚡",
-          "url" : "https:\/\/tldr.tech\/ai\/2026-11-16"
-        }
-      ],
-      "summary" : "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
-      "title" : "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-      "topics" : [
-        "ChatGPT",
-        "Image Models",
-        "Agents"
-      ]
-    },
-    {
       "confidence" : "medium",
       "date" : "2026-11-16",
       "id" : "2026-11-16-5d48a64ef2ec",
@@ -41,6 +16,25 @@
       "title" : "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
       "topics" : [
         "Tooling"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-11-16",
+      "id" : "2026-11-16-e62aa4efd86e",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/16\/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam\/"
+        }
+      ],
+      "summary" : "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
+      "title" : "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "topics" : [
+        "ChatGPT",
+        "Image Models"
       ]
     },
     {
@@ -156,19 +150,55 @@
     {
       "confidence" : "medium",
       "date" : "2026-11-16",
-      "id" : "2026-11-16-12fb527de6a5",
+      "id" : "2026-11-16-b1f30cfe9907",
       "importance" : "medium",
       "sources" : [
         {
           "source_name" : "The Verge AI",
-          "title" : "Apple’s new study looks to improve the effectiveness of AI health tools",
-          "url" : "https:\/\/www.theverge.com\/tech\/1033355\/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools"
+          "title" : "Apple is testing daily usage limits for more complex Siri AI interactions",
+          "url" : "https:\/\/www.theverge.com\/tech\/1034581\/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription"
         }
       ],
-      "summary" : "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence , a clinical AI platform used by healthcare professionals that generates answers based on medical information from sources like The New England Journal of Medicine .",
-      "title" : "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "summary" : "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors . Basic Siri commands and requests will remain free and unlimited, but more advanced features that rely on cloud-based processing like generating, cleaning up, or extending images in Photos will be subjected to the daily limits.",
+      "title" : "Apple is testing daily usage limits for more complex Siri AI interactions",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-11-16",
+      "id" : "2026-11-16-2c73c24d182c",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+          "url" : "https:\/\/www.theverge.com\/policy\/1034527\/openai-csam-classifier"
+        }
+      ],
+      "summary" : "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly.",
+      "title" : "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
       "topics" : [
         "Tooling"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-11-16",
+      "id" : "2026-11-16-856a1c05d11c",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/16\/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security\/"
+        }
+      ],
+      "summary" : "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+      "title" : "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+      "topics" : [
+        "AI"
       ]
     },
     {
@@ -188,42 +218,6 @@
       "topics" : [
         "Safety",
         "Research"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-11-16",
-      "id" : "2026-11-16-09753db99207",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Apple launches new app to study how people use AI for health",
-          "url" : "https:\/\/techcrunch.com\/2026\/11\/15\/apple-launches-new-app-to-study-how-people-use-ai-for-health\/"
-        }
-      ],
-      "summary" : "Apple's new app for a study will answer everyday medical questions.",
-      "title" : "Apple launches new app to study how people use AI for health",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-11-16",
-      "id" : "2026-11-16-5e7ec71b67ba",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-          "url" : "https:\/\/www.theverge.com\/podcast\/1032907\/helen-toner-openai-cset-ai-safety-policy-interview"
-        }
-      ],
-      "summary" : "Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on the board of OpenAI, when she was one of four board members who voted to fire Sam Altman . That incident, now sometimes referred to as “the blip,” ended with Sam coming back as CEO, Helen resigning, and a new board of directors.",
-      "title" : "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-      "topics" : [
-        "Safety"
       ]
     },
     {
