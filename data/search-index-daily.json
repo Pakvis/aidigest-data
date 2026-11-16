@@ -3,24 +3,25 @@
     {
       "confidence" : "high",
       "date" : "2026-11-16",
-      "id" : "2026-11-16-1170245eb595",
-      "importance" : "medium",
+      "id" : "2026-11-16-e62aa4efd86e",
+      "importance" : "high",
       "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/16\/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam\/"
+        },
         {
           "source_name" : "TLDR AI",
           "title" : "ChatGPT Wallet 💳, Devin Apps 🛠️, always-on agents ⚡",
           "url" : "https:\/\/tldr.tech\/ai\/2026-11-16"
-        },
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-          "url" : "https:\/\/techcrunch.com\/2026\/11\/13\/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you\/"
         }
       ],
-      "summary" : "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S.",
-      "title" : "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "summary" : "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
+      "title" : "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
       "topics" : [
         "ChatGPT",
+        "Image Models",
         "Agents"
       ]
     },
@@ -95,6 +96,24 @@
       "title" : "Apple’s new study looks to improve the effectiveness of AI health tools",
       "topics" : [
         "Tooling"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-11-16",
+      "id" : "2026-11-16-b9086d9766bf",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "OpenAI will embed Apollo researchers to investigate AI subversion",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/16\/openai-will-embed-apollo-researchers-to-investigate-ai-subversion\/"
+        }
+      ],
+      "summary" : "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+      "title" : "OpenAI will embed Apollo researchers to investigate AI subversion",
+      "topics" : [
+        "Research"
       ]
     },
     {
@@ -204,29 +223,6 @@
       "title" : "The No AI Slop Manifesto",
       "topics" : [
         "Coding"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "date" : "2026-11-16",
-      "id" : "2026-11-16-182a6a994072",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "The Neuron Daily",
-          "title" : "Jensen Huang resigned as Nvidia CEO",
-          "url" : "https:\/\/www.theneurondaily.com\/p\/jensen-huang-resigned-as-nvidia-ceo"
-        },
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-          "url" : "https:\/\/www.theverge.com\/tech\/1033999\/jensen-huang-return-nvidia-megaspeed"
-        }
-      ],
-      "summary" : "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning.",
-      "title" : "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-      "topics" : [
-        "AI"
       ]
     },
     {
