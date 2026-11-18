@@ -2,6 +2,41 @@
   "cards" : [
     {
       "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-11-18T10:19:04Z",
+        "message_count" : 2,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
+      "created_at" : "2026-11-18T10:19:04Z",
+      "id" : "2026-11-18-556a3b59a906",
+      "importance" : "high",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Neuron Daily",
+          "title" : "OpenAI unveils GPT-6.2 Astra and Sol",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/openai-unveils-gpt-6-2-astra-and-sol"
+        },
+        {
+          "source_name" : "Latent Space",
+          "title" : "GPT-6.2 Astra, the 2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
+          "url" : "https:\/\/latent.space\/p\/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol\/"
+        }
+      ],
+      "summary" : "OpenAI shipped GPT-6.2 Astra and Sol today, two days before Anthropic’s expected first trading day . In Artificial Analysis ’ tests, Sol ties September’s Astra at about 15% of the cost per task .",
+      "summary_method" : "source-extract",
+      "title" : "GPT-6.2 Astra, the 2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
+      "topics" : [
+        "GPT",
+        "Anthropic",
+        "Gemini"
+      ]
+    },
+    {
+      "confidence" : "high",
       "created_at" : "2026-11-17T17:45:00Z",
       "id" : "2026-11-18-9b70090e7ab7",
       "importance" : "high",
@@ -22,46 +57,6 @@
         "GPT",
         "APIs",
         "ChatGPT"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "consolidation" : {
-        "latest_source_at" : "2026-11-17T17:32:25Z",
-        "message_count" : 3,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 3
-      },
-      "created_at" : "2026-11-17T17:32:25Z",
-      "id" : "2026-11-18-6e2f18aff44a",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
-          "url" : "https:\/\/techcrunch.com\/2026\/11\/17\/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop\/"
-        },
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Introducing ChatGPT for Sales",
-          "url" : "https:\/\/openai.com\/index\/introducing-chatgpt-for-sales"
-        },
-        {
-          "source_name" : "TLDR AI",
-          "title" : "ChatGPT Wallet 💳, Devin Apps 🛠️, always-on agents ⚡",
-          "url" : "https:\/\/tldr.tech\/ai\/2026-11-16"
-        }
-      ],
-      "summary" : "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
-      "summary_method" : "source-extract",
-      "title" : "Introducing ChatGPT for Sales",
-      "topics" : [
-        "ChatGPT",
-        "Research",
-        "Agents"
       ]
     },
     {
@@ -122,6 +117,29 @@
       "title" : "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
       "topics" : [
         "Funding"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-11-17T08:00:00Z",
+      "id" : "2026-11-18-6e2f18aff44a",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Introducing ChatGPT for Sales",
+          "url" : "https:\/\/openai.com\/index\/introducing-chatgpt-for-sales"
+        }
+      ],
+      "summary" : "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "summary_method" : "source-extract",
+      "title" : "Introducing ChatGPT for Sales",
+      "topics" : [
+        "ChatGPT",
+        "Research"
       ]
     },
     {
@@ -278,57 +296,34 @@
       "topics" : [
         "Research"
       ]
-    },
-    {
-      "confidence" : "high",
-      "created_at" : "2026-11-16T06:00:00Z",
-      "id" : "2026-11-18-74736a08e769",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "More ways to move care forward with ChatGPT for Healthcare",
-          "url" : "https:\/\/openai.com\/index\/more-ways-to-move-care-forward-with-chatgpt-for-healthcare"
-        }
-      ],
-      "summary" : "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-      "summary_method" : "source-extract",
-      "title" : "More ways to move care forward with ChatGPT for Healthcare",
-      "topics" : [
-        "ChatGPT",
-        "Agents"
-      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 5,
-    "summary" : "• Introducing GPT-6.2 Astra and Sol\n• Introducing ChatGPT for Sales\n• Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+    "summary" : "• GPT-6.2 Astra, the 2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse\n• Introducing GPT-6.2 Astra and Sol\n• Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-11-18",
-  "generated_at" : "2026-11-18T09:00:34Z",
+  "generated_at" : "2026-11-18T11:02:30Z",
   "processing_report" : {
-    "generated_at" : "2026-11-18T09:00:38Z",
-    "high_card_count" : 1,
+    "generated_at" : "2026-11-18T11:02:33Z",
+    "high_card_count" : 2,
     "source_reports" : [
       {
         "article_count" : 12,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-11-16T20:11:05Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-11-18T09:00:38Z",
+        "processed_at" : "2026-11-18T11:02:33Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-11-18T09:00:37Z",
+        "processed_at" : "2026-11-18T11:02:32Z",
         "state" : "processed"
       },
       {
@@ -336,7 +331,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-11-18T09:00:35Z",
+        "processed_at" : "2026-11-18T11:02:31Z",
         "state" : "processed"
       },
       {
@@ -344,7 +339,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-11-14T11:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-11-18T09:00:37Z",
+        "processed_at" : "2026-11-18T11:02:32Z",
         "state" : "processed"
       },
       {
@@ -352,7 +347,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-11-10T21:12:59Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-11-18T09:00:35Z",
+        "processed_at" : "2026-11-18T11:02:31Z",
         "state" : "processed"
       },
       {
@@ -360,7 +355,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-11-17T17:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-11-18T09:00:35Z",
+        "processed_at" : "2026-11-18T11:02:30Z",
         "state" : "processed"
       },
       {
@@ -368,7 +363,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-11-12T18:00:50Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-11-18T09:00:35Z",
+        "processed_at" : "2026-11-18T11:02:31Z",
         "state" : "processed"
       },
       {
@@ -376,15 +371,15 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-11-16T00:00:00Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-11-18T09:00:35Z",
+        "processed_at" : "2026-11-18T11:02:31Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "latent-space",
-        "latest_article_at" : "2026-11-17T15:00:00Z",
+        "latest_article_at" : "2026-11-18T10:19:04Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-11-18T09:00:35Z",
+        "processed_at" : "2026-11-18T11:02:31Z",
         "state" : "processed"
       },
       {
@@ -392,7 +387,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-11-17T18:36:03Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-11-18T09:00:35Z",
+        "processed_at" : "2026-11-18T11:02:31Z",
         "state" : "processed"
       },
       {
@@ -400,7 +395,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-11-05T12:00:14Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-11-18T09:00:35Z",
+        "processed_at" : "2026-11-18T11:02:31Z",
         "state" : "processed"
       },
       {
@@ -408,15 +403,15 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-11-09T19:04:26Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-11-18T09:00:35Z",
+        "processed_at" : "2026-11-18T11:02:30Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "openai-news",
-        "latest_article_at" : "2026-11-17T17:45:00Z",
+        "latest_article_at" : "2026-11-18T00:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-11-18T09:00:35Z",
+        "processed_at" : "2026-11-18T11:02:31Z",
         "state" : "processed"
       },
       {
@@ -424,7 +419,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-11-14T14:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-11-18T09:00:36Z",
+        "processed_at" : "2026-11-18T11:02:32Z",
         "state" : "processed"
       },
       {
@@ -432,7 +427,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-11-17T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-11-18T09:00:35Z",
+        "processed_at" : "2026-11-18T11:02:30Z",
         "state" : "processed"
       },
       {
@@ -440,7 +435,7 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-11-18T01:44:21Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-11-18T09:00:34Z",
+        "processed_at" : "2026-11-18T11:02:30Z",
         "state" : "processed"
       },
       {
@@ -448,7 +443,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-11-18T09:00:37Z",
+        "processed_at" : "2026-11-18T11:02:32Z",
         "state" : "processed"
       },
       {
@@ -456,14 +451,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-11-16T18:42:02Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-11-18T09:00:35Z",
+        "processed_at" : "2026-11-18T11:02:30Z",
         "state" : "processed"
       },
       {
         "article_count" : 10,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-11-18T09:00:36Z",
+        "processed_at" : "2026-11-18T11:02:32Z",
         "state" : "processed"
       },
       {
@@ -471,7 +466,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-11-17T21:40:59Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-11-18T09:00:34Z",
+        "processed_at" : "2026-11-18T11:02:30Z",
         "state" : "processed"
       }
     ],
