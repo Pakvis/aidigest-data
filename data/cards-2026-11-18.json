@@ -38,6 +38,39 @@
     {
       "confidence" : "high",
       "consolidation" : {
+        "latest_source_at" : "2026-11-17T23:04:35Z",
+        "message_count" : 2,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
+      "created_at" : "2026-11-17T23:04:35Z",
+      "id" : "2026-11-18-a2544ef09286",
+      "importance" : "high",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Neuron Daily",
+          "title" : "Jensen Huang resigned as Nvidia CEO",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/jensen-huang-resigned-as-nvidia-ceo"
+        },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/17\/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit\/"
+        }
+      ],
+      "summary" : "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+      "summary_method" : "source-extract",
+      "title" : "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "consolidation" : {
         "latest_source_at" : "2026-11-18T10:19:04Z",
         "message_count" : 2,
         "reason" : "Multiple sources reported the same story.",
@@ -68,44 +101,6 @@
         "GPT",
         "Anthropic",
         "Gemini"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "consolidation" : {
-        "latest_source_at" : "2026-11-17T23:04:35Z",
-        "message_count" : 3,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 3
-      },
-      "created_at" : "2026-11-17T23:04:35Z",
-      "id" : "2026-11-18-622dc2730302",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Neuron Daily",
-          "title" : "Jensen Huang resigned as Nvidia CEO",
-          "url" : "https:\/\/www.theneurondaily.com\/p\/jensen-huang-resigned-as-nvidia-ceo"
-        },
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-          "url" : "https:\/\/techcrunch.com\/2026\/11\/17\/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit\/"
-        },
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
-          "url" : "https:\/\/www.theverge.com\/tech\/1036032\/nvidia-q3-2027-jensen-huang"
-        }
-      ],
-      "summary" : "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure , or possible attempt at a return .",
-      "summary_method" : "source-extract",
-      "title" : "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
-      "topics" : [
-        "AI"
       ]
     },
     {
@@ -313,28 +308,28 @@
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 6,
-    "summary" : "• Introducing GPT-6.2 Astra and Sol\n• GPT-6.2 Astra, the 2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse\n• Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+    "summary" : "• Introducing GPT-6.2 Astra and Sol\n• Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit\n• GPT-6.2 Astra, the 2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-11-18",
-  "generated_at" : "2026-11-18T19:00:58Z",
+  "generated_at" : "2026-11-18T21:03:25Z",
   "processing_report" : {
-    "generated_at" : "2026-11-18T19:01:01Z",
-    "high_card_count" : 2,
+    "generated_at" : "2026-11-18T21:03:28Z",
+    "high_card_count" : 3,
     "source_reports" : [
       {
         "article_count" : 12,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-11-18T14:49:44Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-11-18T19:01:01Z",
+        "processed_at" : "2026-11-18T21:03:28Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-11-18T19:01:01Z",
+        "processed_at" : "2026-11-18T21:03:27Z",
         "state" : "processed"
       },
       {
@@ -342,7 +337,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-11-18T19:01:00Z",
+        "processed_at" : "2026-11-18T21:03:26Z",
         "state" : "processed"
       },
       {
@@ -350,7 +345,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-11-14T11:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-11-18T19:01:01Z",
+        "processed_at" : "2026-11-18T21:03:27Z",
         "state" : "processed"
       },
       {
@@ -358,7 +353,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-11-10T21:12:59Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-11-18T19:00:59Z",
+        "processed_at" : "2026-11-18T21:03:26Z",
         "state" : "processed"
       },
       {
@@ -366,7 +361,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-11-18T17:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-11-18T19:00:59Z",
+        "processed_at" : "2026-11-18T21:03:25Z",
         "state" : "processed"
       },
       {
@@ -374,15 +369,15 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-11-18T18:13:42Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-11-18T19:00:59Z",
+        "processed_at" : "2026-11-18T21:03:26Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "huggingface-blog",
-        "latest_article_at" : "2026-11-18T18:53:43Z",
+        "latest_article_at" : "2026-11-18T19:54:56Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-11-18T19:00:59Z",
+        "processed_at" : "2026-11-18T21:03:26Z",
         "state" : "processed"
       },
       {
@@ -390,7 +385,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-11-18T10:19:04Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-11-18T19:01:00Z",
+        "processed_at" : "2026-11-18T21:03:26Z",
         "state" : "processed"
       },
       {
@@ -398,7 +393,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-11-17T18:36:03Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-11-18T19:00:59Z",
+        "processed_at" : "2026-11-18T21:03:25Z",
         "state" : "processed"
       },
       {
@@ -406,7 +401,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-11-05T12:00:14Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-11-18T19:00:59Z",
+        "processed_at" : "2026-11-18T21:03:26Z",
         "state" : "processed"
       },
       {
@@ -414,7 +409,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-11-09T19:04:26Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-11-18T19:00:59Z",
+        "processed_at" : "2026-11-18T21:03:25Z",
         "state" : "processed"
       },
       {
@@ -422,7 +417,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-11-18T08:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-11-18T19:00:59Z",
+        "processed_at" : "2026-11-18T21:03:26Z",
         "state" : "processed"
       },
       {
@@ -430,7 +425,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-11-18T12:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-11-18T19:01:00Z",
+        "processed_at" : "2026-11-18T21:03:27Z",
         "state" : "processed"
       },
       {
@@ -438,15 +433,15 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-11-18T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-11-18T19:00:59Z",
+        "processed_at" : "2026-11-18T21:03:25Z",
         "state" : "processed"
       },
       {
-        "article_count" : 19,
+        "article_count" : 18,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-11-18T18:04:05Z",
+        "latest_article_at" : "2026-11-18T19:56:39Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-11-18T19:00:59Z",
+        "processed_at" : "2026-11-18T21:03:25Z",
         "state" : "processed"
       },
       {
@@ -454,30 +449,30 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-11-18T19:01:01Z",
+        "processed_at" : "2026-11-18T21:03:28Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "algorithmic-bridge",
-        "latest_article_at" : "2026-11-16T18:42:02Z",
+        "latest_article_at" : "2026-11-18T20:11:16Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-11-18T19:00:59Z",
+        "processed_at" : "2026-11-18T21:03:25Z",
         "state" : "processed"
       },
       {
         "article_count" : 10,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-11-18T19:01:00Z",
+        "processed_at" : "2026-11-18T21:03:27Z",
         "state" : "processed"
       },
       {
-        "article_count" : 9,
+        "article_count" : 8,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-11-18T18:34:15Z",
+        "latest_article_at" : "2026-11-18T19:40:36Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-11-18T19:00:58Z",
+        "processed_at" : "2026-11-18T21:03:25Z",
         "state" : "processed"
       }
     ],
