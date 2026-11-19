@@ -1,24 +1,6 @@
 {
   "cards" : [
     {
-      "confidence" : "medium",
-      "date" : "2026-11-19",
-      "id" : "2026-11-19-196af6ed257c",
-      "importance" : "high",
-      "sources" : [
-        {
-          "source_name" : "Latent Space",
-          "title" : "Gemini 4 Neon: GDM's Opus\/Sol Contender",
-          "url" : "https:\/\/latent.space\/p\/ainews-gemini-4-neon-gdm-s-opus-sol-contender\/"
-        }
-      ],
-      "summary" : "Google DeepMind shipped Gemini 4 Neon , its fourth Gemini 4 model in about seven weeks.",
-      "title" : "Gemini 4 Neon: GDM's Opus\/Sol Contender",
-      "topics" : [
-        "Gemini"
-      ]
-    },
-    {
       "confidence" : "high",
       "date" : "2026-11-19",
       "id" : "2026-11-19-59e3dfdbd0a8",
@@ -46,31 +28,6 @@
     {
       "confidence" : "high",
       "date" : "2026-11-19",
-      "id" : "2026-11-19-976532753ab9",
-      "importance" : "high",
-      "sources" : [
-        {
-          "source_name" : "The Neuron Daily",
-          "title" : "OpenAI unveils GPT-6.2 Astra and Sol",
-          "url" : "https:\/\/www.theneurondaily.com\/p\/openai-unveils-gpt-6-2-astra-and-sol"
-        },
-        {
-          "source_name" : "Latent Space",
-          "title" : "GPT-6.2 Astra, the 2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
-          "url" : "https:\/\/latent.space\/p\/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol\/"
-        }
-      ],
-      "summary" : "OpenAI shipped GPT-6.2 Astra and Sol today, two days before Anthropic’s expected first trading day . In Artificial Analysis ’ tests, Sol ties September’s Astra at about 15% of the cost per task .",
-      "title" : "GPT-6.2 Astra, the 2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
-      "topics" : [
-        "GPT",
-        "Anthropic",
-        "Gemini"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "date" : "2026-11-19",
       "id" : "2026-11-19-bf9112c2e959",
       "importance" : "high",
       "sources" : [
@@ -91,19 +48,19 @@
     {
       "confidence" : "medium",
       "date" : "2026-11-19",
-      "id" : "2026-11-19-47c982a3a262",
+      "id" : "2026-11-19-e5603e03564d",
       "importance" : "medium",
       "sources" : [
         {
           "source_name" : "The Verge AI",
-          "title" : "Suno now lets you make AI videos for your AI music",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1036415\/suno-visuals-ai-generated-video-images-feature"
+          "title" : "Canva adds an AI ‘off’ button",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1037126\/canva-ai-features-off-button"
         }
       ],
-      "summary" : "| Image: Suno Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called \"Visuals,\" allows users to turn Suno songs into AI-generated video clips that automatically lipsync to lyrics, or make images via prompt descriptions that can be used as thumbnails and album artwork.",
-      "title" : "Suno now lets you make AI videos for your AI music",
+      "summary" : "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot .",
+      "title" : "Canva adds an AI ‘off’ button",
       "topics" : [
-        "Image Models"
+        "AI"
       ]
     },
     {
@@ -219,20 +176,55 @@
     {
       "confidence" : "high",
       "date" : "2026-11-19",
-      "id" : "2026-11-19-d68c42a0734e",
-      "importance" : "medium",
+      "id" : "2026-11-19-cb12df73364b",
+      "importance" : "low",
       "sources" : [
         {
-          "source_name" : "OpenAI News",
-          "title" : "Science at the Frontier: How scientists use ChatGPT",
-          "url" : "https:\/\/openai.com\/index\/science-at-the-frontier"
+          "source_name" : "Google AI Blog",
+          "title" : "The Gemini app is now available on lower-memory Android devices.",
+          "url" : "https:\/\/blog.google\/innovation-and-ai\/products\/gemini-app\/gemini-lower-memory-devices\/"
         }
       ],
-      "summary" : "Explore how more than 1,800 scientists use ChatGPT in research.",
-      "title" : "Science at the Frontier: How scientists use ChatGPT",
+      "summary" : "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone.",
+      "title" : "The Gemini app is now available on lower-memory Android devices.",
       "topics" : [
-        "ChatGPT",
-        "Research"
+        "Gemini"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-11-19",
+      "id" : "2026-11-19-3e4f4f96b2ca",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "I let Apple’s always-listening AI summarize my life for two weeks",
+          "url" : "https:\/\/www.theverge.com\/tech\/1037100\/apple-siri-recap-audio-intelligence-hands-on"
+        }
+      ],
+      "summary" : "I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you.",
+      "title" : "I let Apple’s always-listening AI summarize my life for two weeks",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-11-19",
+      "id" : "2026-11-19-640d76c6200a",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Trump’s latest land grab is an AI hub in the Philippines",
+          "url" : "https:\/\/www.theverge.com\/policy\/1036749\/trump-ai-chip-data-center-us-philippines-pax-silica"
+        }
+      ],
+      "summary" : "President Donald Trump is welcomed upon his arrival at Villamor Air Base on November 17th, 2026, in Manila, Philippines. | Photo: Getty Images President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler .",
+      "title" : "Trump’s latest land grab is an AI hub in the Philippines",
+      "topics" : [
+        "AI"
       ]
     },
     {
