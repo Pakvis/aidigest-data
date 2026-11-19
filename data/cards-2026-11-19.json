@@ -3,6 +3,41 @@
     {
       "confidence" : "high",
       "consolidation" : {
+        "latest_source_at" : "2026-11-19T07:07:43Z",
+        "message_count" : 2,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
+      "created_at" : "2026-11-19T07:07:43Z",
+      "id" : "2026-11-19-196af6ed257c",
+      "importance" : "high",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Gemini 4 Neon: GDM's Opus\/Sol Contender",
+          "url" : "https:\/\/latent.space\/p\/ainews-gemini-4-neon-gdm-s-opus-sol-contender\/"
+        },
+        {
+          "source_name" : "TLDR AI",
+          "title" : "Gemini 4 Neon 🚀, Genie 4 worlds 🌍, AI designs chips 🔬",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-11-19"
+        }
+      ],
+      "summary" : "Google DeepMind shipped Gemini 4 Neon , its fourth Gemini 4 model in about seven weeks.",
+      "summary_method" : "source-extract",
+      "title" : "Gemini 4 Neon: GDM's Opus\/Sol Contender",
+      "topics" : [
+        "Gemini",
+        "Compute",
+        "Design"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "consolidation" : {
         "latest_source_at" : "2026-11-18T00:00:00Z",
         "message_count" : 2,
         "reason" : "Multiple sources reported the same story.",
@@ -33,6 +68,41 @@
         "GPT",
         "APIs",
         "ChatGPT"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-11-18T10:19:04Z",
+        "message_count" : 2,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
+      "created_at" : "2026-11-18T10:19:04Z",
+      "id" : "2026-11-19-976532753ab9",
+      "importance" : "high",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Neuron Daily",
+          "title" : "OpenAI unveils GPT-6.2 Astra and Sol",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/openai-unveils-gpt-6-2-astra-and-sol"
+        },
+        {
+          "source_name" : "Latent Space",
+          "title" : "GPT-6.2 Astra, the 2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
+          "url" : "https:\/\/latent.space\/p\/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol\/"
+        }
+      ],
+      "summary" : "OpenAI shipped GPT-6.2 Astra and Sol today, two days before Anthropic’s expected first trading day . In Artificial Analysis ’ tests, Sol ties September’s Astra at about 15% of the cost per task .",
+      "summary_method" : "source-extract",
+      "title" : "GPT-6.2 Astra, the 2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
+      "topics" : [
+        "GPT",
+        "Anthropic",
+        "Gemini"
       ]
     },
     {
@@ -74,7 +144,7 @@
           "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1037126\/canva-ai-features-off-button"
         }
       ],
-      "summary" : "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot .",
+      "summary" : "Canva will now allow you to turn off its generative AI features. With this change , you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot .",
       "summary_method" : "source-extract",
       "title" : "Canva adds an AI ‘off’ button",
       "topics" : [
@@ -236,71 +306,26 @@
       "topics" : [
         "Gemini"
       ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-11-19T13:00:00Z",
-      "id" : "2026-11-19-3e4f4f96b2ca",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "I let Apple’s always-listening AI summarize my life for two weeks",
-          "url" : "https:\/\/www.theverge.com\/tech\/1037100\/apple-siri-recap-audio-intelligence-hands-on"
-        }
-      ],
-      "summary" : "I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you.",
-      "summary_method" : "source-extract",
-      "title" : "I let Apple’s always-listening AI summarize my life for two weeks",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-11-18T19:40:36Z",
-      "id" : "2026-11-19-640d76c6200a",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Trump’s latest land grab is an AI hub in the Philippines",
-          "url" : "https:\/\/www.theverge.com\/policy\/1036749\/trump-ai-chip-data-center-us-philippines-pax-silica"
-        }
-      ],
-      "summary" : "President Donald Trump is welcomed upon his arrival at Villamor Air Base on November 17th, 2026, in Manila, Philippines. | Photo: Getty Images President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler .",
-      "summary_method" : "source-extract",
-      "title" : "Trump’s latest land grab is an AI hub in the Philippines",
-      "topics" : [
-        "AI"
-      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 5,
-    "summary" : "• Introducing GPT-6.2 Astra and Sol\n• How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise\n• Canva adds an AI ‘off’ button",
+    "source_count" : 7,
+    "summary" : "• Gemini 4 Neon: GDM's Opus\/Sol Contender\n• Introducing GPT-6.2 Astra and Sol\n• GPT-6.2 Astra, the 2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-11-19",
-  "generated_at" : "2026-11-19T13:00:40Z",
+  "generated_at" : "2026-11-19T15:02:28Z",
   "processing_report" : {
-    "generated_at" : "2026-11-19T13:00:52Z",
-    "high_card_count" : 2,
+    "generated_at" : "2026-11-19T15:02:40Z",
+    "high_card_count" : 4,
     "source_reports" : [
       {
-        "article_count" : 80,
-        "id" : "ai-news",
-        "latest_article_at" : "2026-09-09T05:44:39Z",
-        "name" : "AI News (Swyx)",
-        "processed_at" : "2026-11-19T13:00:49Z",
+        "article_count" : 7,
+        "id" : "ai-daily-brief",
+        "name" : "AI Daily Brief",
+        "processed_at" : "2026-11-19T15:02:34Z",
         "state" : "processed"
       },
       {
@@ -308,7 +333,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-11-10T21:12:59Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-11-19T13:00:47Z",
+        "processed_at" : "2026-11-19T15:02:31Z",
         "state" : "processed"
       },
       {
@@ -316,7 +341,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-11-18T17:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-11-19T13:00:46Z",
+        "processed_at" : "2026-11-19T15:02:31Z",
         "state" : "processed"
       },
       {
@@ -324,7 +349,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-11-18T21:35:43Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-11-19T13:00:46Z",
+        "processed_at" : "2026-11-19T15:02:31Z",
         "state" : "processed"
       },
       {
@@ -332,7 +357,15 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-11-18T19:54:56Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-11-19T13:00:47Z",
+        "processed_at" : "2026-11-19T15:02:32Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 20,
+        "id" : "latent-space",
+        "latest_article_at" : "2026-11-19T07:07:43Z",
+        "name" : "Latent Space",
+        "processed_at" : "2026-11-19T15:02:37Z",
         "state" : "processed"
       },
       {
@@ -340,7 +373,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-11-17T18:36:03Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-11-19T13:00:43Z",
+        "processed_at" : "2026-11-19T15:02:31Z",
         "state" : "processed"
       },
       {
@@ -348,7 +381,15 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-11-05T12:00:14Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-11-19T13:00:48Z",
+        "processed_at" : "2026-11-19T15:02:30Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 20,
+        "id" : "one-useful-thing",
+        "latest_article_at" : "2026-11-09T19:04:26Z",
+        "name" : "One Useful Thing",
+        "processed_at" : "2026-11-19T15:02:36Z",
         "state" : "processed"
       },
       {
@@ -356,23 +397,23 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-11-18T10:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-11-19T13:00:44Z",
+        "processed_at" : "2026-11-19T15:02:30Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "tldr-ai",
-        "latest_article_at" : "2026-11-18T00:00:00Z",
+        "latest_article_at" : "2026-11-19T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-11-19T13:00:42Z",
+        "processed_at" : "2026-11-19T15:02:30Z",
         "state" : "processed"
       },
       {
-        "article_count" : 18,
+        "article_count" : 17,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-11-19T00:42:56Z",
+        "latest_article_at" : "2026-11-19T14:54:39Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-11-19T13:00:41Z",
+        "processed_at" : "2026-11-19T15:02:29Z",
         "state" : "processed"
       },
       {
@@ -380,71 +421,54 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-11-18T20:11:16Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-11-19T13:00:50Z",
+        "processed_at" : "2026-11-19T15:02:39Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 2,
+        "id" : "the-neuron-daily",
+        "name" : "The Neuron Daily",
+        "processed_at" : "2026-11-19T15:02:36Z",
         "state" : "processed"
       },
       {
         "article_count" : 8,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-11-19T13:00:00Z",
+        "latest_article_at" : "2026-11-19T14:25:37Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-11-19T13:00:43Z",
+        "processed_at" : "2026-11-19T15:02:30Z",
         "state" : "processed"
       },
       {
         "article_count" : 0,
-        "id" : "the-neuron-daily",
+        "id" : "ai-breakfast",
         "message" : "Source returned no usable AI articles.",
-        "name" : "The Neuron Daily",
-        "processed_at" : "2026-11-19T13:00:49Z",
+        "name" : "AI Breakfast",
+        "processed_at" : "2026-11-19T15:02:36Z",
         "state" : "empty"
       },
       {
         "article_count" : 0,
-        "id" : "ai-breakfast",
-        "message" : "Did not finish before the startup source budget.",
-        "name" : "AI Breakfast",
-        "processed_at" : "2026-11-19T13:00:52Z",
-        "state" : "timedOut"
-      },
-      {
-        "article_count" : 0,
-        "id" : "ai-daily-brief",
-        "message" : "Did not finish before the startup source budget.",
-        "name" : "AI Daily Brief",
-        "processed_at" : "2026-11-19T13:00:52Z",
-        "state" : "timedOut"
-      },
-      {
-        "article_count" : 0,
         "id" : "aireport-nl",
-        "message" : "Did not finish before the startup source budget.",
+        "message" : "Source returned no usable AI articles.",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-11-19T13:00:52Z",
-        "state" : "timedOut"
-      },
-      {
-        "article_count" : 0,
-        "id" : "latent-space",
-        "message" : "Did not finish before the startup source budget.",
-        "name" : "Latent Space",
-        "processed_at" : "2026-11-19T13:00:52Z",
-        "state" : "timedOut"
-      },
-      {
-        "article_count" : 0,
-        "id" : "one-useful-thing",
-        "message" : "Did not finish before the startup source budget.",
-        "name" : "One Useful Thing",
-        "processed_at" : "2026-11-19T13:00:52Z",
-        "state" : "timedOut"
+        "processed_at" : "2026-11-19T15:02:33Z",
+        "state" : "empty"
       },
       {
         "article_count" : 0,
         "id" : "superhuman-ai",
-        "message" : "Did not finish before the startup source budget.",
+        "message" : "Source returned no usable AI articles.",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-11-19T13:00:52Z",
+        "processed_at" : "2026-11-19T15:02:34Z",
+        "state" : "empty"
+      },
+      {
+        "article_count" : 0,
+        "id" : "ai-news",
+        "message" : "Did not finish before the startup source budget.",
+        "name" : "AI News (Swyx)",
+        "processed_at" : "2026-11-19T15:02:40Z",
         "state" : "timedOut"
       },
       {
@@ -452,7 +476,7 @@
         "id" : "the-ai-report",
         "message" : "Did not finish before the startup source budget.",
         "name" : "The AI Report",
-        "processed_at" : "2026-11-19T13:00:52Z",
+        "processed_at" : "2026-11-19T15:02:40Z",
         "state" : "timedOut"
       }
     ],
