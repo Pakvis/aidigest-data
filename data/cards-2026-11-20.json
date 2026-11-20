@@ -2,6 +2,30 @@
   "cards" : [
     {
       "confidence" : "high",
+      "created_at" : "2026-11-19T18:00:00Z",
+      "id" : "2026-11-20-b1df37c57b9f",
+      "importance" : "high",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Google AI Blog",
+          "title" : "Introducing Tool Retrieval in the Gemini API",
+          "url" : "https:\/\/blog.google\/innovation-and-ai\/technology\/developers-tools\/gemini-api-tool-retrieval\/"
+        }
+      ],
+      "summary" : "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+      "summary_method" : "source-extract",
+      "title" : "Introducing Tool Retrieval in the Gemini API",
+      "topics" : [
+        "APIs",
+        "Gemini",
+        "Tooling"
+      ]
+    },
+    {
+      "confidence" : "high",
       "consolidation" : {
         "latest_source_at" : "2026-11-19T07:07:43Z",
         "message_count" : 2,
@@ -33,30 +57,6 @@
         "Gemini",
         "Compute",
         "Design"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "created_at" : "2026-11-19T18:00:00Z",
-      "id" : "2026-11-20-b1df37c57b9f",
-      "importance" : "high",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Google AI Blog",
-          "title" : "Introducing Tool Retrieval in the Gemini API",
-          "url" : "https:\/\/blog.google\/innovation-and-ai\/technology\/developers-tools\/gemini-api-tool-retrieval\/"
-        }
-      ],
-      "summary" : "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
-      "summary_method" : "source-extract",
-      "title" : "Introducing Tool Retrieval in the Gemini API",
-      "topics" : [
-        "APIs",
-        "Gemini",
-        "Tooling"
       ]
     },
     {
@@ -96,30 +96,6 @@
     },
     {
       "confidence" : "high",
-      "created_at" : "2026-11-18T08:00:00Z",
-      "id" : "2026-11-20-0e66c0e1d63c",
-      "importance" : "high",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-          "url" : "https:\/\/openai.com\/business\/customer-stories\/sumitomo-life"
-        }
-      ],
-      "summary" : "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-      "summary_method" : "source-extract",
-      "title" : "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "topics" : [
-        "ChatGPT",
-        "Enterprise",
-        "Coding"
-      ]
-    },
-    {
-      "confidence" : "high",
       "consolidation" : {
         "latest_source_at" : "2026-11-18T00:00:00Z",
         "message_count" : 2,
@@ -151,6 +127,30 @@
         "GPT",
         "APIs",
         "ChatGPT"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-11-18T08:00:00Z",
+      "id" : "2026-11-20-0e66c0e1d63c",
+      "importance" : "high",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+          "url" : "https:\/\/openai.com\/business\/customer-stories\/sumitomo-life"
+        }
+      ],
+      "summary" : "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "summary_method" : "source-extract",
+      "title" : "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "topics" : [
+        "ChatGPT",
+        "Enterprise",
+        "Coding"
       ]
     },
     {
@@ -290,25 +290,37 @@
     },
     {
       "confidence" : "high",
-      "created_at" : "2026-11-17T08:00:00Z",
-      "id" : "2026-11-20-921eb4e90cef",
-      "importance" : "medium",
+      "consolidation" : {
+        "latest_source_at" : "2026-11-19T18:21:13Z",
+        "message_count" : 2,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
+      "created_at" : "2026-11-19T18:21:13Z",
+      "id" : "2026-11-20-c88527a740d7",
+      "importance" : "low",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "OpenAI News",
-          "title" : "Introducing ChatGPT for Sales",
-          "url" : "https:\/\/openai.com\/index\/introducing-chatgpt-for-sales"
+          "source_name" : "The Verge AI",
+          "title" : "Gemini on Mac can now use your computer",
+          "url" : "https:\/\/www.theverge.com\/tech\/1037902\/google-gemini-macos-ai-computer-use"
+        },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Google gives Gemini the ability to use your Mac for you",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/19\/google-gives-gemini-the-ability-to-use-your-mac-for-you\/"
         }
       ],
-      "summary" : "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "summary" : "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says .",
       "summary_method" : "source-extract",
-      "title" : "Introducing ChatGPT for Sales",
+      "title" : "Gemini on Mac can now use your computer",
       "topics" : [
-        "ChatGPT",
-        "Research"
+        "Gemini",
+        "Agents",
+        "Workflows"
       ]
     }
   ],
@@ -316,13 +328,13 @@
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 7,
-    "summary" : "• Gemini 4 Neon: GDM's Opus\/Sol Contender\n• Introducing Tool Retrieval in the Gemini API\n• GPT-6.2 Astra, the 2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
+    "summary" : "• Introducing Tool Retrieval in the Gemini API\n• Gemini 4 Neon: GDM's Opus\/Sol Contender\n• GPT-6.2 Astra, the 2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-11-20",
-  "generated_at" : "2026-11-20T07:02:24Z",
+  "generated_at" : "2026-11-20T09:05:06Z",
   "processing_report" : {
-    "generated_at" : "2026-11-20T07:02:27Z",
+    "generated_at" : "2026-11-20T09:05:10Z",
     "high_card_count" : 5,
     "source_reports" : [
       {
@@ -330,14 +342,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-11-18T14:49:44Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-11-20T07:02:27Z",
+        "processed_at" : "2026-11-20T09:05:09Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-11-20T07:02:26Z",
+        "processed_at" : "2026-11-20T09:05:09Z",
         "state" : "processed"
       },
       {
@@ -345,7 +357,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-11-20T07:02:25Z",
+        "processed_at" : "2026-11-20T09:05:07Z",
         "state" : "processed"
       },
       {
@@ -353,7 +365,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-11-14T11:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-11-20T07:02:26Z",
+        "processed_at" : "2026-11-20T09:05:08Z",
         "state" : "processed"
       },
       {
@@ -361,7 +373,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-11-10T21:12:59Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-11-20T07:02:25Z",
+        "processed_at" : "2026-11-20T09:05:07Z",
         "state" : "processed"
       },
       {
@@ -369,7 +381,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-11-19T18:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-11-20T07:02:24Z",
+        "processed_at" : "2026-11-20T09:05:06Z",
         "state" : "processed"
       },
       {
@@ -377,7 +389,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-11-18T21:35:43Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-11-20T07:02:25Z",
+        "processed_at" : "2026-11-20T09:05:07Z",
         "state" : "processed"
       },
       {
@@ -385,15 +397,15 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-11-18T19:54:56Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-11-20T07:02:25Z",
+        "processed_at" : "2026-11-20T09:05:07Z",
         "state" : "processed"
       },
       {
         "article_count" : 20,
         "id" : "latent-space",
-        "latest_article_at" : "2026-11-19T23:58:21Z",
+        "latest_article_at" : "2026-11-20T07:12:24Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-11-20T07:02:25Z",
+        "processed_at" : "2026-11-20T09:05:07Z",
         "state" : "processed"
       },
       {
@@ -401,7 +413,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-11-17T18:36:03Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-11-20T07:02:25Z",
+        "processed_at" : "2026-11-20T09:05:07Z",
         "state" : "processed"
       },
       {
@@ -409,7 +421,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-11-05T12:00:14Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-11-20T07:02:25Z",
+        "processed_at" : "2026-11-20T09:05:07Z",
         "state" : "processed"
       },
       {
@@ -417,7 +429,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-11-09T19:04:26Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-11-20T07:02:24Z",
+        "processed_at" : "2026-11-20T09:05:07Z",
         "state" : "processed"
       },
       {
@@ -425,7 +437,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-11-19T08:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-11-20T07:02:25Z",
+        "processed_at" : "2026-11-20T09:05:07Z",
         "state" : "processed"
       },
       {
@@ -433,7 +445,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-11-19T12:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-11-20T07:02:26Z",
+        "processed_at" : "2026-11-20T09:05:08Z",
         "state" : "processed"
       },
       {
@@ -441,7 +453,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-11-19T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-11-20T07:02:24Z",
+        "processed_at" : "2026-11-20T09:05:07Z",
         "state" : "processed"
       },
       {
@@ -449,15 +461,15 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-11-20T00:56:01Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-11-20T07:02:24Z",
+        "processed_at" : "2026-11-20T09:05:06Z",
         "state" : "processed"
       },
       {
-        "article_count" : 12,
+        "article_count" : 11,
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-11-20T07:02:27Z",
+        "processed_at" : "2026-11-20T09:05:10Z",
         "state" : "processed"
       },
       {
@@ -465,14 +477,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-11-19T15:16:34Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-11-20T07:02:24Z",
+        "processed_at" : "2026-11-20T09:05:06Z",
         "state" : "processed"
       },
       {
         "article_count" : 9,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-11-20T07:02:26Z",
+        "processed_at" : "2026-11-20T09:05:08Z",
         "state" : "processed"
       },
       {
@@ -480,7 +492,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-11-19T22:31:41Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-11-20T07:02:24Z",
+        "processed_at" : "2026-11-20T09:05:06Z",
         "state" : "processed"
       }
     ],

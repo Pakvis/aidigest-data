@@ -3,6 +3,26 @@
     {
       "confidence" : "high",
       "date" : "2026-11-20",
+      "id" : "2026-11-20-b1df37c57b9f",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "Google AI Blog",
+          "title" : "Introducing Tool Retrieval in the Gemini API",
+          "url" : "https:\/\/blog.google\/innovation-and-ai\/technology\/developers-tools\/gemini-api-tool-retrieval\/"
+        }
+      ],
+      "summary" : "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+      "title" : "Introducing Tool Retrieval in the Gemini API",
+      "topics" : [
+        "APIs",
+        "Gemini",
+        "Tooling"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-11-20",
       "id" : "2026-11-20-4beff9a3cc6c",
       "importance" : "high",
       "sources" : [
@@ -23,26 +43,6 @@
         "Gemini",
         "Compute",
         "Design"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "date" : "2026-11-20",
-      "id" : "2026-11-20-b1df37c57b9f",
-      "importance" : "high",
-      "sources" : [
-        {
-          "source_name" : "Google AI Blog",
-          "title" : "Introducing Tool Retrieval in the Gemini API",
-          "url" : "https:\/\/blog.google\/innovation-and-ai\/technology\/developers-tools\/gemini-api-tool-retrieval\/"
-        }
-      ],
-      "summary" : "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
-      "title" : "Introducing Tool Retrieval in the Gemini API",
-      "topics" : [
-        "APIs",
-        "Gemini",
-        "Tooling"
       ]
     },
     {
@@ -73,26 +73,6 @@
     {
       "confidence" : "high",
       "date" : "2026-11-20",
-      "id" : "2026-11-20-0e66c0e1d63c",
-      "importance" : "high",
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-          "url" : "https:\/\/openai.com\/business\/customer-stories\/sumitomo-life"
-        }
-      ],
-      "summary" : "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-      "title" : "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "topics" : [
-        "ChatGPT",
-        "Enterprise",
-        "Coding"
-      ]
-    },
-    {
-      "confidence" : "high",
-      "date" : "2026-11-20",
       "id" : "2026-11-20-270cc11cf87e",
       "importance" : "high",
       "sources" : [
@@ -113,6 +93,26 @@
         "GPT",
         "APIs",
         "ChatGPT"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-11-20",
+      "id" : "2026-11-20-0e66c0e1d63c",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+          "url" : "https:\/\/openai.com\/business\/customer-stories\/sumitomo-life"
+        }
+      ],
+      "summary" : "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "title" : "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "topics" : [
+        "ChatGPT",
+        "Enterprise",
+        "Coding"
       ]
     },
     {
@@ -229,20 +229,26 @@
     {
       "confidence" : "high",
       "date" : "2026-11-20",
-      "id" : "2026-11-20-921eb4e90cef",
-      "importance" : "medium",
+      "id" : "2026-11-20-c88527a740d7",
+      "importance" : "low",
       "sources" : [
         {
-          "source_name" : "OpenAI News",
-          "title" : "Introducing ChatGPT for Sales",
-          "url" : "https:\/\/openai.com\/index\/introducing-chatgpt-for-sales"
+          "source_name" : "The Verge AI",
+          "title" : "Gemini on Mac can now use your computer",
+          "url" : "https:\/\/www.theverge.com\/tech\/1037902\/google-gemini-macos-ai-computer-use"
+        },
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Google gives Gemini the ability to use your Mac for you",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/19\/google-gives-gemini-the-ability-to-use-your-mac-for-you\/"
         }
       ],
-      "summary" : "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
-      "title" : "Introducing ChatGPT for Sales",
+      "summary" : "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says .",
+      "title" : "Gemini on Mac can now use your computer",
       "topics" : [
-        "ChatGPT",
-        "Research"
+        "Gemini",
+        "Agents",
+        "Workflows"
       ]
     },
     {
