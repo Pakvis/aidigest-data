@@ -107,6 +107,29 @@
     },
     {
       "confidence" : "high",
+      "created_at" : "2026-11-20T00:00:00Z",
+      "id" : "2026-11-20-d83e3f151d86",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Hebbia sees improvements in financial research with GPT-6 Astra",
+          "url" : "https:\/\/openai.com\/business\/customer-stories\/hebbia"
+        }
+      ],
+      "summary" : "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "summary_method" : "source-extract",
+      "title" : "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "topics" : [
+        "GPT",
+        "Research"
+      ]
+    },
+    {
+      "confidence" : "high",
       "created_at" : "2026-11-18T08:00:00Z",
       "id" : "2026-11-20-0e66c0e1d63c",
       "importance" : "high",
@@ -243,85 +266,61 @@
       ]
     },
     {
-      "confidence" : "medium",
-      "created_at" : "2026-11-20T18:50:19Z",
-      "id" : "2026-11-20-268444429e91",
+      "confidence" : "high",
+      "created_at" : "2026-11-20T10:00:00Z",
+      "id" : "2026-11-20-9cb15aa60624",
       "importance" : "low",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "The Verge AI",
-          "title" : "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-          "url" : "https:\/\/www.theverge.com\/policy\/1038892\/trump-foreign-data-centers-tax"
+          "source_name" : "OpenAI News",
+          "title" : "Combatting adversarial distillation",
+          "url" : "https:\/\/openai.com\/index\/combatting-adversarial-distillation"
         }
       ],
-      "summary" : "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a press conference Friday following his summit with China President Xi Jinping and Russia President Vladimir Putin.",
+      "summary" : "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
       "summary_method" : "source-extract",
-      "title" : "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "title" : "Combatting adversarial distillation",
       "topics" : [
         "AI"
       ]
     },
     {
-      "confidence" : "medium",
-      "created_at" : "2026-11-20T16:34:13Z",
-      "id" : "2026-11-20-61dbc65d580b",
+      "confidence" : "high",
+      "created_at" : "2026-11-20T00:00:00Z",
+      "id" : "2026-11-20-6d9900dcb2bc",
       "importance" : "low",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "The Verge AI",
-          "title" : "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1010051\/anthropic-riemann-hypothesis-millennium-prize-problem"
+          "source_name" : "OpenAI News",
+          "title" : "Can AI help scientists identify promising drug candidates?",
+          "url" : "https:\/\/openai.com\/index\/introducing-medchembench"
         }
       ],
-      "summary" : "| Photo: Getty Images Anthropic mathematician Levent Alp&ouml;ge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades.",
+      "summary" : "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
       "summary_method" : "source-extract",
-      "title" : "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "title" : "Can AI help scientists identify promising drug candidates?",
       "topics" : [
-        "Anthropic",
-        "Claude",
-        "Image Models"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-11-20T12:30:47Z",
-      "id" : "2026-11-20-068937735fe6",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Signal is blocking Gemini and Siri AI from reading your screen",
-          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1038390\/signal-blocking-ai-agent-screenshots-mobile-app"
-        }
-      ],
-      "summary" : "Signal users on iOS will see this option to toggle blocking screenshots and preventing Siri AI from scanning on-screen content. | Image: Signal Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data.",
-      "summary_method" : "source-extract",
-      "title" : "Signal is blocking Gemini and Siri AI from reading your screen",
-      "topics" : [
-        "Gemini"
+        "AI"
       ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 7,
+    "source_count" : 6,
     "summary" : "• Introducing Tool Retrieval in the Gemini API\n• Gemini 4 Neon: GDM's Opus\/Sol Contender\n• GPT-6.2 Astra, the 2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-11-20",
-  "generated_at" : "2026-11-20T19:04:22Z",
+  "generated_at" : "2026-11-20T21:02:05Z",
   "processing_report" : {
-    "generated_at" : "2026-11-20T19:04:26Z",
+    "generated_at" : "2026-11-20T21:02:09Z",
     "high_card_count" : 4,
     "source_reports" : [
       {
@@ -329,14 +328,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-11-20T12:30:57Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-11-20T19:04:26Z",
+        "processed_at" : "2026-11-20T21:02:09Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-11-20T19:04:25Z",
+        "processed_at" : "2026-11-20T21:02:08Z",
         "state" : "processed"
       },
       {
@@ -344,7 +343,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-11-20T19:04:24Z",
+        "processed_at" : "2026-11-20T21:02:07Z",
         "state" : "processed"
       },
       {
@@ -352,15 +351,15 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-11-14T11:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-11-20T19:04:24Z",
+        "processed_at" : "2026-11-20T21:02:08Z",
         "state" : "processed"
       },
       {
         "article_count" : 16,
         "id" : "ars-technica-ai",
-        "latest_article_at" : "2026-11-10T21:12:59Z",
+        "latest_article_at" : "2026-11-20T20:59:08Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-11-20T19:04:23Z",
+        "processed_at" : "2026-11-20T21:02:06Z",
         "state" : "processed"
       },
       {
@@ -368,7 +367,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-11-19T18:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-11-20T19:04:23Z",
+        "processed_at" : "2026-11-20T21:02:06Z",
         "state" : "processed"
       },
       {
@@ -376,7 +375,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-11-18T21:35:43Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-11-20T19:04:23Z",
+        "processed_at" : "2026-11-20T21:02:06Z",
         "state" : "processed"
       },
       {
@@ -384,7 +383,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-11-20T00:00:00Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-11-20T19:04:23Z",
+        "processed_at" : "2026-11-20T21:02:06Z",
         "state" : "processed"
       },
       {
@@ -392,7 +391,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-11-20T07:12:24Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-11-20T19:04:24Z",
+        "processed_at" : "2026-11-20T21:02:07Z",
         "state" : "processed"
       },
       {
@@ -400,7 +399,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-11-17T18:36:03Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-11-20T19:04:23Z",
+        "processed_at" : "2026-11-20T21:02:06Z",
         "state" : "processed"
       },
       {
@@ -408,7 +407,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-11-05T12:00:14Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-11-20T19:04:23Z",
+        "processed_at" : "2026-11-20T21:02:06Z",
         "state" : "processed"
       },
       {
@@ -416,15 +415,15 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-11-09T19:04:26Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-11-20T19:04:23Z",
+        "processed_at" : "2026-11-20T21:02:06Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "openai-news",
-        "latest_article_at" : "2026-11-19T08:00:00Z",
+        "latest_article_at" : "2026-11-20T10:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-11-20T19:04:23Z",
+        "processed_at" : "2026-11-20T21:02:06Z",
         "state" : "processed"
       },
       {
@@ -432,7 +431,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-11-20T12:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-11-20T19:04:25Z",
+        "processed_at" : "2026-11-20T21:02:08Z",
         "state" : "processed"
       },
       {
@@ -440,15 +439,15 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-11-20T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-11-20T19:04:23Z",
+        "processed_at" : "2026-11-20T21:02:06Z",
         "state" : "processed"
       },
       {
-        "article_count" : 16,
+        "article_count" : 17,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-11-20T17:40:01Z",
+        "latest_article_at" : "2026-11-20T19:53:41Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-11-20T19:04:23Z",
+        "processed_at" : "2026-11-20T21:02:06Z",
         "state" : "processed"
       },
       {
@@ -456,7 +455,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-11-20T19:04:25Z",
+        "processed_at" : "2026-11-20T21:02:08Z",
         "state" : "processed"
       },
       {
@@ -464,14 +463,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-11-19T15:16:34Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-11-20T19:04:23Z",
+        "processed_at" : "2026-11-20T21:02:06Z",
         "state" : "processed"
       },
       {
         "article_count" : 8,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-11-20T19:04:24Z",
+        "processed_at" : "2026-11-20T21:02:08Z",
         "state" : "processed"
       },
       {
@@ -479,7 +478,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-11-20T18:50:19Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-11-20T19:04:23Z",
+        "processed_at" : "2026-11-20T21:02:06Z",
         "state" : "processed"
       }
     ],
