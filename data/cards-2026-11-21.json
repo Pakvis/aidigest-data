@@ -94,28 +94,6 @@
       ]
     },
     {
-      "confidence" : "medium",
-      "created_at" : "2026-11-20T20:59:08Z",
-      "id" : "2026-11-21-2b1ee3c045f3",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Ars Technica AI",
-          "title" : "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-          "url" : "https:\/\/arstechnica.com\/security\/2026\/11\/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate\/"
-        }
-      ],
-      "summary" : "Security breaches, prompt theft, and privacy violations To test for potential leakage, researcher HD Moore assembled a collection of Amazon Web Services access keys, functioning credentials tied to empty AWS accounts, passwords for services such as SSH, and unique URLs, DNS names, and private git repository references.",
-      "summary_method" : "source-extract",
-      "title" : "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
       "confidence" : "low",
       "created_at" : "2026-11-21T18:59:24Z",
       "id" : "2026-11-21-6cf11aba7a1c",
@@ -276,6 +254,28 @@
     },
     {
       "confidence" : "medium",
+      "created_at" : "2026-11-21T20:03:37Z",
+      "id" : "2026-11-21-7136bdd18d3e",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "The UN fails to agree on rules regulating ‘killer robots’",
+          "url" : "https:\/\/www.theverge.com\/tech\/1039554\/un-regulations-killer-robots"
+        }
+      ],
+      "summary" : "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations.",
+      "summary_method" : "source-extract",
+      "title" : "The UN fails to agree on rules regulating ‘killer robots’",
+      "topics" : [
+        "Robotics"
+      ]
+    },
+    {
+      "confidence" : "medium",
       "created_at" : "2026-11-21T17:00:00Z",
       "id" : "2026-11-21-94e814ba792d",
       "importance" : "low",
@@ -300,14 +300,14 @@
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 8,
+    "source_count" : 7,
     "summary" : "• Introducing Tool Retrieval in the Gemini API\n• Gemini 4 Neon: GDM's Opus\/Sol Contender\n• Can Anthropic afford to put safety first?",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-11-21",
-  "generated_at" : "2026-11-21T19:04:39Z",
+  "generated_at" : "2026-11-21T21:02:29Z",
   "processing_report" : {
-    "generated_at" : "2026-11-21T19:04:43Z",
+    "generated_at" : "2026-11-21T21:02:33Z",
     "high_card_count" : 2,
     "source_reports" : [
       {
@@ -315,14 +315,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-11-20T12:30:57Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-11-21T19:04:43Z",
+        "processed_at" : "2026-11-21T21:02:33Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-11-21T19:04:42Z",
+        "processed_at" : "2026-11-21T21:02:32Z",
         "state" : "processed"
       },
       {
@@ -330,7 +330,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-11-21T19:04:41Z",
+        "processed_at" : "2026-11-21T21:02:31Z",
         "state" : "processed"
       },
       {
@@ -338,7 +338,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-11-14T11:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-11-21T19:04:41Z",
+        "processed_at" : "2026-11-21T21:02:31Z",
         "state" : "processed"
       },
       {
@@ -346,7 +346,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-11-20T20:59:08Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-11-21T19:04:41Z",
+        "processed_at" : "2026-11-21T21:02:30Z",
         "state" : "processed"
       },
       {
@@ -354,7 +354,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-11-19T18:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-11-21T19:04:40Z",
+        "processed_at" : "2026-11-21T21:02:31Z",
         "state" : "processed"
       },
       {
@@ -362,7 +362,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-11-18T21:35:43Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-11-21T19:04:40Z",
+        "processed_at" : "2026-11-21T21:02:30Z",
         "state" : "processed"
       },
       {
@@ -370,7 +370,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-11-20T00:00:00Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-11-21T19:04:40Z",
+        "processed_at" : "2026-11-21T21:02:30Z",
         "state" : "processed"
       },
       {
@@ -378,7 +378,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-11-21T05:02:13Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-11-21T19:04:41Z",
+        "processed_at" : "2026-11-21T21:02:31Z",
         "state" : "processed"
       },
       {
@@ -386,7 +386,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-11-17T18:36:03Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-11-21T19:04:40Z",
+        "processed_at" : "2026-11-21T21:02:30Z",
         "state" : "processed"
       },
       {
@@ -394,7 +394,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-11-05T12:00:14Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-11-21T19:04:41Z",
+        "processed_at" : "2026-11-21T21:02:30Z",
         "state" : "processed"
       },
       {
@@ -402,7 +402,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-11-09T19:04:26Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-11-21T19:04:40Z",
+        "processed_at" : "2026-11-21T21:02:30Z",
         "state" : "processed"
       },
       {
@@ -410,7 +410,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-11-20T10:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-11-21T19:04:40Z",
+        "processed_at" : "2026-11-21T21:02:30Z",
         "state" : "processed"
       },
       {
@@ -418,7 +418,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-11-20T12:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-11-21T19:04:41Z",
+        "processed_at" : "2026-11-21T21:02:31Z",
         "state" : "processed"
       },
       {
@@ -426,7 +426,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-11-20T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-11-21T19:04:40Z",
+        "processed_at" : "2026-11-21T21:02:30Z",
         "state" : "processed"
       },
       {
@@ -434,7 +434,7 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-11-21T17:00:00Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-11-21T19:04:40Z",
+        "processed_at" : "2026-11-21T21:02:30Z",
         "state" : "processed"
       },
       {
@@ -442,7 +442,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-11-21T19:04:42Z",
+        "processed_at" : "2026-11-21T21:02:32Z",
         "state" : "processed"
       },
       {
@@ -450,22 +450,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-11-21T18:59:24Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-11-21T19:04:40Z",
+        "processed_at" : "2026-11-21T21:02:30Z",
         "state" : "processed"
       },
       {
         "article_count" : 8,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-11-21T19:04:42Z",
+        "processed_at" : "2026-11-21T21:02:31Z",
         "state" : "processed"
       },
       {
         "article_count" : 7,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-11-21T15:00:00Z",
+        "latest_article_at" : "2026-11-21T20:03:37Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-11-21T19:04:40Z",
+        "processed_at" : "2026-11-21T21:02:30Z",
         "state" : "processed"
       }
     ],
