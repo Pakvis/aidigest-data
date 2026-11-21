@@ -106,30 +106,6 @@
       ]
     },
     {
-      "confidence" : "high",
-      "created_at" : "2026-11-18T08:00:00Z",
-      "id" : "2026-11-21-f319ebd72e7f",
-      "importance" : "high",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-          "url" : "https:\/\/openai.com\/business\/customer-stories\/sumitomo-life"
-        }
-      ],
-      "summary" : "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-      "summary_method" : "source-extract",
-      "title" : "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "topics" : [
-        "ChatGPT",
-        "Enterprise",
-        "Coding"
-      ]
-    },
-    {
       "confidence" : "medium",
       "created_at" : "2026-11-20T20:59:08Z",
       "id" : "2026-11-21-2b1ee3c045f3",
@@ -266,29 +242,6 @@
     },
     {
       "confidence" : "high",
-      "created_at" : "2026-11-18T08:00:00Z",
-      "id" : "2026-11-21-401d880b6ad9",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "OpenAI News",
-          "title" : "Research acceleration: The jagged frontier",
-          "url" : "https:\/\/openai.com\/index\/research-acceleration-jagged-frontier"
-        }
-      ],
-      "summary" : "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "summary_method" : "source-extract",
-      "title" : "Research acceleration: The jagged frontier",
-      "topics" : [
-        "Research",
-        "Agents"
-      ]
-    },
-    {
-      "confidence" : "high",
       "created_at" : "2026-11-20T10:00:00Z",
       "id" : "2026-11-21-5fe6d75a012f",
       "importance" : "low",
@@ -308,34 +261,80 @@
       "topics" : [
         "AI"
       ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-20T18:50:19Z",
+      "id" : "2026-11-21-25001d62697a",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+          "url" : "https:\/\/www.theverge.com\/policy\/1038892\/trump-foreign-data-centers-tax"
+        }
+      ],
+      "summary" : "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a press conference Friday following his summit with China President Xi Jinping and Russia President Vladimir Putin.",
+      "summary_method" : "source-extract",
+      "title" : "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-20T16:34:13Z",
+      "id" : "2026-11-21-8ca0a9583218",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+          "url" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1010051\/anthropic-riemann-hypothesis-millennium-prize-problem"
+        }
+      ],
+      "summary" : "| Photo: Getty Images Anthropic mathematician Levent Alp&ouml;ge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades.",
+      "summary_method" : "source-extract",
+      "title" : "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "topics" : [
+        "Anthropic",
+        "Claude",
+        "Image Models"
+      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 7,
+    "source_count" : 8,
     "summary" : "• Introducing Tool Retrieval in the Gemini API\n• Gemini 4 Neon: GDM's Opus\/Sol Contender\n• GPT-6.2 Astra, the 2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-11-21",
-  "generated_at" : "2026-11-21T07:03:07Z",
+  "generated_at" : "2026-11-21T09:01:04Z",
   "processing_report" : {
-    "generated_at" : "2026-11-21T07:03:10Z",
-    "high_card_count" : 4,
+    "generated_at" : "2026-11-21T09:01:08Z",
+    "high_card_count" : 3,
     "source_reports" : [
       {
         "article_count" : 12,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-11-20T12:30:57Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-11-21T07:03:10Z",
+        "processed_at" : "2026-11-21T09:01:08Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-11-21T07:03:09Z",
+        "processed_at" : "2026-11-21T09:01:07Z",
         "state" : "processed"
       },
       {
@@ -343,7 +342,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-11-21T07:03:08Z",
+        "processed_at" : "2026-11-21T09:01:06Z",
         "state" : "processed"
       },
       {
@@ -351,7 +350,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-11-14T11:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-11-21T07:03:09Z",
+        "processed_at" : "2026-11-21T09:01:07Z",
         "state" : "processed"
       },
       {
@@ -359,7 +358,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-11-20T20:59:08Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-11-21T07:03:08Z",
+        "processed_at" : "2026-11-21T09:01:06Z",
         "state" : "processed"
       },
       {
@@ -367,7 +366,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-11-19T18:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-11-21T07:03:07Z",
+        "processed_at" : "2026-11-21T09:01:05Z",
         "state" : "processed"
       },
       {
@@ -375,7 +374,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-11-18T21:35:43Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-11-21T07:03:08Z",
+        "processed_at" : "2026-11-21T09:01:05Z",
         "state" : "processed"
       },
       {
@@ -383,7 +382,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-11-20T00:00:00Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-11-21T07:03:08Z",
+        "processed_at" : "2026-11-21T09:01:06Z",
         "state" : "processed"
       },
       {
@@ -391,7 +390,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-11-21T05:02:13Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-11-21T07:03:08Z",
+        "processed_at" : "2026-11-21T09:01:06Z",
         "state" : "processed"
       },
       {
@@ -399,7 +398,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-11-17T18:36:03Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-11-21T07:03:08Z",
+        "processed_at" : "2026-11-21T09:01:05Z",
         "state" : "processed"
       },
       {
@@ -407,7 +406,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-11-05T12:00:14Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-11-21T07:03:08Z",
+        "processed_at" : "2026-11-21T09:01:05Z",
         "state" : "processed"
       },
       {
@@ -415,7 +414,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-11-09T19:04:26Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-11-21T07:03:07Z",
+        "processed_at" : "2026-11-21T09:01:05Z",
         "state" : "processed"
       },
       {
@@ -423,7 +422,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-11-20T10:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-11-21T07:03:08Z",
+        "processed_at" : "2026-11-21T09:01:06Z",
         "state" : "processed"
       },
       {
@@ -431,7 +430,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-11-20T12:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-11-21T07:03:09Z",
+        "processed_at" : "2026-11-21T09:01:06Z",
         "state" : "processed"
       },
       {
@@ -439,7 +438,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-11-20T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-11-21T07:03:08Z",
+        "processed_at" : "2026-11-21T09:01:05Z",
         "state" : "processed"
       },
       {
@@ -447,7 +446,7 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-11-20T19:53:41Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-11-21T07:03:07Z",
+        "processed_at" : "2026-11-21T09:01:05Z",
         "state" : "processed"
       },
       {
@@ -455,7 +454,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-11-21T07:03:10Z",
+        "processed_at" : "2026-11-21T09:01:07Z",
         "state" : "processed"
       },
       {
@@ -463,14 +462,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-11-19T15:16:34Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-11-21T07:03:07Z",
+        "processed_at" : "2026-11-21T09:01:05Z",
         "state" : "processed"
       },
       {
         "article_count" : 8,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-11-21T07:03:09Z",
+        "processed_at" : "2026-11-21T09:01:07Z",
         "state" : "processed"
       },
       {
@@ -478,7 +477,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-11-20T18:50:19Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-11-21T07:03:07Z",
+        "processed_at" : "2026-11-21T09:01:05Z",
         "state" : "processed"
       }
     ],
