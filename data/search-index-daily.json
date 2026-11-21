@@ -2,6 +2,249 @@
   "cards" : [
     {
       "confidence" : "high",
+      "date" : "2026-11-21",
+      "id" : "2026-11-21-f62bf7c0f531",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "TLDR AI",
+          "title" : "Gemini tool retrieval 🔧, Stripe evals methods 👨‍💻, agent swarms 🐝",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-11-20"
+        },
+        {
+          "source_name" : "Google AI Blog",
+          "title" : "Introducing Tool Retrieval in the Gemini API",
+          "url" : "https:\/\/blog.google\/innovation-and-ai\/technology\/developers-tools\/gemini-api-tool-retrieval\/"
+        }
+      ],
+      "summary" : "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+      "title" : "Introducing Tool Retrieval in the Gemini API",
+      "topics" : [
+        "Gemini",
+        "Tooling",
+        "APIs"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-11-21",
+      "id" : "2026-11-21-ecc5adbea655",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Gemini 4 Neon: GDM's Opus\/Sol Contender",
+          "url" : "https:\/\/latent.space\/p\/ainews-gemini-4-neon-gdm-s-opus-sol-contender\/"
+        },
+        {
+          "source_name" : "TLDR AI",
+          "title" : "Gemini 4 Neon 🚀, Genie 4 worlds 🌍, AI designs chips 🔬",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-11-19"
+        }
+      ],
+      "summary" : "Google DeepMind shipped Gemini 4 Neon , its fourth Gemini 4 model in about seven weeks.",
+      "title" : "Gemini 4 Neon: GDM's Opus\/Sol Contender",
+      "topics" : [
+        "Gemini",
+        "Compute",
+        "Design"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-11-21",
+      "id" : "2026-11-21-a4fb495c2fa9",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "The Neuron Daily",
+          "title" : "OpenAI unveils GPT-6.2 Astra and Sol",
+          "url" : "https:\/\/www.theneurondaily.com\/p\/openai-unveils-gpt-6-2-astra-and-sol"
+        },
+        {
+          "source_name" : "Latent Space",
+          "title" : "GPT-6.2 Astra, the 2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
+          "url" : "https:\/\/latent.space\/p\/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol\/"
+        }
+      ],
+      "summary" : "OpenAI shipped GPT-6.2 Astra and Sol today, two days before Anthropic’s expected first trading day . In Artificial Analysis ’ tests, Sol ties September’s Astra at about 15% of the cost per task .",
+      "title" : "GPT-6.2 Astra, the 2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
+      "topics" : [
+        "GPT",
+        "Anthropic",
+        "Gemini"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-11-21",
+      "id" : "2026-11-21-f319ebd72e7f",
+      "importance" : "high",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+          "url" : "https:\/\/openai.com\/business\/customer-stories\/sumitomo-life"
+        }
+      ],
+      "summary" : "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "title" : "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "topics" : [
+        "ChatGPT",
+        "Enterprise",
+        "Coding"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-11-21",
+      "id" : "2026-11-21-2b1ee3c045f3",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "Ars Technica AI",
+          "title" : "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+          "url" : "https:\/\/arstechnica.com\/security\/2026\/11\/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate\/"
+        }
+      ],
+      "summary" : "Security breaches, prompt theft, and privacy violations To test for potential leakage, researcher HD Moore assembled a collection of Amazon Web Services access keys, functioning credentials tied to empty AWS accounts, passwords for services such as SSH, and unique URLs, DNS names, and private git repository references.",
+      "title" : "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-11-21",
+      "id" : "2026-11-21-1355f121f25b",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Hebbia sees improvements in financial research with GPT-6 Astra",
+          "url" : "https:\/\/openai.com\/business\/customer-stories\/hebbia"
+        }
+      ],
+      "summary" : "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "title" : "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "topics" : [
+        "GPT",
+        "Research"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-11-21",
+      "id" : "2026-11-21-70458722b6cc",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/19\/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories\/"
+        }
+      ],
+      "summary" : "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+      "title" : "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-11-21",
+      "id" : "2026-11-21-d15f27846753",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO",
+          "url" : "https:\/\/latent.space\/p\/linear-scaling\/"
+        }
+      ],
+      "summary" : "Seven years and $134 million in funding later, its CEO Karri Saarinen published a post titled \"Issue tracking is dead.\" In this episode, we chat with Cristina Cordova , COO of Linear , about how the company navigated that and how its go-to-market changed along the way. Cristina spent seven and a half years at Stripe, led platform and partnerships at Notion, and was a partner at First Round before joining Linear in 2023.",
+      "title" : "Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO",
+      "topics" : [
+        "Agents",
+        "Enterprise",
+        "Pricing"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-11-21",
+      "id" : "2026-11-21-dd2b60ed1ee4",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Explore the Codex Security Plugin",
+          "url" : "https:\/\/openai.com\/business\/learn\/codex-security-plugin-demo"
+        }
+      ],
+      "summary" : "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "title" : "Explore the Codex Security Plugin",
+      "topics" : [
+        "Workflows"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-11-21",
+      "id" : "2026-11-21-fe3ea3cc0b63",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Deploying Daybreak Red",
+          "url" : "https:\/\/openai.com\/business\/learn\/deploying-daybreak-red"
+        }
+      ],
+      "summary" : "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "title" : "Deploying Daybreak Red",
+      "topics" : [
+        "Safety"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-11-21",
+      "id" : "2026-11-21-401d880b6ad9",
+      "importance" : "medium",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Research acceleration: The jagged frontier",
+          "url" : "https:\/\/openai.com\/index\/research-acceleration-jagged-frontier"
+        }
+      ],
+      "summary" : "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "title" : "Research acceleration: The jagged frontier",
+      "topics" : [
+        "Research",
+        "Agents"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-11-21",
+      "id" : "2026-11-21-5fe6d75a012f",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Combatting adversarial distillation",
+          "url" : "https:\/\/openai.com\/index\/combatting-adversarial-distillation"
+        }
+      ],
+      "summary" : "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "title" : "Combatting adversarial distillation",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "high",
       "date" : "2026-11-20",
       "id" : "2026-11-20-b1df37c57b9f",
       "importance" : "high",
