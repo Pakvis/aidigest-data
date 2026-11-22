@@ -138,28 +138,6 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-11-21T20:03:37Z",
-      "id" : "2026-11-22-759b0eb9d3e5",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "The UN fails to agree on rules regulating ‘killer robots’",
-          "url" : "https:\/\/www.theverge.com\/tech\/1039554\/un-regulations-killer-robots"
-        }
-      ],
-      "summary" : "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations.",
-      "summary_method" : "source-extract",
-      "title" : "The UN fails to agree on rules regulating ‘killer robots’",
-      "topics" : [
-        "Robotics"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-11-21T21:37:10Z",
       "id" : "2026-11-22-43d902ab5a97",
       "importance" : "low",
@@ -204,24 +182,24 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-11-20T20:59:08Z",
-      "id" : "2026-11-22-c5072cfeaab0",
+      "created_at" : "2026-11-21T20:03:37Z",
+      "id" : "2026-11-22-759b0eb9d3e5",
       "importance" : "low",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "Ars Technica AI",
-          "title" : "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-          "url" : "https:\/\/arstechnica.com\/security\/2026\/11\/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate\/"
+          "source_name" : "The Verge AI",
+          "title" : "The UN fails to agree on rules regulating ‘killer robots’",
+          "url" : "https:\/\/www.theverge.com\/tech\/1039554\/un-regulations-killer-robots"
         }
       ],
-      "summary" : "The exposure was found through an ingenious experiment designed to test if sensitive information can leak through the vast chain of widely used AI services and how that information is exploited when it does.",
+      "summary" : "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations.",
       "summary_method" : "source-extract",
-      "title" : "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "title" : "The UN fails to agree on rules regulating ‘killer robots’",
       "topics" : [
-        "AI"
+        "Robotics"
       ]
     },
     {
@@ -267,19 +245,41 @@
       "topics" : [
         "AI"
       ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-21T05:02:13Z",
+      "id" : "2026-11-22-eb5c8ddac6cd",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Riemann Hypothesis proved...twice independently",
+          "url" : "https:\/\/latent.space\/p\/ainews-riemann-hypothesis-proved-twice-independently\/"
+        }
+      ],
+      "summary" : "Within a few hours of each other ( timeline ), two mathematicians claimed independent proofs of the Riemann Hypothesis, the most famous open problem in mathematics ( Scientific American ).",
+      "summary_method" : "source-extract",
+      "title" : "Riemann Hypothesis proved...twice independently",
+      "topics" : [
+        "AI"
+      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 6,
+    "source_count" : 5,
     "summary" : "• Can Anthropic afford to put safety first?\n• AI Just Cracked the Hardest Problem in Mathematics. It Will Change Everything\n• Hebbia sees improvements in financial research with GPT-6 Astra",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-11-22",
-  "generated_at" : "2026-11-22T19:02:25Z",
+  "generated_at" : "2026-11-22T21:04:31Z",
   "processing_report" : {
-    "generated_at" : "2026-11-22T19:02:30Z",
+    "generated_at" : "2026-11-22T21:04:35Z",
     "high_card_count" : 0,
     "source_reports" : [
       {
@@ -287,14 +287,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-11-20T12:30:57Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-11-22T19:02:29Z",
+        "processed_at" : "2026-11-22T21:04:35Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-11-22T19:02:29Z",
+        "processed_at" : "2026-11-22T21:04:34Z",
         "state" : "processed"
       },
       {
@@ -302,7 +302,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-11-22T19:02:27Z",
+        "processed_at" : "2026-11-22T21:04:33Z",
         "state" : "processed"
       },
       {
@@ -310,7 +310,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-11-14T11:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-11-22T19:02:28Z",
+        "processed_at" : "2026-11-22T21:04:34Z",
         "state" : "processed"
       },
       {
@@ -318,7 +318,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-11-20T20:59:08Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-11-22T19:02:26Z",
+        "processed_at" : "2026-11-22T21:04:33Z",
         "state" : "processed"
       },
       {
@@ -326,7 +326,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-11-19T18:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-11-22T19:02:26Z",
+        "processed_at" : "2026-11-22T21:04:32Z",
         "state" : "processed"
       },
       {
@@ -334,7 +334,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-11-18T21:35:43Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-11-22T19:02:26Z",
+        "processed_at" : "2026-11-22T21:04:33Z",
         "state" : "processed"
       },
       {
@@ -342,7 +342,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-11-20T00:00:00Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-11-22T19:02:26Z",
+        "processed_at" : "2026-11-22T21:04:33Z",
         "state" : "processed"
       },
       {
@@ -350,7 +350,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-11-21T05:02:13Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-11-22T19:02:27Z",
+        "processed_at" : "2026-11-22T21:04:33Z",
         "state" : "processed"
       },
       {
@@ -358,7 +358,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-11-17T18:36:03Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-11-22T19:02:26Z",
+        "processed_at" : "2026-11-22T21:04:32Z",
         "state" : "processed"
       },
       {
@@ -366,7 +366,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-11-05T12:00:14Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-11-22T19:02:26Z",
+        "processed_at" : "2026-11-22T21:04:33Z",
         "state" : "processed"
       },
       {
@@ -374,7 +374,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-11-09T19:04:26Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-11-22T19:02:26Z",
+        "processed_at" : "2026-11-22T21:04:32Z",
         "state" : "processed"
       },
       {
@@ -382,7 +382,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-11-22T00:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-11-22T19:02:26Z",
+        "processed_at" : "2026-11-22T21:04:33Z",
         "state" : "processed"
       },
       {
@@ -390,7 +390,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-11-20T12:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-11-22T19:02:28Z",
+        "processed_at" : "2026-11-22T21:04:34Z",
         "state" : "processed"
       },
       {
@@ -398,7 +398,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-11-20T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-11-22T19:02:26Z",
+        "processed_at" : "2026-11-22T21:04:32Z",
         "state" : "processed"
       },
       {
@@ -406,7 +406,7 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-11-21T21:37:10Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-11-22T19:02:26Z",
+        "processed_at" : "2026-11-22T21:04:32Z",
         "state" : "processed"
       },
       {
@@ -414,7 +414,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-11-22T19:02:30Z",
+        "processed_at" : "2026-11-22T21:04:35Z",
         "state" : "processed"
       },
       {
@@ -422,14 +422,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-11-21T18:59:24Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-11-22T19:02:26Z",
+        "processed_at" : "2026-11-22T21:04:33Z",
         "state" : "processed"
       },
       {
         "article_count" : 8,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-11-22T19:02:28Z",
+        "processed_at" : "2026-11-22T21:04:34Z",
         "state" : "processed"
       },
       {
@@ -437,7 +437,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-11-22T17:25:20Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-11-22T19:02:26Z",
+        "processed_at" : "2026-11-22T21:04:32Z",
         "state" : "processed"
       }
     ],
