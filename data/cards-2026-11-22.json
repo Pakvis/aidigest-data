@@ -1,0 +1,461 @@
+{
+  "cards" : [
+    {
+      "confidence" : "high",
+      "consolidation" : {
+        "latest_source_at" : "2026-11-20T00:00:00Z",
+        "message_count" : 2,
+        "reason" : "Multiple sources reported the same story.",
+        "source_count" : 2
+      },
+      "created_at" : "2026-11-20T00:00:00Z",
+      "id" : "2026-11-22-b6b0ba5fc976",
+      "importance" : "high",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TLDR AI",
+          "title" : "Gemini tool retrieval 🔧, Stripe evals methods 👨‍💻, agent swarms 🐝",
+          "url" : "https:\/\/tldr.tech\/ai\/2026-11-20"
+        },
+        {
+          "source_name" : "Google AI Blog",
+          "title" : "Introducing Tool Retrieval in the Gemini API",
+          "url" : "https:\/\/blog.google\/innovation-and-ai\/technology\/developers-tools\/gemini-api-tool-retrieval\/"
+        }
+      ],
+      "summary" : "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+      "summary_method" : "source-extract",
+      "title" : "Introducing Tool Retrieval in the Gemini API",
+      "topics" : [
+        "Gemini",
+        "Tooling",
+        "APIs"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-21T15:00:00Z",
+      "id" : "2026-11-22-4a84afc057fa",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Can Anthropic afford to put safety first?",
+          "url" : "https:\/\/www.theverge.com\/podcast\/1038701\/anthropic-ipo-ai-safety-openai-nvidia-structure"
+        }
+      ],
+      "summary" : "The real story is what happens now — and whether Anthropic can continue to thread the needle of caring about and investing in AI safety while also being a public company beholden to shareholders. Oh, and it also continuously growing the amount of money it makes so it can keep paying its ever-increasing compute bills, which total roughly $900 billion over the coming years.",
+      "summary_method" : "source-extract",
+      "title" : "Can Anthropic afford to put safety first?",
+      "topics" : [
+        "Anthropic",
+        "Safety"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-19T07:07:43Z",
+      "id" : "2026-11-22-b78d04ab3551",
+      "importance" : "high",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Gemini 4 Neon: GDM's Opus\/Sol Contender",
+          "url" : "https:\/\/latent.space\/p\/ainews-gemini-4-neon-gdm-s-opus-sol-contender\/"
+        }
+      ],
+      "summary" : "Google DeepMind shipped Gemini 4 Neon , its fourth Gemini 4 model in about seven weeks.",
+      "summary_method" : "source-extract",
+      "title" : "Gemini 4 Neon: GDM's Opus\/Sol Contender",
+      "topics" : [
+        "Gemini"
+      ]
+    },
+    {
+      "confidence" : "low",
+      "created_at" : "2026-11-21T18:59:24Z",
+      "id" : "2026-11-22-4acf9fdbdb51",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Algorithmic Bridge",
+          "title" : "AI Just Cracked the Hardest Problem in Mathematics. It Will Change Everything",
+          "url" : "https:\/\/www.thealgorithmicbridge.com\/p\/ai-just-cracked-the-hardest-problem"
+        }
+      ],
+      "summary" : "Maybe the endgame of mathematics is that people like Alpöge will use AI to solve every single math problem humanity has ever found but will in turn fail to figure out new ones because those left to be encountered lie beyond what human eyes can see.",
+      "summary_method" : "source-extract",
+      "title" : "AI Just Cracked the Hardest Problem in Mathematics. It Will Change Everything",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-11-20T00:00:00Z",
+      "id" : "2026-11-22-bb055e19b8b6",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Hebbia sees improvements in financial research with GPT-6 Astra",
+          "url" : "https:\/\/openai.com\/business\/customer-stories\/hebbia"
+        }
+      ],
+      "summary" : "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "summary_method" : "source-extract",
+      "title" : "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "topics" : [
+        "GPT",
+        "Research"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-19T18:09:11Z",
+      "id" : "2026-11-22-246654908690",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Google gives Gemini the ability to use your Mac for you",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/19\/google-gives-gemini-the-ability-to-use-your-mac-for-you\/"
+        }
+      ],
+      "summary" : "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+      "summary_method" : "source-extract",
+      "title" : "Google gives Gemini the ability to use your Mac for you",
+      "topics" : [
+        "Gemini",
+        "Agents",
+        "Workflows"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-19T17:00:00Z",
+      "id" : "2026-11-22-39aa8c2c0b2b",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/19\/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories\/"
+        }
+      ],
+      "summary" : "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+      "summary_method" : "source-extract",
+      "title" : "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-19T23:58:21Z",
+      "id" : "2026-11-22-b008e4863496",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO",
+          "url" : "https:\/\/latent.space\/p\/linear-scaling\/"
+        }
+      ],
+      "summary" : "Seven years and $134 million in funding later, its CEO Karri Saarinen published a post titled \"Issue tracking is dead.\" In this episode, we chat with Cristina Cordova , COO of Linear , about how the company navigated that and how its go-to-market changed along the way. Cristina spent seven and a half years at Stripe, led platform and partnerships at Notion, and was a partner at First Round before joining Linear in 2023.",
+      "summary_method" : "source-extract",
+      "title" : "Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO",
+      "topics" : [
+        "Agents",
+        "Enterprise",
+        "Pricing"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-21T20:03:37Z",
+      "id" : "2026-11-22-759b0eb9d3e5",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "The UN fails to agree on rules regulating ‘killer robots’",
+          "url" : "https:\/\/www.theverge.com\/tech\/1039554\/un-regulations-killer-robots"
+        }
+      ],
+      "summary" : "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations.",
+      "summary_method" : "source-extract",
+      "title" : "The UN fails to agree on rules regulating ‘killer robots’",
+      "topics" : [
+        "Robotics"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-21T21:37:10Z",
+      "id" : "2026-11-22-43d902ab5a97",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/21\/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance\/"
+        }
+      ],
+      "summary" : "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "summary_method" : "source-extract",
+      "title" : "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-21T21:07:42Z",
+      "id" : "2026-11-22-de1151adb3f4",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "A tale of two Nvidias",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/21\/a-tale-of-two-nvidias\/"
+        }
+      ],
+      "summary" : "We got two very different pictures of Nvidia — the company’s latest earnings report vs.",
+      "summary_method" : "source-extract",
+      "title" : "A tale of two Nvidias",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-21T17:00:00Z",
+      "id" : "2026-11-22-61bf70de9aa4",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Here are the top AI agents that can live in your text messages",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/21\/all-the-ai-agents-that-can-live-in-your-text-messages\/"
+        }
+      ],
+      "summary" : "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "summary_method" : "source-extract",
+      "title" : "Here are the top AI agents that can live in your text messages",
+      "topics" : [
+        "Agents"
+      ]
+    }
+  ],
+  "count" : 12,
+  "daily_summary" : {
+    "headline" : "At a glance",
+    "source_count" : 7,
+    "summary" : "• Introducing Tool Retrieval in the Gemini API\n• Can Anthropic afford to put safety first?\n• Gemini 4 Neon: GDM's Opus\/Sol Contender",
+    "watch" : "Read the original articles for full context."
+  },
+  "date" : "2026-11-22",
+  "generated_at" : "2026-11-22T05:00:25Z",
+  "processing_report" : {
+    "generated_at" : "2026-11-22T05:00:28Z",
+    "high_card_count" : 2,
+    "source_reports" : [
+      {
+        "article_count" : 12,
+        "id" : "ai-breakfast",
+        "latest_article_at" : "2026-11-20T12:30:57Z",
+        "name" : "AI Breakfast",
+        "processed_at" : "2026-11-22T05:00:28Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 11,
+        "id" : "ai-daily-brief",
+        "name" : "AI Daily Brief",
+        "processed_at" : "2026-11-22T05:00:27Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 80,
+        "id" : "ai-news",
+        "latest_article_at" : "2026-09-09T05:44:39Z",
+        "name" : "AI News (Swyx)",
+        "processed_at" : "2026-11-22T05:00:26Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 5,
+        "id" : "aireport-nl",
+        "latest_article_at" : "2026-11-14T11:00:00Z",
+        "name" : "AI Report (NL)",
+        "processed_at" : "2026-11-22T05:00:27Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 16,
+        "id" : "ars-technica-ai",
+        "latest_article_at" : "2026-11-20T20:59:08Z",
+        "name" : "Ars Technica AI",
+        "processed_at" : "2026-11-22T05:00:26Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 20,
+        "id" : "google-ai-blog",
+        "latest_article_at" : "2026-11-19T18:00:00Z",
+        "name" : "Google AI Blog",
+        "processed_at" : "2026-11-22T05:00:25Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 80,
+        "id" : "deepmind-blog",
+        "latest_article_at" : "2026-11-18T21:35:43Z",
+        "name" : "Google DeepMind",
+        "processed_at" : "2026-11-22T05:00:25Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 80,
+        "id" : "huggingface-blog",
+        "latest_article_at" : "2026-11-20T00:00:00Z",
+        "name" : "Hugging Face Blog",
+        "processed_at" : "2026-11-22T05:00:25Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 20,
+        "id" : "latent-space",
+        "latest_article_at" : "2026-11-21T05:02:13Z",
+        "name" : "Latent Space",
+        "processed_at" : "2026-11-22T05:00:26Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 10,
+        "id" : "microsoft-ai-blog",
+        "latest_article_at" : "2026-11-17T18:36:03Z",
+        "name" : "Microsoft AI Blog",
+        "processed_at" : "2026-11-22T05:00:25Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 80,
+        "id" : "mistral-news",
+        "latest_article_at" : "2026-11-05T12:00:14Z",
+        "name" : "Mistral AI",
+        "processed_at" : "2026-11-22T05:00:25Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 20,
+        "id" : "one-useful-thing",
+        "latest_article_at" : "2026-11-09T19:04:26Z",
+        "name" : "One Useful Thing",
+        "processed_at" : "2026-11-22T05:00:25Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 80,
+        "id" : "openai-news",
+        "latest_article_at" : "2026-11-20T10:00:00Z",
+        "name" : "OpenAI News",
+        "processed_at" : "2026-11-22T05:00:25Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 6,
+        "id" : "superhuman-ai",
+        "latest_article_at" : "2026-11-20T12:02:57Z",
+        "name" : "Superhuman AI",
+        "processed_at" : "2026-11-22T05:00:27Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 20,
+        "id" : "tldr-ai",
+        "latest_article_at" : "2026-11-20T00:00:00Z",
+        "name" : "TLDR AI",
+        "processed_at" : "2026-11-22T05:00:25Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 18,
+        "id" : "techcrunch-ai",
+        "latest_article_at" : "2026-11-21T21:37:10Z",
+        "name" : "TechCrunch AI",
+        "processed_at" : "2026-11-22T05:00:25Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 12,
+        "id" : "the-ai-report",
+        "latest_article_at" : "2026-10-27T11:01:00Z",
+        "name" : "The AI Report",
+        "processed_at" : "2026-11-22T05:00:28Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 20,
+        "id" : "algorithmic-bridge",
+        "latest_article_at" : "2026-11-21T18:59:24Z",
+        "name" : "The Algorithmic Bridge",
+        "processed_at" : "2026-11-22T05:00:25Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 8,
+        "id" : "the-neuron-daily",
+        "name" : "The Neuron Daily",
+        "processed_at" : "2026-11-22T05:00:27Z",
+        "state" : "processed"
+      },
+      {
+        "article_count" : 7,
+        "id" : "the-verge-ai",
+        "latest_article_at" : "2026-11-21T20:03:37Z",
+        "name" : "The Verge AI",
+        "processed_at" : "2026-11-22T05:00:25Z",
+        "state" : "processed"
+      }
+    ],
+    "state" : "complete"
+  }
+}
