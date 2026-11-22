@@ -1,38 +1,26 @@
 {
   "cards" : [
     {
-      "confidence" : "high",
-      "consolidation" : {
-        "latest_source_at" : "2026-11-20T00:00:00Z",
-        "message_count" : 2,
-        "reason" : "Multiple sources reported the same story.",
-        "source_count" : 2
-      },
-      "created_at" : "2026-11-20T00:00:00Z",
-      "id" : "2026-11-22-b6b0ba5fc976",
-      "importance" : "high",
+      "confidence" : "medium",
+      "created_at" : "2026-11-21T15:00:00Z",
+      "id" : "2026-11-22-4a84afc057fa",
+      "importance" : "medium",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "TLDR AI",
-          "title" : "Gemini tool retrieval 🔧, Stripe evals methods 👨‍💻, agent swarms 🐝",
-          "url" : "https:\/\/tldr.tech\/ai\/2026-11-20"
-        },
-        {
-          "source_name" : "Google AI Blog",
-          "title" : "Introducing Tool Retrieval in the Gemini API",
-          "url" : "https:\/\/blog.google\/innovation-and-ai\/technology\/developers-tools\/gemini-api-tool-retrieval\/"
+          "source_name" : "The Verge AI",
+          "title" : "Can Anthropic afford to put safety first?",
+          "url" : "https:\/\/www.theverge.com\/podcast\/1038701\/anthropic-ipo-ai-safety-openai-nvidia-structure"
         }
       ],
-      "summary" : "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+      "summary" : "The real story is what happens now — and whether Anthropic can continue to thread the needle of caring about and investing in AI safety while also being a public company beholden to shareholders. Oh, and it also continuously growing the amount of money it makes so it can keep paying its ever-increasing compute bills, which total roughly $900 billion over the coming years.",
       "summary_method" : "source-extract",
-      "title" : "Introducing Tool Retrieval in the Gemini API",
+      "title" : "Can Anthropic afford to put safety first?",
       "topics" : [
-        "Gemini",
-        "Tooling",
-        "APIs"
+        "Anthropic",
+        "Safety"
       ]
     },
     {
@@ -55,29 +43,6 @@
       "title" : "AI Just Cracked the Hardest Problem in Mathematics. It Will Change Everything",
       "topics" : [
         "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "created_at" : "2026-11-21T15:00:00Z",
-      "id" : "2026-11-22-4a84afc057fa",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Can Anthropic afford to put safety first?",
-          "url" : "https:\/\/www.theverge.com\/podcast\/1038701\/anthropic-ipo-ai-safety-openai-nvidia-structure"
-        }
-      ],
-      "summary" : "The real story is what happens now — and whether Anthropic can continue to thread the needle of caring about and investing in AI safety while also being a public company beholden to shareholders. Oh, and it also continuously growing the amount of money it makes so it can keep paying its ever-increasing compute bills, which total roughly $900 billion over the coming years.",
-      "summary_method" : "source-extract",
-      "title" : "Can Anthropic afford to put safety first?",
-      "topics" : [
-        "Anthropic",
-        "Safety"
       ]
     },
     {
@@ -105,30 +70,6 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-11-19T18:09:11Z",
-      "id" : "2026-11-22-246654908690",
-      "importance" : "medium",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Google gives Gemini the ability to use your Mac for you",
-          "url" : "https:\/\/techcrunch.com\/2026\/11\/19\/google-gives-gemini-the-ability-to-use-your-mac-for-you\/"
-        }
-      ],
-      "summary" : "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-      "summary_method" : "source-extract",
-      "title" : "Google gives Gemini the ability to use your Mac for you",
-      "topics" : [
-        "Gemini",
-        "Agents",
-        "Workflows"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-11-19T23:58:21Z",
       "id" : "2026-11-22-b008e4863496",
       "importance" : "medium",
@@ -149,6 +90,50 @@
         "Agents",
         "Enterprise",
         "Pricing"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "created_at" : "2026-11-22T00:00:00Z",
+      "id" : "2026-11-22-43d1e79c94db",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Perplexity and Intelligence",
+          "url" : "https:\/\/openai.com\/index\/perplexity-and-intelligence"
+        }
+      ],
+      "summary" : "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "summary_method" : "source-extract",
+      "title" : "Perplexity and Intelligence",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-22T17:25:20Z",
+      "id" : "2026-11-22-0fe73f3aa630",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Binding of Isaac developer removes AI music from Repentance Plus",
+          "url" : "https:\/\/www.theverge.com\/games\/1039770\/binding-of-isaac-ai-music"
+        }
+      ],
+      "summary" : "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music .",
+      "summary_method" : "source-extract",
+      "title" : "Binding of Isaac developer removes AI music from Repentance Plus",
+      "topics" : [
+        "AI"
       ]
     },
     {
@@ -219,28 +204,6 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-11-20T18:50:19Z",
-      "id" : "2026-11-22-7878cd5ab5da",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-          "url" : "https:\/\/www.theverge.com\/policy\/1038892\/trump-foreign-data-centers-tax"
-        }
-      ],
-      "summary" : "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a press conference Friday following his summit with China President Xi Jinping and Russia President Vladimir Putin.",
-      "summary_method" : "source-extract",
-      "title" : "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-11-20T20:59:08Z",
       "id" : "2026-11-22-c5072cfeaab0",
       "importance" : "low",
@@ -282,34 +245,56 @@
       "topics" : [
         "Agents"
       ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-21T16:00:00Z",
+      "id" : "2026-11-22-39532619c8c0",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/21\/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood\/"
+        }
+      ],
+      "summary" : "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "summary_method" : "source-extract",
+      "title" : "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "topics" : [
+        "AI"
+      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 8,
-    "summary" : "• Introducing Tool Retrieval in the Gemini API\n• AI Just Cracked the Hardest Problem in Mathematics. It Will Change Everything\n• Can Anthropic afford to put safety first?",
+    "source_count" : 6,
+    "summary" : "• Can Anthropic afford to put safety first?\n• AI Just Cracked the Hardest Problem in Mathematics. It Will Change Everything\n• Hebbia sees improvements in financial research with GPT-6 Astra",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-11-22",
-  "generated_at" : "2026-11-22T17:05:10Z",
+  "generated_at" : "2026-11-22T19:02:25Z",
   "processing_report" : {
-    "generated_at" : "2026-11-22T17:05:13Z",
-    "high_card_count" : 1,
+    "generated_at" : "2026-11-22T19:02:30Z",
+    "high_card_count" : 0,
     "source_reports" : [
       {
         "article_count" : 12,
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-11-20T12:30:57Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-11-22T17:05:13Z",
+        "processed_at" : "2026-11-22T19:02:29Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-11-22T17:05:12Z",
+        "processed_at" : "2026-11-22T19:02:29Z",
         "state" : "processed"
       },
       {
@@ -317,7 +302,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-11-22T17:05:11Z",
+        "processed_at" : "2026-11-22T19:02:27Z",
         "state" : "processed"
       },
       {
@@ -325,7 +310,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-11-14T11:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-11-22T17:05:13Z",
+        "processed_at" : "2026-11-22T19:02:28Z",
         "state" : "processed"
       },
       {
@@ -333,7 +318,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-11-20T20:59:08Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-11-22T17:05:11Z",
+        "processed_at" : "2026-11-22T19:02:26Z",
         "state" : "processed"
       },
       {
@@ -341,7 +326,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-11-19T18:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-11-22T17:05:11Z",
+        "processed_at" : "2026-11-22T19:02:26Z",
         "state" : "processed"
       },
       {
@@ -349,7 +334,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-11-18T21:35:43Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-11-22T17:05:11Z",
+        "processed_at" : "2026-11-22T19:02:26Z",
         "state" : "processed"
       },
       {
@@ -357,7 +342,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-11-20T00:00:00Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-11-22T17:05:11Z",
+        "processed_at" : "2026-11-22T19:02:26Z",
         "state" : "processed"
       },
       {
@@ -365,7 +350,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-11-21T05:02:13Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-11-22T17:05:12Z",
+        "processed_at" : "2026-11-22T19:02:27Z",
         "state" : "processed"
       },
       {
@@ -373,7 +358,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-11-17T18:36:03Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-11-22T17:05:11Z",
+        "processed_at" : "2026-11-22T19:02:26Z",
         "state" : "processed"
       },
       {
@@ -381,7 +366,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-11-05T12:00:14Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-11-22T17:05:11Z",
+        "processed_at" : "2026-11-22T19:02:26Z",
         "state" : "processed"
       },
       {
@@ -389,15 +374,15 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-11-09T19:04:26Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-11-22T17:05:11Z",
+        "processed_at" : "2026-11-22T19:02:26Z",
         "state" : "processed"
       },
       {
         "article_count" : 80,
         "id" : "openai-news",
-        "latest_article_at" : "2026-11-20T10:00:00Z",
+        "latest_article_at" : "2026-11-22T00:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-11-22T17:05:11Z",
+        "processed_at" : "2026-11-22T19:02:26Z",
         "state" : "processed"
       },
       {
@@ -405,7 +390,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-11-20T12:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-11-22T17:05:12Z",
+        "processed_at" : "2026-11-22T19:02:28Z",
         "state" : "processed"
       },
       {
@@ -413,15 +398,15 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-11-20T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-11-22T17:05:11Z",
+        "processed_at" : "2026-11-22T19:02:26Z",
         "state" : "processed"
       },
       {
-        "article_count" : 18,
+        "article_count" : 17,
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-11-21T21:37:10Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-11-22T17:05:10Z",
+        "processed_at" : "2026-11-22T19:02:26Z",
         "state" : "processed"
       },
       {
@@ -429,7 +414,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-11-22T17:05:13Z",
+        "processed_at" : "2026-11-22T19:02:30Z",
         "state" : "processed"
       },
       {
@@ -437,22 +422,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-11-21T18:59:24Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-11-22T17:05:11Z",
+        "processed_at" : "2026-11-22T19:02:26Z",
         "state" : "processed"
       },
       {
         "article_count" : 8,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-11-22T17:05:12Z",
+        "processed_at" : "2026-11-22T19:02:28Z",
         "state" : "processed"
       },
       {
         "article_count" : 7,
         "id" : "the-verge-ai",
-        "latest_article_at" : "2026-11-21T20:03:37Z",
+        "latest_article_at" : "2026-11-22T17:25:20Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-11-22T17:05:10Z",
+        "processed_at" : "2026-11-22T19:02:26Z",
         "state" : "processed"
       }
     ],

@@ -1,28 +1,22 @@
 {
   "cards" : [
     {
-      "confidence" : "high",
+      "confidence" : "medium",
       "date" : "2026-11-22",
-      "id" : "2026-11-22-b6b0ba5fc976",
-      "importance" : "high",
+      "id" : "2026-11-22-4a84afc057fa",
+      "importance" : "medium",
       "sources" : [
         {
-          "source_name" : "TLDR AI",
-          "title" : "Gemini tool retrieval 🔧, Stripe evals methods 👨‍💻, agent swarms 🐝",
-          "url" : "https:\/\/tldr.tech\/ai\/2026-11-20"
-        },
-        {
-          "source_name" : "Google AI Blog",
-          "title" : "Introducing Tool Retrieval in the Gemini API",
-          "url" : "https:\/\/blog.google\/innovation-and-ai\/technology\/developers-tools\/gemini-api-tool-retrieval\/"
+          "source_name" : "The Verge AI",
+          "title" : "Can Anthropic afford to put safety first?",
+          "url" : "https:\/\/www.theverge.com\/podcast\/1038701\/anthropic-ipo-ai-safety-openai-nvidia-structure"
         }
       ],
-      "summary" : "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
-      "title" : "Introducing Tool Retrieval in the Gemini API",
+      "summary" : "The real story is what happens now — and whether Anthropic can continue to thread the needle of caring about and investing in AI safety while also being a public company beholden to shareholders. Oh, and it also continuously growing the amount of money it makes so it can keep paying its ever-increasing compute bills, which total roughly $900 billion over the coming years.",
+      "title" : "Can Anthropic afford to put safety first?",
       "topics" : [
-        "Gemini",
-        "Tooling",
-        "APIs"
+        "Anthropic",
+        "Safety"
       ]
     },
     {
@@ -41,25 +35,6 @@
       "title" : "AI Just Cracked the Hardest Problem in Mathematics. It Will Change Everything",
       "topics" : [
         "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-11-22",
-      "id" : "2026-11-22-4a84afc057fa",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Can Anthropic afford to put safety first?",
-          "url" : "https:\/\/www.theverge.com\/podcast\/1038701\/anthropic-ipo-ai-safety-openai-nvidia-structure"
-        }
-      ],
-      "summary" : "The real story is what happens now — and whether Anthropic can continue to thread the needle of caring about and investing in AI safety while also being a public company beholden to shareholders. Oh, and it also continuously growing the amount of money it makes so it can keep paying its ever-increasing compute bills, which total roughly $900 billion over the coming years.",
-      "title" : "Can Anthropic afford to put safety first?",
-      "topics" : [
-        "Anthropic",
-        "Safety"
       ]
     },
     {
@@ -84,26 +59,6 @@
     {
       "confidence" : "medium",
       "date" : "2026-11-22",
-      "id" : "2026-11-22-246654908690",
-      "importance" : "medium",
-      "sources" : [
-        {
-          "source_name" : "TechCrunch AI",
-          "title" : "Google gives Gemini the ability to use your Mac for you",
-          "url" : "https:\/\/techcrunch.com\/2026\/11\/19\/google-gives-gemini-the-ability-to-use-your-mac-for-you\/"
-        }
-      ],
-      "summary" : "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-      "title" : "Google gives Gemini the ability to use your Mac for you",
-      "topics" : [
-        "Gemini",
-        "Agents",
-        "Workflows"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-11-22",
       "id" : "2026-11-22-b008e4863496",
       "importance" : "medium",
       "sources" : [
@@ -119,6 +74,42 @@
         "Agents",
         "Enterprise",
         "Pricing"
+      ]
+    },
+    {
+      "confidence" : "high",
+      "date" : "2026-11-22",
+      "id" : "2026-11-22-43d1e79c94db",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "OpenAI News",
+          "title" : "Perplexity and Intelligence",
+          "url" : "https:\/\/openai.com\/index\/perplexity-and-intelligence"
+        }
+      ],
+      "summary" : "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "title" : "Perplexity and Intelligence",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-11-22",
+      "id" : "2026-11-22-0fe73f3aa630",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "The Verge AI",
+          "title" : "Binding of Isaac developer removes AI music from Repentance Plus",
+          "url" : "https:\/\/www.theverge.com\/games\/1039770\/binding-of-isaac-ai-music"
+        }
+      ],
+      "summary" : "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music .",
+      "title" : "Binding of Isaac developer removes AI music from Repentance Plus",
+      "topics" : [
+        "AI"
       ]
     },
     {
@@ -178,24 +169,6 @@
     {
       "confidence" : "medium",
       "date" : "2026-11-22",
-      "id" : "2026-11-22-7878cd5ab5da",
-      "importance" : "low",
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-          "url" : "https:\/\/www.theverge.com\/policy\/1038892\/trump-foreign-data-centers-tax"
-        }
-      ],
-      "summary" : "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a press conference Friday following his summit with China President Xi Jinping and Russia President Vladimir Putin.",
-      "title" : "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
-      "date" : "2026-11-22",
       "id" : "2026-11-22-c5072cfeaab0",
       "importance" : "low",
       "sources" : [
@@ -227,6 +200,24 @@
       "title" : "Here are the top AI agents that can live in your text messages",
       "topics" : [
         "Agents"
+      ]
+    },
+    {
+      "confidence" : "medium",
+      "date" : "2026-11-22",
+      "id" : "2026-11-22-39532619c8c0",
+      "importance" : "low",
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/21\/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood\/"
+        }
+      ],
+      "summary" : "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "title" : "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "topics" : [
+        "AI"
       ]
     },
     {
