@@ -244,23 +244,23 @@
       ]
     },
     {
-      "confidence" : "medium",
-      "created_at" : "2026-11-21T05:02:13Z",
-      "id" : "2026-11-23-7b35d55f7b91",
+      "confidence" : "high",
+      "created_at" : "2026-11-20T10:00:00Z",
+      "id" : "2026-11-23-e3f93099b28c",
       "importance" : "low",
       "key_insights" : [
 
       ],
       "sources" : [
         {
-          "source_name" : "Latent Space",
-          "title" : "Riemann Hypothesis proved...twice independently",
-          "url" : "https:\/\/latent.space\/p\/ainews-riemann-hypothesis-proved-twice-independently\/"
+          "source_name" : "OpenAI News",
+          "title" : "Combatting adversarial distillation",
+          "url" : "https:\/\/openai.com\/index\/combatting-adversarial-distillation"
         }
       ],
-      "summary" : "Within a few hours of each other ( timeline ), two mathematicians claimed independent proofs of the Riemann Hypothesis, the most famous open problem in mathematics ( Scientific American ).",
+      "summary" : "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
       "summary_method" : "source-extract",
-      "title" : "Riemann Hypothesis proved...twice independently",
+      "title" : "Combatting adversarial distillation",
       "topics" : [
         "AI"
       ]
@@ -269,14 +269,14 @@
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 5,
+    "source_count" : 4,
     "summary" : "• Can Anthropic afford to put safety first?\n• AI Just Cracked the Hardest Problem in Mathematics. It Will Change Everything\n• Binding of Isaac developer removes AI music from Repentance Plus",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-11-23",
-  "generated_at" : "2026-11-23T05:02:00Z",
+  "generated_at" : "2026-11-23T07:03:42Z",
   "processing_report" : {
-    "generated_at" : "2026-11-23T05:02:03Z",
+    "generated_at" : "2026-11-23T07:03:46Z",
     "high_card_count" : 0,
     "source_reports" : [
       {
@@ -284,14 +284,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-11-20T12:30:57Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-11-23T05:02:03Z",
+        "processed_at" : "2026-11-23T07:03:46Z",
         "state" : "processed"
       },
       {
         "article_count" : 11,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-11-23T05:02:03Z",
+        "processed_at" : "2026-11-23T07:03:45Z",
         "state" : "processed"
       },
       {
@@ -299,7 +299,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-11-23T05:02:01Z",
+        "processed_at" : "2026-11-23T07:03:44Z",
         "state" : "processed"
       },
       {
@@ -307,7 +307,7 @@
         "id" : "aireport-nl",
         "latest_article_at" : "2026-11-14T11:00:00Z",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-11-23T05:02:02Z",
+        "processed_at" : "2026-11-23T07:03:44Z",
         "state" : "processed"
       },
       {
@@ -315,7 +315,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-11-20T20:59:08Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-11-23T05:02:01Z",
+        "processed_at" : "2026-11-23T07:03:43Z",
         "state" : "processed"
       },
       {
@@ -323,7 +323,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-11-19T18:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-11-23T05:02:01Z",
+        "processed_at" : "2026-11-23T07:03:43Z",
         "state" : "processed"
       },
       {
@@ -331,7 +331,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-11-18T21:35:43Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-11-23T05:02:01Z",
+        "processed_at" : "2026-11-23T07:03:43Z",
         "state" : "processed"
       },
       {
@@ -339,7 +339,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-11-20T00:00:00Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-11-23T05:02:01Z",
+        "processed_at" : "2026-11-23T07:03:43Z",
         "state" : "processed"
       },
       {
@@ -347,7 +347,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-11-21T05:02:13Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-11-23T05:02:02Z",
+        "processed_at" : "2026-11-23T07:03:43Z",
         "state" : "processed"
       },
       {
@@ -355,7 +355,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-11-17T18:36:03Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-11-23T05:02:01Z",
+        "processed_at" : "2026-11-23T07:03:43Z",
         "state" : "processed"
       },
       {
@@ -363,7 +363,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-11-05T12:00:14Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-11-23T05:02:01Z",
+        "processed_at" : "2026-11-23T07:03:43Z",
         "state" : "processed"
       },
       {
@@ -371,7 +371,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-11-09T19:04:26Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-11-23T05:02:01Z",
+        "processed_at" : "2026-11-23T07:03:43Z",
         "state" : "processed"
       },
       {
@@ -379,7 +379,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-11-22T00:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-11-23T05:02:01Z",
+        "processed_at" : "2026-11-23T07:03:43Z",
         "state" : "processed"
       },
       {
@@ -387,7 +387,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-11-20T12:02:57Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-11-23T05:02:02Z",
+        "processed_at" : "2026-11-23T07:03:44Z",
         "state" : "processed"
       },
       {
@@ -395,7 +395,7 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-11-20T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-11-23T05:02:01Z",
+        "processed_at" : "2026-11-23T07:03:43Z",
         "state" : "processed"
       },
       {
@@ -403,7 +403,7 @@
         "id" : "techcrunch-ai",
         "latest_article_at" : "2026-11-23T01:25:53Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-11-23T05:02:01Z",
+        "processed_at" : "2026-11-23T07:03:43Z",
         "state" : "processed"
       },
       {
@@ -411,7 +411,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-11-23T05:02:03Z",
+        "processed_at" : "2026-11-23T07:03:45Z",
         "state" : "processed"
       },
       {
@@ -419,14 +419,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-11-21T18:59:24Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-11-23T05:02:01Z",
+        "processed_at" : "2026-11-23T07:03:43Z",
         "state" : "processed"
       },
       {
         "article_count" : 8,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-11-23T05:02:02Z",
+        "processed_at" : "2026-11-23T07:03:45Z",
         "state" : "processed"
       },
       {
@@ -434,7 +434,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-11-22T17:25:20Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-11-23T05:02:01Z",
+        "processed_at" : "2026-11-23T07:03:43Z",
         "state" : "processed"
       }
     ],
