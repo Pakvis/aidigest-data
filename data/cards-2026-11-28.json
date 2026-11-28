@@ -2,6 +2,28 @@
   "cards" : [
     {
       "confidence" : "medium",
+      "created_at" : "2026-11-28T14:00:00Z",
+      "id" : "2026-11-28-f03ab2b0e237",
+      "importance" : "medium",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "TechCrunch AI",
+          "title" : "Sakana AI’s CEO says its homegrown models are about more than Japan’s national security",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/28\/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security\/"
+        }
+      ],
+      "summary" : "Sakana AI aims to strengthen Japan’s industrial competitiveness with homegrown AI models.",
+      "summary_method" : "source-extract",
+      "title" : "Sakana AI’s CEO says its homegrown models are about more than Japan’s national security",
+      "topics" : [
+        "AI"
+      ]
+    },
+    {
+      "confidence" : "medium",
       "created_at" : "2026-11-25T20:03:27Z",
       "id" : "2026-11-28-8ec7071019f3",
       "importance" : "high",
@@ -208,28 +230,6 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-11-25T14:12:33Z",
-      "id" : "2026-11-28-c167392c296d",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "The Verge AI",
-          "title" : "Amazon is reportedly in talks to end Muse AI shopping block",
-          "url" : "https:\/\/www.theverge.com\/tech\/1042071\/meta-amazon-muse-ai-shopping-discussions"
-        }
-      ],
-      "summary" : "The discussions, which could end Amazon's block on Muse , reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue. As reported by Fortune , Amazon is concerned that it could lose advertising revenue by allowing Muse on its site, since it depends on actual humans seeing ads across its online marketplace.",
-      "summary_method" : "source-extract",
-      "title" : "Amazon is reportedly in talks to end Muse AI shopping block",
-      "topics" : [
-        "Agents"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-11-25T17:12:57Z",
       "id" : "2026-11-28-e3f82d7ae8c8",
       "importance" : "low",
@@ -277,13 +277,13 @@
   "daily_summary" : {
     "headline" : "At a glance",
     "source_count" : 4,
-    "summary" : "• OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work\n• Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’\n• Want to buy your kid an AI toy this Christmas? Not in New York",
+    "summary" : "• Sakana AI’s CEO says its homegrown models are about more than Japan’s national security\n• OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work\n• Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-11-28",
-  "generated_at" : "2026-11-28T13:01:11Z",
+  "generated_at" : "2026-11-28T15:03:11Z",
   "processing_report" : {
-    "generated_at" : "2026-11-28T13:01:15Z",
+    "generated_at" : "2026-11-28T15:03:14Z",
     "high_card_count" : 1,
     "source_reports" : [
       {
@@ -291,14 +291,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-11-25T15:36:53Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-11-28T13:01:15Z",
+        "processed_at" : "2026-11-28T15:03:14Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-11-28T13:01:14Z",
+        "processed_at" : "2026-11-28T15:03:13Z",
         "state" : "processed"
       },
       {
@@ -306,7 +306,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-11-28T13:01:13Z",
+        "processed_at" : "2026-11-28T15:03:12Z",
         "state" : "processed"
       },
       {
@@ -314,7 +314,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-11-25T17:12:57Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-11-28T13:01:13Z",
+        "processed_at" : "2026-11-28T15:03:12Z",
         "state" : "processed"
       },
       {
@@ -322,7 +322,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-11-24T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-11-28T13:01:12Z",
+        "processed_at" : "2026-11-28T15:03:11Z",
         "state" : "processed"
       },
       {
@@ -330,7 +330,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-11-24T13:07:53Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-11-28T13:01:12Z",
+        "processed_at" : "2026-11-28T15:03:12Z",
         "state" : "processed"
       },
       {
@@ -338,7 +338,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-11-27T00:00:00Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-11-28T13:01:12Z",
+        "processed_at" : "2026-11-28T15:03:12Z",
         "state" : "processed"
       },
       {
@@ -346,7 +346,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-11-28T03:45:59Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-11-28T13:01:13Z",
+        "processed_at" : "2026-11-28T15:03:12Z",
         "state" : "processed"
       },
       {
@@ -354,7 +354,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-11-17T18:36:03Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-11-28T13:01:12Z",
+        "processed_at" : "2026-11-28T15:03:11Z",
         "state" : "processed"
       },
       {
@@ -362,7 +362,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-11-05T12:00:14Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-11-28T13:01:12Z",
+        "processed_at" : "2026-11-28T15:03:12Z",
         "state" : "processed"
       },
       {
@@ -370,7 +370,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-11-09T19:04:26Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-11-28T13:01:12Z",
+        "processed_at" : "2026-11-28T15:03:11Z",
         "state" : "processed"
       },
       {
@@ -378,15 +378,15 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-11-24T13:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-11-28T13:01:12Z",
+        "processed_at" : "2026-11-28T15:03:12Z",
         "state" : "processed"
       },
       {
         "article_count" : 8,
         "id" : "superhuman-ai",
-        "latest_article_at" : "2026-11-27T12:14:00Z",
+        "latest_article_at" : "2026-11-28T14:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-11-28T13:01:14Z",
+        "processed_at" : "2026-11-28T15:03:13Z",
         "state" : "processed"
       },
       {
@@ -394,15 +394,15 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-11-27T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-11-28T13:01:12Z",
+        "processed_at" : "2026-11-28T15:03:11Z",
         "state" : "processed"
       },
       {
         "article_count" : 17,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-11-26T20:03:54Z",
+        "latest_article_at" : "2026-11-28T14:00:00Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-11-28T13:01:12Z",
+        "processed_at" : "2026-11-28T15:03:11Z",
         "state" : "processed"
       },
       {
@@ -410,7 +410,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-11-28T13:01:15Z",
+        "processed_at" : "2026-11-28T15:03:14Z",
         "state" : "processed"
       },
       {
@@ -418,14 +418,14 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-11-25T17:31:08Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-11-28T13:01:12Z",
+        "processed_at" : "2026-11-28T15:03:11Z",
         "state" : "processed"
       },
       {
         "article_count" : 6,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-11-28T13:01:14Z",
+        "processed_at" : "2026-11-28T15:03:13Z",
         "state" : "processed"
       },
       {
@@ -433,7 +433,7 @@
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-11-26T09:54:40Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-11-28T13:01:12Z",
+        "processed_at" : "2026-11-28T15:03:11Z",
         "state" : "processed"
       },
       {
@@ -441,7 +441,7 @@
         "id" : "aireport-nl",
         "message" : "Source returned no usable AI articles.",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-11-28T13:01:12Z",
+        "processed_at" : "2026-11-28T15:03:12Z",
         "state" : "empty"
       }
     ],
