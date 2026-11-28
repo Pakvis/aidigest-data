@@ -69,25 +69,24 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-11-25T18:11:46Z",
-      "id" : "2026-11-28-baa9a9160a47",
-      "importance" : "medium",
+      "created_at" : "2026-11-28T17:46:47Z",
+      "id" : "2026-11-28-cc07f72f871e",
+      "importance" : "low",
       "key_insights" : [
 
       ],
       "sources" : [
         {
           "source_name" : "TechCrunch AI",
-          "title" : "Want to buy your kid an AI toy this Christmas? Not in New York",
-          "url" : "https:\/\/techcrunch.com\/2026\/11\/25\/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york\/"
+          "title" : "OpenAI’s new countersuit accuses Apple of ‘unlawfully pressuring vendors’",
+          "url" : "https:\/\/techcrunch.com\/2026\/11\/28\/openais-new-countersuit-accuses-apple-of-unlawfully-pressuring-vendors\/"
         }
       ],
-      "summary" : "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+      "summary" : "After Apple sued OpenAI this summer, OpenAI has fired back with a countersuit of its own.",
       "summary_method" : "source-extract",
-      "title" : "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "title" : "OpenAI’s new countersuit accuses Apple of ‘unlawfully pressuring vendors’",
       "topics" : [
-        "Research",
-        "Safety"
+        "AI"
       ]
     },
     {
@@ -208,28 +207,6 @@
     },
     {
       "confidence" : "medium",
-      "created_at" : "2026-11-25T17:12:57Z",
-      "id" : "2026-11-28-e3f82d7ae8c8",
-      "importance" : "low",
-      "key_insights" : [
-
-      ],
-      "sources" : [
-        {
-          "source_name" : "Ars Technica AI",
-          "title" : "Etsy clarifies AI terms after seller backlash",
-          "url" : "https:\/\/arstechnica.com\/tech-policy\/2026\/11\/etsy-clarifies-ai-terms-after-seller-backlash\/"
-        }
-      ],
-      "summary" : "After backlash from sellers frustrated by Etsy’s new AI policies, which appeared to allow the company to train AI on user artwork, Etsy has now clarified its stance.",
-      "summary_method" : "source-extract",
-      "title" : "Etsy clarifies AI terms after seller backlash",
-      "topics" : [
-        "AI"
-      ]
-    },
-    {
-      "confidence" : "medium",
       "created_at" : "2026-11-25T22:44:32Z",
       "id" : "2026-11-28-a39d0e0e34fe",
       "importance" : "low",
@@ -271,19 +248,41 @@
       "topics" : [
         "Coding"
       ]
+    },
+    {
+      "confidence" : "medium",
+      "created_at" : "2026-11-25T22:28:01Z",
+      "id" : "2026-11-28-29d6fc48b844",
+      "importance" : "low",
+      "key_insights" : [
+
+      ],
+      "sources" : [
+        {
+          "source_name" : "Latent Space",
+          "title" : "The Revolution vs The Renaissance — Thariq Shihipar, OpenAI",
+          "url" : "https:\/\/latent.space\/p\/the_revolution_vs_the_renaissance_thariq_shihipar_openai\/"
+        }
+      ],
+      "summary" : "At AI Engineer CODE, Thariq Shihipar shows how those two futures can coexist.",
+      "summary_method" : "source-extract",
+      "title" : "The Revolution vs The Renaissance — Thariq Shihipar, OpenAI",
+      "topics" : [
+        "Coding"
+      ]
     }
   ],
   "count" : 12,
   "daily_summary" : {
     "headline" : "At a glance",
-    "source_count" : 4,
+    "source_count" : 3,
     "summary" : "• Sakana AI’s CEO says its homegrown models are about more than Japan’s national security\n• OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work\n• Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
     "watch" : "Read the original articles for full context."
   },
   "date" : "2026-11-28",
-  "generated_at" : "2026-11-28T17:05:10Z",
+  "generated_at" : "2026-11-28T19:02:06Z",
   "processing_report" : {
-    "generated_at" : "2026-11-28T17:05:15Z",
+    "generated_at" : "2026-11-28T19:02:10Z",
     "high_card_count" : 1,
     "source_reports" : [
       {
@@ -291,14 +290,14 @@
         "id" : "ai-breakfast",
         "latest_article_at" : "2026-11-25T15:36:53Z",
         "name" : "AI Breakfast",
-        "processed_at" : "2026-11-28T17:05:15Z",
+        "processed_at" : "2026-11-28T19:02:10Z",
         "state" : "processed"
       },
       {
         "article_count" : 12,
         "id" : "ai-daily-brief",
         "name" : "AI Daily Brief",
-        "processed_at" : "2026-11-28T17:05:13Z",
+        "processed_at" : "2026-11-28T19:02:09Z",
         "state" : "processed"
       },
       {
@@ -306,7 +305,7 @@
         "id" : "ai-news",
         "latest_article_at" : "2026-09-09T05:44:39Z",
         "name" : "AI News (Swyx)",
-        "processed_at" : "2026-11-28T17:05:12Z",
+        "processed_at" : "2026-11-28T19:02:07Z",
         "state" : "processed"
       },
       {
@@ -314,7 +313,7 @@
         "id" : "ars-technica-ai",
         "latest_article_at" : "2026-11-25T17:12:57Z",
         "name" : "Ars Technica AI",
-        "processed_at" : "2026-11-28T17:05:12Z",
+        "processed_at" : "2026-11-28T19:02:07Z",
         "state" : "processed"
       },
       {
@@ -322,7 +321,7 @@
         "id" : "google-ai-blog",
         "latest_article_at" : "2026-11-24T16:00:00Z",
         "name" : "Google AI Blog",
-        "processed_at" : "2026-11-28T17:05:11Z",
+        "processed_at" : "2026-11-28T19:02:07Z",
         "state" : "processed"
       },
       {
@@ -330,7 +329,7 @@
         "id" : "deepmind-blog",
         "latest_article_at" : "2026-11-24T13:07:53Z",
         "name" : "Google DeepMind",
-        "processed_at" : "2026-11-28T17:05:12Z",
+        "processed_at" : "2026-11-28T19:02:07Z",
         "state" : "processed"
       },
       {
@@ -338,7 +337,7 @@
         "id" : "huggingface-blog",
         "latest_article_at" : "2026-11-27T00:00:00Z",
         "name" : "Hugging Face Blog",
-        "processed_at" : "2026-11-28T17:05:11Z",
+        "processed_at" : "2026-11-28T19:02:07Z",
         "state" : "processed"
       },
       {
@@ -346,7 +345,7 @@
         "id" : "latent-space",
         "latest_article_at" : "2026-11-28T03:45:59Z",
         "name" : "Latent Space",
-        "processed_at" : "2026-11-28T17:05:12Z",
+        "processed_at" : "2026-11-28T19:02:07Z",
         "state" : "processed"
       },
       {
@@ -354,7 +353,7 @@
         "id" : "microsoft-ai-blog",
         "latest_article_at" : "2026-11-17T18:36:03Z",
         "name" : "Microsoft AI Blog",
-        "processed_at" : "2026-11-28T17:05:11Z",
+        "processed_at" : "2026-11-28T19:02:07Z",
         "state" : "processed"
       },
       {
@@ -362,7 +361,7 @@
         "id" : "mistral-news",
         "latest_article_at" : "2026-11-05T12:00:14Z",
         "name" : "Mistral AI",
-        "processed_at" : "2026-11-28T17:05:12Z",
+        "processed_at" : "2026-11-28T19:02:07Z",
         "state" : "processed"
       },
       {
@@ -370,7 +369,7 @@
         "id" : "one-useful-thing",
         "latest_article_at" : "2026-11-09T19:04:26Z",
         "name" : "One Useful Thing",
-        "processed_at" : "2026-11-28T17:05:11Z",
+        "processed_at" : "2026-11-28T19:02:07Z",
         "state" : "processed"
       },
       {
@@ -378,7 +377,7 @@
         "id" : "openai-news",
         "latest_article_at" : "2026-11-24T13:00:00Z",
         "name" : "OpenAI News",
-        "processed_at" : "2026-11-28T17:05:11Z",
+        "processed_at" : "2026-11-28T19:02:07Z",
         "state" : "processed"
       },
       {
@@ -386,7 +385,7 @@
         "id" : "superhuman-ai",
         "latest_article_at" : "2026-11-28T14:00:00Z",
         "name" : "Superhuman AI",
-        "processed_at" : "2026-11-28T17:05:13Z",
+        "processed_at" : "2026-11-28T19:02:08Z",
         "state" : "processed"
       },
       {
@@ -394,15 +393,15 @@
         "id" : "tldr-ai",
         "latest_article_at" : "2026-11-27T00:00:00Z",
         "name" : "TLDR AI",
-        "processed_at" : "2026-11-28T17:05:11Z",
+        "processed_at" : "2026-11-28T19:02:07Z",
         "state" : "processed"
       },
       {
         "article_count" : 17,
         "id" : "techcrunch-ai",
-        "latest_article_at" : "2026-11-28T14:00:00Z",
+        "latest_article_at" : "2026-11-28T17:46:47Z",
         "name" : "TechCrunch AI",
-        "processed_at" : "2026-11-28T17:05:11Z",
+        "processed_at" : "2026-11-28T19:02:07Z",
         "state" : "processed"
       },
       {
@@ -410,7 +409,7 @@
         "id" : "the-ai-report",
         "latest_article_at" : "2026-10-27T11:01:00Z",
         "name" : "The AI Report",
-        "processed_at" : "2026-11-28T17:05:13Z",
+        "processed_at" : "2026-11-28T19:02:09Z",
         "state" : "processed"
       },
       {
@@ -418,22 +417,22 @@
         "id" : "algorithmic-bridge",
         "latest_article_at" : "2026-11-25T17:31:08Z",
         "name" : "The Algorithmic Bridge",
-        "processed_at" : "2026-11-28T17:05:11Z",
+        "processed_at" : "2026-11-28T19:02:07Z",
         "state" : "processed"
       },
       {
         "article_count" : 6,
         "id" : "the-neuron-daily",
         "name" : "The Neuron Daily",
-        "processed_at" : "2026-11-28T17:05:13Z",
+        "processed_at" : "2026-11-28T19:02:09Z",
         "state" : "processed"
       },
       {
-        "article_count" : 7,
+        "article_count" : 6,
         "id" : "the-verge-ai",
         "latest_article_at" : "2026-11-26T09:54:40Z",
         "name" : "The Verge AI",
-        "processed_at" : "2026-11-28T17:05:11Z",
+        "processed_at" : "2026-11-28T19:02:06Z",
         "state" : "processed"
       },
       {
@@ -441,7 +440,7 @@
         "id" : "aireport-nl",
         "message" : "Source returned no usable AI articles.",
         "name" : "AI Report (NL)",
-        "processed_at" : "2026-11-28T17:05:11Z",
+        "processed_at" : "2026-11-28T19:02:07Z",
         "state" : "empty"
       }
     ],
